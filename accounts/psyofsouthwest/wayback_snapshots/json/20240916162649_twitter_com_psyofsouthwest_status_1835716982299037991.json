@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1835664507689185718",
+    "created_at": "2024-09-16T16:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T17:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835716982299037991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "arctan3_1415926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835716982299037991",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835664507689185718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arctan3_1415926 那你的兴趣落在那些领域"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1835664507689185718",
+        "created_at": "2024-09-16T16:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T17:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835716982299037991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "arctan3_1415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835716982299037991",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835664507689185718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arctan3_1415926 那你的兴趣落在那些领域"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1835664507689185718",
+        "created_at": "2024-09-16T12:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T13:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835664507689185718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835664507689185718",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 649,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我最自卑的，是没有“才艺”。\n我不会乐器，不会唱歌，不会交谊舞，不会画画，不会写一手好字，不会各种激烈的团体运动。\n当然其实挺有趣，我自己活得其实还不错，但社会非让你展示出他们认可的特长，反倒给你带来压力和烦恼。\n另外，你觉得跑步和健身房练练就很快乐了，但是他们只认可篮球和足球这种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 2439,
+          "like_count": 14472,
+          "listed_count": 4,
+          "tweet_count": 7246
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "mtf、丑小鸦🐦‍⬛",
+        "id": "1462419807173677059",
+        "name": "Moran🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834778659720511488/8yJFtB2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7230,
+          "following_count": 1757,
+          "like_count": 6086,
+          "listed_count": 18,
+          "tweet_count": 6768
+        },
+        "username": "arctan3_1415926",
+        "verified": false
+      }
+    ]
+  }
+}
