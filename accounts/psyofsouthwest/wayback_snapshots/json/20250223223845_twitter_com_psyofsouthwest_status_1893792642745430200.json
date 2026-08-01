@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1893785934409367737",
+    "created_at": "2025-02-23T22:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T23:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893792642745430200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1270247428092858368",
+          "start": 0,
+          "username": "ACShow_AngeloW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893792642745430200",
+    "in_reply_to_user_id": "1270247428092858368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893785934409367737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACShow_AngeloW 这是周鸿祎360公司的产品，别用这玩意儿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893785926637355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkgURD3agAA0FKS.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1893785934409367737",
+        "created_at": "2025-02-23T22:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T23:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893792642745430200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1270247428092858368",
+              "start": 0,
+              "username": "ACShow_AngeloW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893792642745430200",
+        "in_reply_to_user_id": "1270247428092858368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893785934409367737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACShow_AngeloW 这是周鸿祎360公司的产品，别用这玩意儿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893785926637355008"
+          ]
+        },
+        "author_id": "1270247428092858368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1893785934409367737",
+        "created_at": "2025-02-23T22:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T23:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893785934409367737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfudHI9pgK",
+              "end": 120,
+              "expanded_url": "https://x.com/ACShow_AngeloW/status/1893785934409367737/photo/1",
+              "media_key": "3_1893785926637355008",
+              "start": 97,
+              "url": "https://t.co/AfudHI9pgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893785934409367737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被中国教育部门推荐使用了如下软体，不过作为ChatGPT和Grok的会员，并没有安装😂但还是很感慨，虽然中国的AI和美国综合比较来看，仍然有相当差距，但这个领域几乎已成中国与美英的独立竞赛。\n\n想起来小时候，在中国和人讨论军备，当时比较的是一个苏制营和国制营的军备差距；后来等我大点了，讨论的对象已经变成了美制营和国制营。\n\n无论政治立场如何，中国在某些方面的巨大进步乃至于超越，都是无法被忽视的事实。当其他国家还在进行着政治建设时，中国的教室投屏，已经装上了在专业人士看来可能非常落后的AI智慧辅助。\n\n但站在小学中学大学的年轻学生们的视角，我相信，这种由于协助学校加强管理，因而可能并不利于学生健康的产品，或许也会刺激不少学生产生符合于这个年纪的烂漫想象吧。\n\n有多少国家的孩子，现在有机会体验这种难以被评说的生活呢；又有谁，知道这一代学子在不久后，将会创造出怎样不同的世界呢？\n\n我想，这一次又要等过三十年，我们才有可能对这个时代做出些许更公正的评价罢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被中国教育部门推荐使用了如下软体，不过作为ChatGPT和Grok的会员，并没有安装😂但还是很感慨，虽然中国的AI和美国综合比较来看，仍然有相当差距，但这个领域几乎已成中国与美英的独立竞赛。… https://t.co/AfudHI9pgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 3148,
+          "like_count": 25474,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 9861
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-09T06:52:50.000Z",
+        "description": "我不做自媒体、不做媒体、只做经典",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Angelo_Amorayi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Angelo_Amorayi",
+                "start": 0,
+                "url": "https://t.co/kliyknMfTU"
+              }
+            ]
+          }
+        },
+        "id": "1270247428092858368",
+        "name": "AC Show 「Angelo的常识」",
+        "pinned_tweet_id": "1816459373570585008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755201970602909696/DQIuL8a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7537,
+          "following_count": 3,
+          "like_count": 1447,
+          "listed_count": 51,
+          "media_count": 979,
+          "tweet_count": 6509
+        },
+        "url": "https://t.co/kliyknMfTU",
+        "username": "ACShow_AngeloW",
+        "verified": true
+      }
+    ]
+  }
+}

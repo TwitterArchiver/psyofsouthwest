@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2045004011544457273",
+    "created_at": "2026-04-17T11:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045102859545456817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045102859545456817",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045004011544457273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 新群也是不能加的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2335,
+        "height": 1920,
+        "media_key": "13_2045000787722637313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045000787722637313/img/FSrycyA2vBFtpSgd.jpg",
+        "public_metrics": {
+          "view_count": 183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045000787722637313/vid/avc1/480x852/khnc0P9X1Lr4CiNE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045000787722637313/vid/avc1/720x1280/DQakCHWNUIzEQjZ6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045000787722637313/vid/avc1/320x568/rpwX4p5CT1_DUkEI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045000787722637313/pl/11IthOtILJNexMFu.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045000787722637313/vid/avc1/1080x1920/E6sEBOZ1Pbmvx6ko.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045000787701772288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFNYaxbsAAWttE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045000787684896768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFNYataMAAPFIP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2045000787701673984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFNYaxaMAAfrdP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2045004011544457273",
+        "created_at": "2026-04-17T11:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045102859545456817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045102859545456817",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045004011544457273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 新群也是不能加的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045000787722637313",
+            "3_2045000787701772288",
+            "3_2045000787684896768",
+            "3_2045000787701673984"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045004011544457273",
+        "created_at": "2026-04-17T04:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:46:09.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045000843024613382",
+          "2045001687480611101",
+          "2045003883601379709",
+          "2045004011544457273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1dDg91ly1",
+              "end": 124,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2045004011544457273/video/1",
+              "media_key": "13_2045000787722637313",
+              "start": 101,
+              "url": "https://t.co/s1dDg91ly1"
+            },
+            {
+              "display_url": "pic.x.com/s1dDg91ly1",
+              "end": 124,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2045004011544457273/video/1",
+              "media_key": "3_2045000787701772288",
+              "start": 101,
+              "url": "https://t.co/s1dDg91ly1"
+            },
+            {
+              "display_url": "pic.x.com/s1dDg91ly1",
+              "end": 124,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2045004011544457273/video/1",
+              "media_key": "3_2045000787684896768",
+              "start": 101,
+              "url": "https://t.co/s1dDg91ly1"
+            },
+            {
+              "display_url": "pic.x.com/s1dDg91ly1",
+              "end": 124,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2045004011544457273/video/1",
+              "media_key": "3_2045000787701673984",
+              "start": 101,
+              "url": "https://t.co/s1dDg91ly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045004011544457273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4929,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澄清\nqq群被迫解散\n我被晶了 被带走审问了\n全程诱骗出我的供词 诱骗舍友上车 训诫 恐吓\n是由于吐槽学校问题以及影射某个政治事件 \n我提及了李某还有吾尔某某\n因此审讯我3h\n新群马上会发🥹\n我还活着 https://t.co/s1dDg91ly1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 4752,
+          "like_count": 106699,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 14583
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗釹｜疑似鍵政｜痛苦大學生｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類/藍V互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Suimikax"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2021900695356813783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1402,
+          "like_count": 7724,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": true
+      }
+    ]
+  }
+}

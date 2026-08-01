@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2049464851723153488",
+    "created_at": "2026-04-30T14:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049863591059148933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072109417200414720",
+          "start": 0,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049863591059148933",
+    "in_reply_to_user_id": "1072109417200414720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049464851723153488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangzhian8848 肯定是pdd一分钱一份的那种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049464842382446592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEpamXbkAAFF5D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049464842386649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEpamYbsAA5ewT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2049464851723153488",
+        "created_at": "2026-04-30T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049863591059148933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049863591059148933",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049464851723153488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 肯定是pdd一分钱一份的那种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049464842382446592",
+            "3_2049464842386649088"
+          ]
+        },
+        "author_id": "1072109417200414720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049464851723153488",
+        "created_at": "2026-04-29T12:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049464851723153488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hnzlj46Dpb",
+              "end": 42,
+              "expanded_url": "https://x.com/wangzhian8848/status/2049464851723153488/photo/1",
+              "media_key": "3_2049464842382446592",
+              "start": 19,
+              "url": "https://t.co/Hnzlj46Dpb"
+            },
+            {
+              "display_url": "pic.x.com/Hnzlj46Dpb",
+              "end": 42,
+              "expanded_url": "https://x.com/wangzhian8848/status/2049464851723153488/photo/1",
+              "media_key": "3_2049464842386649088",
+              "start": 19,
+              "url": "https://t.co/Hnzlj46Dpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049464851723153488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 104692,
+          "like_count": 386,
+          "quote_count": 3,
+          "reply_count": 204,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "买盒蓝莓，里面好多坏果，感觉日本💊。 https://t.co/Hnzlj46Dpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 4796,
+          "like_count": 112842,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 14924
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503029,
+          "following_count": 665,
+          "like_count": 1398,
+          "listed_count": 4075,
+          "media_count": 6999,
+          "tweet_count": 20445
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

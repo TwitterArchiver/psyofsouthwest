@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997996662288211969"
+      ],
+      "media_source_tweet_id": [
+        "1997996669837992162"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1998061986299699690",
+    "created_at": "2025-12-08T16:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998061986299699690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2900565097",
+          "start": 3,
+          "username": "johnny_onpuchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3zM3dpmzb",
+          "end": 86,
+          "expanded_url": "https://x.com/johnny_onpuchan/status/1997996669837992162/photo/1",
+          "media_key": "3_1997996662288211969",
+          "start": 63,
+          "url": "https://t.co/r3zM3dpmzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998061986299699690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997996669837992162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnny_onpuchan: 我已经阅读了习近平新时代中国特色社会主义思想读本\n你他妈的才是狗汉奸\n滚回你妈逼里 https://t.co/r3zM3dpmzb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998061986299699690].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998061986299699690",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998061986299699690"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1997996662288211969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pPYOYa4AEHtQy.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997996662288211969"
+          ]
+        },
+        "author_id": "2900565097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1997996669837992162",
+        "created_at": "2025-12-08T11:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997996669837992162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3zM3dpmzb",
+              "end": 65,
+              "expanded_url": "https://x.com/johnny_onpuchan/status/1997996669837992162/photo/1",
+              "media_key": "3_1997996662288211969",
+              "start": 42,
+              "url": "https://t.co/r3zM3dpmzb"
+            },
+            {
+              "display_url": "x.com/qq9220063/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/qq9220063/status/1997846720915574806",
+              "start": 66,
+              "url": "https://t.co/2TIcMCl5JI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997996669837992162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4997,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997846720915574806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经阅读了习近平新时代中国特色社会主义思想读本\n你他妈的才是狗汉奸\n滚回你妈逼里 https://t.co/r3zM3dpmzb https://t.co/2TIcMCl5JI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 4045,
+          "like_count": 57085,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 12204
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/小日本屁民/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14331,
+          "following_count": 1218,
+          "like_count": 127613,
+          "listed_count": 101,
+          "media_count": 7657,
+          "tweet_count": 139304
+        },
+        "username": "johnny_onpuchan",
+        "verified": false
+      }
+    ]
+  }
+}

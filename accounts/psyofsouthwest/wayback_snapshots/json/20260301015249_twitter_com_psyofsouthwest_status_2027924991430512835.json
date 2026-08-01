@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027734456271048705",
+        "3_2027734456665313281",
+        "3_2027734457713905664",
+        "3_2027734458741501952"
+      ],
+      "media_source_tweet_id": [
+        "2027734461878813079",
+        "2027734461878813079",
+        "2027734461878813079",
+        "2027734461878813079"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027924991430512835",
+    "created_at": "2026-03-01T01:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T02:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027924991430512835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "198087727",
+          "start": 3,
+          "username": "SUNZERG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRfD0uBKGM",
+          "end": 54,
+          "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+          "media_key": "3_2027734456271048705",
+          "start": 31,
+          "url": "https://t.co/uRfD0uBKGM"
+        },
+        {
+          "display_url": "pic.x.com/uRfD0uBKGM",
+          "end": 54,
+          "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+          "media_key": "3_2027734456665313281",
+          "start": 31,
+          "url": "https://t.co/uRfD0uBKGM"
+        },
+        {
+          "display_url": "pic.x.com/uRfD0uBKGM",
+          "end": 54,
+          "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+          "media_key": "3_2027734457713905664",
+          "start": 31,
+          "url": "https://t.co/uRfD0uBKGM"
+        },
+        {
+          "display_url": "pic.x.com/uRfD0uBKGM",
+          "end": 54,
+          "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+          "media_key": "3_2027734458741501952",
+          "start": 31,
+          "url": "https://t.co/uRfD0uBKGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027924991430512835",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027734461878813079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUNZERG: angry Doro를 쓰다듬는법 https://t.co/uRfD0uBKGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027734456271048705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP1vpzbEAEBzlG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027734456665313281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP1vrRbEAEvMS4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027734457713905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP1vvLbUAAu4xP.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027734458741501952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP1vzAbMAAhHOd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027734456271048705",
+            "3_2027734456665313281",
+            "3_2027734457713905664",
+            "3_2027734458741501952"
+          ],
+          "media_source_tweet_id": [
+            "2027734461878813079",
+            "2027734461878813079",
+            "2027734461878813079",
+            "2027734461878813079"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027924991430512835",
+        "created_at": "2026-03-01T01:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027924991430512835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "198087727",
+              "start": 3,
+              "username": "SUNZERG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 54,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734456271048705",
+              "start": 31,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 54,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734456665313281",
+              "start": 31,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 54,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734457713905664",
+              "start": 31,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 54,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734458741501952",
+              "start": 31,
+              "url": "https://t.co/uRfD0uBKGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027924991430512835",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027734461878813079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUNZERG: angry Doro를 쓰다듬는법 https://t.co/uRfD0uBKGM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027734456271048705",
+            "3_2027734456665313281",
+            "3_2027734457713905664",
+            "3_2027734458741501952"
+          ]
+        },
+        "author_id": "198087727",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027734461878813079",
+        "created_at": "2026-02-28T13:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027734461878813079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 41,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734456271048705",
+              "start": 18,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 41,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734456665313281",
+              "start": 18,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 41,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734457713905664",
+              "start": 18,
+              "url": "https://t.co/uRfD0uBKGM"
+            },
+            {
+              "display_url": "pic.x.com/uRfD0uBKGM",
+              "end": 41,
+              "expanded_url": "https://x.com/SUNZERG/status/2027734461878813079/photo/1",
+              "media_key": "3_2027734458741501952",
+              "start": 18,
+              "url": "https://t.co/uRfD0uBKGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027734461878813079",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 4643,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "angry Doro를 쓰다듬는법 https://t.co/uRfD0uBKGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4657,
+          "like_count": 86300,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13376
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T09:35:00.000Z",
+        "description": "May anger be with you~💢💢💢\n하이랄의링크.마성전설",
+        "id": "198087727",
+        "location": " south korea",
+        "name": "link",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025632898720858112/vmO8L3DF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 601,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 359
+        },
+        "username": "SUNZERG",
+        "verified": false
+      }
+    ]
+  }
+}

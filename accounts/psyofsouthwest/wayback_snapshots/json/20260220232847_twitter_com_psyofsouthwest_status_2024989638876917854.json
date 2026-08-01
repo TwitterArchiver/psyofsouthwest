@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2024867517928267776"
+      ],
+      "media_source_tweet_id": [
+        "2024867546076262669"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2024989638876917854",
+    "created_at": "2026-02-20T23:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T00:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024989638876917854"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "genjutsu",
+          "probability": 0.7752,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "Doro",
+          "probability": 0.3265,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wx4F9vM5xj",
+          "end": 117,
+          "expanded_url": "https://x.com/DoroStar5522/status/2024867546076262669/video/1",
+          "media_key": "7_2024867517928267776",
+          "start": 94,
+          "url": "https://t.co/wx4F9vM5xj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024989638876917854",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024867546076262669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: Caíste en el genjutsu de Doro, ahora compraras todas las naranjas posibles. https://t.co/wx4F9vM5xj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5108,
+        "height": 506,
+        "media_key": "7_2024867517928267776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024867517928267776/pu/img/DsOBmOG5pZ9nwmQ-.jpg",
+        "public_metrics": {
+          "view_count": 808
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024867517928267776/pu/vid/avc1/320x336/qBhhh-UVCCZytlpx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024867517928267776/pu/vid/avc1/480x506/6_AoPHmShfFgVTLZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024867517928267776/pu/pl/7FlPU1Aqdce2qWuT.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024867517928267776"
+          ],
+          "media_source_tweet_id": [
+            "2024867546076262669"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2024989638876917854",
+        "created_at": "2026-02-20T23:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024989638876917854"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "genjutsu",
+              "probability": 0.7752,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Doro",
+              "probability": 0.3265,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx4F9vM5xj",
+              "end": 117,
+              "expanded_url": "https://x.com/DoroStar5522/status/2024867546076262669/video/1",
+              "media_key": "7_2024867517928267776",
+              "start": 94,
+              "url": "https://t.co/wx4F9vM5xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024989638876917854",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024867546076262669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: Caíste en el genjutsu de Doro, ahora compraras todas las naranjas posibles. https://t.co/wx4F9vM5xj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024867517928267776"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2024867546076262669",
+        "created_at": "2026-02-20T15:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024867546076262669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "genjutsu",
+              "probability": 0.8152,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "Doro",
+              "probability": 0.4201,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx4F9vM5xj",
+              "end": 99,
+              "expanded_url": "https://x.com/DoroStar5522/status/2024867546076262669/video/1",
+              "media_key": "7_2024867517928267776",
+              "start": 76,
+              "url": "https://t.co/wx4F9vM5xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024867546076262669",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 1952,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Caíste en el genjutsu de Doro, ahora compraras todas las naranjas posibles. https://t.co/wx4F9vM5xj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 4561,
+          "like_count": 81140,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 13130
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 38,
+          "like_count": 749,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 402
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

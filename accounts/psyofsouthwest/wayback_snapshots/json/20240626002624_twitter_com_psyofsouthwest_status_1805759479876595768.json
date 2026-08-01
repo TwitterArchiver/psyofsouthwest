@@ -1,0 +1,328 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kevin Costner",
+          "id": "915316214221619200",
+          "name": "Kevin Costner"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Kevin Costner",
+          "id": "915316214221619200",
+          "name": "Kevin Costner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Country",
+          "id": "810937781996253185",
+          "name": "Country music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kevin Costner",
+          "id": "915316214221619200",
+          "name": "Kevin Costner"
+        }
+      }
+    ],
+    "conversation_id": "1805621503909937554",
+    "created_at": "2024-06-26T00:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T01:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805759479876595768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805759479876595768",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805621503909937554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 Kevin Costner 说这事儿他熟 @ modernwest"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kevin Costner",
+              "id": "915316214221619200",
+              "name": "Kevin Costner"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Kevin Costner",
+              "id": "915316214221619200",
+              "name": "Kevin Costner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Country",
+              "id": "810937781996253185",
+              "name": "Country music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kevin Costner",
+              "id": "915316214221619200",
+              "name": "Kevin Costner"
+            }
+          }
+        ],
+        "conversation_id": "1805621503909937554",
+        "created_at": "2024-06-26T00:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T01:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805759479876595768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805759479876595768",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805621503909937554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 Kevin Costner 说这事儿他熟 @ modernwest"
+      },
+      {
+        "attachments": {},
+        "author_id": "1644328501980561409",
+        "conversation_id": "1805621503909937554",
+        "created_at": "2024-06-25T15:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805621503909937554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huanghanshashi…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/huanghanshashi/status/1804837242978124081",
+              "start": 29,
+              "url": "https://t.co/XshfApURJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805621503909937554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7177,
+          "like_count": 170,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804837242978124081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是西藏这种地方都能泡水里了那全世界都得一起当耐淹王了💀 https://t.co/XshfApURJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 2317,
+          "like_count": 12837,
+          "listed_count": 4,
+          "tweet_count": 6749
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "越过理塘，走向维新",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "理塘之豹丁真珠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805198045858127872/nNPCTPgb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10882,
+          "following_count": 2720,
+          "like_count": 35119,
+          "listed_count": 37,
+          "tweet_count": 8638
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

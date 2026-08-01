@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1808136286332768556",
+    "created_at": "2024-07-02T22:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T23:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808266442195812424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1150288152122126336",
+          "start": 0,
+          "username": "Rhye7_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808266442195812424",
+    "in_reply_to_user_id": "1150288152122126336",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808136286332768556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhye7_ 一票人格障碍😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1808136286332768556",
+        "created_at": "2024-07-02T22:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T23:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808266442195812424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1150288152122126336",
+              "start": 0,
+              "username": "Rhye7_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808266442195812424",
+        "in_reply_to_user_id": "1150288152122126336",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808136286332768556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhye7_ 一票人格障碍😆"
+      },
+      {
+        "attachments": {},
+        "author_id": "1150288152122126336",
+        "conversation_id": "1808136286332768556",
+        "created_at": "2024-07-02T13:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T14:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808136286332768556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808136286332768556",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说有的家长奔着走“深中通道”孩子可以上“深中”的意头去添堵...让我想起朋友圈一海淀妈，为了让孩子小升初摇号进清华附中，那几天整天烧香拜佛，衣服都只穿青色的。\n结果最后分到了清河中学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 2335,
+          "like_count": 13148,
+          "listed_count": 4,
+          "tweet_count": 6837
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T06:17:21.000Z",
+        "description": "我感觉 你身上有血",
+        "id": "1150288152122126336",
+        "name": "鸾洱七海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798739081033285632/dKcpBvhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 1003,
+          "like_count": 51897,
+          "listed_count": 3,
+          "tweet_count": 3491
+        },
+        "username": "Rhye7_",
+        "verified": false
+      }
+    ]
+  }
+}

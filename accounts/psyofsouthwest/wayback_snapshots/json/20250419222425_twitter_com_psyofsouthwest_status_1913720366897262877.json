@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1913236197595643961",
+    "created_at": "2025-04-19T22:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T23:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913720366897262877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239594852351913985",
+          "start": 0,
+          "username": "marcushkheroes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913720366897262877",
+    "in_reply_to_user_id": "1239594852351913985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913236197595643961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marcushkheroes 在中山二院乳外科实习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1913236197595643961",
+        "created_at": "2025-04-19T22:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T23:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913720366897262877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239594852351913985",
+              "start": 0,
+              "username": "marcushkheroes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913720366897262877",
+        "in_reply_to_user_id": "1239594852351913985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913236197595643961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marcushkheroes 在中山二院乳外科实习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239594852351913985",
+        "conversation_id": "1913236197595643961",
+        "created_at": "2025-04-18T14:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T15:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913236197595643961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913236197595643961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 273072,
+          "like_count": 1032,
+          "quote_count": 6,
+          "reply_count": 255,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "订大同婚姻，娶江西媳妇，买恒大房子，到河南存款，坐成都地铁，扶南京老人，去沪杭理发，吃唐山烧烤，加常州混沌醋。\n\n欢迎补充😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 3526,
+          "like_count": 30501,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 10354
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T16:50:41.000Z",
+        "description": "躺平+须行即骑访名山中，家事国事天下事，关我屁事",
+        "id": "1239594852351913985",
+        "location": "Ethiopia",
+        "name": "Marcus huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1259925388517498880/I9QX2n7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39067,
+          "following_count": 396,
+          "like_count": 61354,
+          "listed_count": 112,
+          "media_count": 2753,
+          "tweet_count": 31958
+        },
+        "username": "marcushkheroes",
+        "verified": true
+      }
+    ]
+  }
+}

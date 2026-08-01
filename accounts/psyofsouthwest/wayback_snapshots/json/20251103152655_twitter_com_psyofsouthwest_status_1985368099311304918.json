@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1985368099311304918",
+    "created_at": "2025-11-03T15:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985368099311304918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1938963008",
+          "start": 3,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985368099311304918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985310800899416240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HotmailfromSH: 「医学科普：导致“猝死”的5大病因」\n\n世卫组织WHO对猝死的定义是：平素身体健康或貌似健康的患者，在出乎意料的短时间内，因自然疾病而突然死亡。\n\n临床上，猝死一般指突然发生的死亡，主要是心脏突然停跳。猝死的原因比较复杂，但大部分都与心血管…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_1985310793517453312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G409pehbUAAYbD0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985368099311304918",
+        "created_at": "2025-11-03T15:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985368099311304918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1938963008",
+              "start": 3,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985368099311304918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985310800899416240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HotmailfromSH: 「医学科普：导致“猝死”的5大病因」\n\n世卫组织WHO对猝死的定义是：平素身体健康或貌似健康的患者，在出乎意料的短时间内，因自然疾病而突然死亡。\n\n临床上，猝死一般指突然发生的死亡，主要是心脏突然停跳。猝死的原因比较复杂，但大部分都与心血管…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985310793517453312"
+          ]
+        },
+        "author_id": "1938963008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985310800899416240",
+        "created_at": "2025-11-03T11:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985310800899416240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0ZPBxrOlx",
+              "end": 170,
+              "expanded_url": "https://x.com/HotmailfromSH/status/1985310800899416240/photo/1",
+              "media_key": "3_1985310793517453312",
+              "start": 147,
+              "url": "https://t.co/Y0ZPBxrOlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985310800899416240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「医学科普：导致“猝死”的5大病因」\n\n世卫组织WHO对猝死的定义是：平素身体健康或貌似健康的患者，在出乎意料的短时间内，因自然疾病而突然死亡。\n\n临床上，猝死一般指突然发生的死亡，主要是心脏突然停跳。猝死的原因比较复杂，但大部分都与心血管疾病有关。\n\n2019 年，中国国内因各种疾病死亡约 1,065 万人，其中因心血管疾病(Cardiovascular diseases)死亡约 458 万人，占到总死亡人数的 43%（见图），是中国人的第一大健康杀手。\n\n临床上常见的猝死主要与五大类疾病有关，如果用一句话来简要概括的话，就是：\n\n“心脑肺梗塞，哮喘胰腺炎”\n\n1、最常见的当属心源性疾病：\n例如心肌梗死和有“不定时炸弹”之称、致死率很高的主动脉夹层。心源性猝死病人在高峰时可占心内科病人的70%。\n\n2、脑源性疾病：\n例如脑梗塞、脑出血。尤其是脑出血，病情发作快，死亡率更高。相对来说，老年人更多发的是脑梗塞。\n\n3、肺梗塞：\n最近几年，肺梗塞导致猝死的病例数呈现快速上升态势。肺梗塞与血管病变有一定关系，有此病人血液黏稠度高，容易形成血栓，堵住血管。\n\n以前医学界认为肺栓塞与下肢静脉血栓形成有关。但后来发现，有些病人并没有下肢静脉栓塞，也会突发肺梗塞。有些肺栓塞导致猝死的病人，在发病前唯一表现出的“异样”就是处于低氧状态，表现为气促、呼吸困难等。\n\n4、支气管哮喘、肺气肿合并肺炎等呼吸道疾病。这也是容易被人们忽视的猝死病因。\n\n5、急性重症胰腺炎：\n特别是在年关将近的冬季,暴饮暴食引发的急性重症胰腺炎也会导致猝死。\n\n急性重症胰腺炎病人起初表现为剧烈腹痛、腹胀，但神志清醒，送医时甚至能跟医生正常的描述病情，但可能等一两个小时，病人突然就死亡了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 9778,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "「医学科普：导致“猝死”的5大病因」\n\n世卫组织WHO对猝死的定义是：平素身体健康或貌似健康的患者，在出乎意料的短时间内，因自然疾病而突然死亡。\n\n临床上，猝死一般指突然发生的死亡，主要是心脏突然停跳。猝死的原因比较复杂，但大部分都与心血管疾病有关。\n\n2019 年，中国国内因各种疾病死亡约 https://t.co/Y0ZPBxrOlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 4026,
+          "like_count": 53474,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 12053
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "荣格信徒；医学科普&原研药专业解决方案~",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "1771438123500847385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146500,
+          "following_count": 852,
+          "like_count": 158483,
+          "listed_count": 804,
+          "media_count": 4907,
+          "tweet_count": 56308
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

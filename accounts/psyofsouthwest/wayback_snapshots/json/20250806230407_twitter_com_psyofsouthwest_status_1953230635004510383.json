@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "1953230635004510383",
+    "created_at": "2025-08-06T23:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T00:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953230635004510383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788105353525329920",
+          "start": 3,
+          "username": "TobyAtLarge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953230635004510383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952987723947814920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TobyAtLarge: 朋友们帮忙扩散一下吧，招1-2个全栈：\n\n- 教育 x AI 行业，已有1.0产品，3.4万注册用户，纯国内市场\n- 初创公司（整体 &lt; 10人），也没有超过10人的打算🤔\n- 资金已确保到明年年底\n- 技术栈 flutter + nodejs…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1953230635004510383",
+        "created_at": "2025-08-06T23:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T00:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953230635004510383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788105353525329920",
+              "start": 3,
+              "username": "TobyAtLarge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953230635004510383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952987723947814920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TobyAtLarge: 朋友们帮忙扩散一下吧，招1-2个全栈：\n\n- 教育 x AI 行业，已有1.0产品，3.4万注册用户，纯国内市场\n- 初创公司（整体 &lt; 10人），也没有超过10人的打算🤔\n- 资金已确保到明年年底\n- 技术栈 flutter + nodejs…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788105353525329920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1952987723947814920",
+        "created_at": "2025-08-06T06:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952987723947814920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952987723947814920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "朋友们帮忙扩散一下吧，招1-2个全栈：\n\n- 教育 x AI 行业，已有1.0产品，3.4万注册用户，纯国内市场\n- 初创公司（整体 < 10人），也没有超过10人的打算🤔\n- 资金已确保到明年年底\n- 技术栈 flutter + nodejs（ts）+ python\n- 全职，最好在上海，可以接受远程\n- 最好是3年左右经验，太资深了也招不起😂\n- 待遇低，第一个月25k rmb/月，第二月转正30k rmb/月，不交金，签合同\n- 唯一的优点可能是不加班，一周40小时🤔 （因为老板我不喜欢加班）\n- 熟悉小程序加分"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 75837,
+          "like_count": 228,
+          "quote_count": 22,
+          "reply_count": 85,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们帮忙扩散一下吧，招1-2个全栈：\n\n- 教育 x AI 行业，已有1.0产品，3.4万注册用户，纯国内市场\n- 初创公司（整体 &lt; 10人），也没有超过10人的打算🤔\n- 资金已确保到明年年底\n- 技术栈 flutter + nodejs（ts）+ python\n- 全职，最好在上海，可以接受远程\n- 最好是3年左右经验，太资深了也招不起😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 3905,
+          "like_count": 44342,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11530
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T07:15:42.000Z",
+        "description": "🦄7年北美独角兽算法程序员\n🚀连续创业 | 科技投资 | ENTP\n🇺🇸美国本硕 🇨🇦旅居温哥华 🇨🇳现居上海\n🍚美食爱好者 | steam囤囤鼠\n\n✉️开放交流合作 👋\n\ntoby.fangyuan@gmail.com",
+        "id": "1788105353525329920",
+        "location": "Shanghai",
+        "name": "Toby!",
+        "pinned_tweet_id": "1887545694938145059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788129428813565952/QRv31gq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5103,
+          "following_count": 420,
+          "like_count": 19020,
+          "listed_count": 27,
+          "media_count": 517,
+          "tweet_count": 5750
+        },
+        "username": "TobyAtLarge",
+        "verified": true
+      }
+    ]
+  }
+}

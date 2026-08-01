@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2030450160355164212",
+    "created_at": "2026-03-08T01:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030450160355164212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "DORO"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "cute"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "shorts"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "ドロ"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "KAWAII"
+        },
+        {
+          "end": 76,
+          "start": 66,
+          "tag": "ANIMATION"
+        },
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "CHIBI"
+        },
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018102394001768448",
+          "start": 3,
+          "username": "doro_forgexmimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/7j",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030450160355164212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030302609018393040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_forgexmimi: DORO tresure #DORO #cute #shorts #ドロ #KAWAII #ANIMATION #CHIBI #NIKKE  It's a work by @打雀达人 on Douyin. https://t.co/7j…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1024,
+        "media_key": "13_2030302584809177088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030302584809177088/img/oYdguj1dWi1ZozPo.jpg",
+        "public_metrics": {
+          "view_count": 3253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030302584809177088/vid/avc1/320x568/om15Jl3AOAaIiDY3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030302584809177088/vid/avc1/480x852/qraRp3U3OKTwcWEB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030302584809177088/vid/avc1/576x1024/URIgiDg6IWeuIbRe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030302584809177088/pl/nfG75Uu8yBP7dnQI.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2030450160355164212",
+        "created_at": "2026-03-08T01:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030450160355164212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "DORO"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "cute"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "shorts"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "ドロ"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "KAWAII"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "ANIMATION"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "CHIBI"
+            },
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "NIKKE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018102394001768448",
+              "start": 3,
+              "username": "doro_forgexmimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/7j",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030450160355164212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030302609018393040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_forgexmimi: DORO tresure #DORO #cute #shorts #ドロ #KAWAII #ANIMATION #CHIBI #NIKKE  It's a work by @打雀达人 on Douyin. https://t.co/7j…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030302584809177088"
+          ]
+        },
+        "author_id": "2018102394001768448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2030302609018393040",
+        "created_at": "2026-03-07T15:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030302609018393040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "DORO"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "cute"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "shorts"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "ドロ"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "KAWAII"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "ANIMATION"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "CHIBI"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jKABVfKPc",
+              "end": 126,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2030302609018393040/video/1",
+              "media_key": "13_2030302584809177088",
+              "start": 103,
+              "url": "https://t.co/7jKABVfKPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030302609018393040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 7942,
+          "like_count": 676,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "DORO tresure #DORO #cute #shorts #ドロ #KAWAII #ANIMATION #CHIBI #NIKKE  It's a work by @打雀达人 on Douyin. https://t.co/7jKABVfKPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4737,
+          "like_count": 90801,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13766
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:21:35.000Z",
+        "description": "need make doro happy",
+        "id": "2018102394001768448",
+        "name": "DORO FORGE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026136259349897216/ZG-bYpA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 19,
+          "like_count": 141,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 36
+        },
+        "username": "doro_forgexmimi",
+        "verified": false
+      }
+    ]
+  }
+}

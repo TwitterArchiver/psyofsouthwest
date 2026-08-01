@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "827325580764815361",
+          "name": "Erling Haaland"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2081804078376476734",
+    "created_at": "2026-07-28T09:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082038962613579808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2157651508",
+          "start": 0,
+          "username": "Erling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082038962613579808",
+    "in_reply_to_user_id": "2157651508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081804078376476734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erling 葱哥🧡ྀི💛ྀི❤️ྀི"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081804070465966080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQNxbAWEAA2FX1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2081804078376476734",
+        "created_at": "2026-07-28T09:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082038962613579808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2157651508",
+              "start": 0,
+              "username": "Erling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038962613579808",
+        "in_reply_to_user_id": "2157651508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804078376476734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erling 葱哥🧡ྀི💛ྀི❤️ྀི"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081804070465966080"
+          ]
+        },
+        "author_id": "2157651508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2081804078376476734",
+        "created_at": "2026-07-27T18:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081804078376476734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBFfz9W8ex",
+              "end": 26,
+              "expanded_url": "https://x.com/Erling/status/2081804078376476734/photo/1",
+              "media_key": "3_2081804070465966080",
+              "start": 3,
+              "url": "https://t.co/cBFfz9W8ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081804078376476734",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1205,
+          "impression_count": 2314080,
+          "like_count": 111684,
+          "quote_count": 1735,
+          "reply_count": 3612,
+          "retweet_count": 4294
+        },
+        "reply_settings": "everyone",
+        "text": "☀️ https://t.co/cBFfz9W8ex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 4835,
+          "like_count": 136128,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 15580
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-28T19:57:26.000Z",
+        "description": "Every morning you have two choices: Continue to sleep with your dreams or wake up and chase them 💪🏻 / @mancity 🇳🇴 @nff_landslag ⚽️ @nikefootball",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "mancity"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "nff_landslag"
+              },
+              {
+                "end": 144,
+                "start": 131,
+                "username": "nikefootball"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/erling.haaland",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/erling.haaland",
+                "start": 0,
+                "url": "https://t.co/BFZg0mEfkW"
+              }
+            ]
+          }
+        },
+        "id": "2157651508",
+        "name": "Erling Haaland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074161543499960320/2BwDXDfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14259612,
+          "following_count": 11,
+          "like_count": 260,
+          "listed_count": 2665,
+          "media_count": 787,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/BFZg0mEfkW",
+        "username": "Erling",
+        "verified": true
+      }
+    ]
+  }
+}

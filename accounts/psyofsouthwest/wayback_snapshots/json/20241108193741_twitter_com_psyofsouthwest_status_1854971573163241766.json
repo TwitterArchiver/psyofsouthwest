@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1854517695968051540",
+    "created_at": "2024-11-08T19:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T20:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854971573163241766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263368268103860227",
+          "start": 0,
+          "username": "kano_258025"
+        },
+        {
+          "end": 25,
+          "id": "1553107630511603712",
+          "start": 13,
+          "username": "JiZhenYouZi"
+        },
+        {
+          "end": 41,
+          "id": "1260553941714186241",
+          "start": 26,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854971573163241766",
+    "in_reply_to_user_id": "1263368268103860227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854723441511088143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kano_258025 @JiZhenYouZi @whyyoutouzhele 你用甲硝唑贴片和保障睡眠质量一样好得快"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1854723441511088143].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1854723441511088143",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1854723441511088143"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1854517695968051540",
+        "created_at": "2024-11-08T19:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T20:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854971573163241766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263368268103860227",
+              "start": 0,
+              "username": "kano_258025"
+            },
+            {
+              "end": 25,
+              "id": "1553107630511603712",
+              "start": 13,
+              "username": "JiZhenYouZi"
+            },
+            {
+              "end": 41,
+              "id": "1260553941714186241",
+              "start": 26,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854971573163241766",
+        "in_reply_to_user_id": "1263368268103860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854723441511088143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kano_258025 @JiZhenYouZi @whyyoutouzhele 你用甲硝唑贴片和保障睡眠质量一样好得快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2694,
+          "like_count": 18308,
+          "listed_count": 4,
+          "tweet_count": 8117
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "",
+        "id": "1263368268103860227",
+        "location": "民国114年5月14号",
+        "name": "已被某婊子彻底出轨戴绿帽背叛欺骗四次，屡教不改，屡次再犯，今日便要让跨圈知道此婊子的丰功伟绩",
+        "pinned_tweet_id": "1854544008670011678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854791894628548609/E1-kROl__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2328,
+          "like_count": 68511,
+          "listed_count": 6,
+          "tweet_count": 5858
+        },
+        "username": "kano_258025",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "庐山烟雨浙江潮。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8345,
+          "following_count": 2404,
+          "like_count": 14347,
+          "listed_count": 33,
+          "tweet_count": 13139
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789104,
+          "following_count": 923,
+          "like_count": 5442,
+          "listed_count": 7877,
+          "tweet_count": 24764
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

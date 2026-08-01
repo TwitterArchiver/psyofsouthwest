@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1797164793708830810",
+    "created_at": "2024-06-02T08:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T09:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797191047367303484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1404091480164216838",
+          "start": 0,
+          "username": "BlackCatPotion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797191047367303484",
+    "in_reply_to_user_id": "1404091480164216838",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797164793708830810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCatPotion 不知道你遭遇了什么，可以先和你信任的朋友倾诉吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1797164793708830810",
+        "created_at": "2024-06-02T08:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T09:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797191047367303484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1404091480164216838",
+              "start": 0,
+              "username": "BlackCatPotion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797191047367303484",
+        "in_reply_to_user_id": "1404091480164216838",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797164793708830810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCatPotion 不知道你遭遇了什么，可以先和你信任的朋友倾诉吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1404091480164216838",
+        "conversation_id": "1797164793708830810",
+        "created_at": "2024-06-02T07:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T08:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797164793708830810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797164793708830810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就好好享受一下生命的最后十多个小时吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 2167,
+          "like_count": 11441,
+          "listed_count": 4,
+          "tweet_count": 5994
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T15:01:29.000Z",
+        "description": "人生彻底失败",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+K25V5r2nobYzO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+K25V5r2nobYzOTNl",
+                "start": 0,
+                "url": "https://t.co/vBSm53omJm"
+              }
+            ]
+          }
+        },
+        "id": "1404091480164216838",
+        "location": "等一下",
+        "name": "黑猫制寄。",
+        "pinned_tweet_id": "1720933050350280832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774815016237330432/lDKmrK9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1265,
+          "like_count": 152690,
+          "listed_count": 34,
+          "tweet_count": 17241
+        },
+        "url": "https://t.co/vBSm53omJm",
+        "username": "BlackCatPotion",
+        "verified": false
+      }
+    ]
+  }
+}

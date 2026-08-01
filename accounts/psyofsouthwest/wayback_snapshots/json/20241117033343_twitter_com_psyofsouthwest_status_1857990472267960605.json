@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1857979214030680563",
+    "created_at": "2024-11-17T03:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T04:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857990472267960605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585244555775205376",
+          "start": 0,
+          "username": "zhreeesy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857990472267960605",
+    "in_reply_to_user_id": "1585244555775205376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857979214030680563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhreeesy 冬季到台北来看雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1857979214030680563",
+        "created_at": "2024-11-17T03:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T04:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857990472267960605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585244555775205376",
+              "start": 0,
+              "username": "zhreeesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857990472267960605",
+        "in_reply_to_user_id": "1585244555775205376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857979214030680563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhreeesy 冬季到台北来看雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585244555775205376",
+        "conversation_id": "1857979214030680563",
+        "created_at": "2024-11-17T02:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T03:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857979214030680563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857979214030680563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我討厭下雨\n為什麼偏偏在我要出門的時候…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "星空合眾国应急管理部",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857851929319059456/5CsU373Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 2757,
+          "like_count": 19098,
+          "listed_count": 4,
+          "tweet_count": 8323
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T12:20:17.000Z",
+        "description": "_(:_」∠)_ 好累",
+        "id": "1585244555775205376",
+        "location": "Malaysia",
+        "name": "澤西",
+        "pinned_tweet_id": "1797987225621418377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695985371962904576/CRcRqttV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 430,
+          "like_count": 35058,
+          "listed_count": 2,
+          "tweet_count": 14645
+        },
+        "username": "zhreeesy",
+        "verified": false
+      }
+    ]
+  }
+}

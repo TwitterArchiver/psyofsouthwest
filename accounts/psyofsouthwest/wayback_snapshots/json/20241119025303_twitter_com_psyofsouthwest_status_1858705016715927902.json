@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1858705016715927902",
+    "created_at": "2024-11-19T02:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T03:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858705016715927902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "840657664342343681",
+          "start": 3,
+          "username": "Yuna_Kamisato"
+        },
+        {
+          "end": 106,
+          "id": "1692511487531909120",
+          "start": 90,
+          "username": "CicadaSeventeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858705016715927902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858683300421964174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuna_Kamisato: 现在插播一则广告\n\n知名跨性别活动家，富二代慈善家，帝都大学天文系现役PhD，过气男娘政治评论员，头顶插花艺术家——碳羊羊/碳狐狐/碳喵喵老师@CicadaSeventeen\n\n即日起提供其位于帝都著名教育行政区内的一栋居所，为遭遇困难的社…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1858705016715927902",
+        "created_at": "2024-11-19T02:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T03:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858705016715927902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "840657664342343681",
+              "start": 3,
+              "username": "Yuna_Kamisato"
+            },
+            {
+              "end": 106,
+              "id": "1692511487531909120",
+              "start": 90,
+              "username": "CicadaSeventeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858705016715927902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858683300421964174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuna_Kamisato: 现在插播一则广告\n\n知名跨性别活动家，富二代慈善家，帝都大学天文系现役PhD，过气男娘政治评论员，头顶插花艺术家——碳羊羊/碳狐狐/碳喵喵老师@CicadaSeventeen\n\n即日起提供其位于帝都著名教育行政区内的一栋居所，为遭遇困难的社…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858683246848208896"
+          ]
+        },
+        "author_id": "840657664342343681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1858683300421964174",
+        "created_at": "2024-11-19T01:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T02:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858683300421964174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 87,
+              "id": "1692511487531909120",
+              "start": 71,
+              "username": "CicadaSeventeen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9YS3u9vOl",
+              "end": 166,
+              "expanded_url": "https://x.com/Yuna_Kamisato/status/1858683300421964174/photo/1",
+              "media_key": "3_1858683246848208896",
+              "start": 143,
+              "url": "https://t.co/L9YS3u9vOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858683300421964174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 87,
+                "id": "1692511487531909120",
+                "start": 71,
+                "username": "CicadaSeventeen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/VoiceofC17",
+                "end": 185,
+                "expanded_url": "https://t.me/VoiceofC17",
+                "start": 162,
+                "url": "https://t.co/TLW2bGuxr9"
+              }
+            ]
+          },
+          "text": "现在插播一则广告\n\n知名跨性别活动家，富二代慈善家，帝都大学天文系现役PhD，过气男娘政治评论员，头顶插花艺术家——碳羊羊/碳狐狐/碳喵喵老师@CicadaSeventeen\n\n即日起提供其位于帝都著名教育行政区内的一栋居所，为遭遇困难的社会各界人士(主要是xyn)提供紧急避险服务\n\n如有需要，请前往TG频道联系碳老师\n\nhttps://t.co/TLW2bGuxr9\n\n顺便放碳老师美照"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 705,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在插播一则广告\n\n知名跨性别活动家，富二代慈善家，帝都大学天文系现役PhD，过气男娘政治评论员，头顶插花艺术家——碳羊羊/碳狐狐/碳喵喵老师@CicadaSeventeen\n\n即日起提供其位于帝都著名教育行政区内的一栋居所，为遭遇困难的社会各界人士(主要是xyn)提供紧急避险服务… https://t.co/L9YS3u9vOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 2770,
+          "like_count": 19471,
+          "listed_count": 4,
+          "tweet_count": 8463
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T20:16:20.000Z",
+        "description": "狂暴电车女司机 - Speed-Loving Female EV Driver 🚗\n菜鸡流水线杂役 - Senior Pipeline Technical Director 🧹\n过气菜鸡魔法师 - Former Senior EFX Artist 🪄\nINFP-A🦋 是Les\nCP：钥宝 @Yue_0404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "Yue_0404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/m/td8HJHR4YjM1",
+                "end": 23,
+                "expanded_url": "https://t.me/m/td8HJHR4YjM1",
+                "start": 0,
+                "url": "https://t.co/QyGfZmhmlD"
+              }
+            ]
+          }
+        },
+        "id": "840657664342343681",
+        "location": "汐之梦 - Yuna's Dream",
+        "name": "北雁汐 @Bᴇɪʏᴀɴ-Yuna",
+        "pinned_tweet_id": "1856762438647193805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818130687612084224/gMjcnqno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 313,
+          "like_count": 17247,
+          "listed_count": 3,
+          "tweet_count": 4794
+        },
+        "url": "https://t.co/QyGfZmhmlD",
+        "username": "Yuna_Kamisato",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-18T12:19:29.000Z",
+        "description": "名誉xyn？（翻车？不翻车！不？）\n北京海淀区提供紧急避难或熟人暂住\ntg生活频道 https://t.co/m9NRtEFc5B\ntg观点频道 https://t.co/KM4qnhfsWm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/VoiceofC17",
+                "end": 65,
+                "expanded_url": "https://t.me/VoiceofC17",
+                "start": 42,
+                "url": "https://t.co/m9NRtEFc5B"
+              },
+              {
+                "display_url": "t.me/BookofC17",
+                "end": 96,
+                "expanded_url": "https://t.me/BookofC17",
+                "start": 73,
+                "url": "https://t.co/KM4qnhfsWm"
+              }
+            ]
+          }
+        },
+        "id": "1692511487531909120",
+        "location": "北京",
+        "name": "蒸汽绵羊 🌈 Cic17",
+        "pinned_tweet_id": "1854775622318670129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828491411282673664/1SxvS-8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 1871
+        },
+        "username": "CicadaSeventeen",
+        "verified": false
+      }
+    ]
+  }
+}

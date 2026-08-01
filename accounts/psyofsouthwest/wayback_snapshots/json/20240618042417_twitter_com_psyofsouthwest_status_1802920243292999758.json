@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1802910240469397600",
+    "created_at": "2024-06-18T04:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T05:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802920243292999758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802920243292999758",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802910240469397600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 三眼神犬😆 把我看眼花了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802910240469397600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802910240469397600",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802910240469397600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1802910240469397600",
+        "created_at": "2024-06-18T04:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T05:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802920243292999758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802920243292999758",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802910240469397600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 三眼神犬😆 把我看眼花了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2251,
+          "like_count": 12351,
+          "listed_count": 4,
+          "tweet_count": 6505
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜点赞关注不代表立场",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "没有香也没有魔法的嘎拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802578687734456320/ejJKuZs0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 901,
+          "like_count": 26618,
+          "listed_count": 2,
+          "tweet_count": 9569
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

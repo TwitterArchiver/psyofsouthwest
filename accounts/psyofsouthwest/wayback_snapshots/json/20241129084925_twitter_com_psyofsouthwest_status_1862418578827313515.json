@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1862417098993279411",
+    "created_at": "2024-11-29T08:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T09:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862418578827313515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1113970304064212992",
+          "start": 0,
+          "username": "applelovecherr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862418578827313515",
+    "in_reply_to_user_id": "1113970304064212992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862417098993279411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@applelovecherr1 唉 世道艰难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1862417098993279411",
+        "created_at": "2024-11-29T08:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862418578827313515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1113970304064212992",
+              "start": 0,
+              "username": "applelovecherr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862418578827313515",
+        "in_reply_to_user_id": "1113970304064212992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862417098993279411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@applelovecherr1 唉 世道艰难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1113970304064212992",
+        "conversation_id": "1862417098993279411",
+        "created_at": "2024-11-29T08:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862417098993279411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862417098993279411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天得到的消息就是降薪降薪降薪，太难了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 2819,
+          "like_count": 20376,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 8689
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T01:03:11.000Z",
+        "description": "好好生活，努力工作/h是不行的哟/ISTP",
+        "id": "1113970304064212992",
+        "location": "china",
+        "name": "苹果酱",
+        "pinned_tweet_id": "1677659892944093184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432037335223263235/-YPOR7wQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13501,
+          "following_count": 311,
+          "like_count": 2246,
+          "listed_count": 49,
+          "media_count": 326,
+          "tweet_count": 3072
+        },
+        "username": "applelovecherr1",
+        "verified": false
+      }
+    ]
+  }
+}

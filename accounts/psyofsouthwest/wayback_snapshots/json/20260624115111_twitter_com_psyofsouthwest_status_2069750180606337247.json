@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2069750180606337247",
+    "created_at": "2026-06-24T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069750180606337247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "108619491",
+          "start": 3,
+          "username": "codiguillos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069750180606337247",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069407345851949187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @codiguillos: Tú eres comunista porque lo leíste, yo soy anticomunista porque viví el comunismo."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2069750180606337247",
+        "created_at": "2026-06-24T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069750180606337247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "108619491",
+              "start": 3,
+              "username": "codiguillos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069750180606337247",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069407345851949187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @codiguillos: Tú eres comunista porque lo leíste, yo soy anticomunista porque viví el comunismo."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "108619491",
+        "conversation_id": "2069407345851949187",
+        "created_at": "2026-06-23T13:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069407345851949187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069407345851949187",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 43241,
+          "like_count": 2733,
+          "quote_count": 20,
+          "reply_count": 113,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "Tú eres comunista porque lo leíste, yo soy anticomunista porque viví el comunismo."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 4753,
+          "like_count": 126721,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15519
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-26T14:31:15.000Z",
+        "description": "Escritor y periodista.",
+        "id": "108619491",
+        "location": "Bogotá, D.C., Colombia",
+        "name": "Guillo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057191096535416832/x3zGbg5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94235,
+          "following_count": 2116,
+          "like_count": 116844,
+          "listed_count": 250,
+          "media_count": 10649,
+          "tweet_count": 70965
+        },
+        "url": "",
+        "username": "codiguillos",
+        "verified": true
+      }
+    ]
+  }
+}

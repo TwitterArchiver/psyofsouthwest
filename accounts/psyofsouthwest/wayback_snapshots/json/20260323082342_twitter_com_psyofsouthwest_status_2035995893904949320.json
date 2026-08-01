@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035623864848588800"
+      ],
+      "media_source_tweet_id": [
+        "2035623867138613516"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2035995893904949320",
+    "created_at": "2026-03-23T08:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035995893904949320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "894923958025310208",
+          "start": 3,
+          "username": "g44rm2dea6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRnIMNUBLr",
+          "end": 55,
+          "expanded_url": "https://x.com/g44rm2dea6/status/2035623867138613516/photo/1",
+          "media_key": "3_2035623864848588800",
+          "start": 32,
+          "url": "https://t.co/fRnIMNUBLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035995893904949320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035623867138613516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @g44rm2dea6: Doroの紙芝居屋さん【AI】 https://t.co/fRnIMNUBLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2035623864848588800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_9HrCboAAd9ZQ.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035623864848588800"
+          ],
+          "media_source_tweet_id": [
+            "2035623867138613516"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2035995893904949320",
+        "created_at": "2026-03-23T08:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035995893904949320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "894923958025310208",
+              "start": 3,
+              "username": "g44rm2dea6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRnIMNUBLr",
+              "end": 55,
+              "expanded_url": "https://x.com/g44rm2dea6/status/2035623867138613516/photo/1",
+              "media_key": "3_2035623864848588800",
+              "start": 32,
+              "url": "https://t.co/fRnIMNUBLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035995893904949320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035623867138613516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @g44rm2dea6: Doroの紙芝居屋さん【AI】 https://t.co/fRnIMNUBLr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035623864848588800"
+          ]
+        },
+        "author_id": "894923958025310208",
+        "conversation_id": "2035623867138613516",
+        "created_at": "2026-03-22T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035623867138613516"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Doro",
+              "probability": 0.2846,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRnIMNUBLr",
+              "end": 39,
+              "expanded_url": "https://x.com/g44rm2dea6/status/2035623867138613516/photo/1",
+              "media_key": "3_2035623864848588800",
+              "start": 16,
+              "url": "https://t.co/fRnIMNUBLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035623867138613516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1109,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Doroの紙芝居屋さん【AI】 https://t.co/fRnIMNUBLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 4748,
+          "like_count": 98044,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14108
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-08T14:11:13.000Z",
+        "description": "ネパールの象☠️💥🐘💨宇都宮釣天井事件",
+        "id": "894923958025310208",
+        "location": "ファランジュ🪦🦕",
+        "name": "너머참고",
+        "pinned_tweet_id": "2035623867138613516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892451474657202179/8pRbMX1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 184,
+          "like_count": 143258,
+          "listed_count": 22,
+          "media_count": 1070,
+          "tweet_count": 15283
+        },
+        "username": "g44rm2dea6",
+        "verified": false
+      }
+    ]
+  }
+}

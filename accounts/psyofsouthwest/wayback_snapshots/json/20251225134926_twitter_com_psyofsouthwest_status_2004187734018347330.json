@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870953987525984257"
+      ],
+      "media_source_tweet_id": [
+        "1870953995512283381"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2004187734018347330",
+    "created_at": "2025-12-25T13:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T14:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004187734018347330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1560005465710419968",
+          "start": 3,
+          "username": "KbillPutin666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKDS0dBdfe",
+          "end": 84,
+          "expanded_url": "https://x.com/KbillPutin666/status/1870953995512283381/photo/1",
+          "media_key": "3_1870953987525984257",
+          "start": 61,
+          "url": "https://t.co/eKDS0dBdfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004187734018347330",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870953995512283381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KbillPutin666: Merry fucking Christmas to all dictators. https://t.co/eKDS0dBdfe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1870953987525984257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfb2vSmWQAEbVSl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870953987525984257"
+          ],
+          "media_source_tweet_id": [
+            "1870953995512283381"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004187734018347330",
+        "created_at": "2025-12-25T13:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004187734018347330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1560005465710419968",
+              "start": 3,
+              "username": "KbillPutin666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKDS0dBdfe",
+              "end": 84,
+              "expanded_url": "https://x.com/KbillPutin666/status/1870953995512283381/photo/1",
+              "media_key": "3_1870953987525984257",
+              "start": 61,
+              "url": "https://t.co/eKDS0dBdfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004187734018347330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870953995512283381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KbillPutin666: Merry fucking Christmas to all dictators. https://t.co/eKDS0dBdfe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870953987525984257"
+          ]
+        },
+        "author_id": "1560005465710419968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1870953995512283381",
+        "created_at": "2024-12-22T22:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T23:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870953995512283381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKDS0dBdfe",
+              "end": 65,
+              "expanded_url": "https://x.com/KbillPutin666/status/1870953995512283381/photo/1",
+              "media_key": "3_1870953987525984257",
+              "start": 42,
+              "url": "https://t.co/eKDS0dBdfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870953995512283381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 479094,
+          "like_count": 10579,
+          "quote_count": 70,
+          "reply_count": 157,
+          "retweet_count": 1109
+        },
+        "reply_settings": "everyone",
+        "text": "Merry fucking Christmas to all dictators. https://t.co/eKDS0dBdfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 4142,
+          "like_count": 61127,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 12329
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T20:48:03.000Z",
+        "description": "🇫🇮🇺🇦🇬🇪🇹🇼\n\nGrifters, russians, tankies, magas, western traitors, anti-vaxxers, free thinkers, incels, flat earthers, Musk fanboys etc, Fuck you!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cia.gov",
+                "end": 23,
+                "expanded_url": "https://www.cia.gov/",
+                "start": 0,
+                "url": "https://t.co/Bb6DnzRiUs"
+              }
+            ]
+          }
+        },
+        "id": "1560005465710419968",
+        "location": "Langley, Virginia",
+        "name": "Satanic Krampus Fella 666",
+        "pinned_tweet_id": "1641406720223113218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989094684149399552/xfEjqMSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14895,
+          "following_count": 16282,
+          "like_count": 426623,
+          "listed_count": 19,
+          "media_count": 10447,
+          "tweet_count": 24605
+        },
+        "url": "https://t.co/Bb6DnzRiUs",
+        "username": "KbillPutin666",
+        "verified": false
+      }
+    ]
+  }
+}

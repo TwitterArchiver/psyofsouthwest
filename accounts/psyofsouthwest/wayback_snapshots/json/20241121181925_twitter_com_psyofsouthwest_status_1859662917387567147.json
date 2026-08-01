@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1859555897246437779",
+    "created_at": "2024-11-21T18:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T19:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859662917387567147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430194213988102147",
+          "start": 0,
+          "username": "YosefBlockchain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859662917387567147",
+    "in_reply_to_user_id": "1430194213988102147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859555897246437779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YosefBlockchain 对快餐情绪刺激的追求与胡图行为其实是一体两面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1859555897246437779",
+        "created_at": "2024-11-21T18:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T19:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859662917387567147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430194213988102147",
+              "start": 0,
+              "username": "YosefBlockchain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859662917387567147",
+        "in_reply_to_user_id": "1430194213988102147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859555897246437779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YosefBlockchain 对快餐情绪刺激的追求与胡图行为其实是一体两面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430194213988102147",
+        "conversation_id": "1859555897246437779",
+        "created_at": "2024-11-21T11:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859555897246437779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859555897246437779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 56044,
+          "like_count": 309,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "刚看了快手的财报，有一条数据很可怕：\n\n快手的日活刚刚突破4亿，但是每天看10集以上短剧的人高达1.46亿，也就是超过1/3快手日活用户大量时间在刷短剧。加上抖音和其他平台，中国至少20%的人高度沉迷短剧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 2780,
+          "like_count": 19736,
+          "listed_count": 4,
+          "tweet_count": 8555
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T15:44:23.000Z",
+        "description": "创业者、投资人。谢谢你的关注。",
+        "id": "1430194213988102147",
+        "location": "Singapore",
+        "name": "陈思远Yosef",
+        "pinned_tweet_id": "1839795143937011778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838641800342614016/5XPANjzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31900,
+          "following_count": 143,
+          "like_count": 77,
+          "listed_count": 229,
+          "tweet_count": 10294
+        },
+        "username": "YosefBlockchain",
+        "verified": true
+      }
+    ]
+  }
+}

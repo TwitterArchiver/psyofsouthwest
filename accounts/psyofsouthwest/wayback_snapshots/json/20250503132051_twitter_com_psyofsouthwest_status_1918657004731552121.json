@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1918656093951307904",
+    "created_at": "2025-05-03T13:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T14:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918657004731552121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1496846565675134978",
+          "start": 0,
+          "username": "DimAurora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918657004731552121",
+    "in_reply_to_user_id": "1496846565675134978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918656093951307904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimAurora 超过一小时就不能吃了，食物中毒脱水很危险的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1918656093951307904",
+        "created_at": "2025-05-03T13:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918657004731552121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1496846565675134978",
+              "start": 0,
+              "username": "DimAurora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918657004731552121",
+        "in_reply_to_user_id": "1496846565675134978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918656093951307904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimAurora 超过一小时就不能吃了，食物中毒脱水很危险的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496846565675134978",
+        "conversation_id": "1918656093951307904",
+        "created_at": "2025-05-03T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918656093951307904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918656093951307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了一份在放在外卖架上晒足八小时的油泼面，然后持续两天上吐下泻。今天别的症状倒是没了，但是浑身酸痛乏力……\n感觉要似了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 3749,
+          "like_count": 34430,
+          "listed_count": 6,
+          "media_count": 336,
+          "tweet_count": 10689
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T13:57:03.000Z",
+        "description": "@Motrans4825 has been suspended meow. What a pity that @Motrans4825 has been suspended meow.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Motrans4825"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Motrans4825"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimaurora.moiland.com",
+                "end": 23,
+                "expanded_url": "https://dimaurora.moiland.com",
+                "start": 0,
+                "url": "https://t.co/2F1DQYStPe"
+              }
+            ]
+          }
+        },
+        "id": "1496846565675134978",
+        "location": "Shanghai, China",
+        "name": "Dim Aurora",
+        "pinned_tweet_id": "1916118198627537017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837140999082233861/07ajUOz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 554,
+          "like_count": 22456,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/2F1DQYStPe",
+        "username": "DimAurora",
+        "verified": false
+      }
+    ]
+  }
+}

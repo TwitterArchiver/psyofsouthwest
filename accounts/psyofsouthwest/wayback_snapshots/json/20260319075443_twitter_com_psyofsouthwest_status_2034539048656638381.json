@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034528148722012160"
+      ],
+      "media_source_tweet_id": [
+        "2034528486325625029"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2034539048656638381",
+    "created_at": "2026-03-19T07:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034539048656638381"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "DORO",
+          "probability": 0.4484,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "doro",
+          "probability": 0.6964,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597357881636302850",
+          "start": 3,
+          "username": "Red_Rat030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pBLSfGtSIS",
+          "end": 62,
+          "expanded_url": "https://x.com/Red_Rat030/status/2034528486325625029/photo/1",
+          "media_key": "3_2034528148722012160",
+          "start": 39,
+          "url": "https://t.co/pBLSfGtSIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034539048656638381",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034528486325625029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Red_Rat030: DORO dream car🍊🚗\n#doro https://t.co/pBLSfGtSIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2034528148722012160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwYkmYb0AAOYbb.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034528148722012160"
+          ],
+          "media_source_tweet_id": [
+            "2034528486325625029"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2034539048656638381",
+        "created_at": "2026-03-19T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034539048656638381"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "DORO",
+              "probability": 0.4484,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "doro",
+              "probability": 0.6964,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597357881636302850",
+              "start": 3,
+              "username": "Red_Rat030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBLSfGtSIS",
+              "end": 62,
+              "expanded_url": "https://x.com/Red_Rat030/status/2034528486325625029/photo/1",
+              "media_key": "3_2034528148722012160",
+              "start": 39,
+              "url": "https://t.co/pBLSfGtSIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034539048656638381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034528486325625029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Red_Rat030: DORO dream car🍊🚗\n#doro https://t.co/pBLSfGtSIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034528148722012160"
+          ]
+        },
+        "author_id": "1597357881636302850",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2034528486325625029",
+        "created_at": "2026-03-19T07:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034528486325625029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "DORO dream",
+              "probability": 0.5629,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 21,
+              "normalized_text": "doro",
+              "probability": 0.6043,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBLSfGtSIS",
+              "end": 46,
+              "expanded_url": "https://x.com/Red_Rat030/status/2034528486325625029/photo/1",
+              "media_key": "3_2034528148722012160",
+              "start": 23,
+              "url": "https://t.co/pBLSfGtSIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034528486325625029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1073,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "DORO dream car🍊🚗\n#doro https://t.co/pBLSfGtSIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 4742,
+          "like_count": 96166,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14016
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T22:33:08.000Z",
+        "description": "🇰🇷/MAIN NIKKE /🖌 SD illustrator / 3.9Kfollowers 감사합니다😄\nemail : redrat030@gmail.com\nhttps://t.co/QvUmi7MBAq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/redrat…",
+                "end": 106,
+                "expanded_url": "https://bsky.app/profile/redrat030.bsky.social",
+                "start": 83,
+                "url": "https://t.co/QvUmi7MBAq"
+              }
+            ]
+          }
+        },
+        "id": "1597357881636302850",
+        "name": "레드랫/R_R/3부코 CI_14",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929749509846061058/jJwpRx7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3973,
+          "following_count": 380,
+          "like_count": 15170,
+          "listed_count": 26,
+          "media_count": 274,
+          "tweet_count": 1193
+        },
+        "username": "Red_Rat030",
+        "verified": true
+      }
+    ]
+  }
+}

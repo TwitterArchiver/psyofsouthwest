@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1913670713606803865",
+    "created_at": "2025-04-20T17:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T18:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914002133113782424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1635661193791827968",
+          "start": 0,
+          "username": "333333S333333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914002133113782424",
+    "in_reply_to_user_id": "1635661193791827968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913670713606803865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@333333S333333 我也是四个字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1913670713606803865",
+        "created_at": "2025-04-20T17:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914002133113782424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1635661193791827968",
+              "start": 0,
+              "username": "333333S333333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914002133113782424",
+        "in_reply_to_user_id": "1635661193791827968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913670713606803865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@333333S333333 我也是四个字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635661193791827968",
+        "conversation_id": "1913670713606803865",
+        "created_at": "2025-04-19T19:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T20:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913670713606803865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913670713606803865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 122935,
+          "like_count": 192,
+          "quote_count": 10,
+          "reply_count": 164,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个四字男推 你真的已经塌无可塌了还装呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 3553,
+          "like_count": 30750,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 10380
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T15:16:44.000Z",
+        "description": "ISFP Switch  谢谢喜欢 爱我请打钱 贱人远离我",
+        "id": "1635661193791827968",
+        "location": "🚪",
+        "name": "33",
+        "pinned_tweet_id": "1913607138443923689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886756624020463619/cm4bcVcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4929,
+          "following_count": 115,
+          "like_count": 1901,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 2936
+        },
+        "username": "333333S333333",
+        "verified": false
+      }
+    ]
+  }
+}

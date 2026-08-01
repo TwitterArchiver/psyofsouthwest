@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1800726994352841208",
+    "created_at": "2024-06-12T22:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T23:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801024913576235223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1693156996156137472",
+          "start": 0,
+          "username": "chuangyu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801024913576235223",
+    "in_reply_to_user_id": "1693156996156137472",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800726994352841208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuangyu114514 北境神农氏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1800726994352841208",
+        "created_at": "2024-06-12T22:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T23:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801024913576235223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1693156996156137472",
+              "start": 0,
+              "username": "chuangyu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801024913576235223",
+        "in_reply_to_user_id": "1693156996156137472",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800726994352841208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuangyu114514 北境神农氏"
+      },
+      {
+        "attachments": {},
+        "author_id": "1693156996156137472",
+        "conversation_id": "1800726994352841208",
+        "created_at": "2024-06-12T03:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T04:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800726994352841208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800726994352841208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6946,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "BV1zD421M7T8\n这俄罗斯小留又开始了，土豆吃七天\n\n本期食材：发芽的土豆，长出白色菌落的肉酱，这个小留刚到俄罗斯买的一袋已经发黑的大米\n\n战绩：高烧42.8摄氏度，吃出走马灯了都，最后他还啃了一个生的发芽土豆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 2215,
+          "like_count": 12034,
+          "listed_count": 4,
+          "tweet_count": 6352
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T07:04:40.000Z",
+        "description": "革命派",
+        "id": "1693156996156137472",
+        "location": "闖狱妙妙屋",
+        "name": "闖狱",
+        "pinned_tweet_id": "1790893101952696603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800729158865104896/_VE85nGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 811,
+          "like_count": 92956,
+          "listed_count": 16,
+          "tweet_count": 18595
+        },
+        "username": "chuangyu114514",
+        "verified": false
+      }
+    ]
+  }
+}

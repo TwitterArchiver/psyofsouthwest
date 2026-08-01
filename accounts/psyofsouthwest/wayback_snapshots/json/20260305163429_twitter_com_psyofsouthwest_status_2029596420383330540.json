@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029554756671373312",
+        "3_2029554779853295616",
+        "3_2029554793577082880"
+      ],
+      "media_source_tweet_id": [
+        "2029554946950226082",
+        "2029554946950226082",
+        "2029554946950226082"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2029596420383330540",
+    "created_at": "2026-03-05T16:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029596420383330540"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.6611,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JU3T5ekmE",
+          "end": 87,
+          "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+          "media_key": "3_2029554756671373312",
+          "start": 64,
+          "url": "https://t.co/8JU3T5ekmE"
+        },
+        {
+          "display_url": "pic.x.com/8JU3T5ekmE",
+          "end": 87,
+          "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+          "media_key": "3_2029554779853295616",
+          "start": 64,
+          "url": "https://t.co/8JU3T5ekmE"
+        },
+        {
+          "display_url": "pic.x.com/8JU3T5ekmE",
+          "end": 87,
+          "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+          "media_key": "3_2029554793577082880",
+          "start": 64,
+          "url": "https://t.co/8JU3T5ekmE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029596420383330540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029554946950226082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: 夕方の河川敷でトランペットを吹いてへこんでいた\n青年を励ますDoroちゃん。　#doro https://t.co/8JU3T5ekmE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2029554756671373312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCptTFOaAAAyoA-.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2029554779853295616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCptUblaEAAMyqs.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2029554793577082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCptVOtacAAtD8w.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029554756671373312",
+            "3_2029554779853295616",
+            "3_2029554793577082880"
+          ],
+          "media_source_tweet_id": [
+            "2029554946950226082",
+            "2029554946950226082",
+            "2029554946950226082"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2029596420383330540",
+        "created_at": "2026-03-05T16:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029596420383330540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.6611,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 87,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554756671373312",
+              "start": 64,
+              "url": "https://t.co/8JU3T5ekmE"
+            },
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 87,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554779853295616",
+              "start": 64,
+              "url": "https://t.co/8JU3T5ekmE"
+            },
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 87,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554793577082880",
+              "start": 64,
+              "url": "https://t.co/8JU3T5ekmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029596420383330540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029554946950226082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: 夕方の河川敷でトランペットを吹いてへこんでいた\n青年を励ますDoroちゃん。　#doro https://t.co/8JU3T5ekmE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029554756671373312",
+            "3_2029554779853295616",
+            "3_2029554793577082880"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "conversation_id": "2029554946950226082",
+        "created_at": "2026-03-05T13:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029554946950226082"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.6679,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 68,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554756671373312",
+              "start": 45,
+              "url": "https://t.co/8JU3T5ekmE"
+            },
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 68,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554779853295616",
+              "start": 45,
+              "url": "https://t.co/8JU3T5ekmE"
+            },
+            {
+              "display_url": "pic.x.com/8JU3T5ekmE",
+              "end": 68,
+              "expanded_url": "https://x.com/panicbluedoro/status/2029554946950226082/photo/1",
+              "media_key": "3_2029554793577082880",
+              "start": 45,
+              "url": "https://t.co/8JU3T5ekmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029554946950226082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 838,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "夕方の河川敷でトランペットを吹いてへこんでいた\n青年を励ますDoroちゃん。　#doro https://t.co/8JU3T5ekmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4725,
+          "like_count": 89672,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 13642
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 31,
+          "like_count": 253,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 27
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030233647950012416",
+        "3_2030233663854858240",
+        "3_2030233676647374848",
+        "3_2030233688274083840"
+      ],
+      "media_source_tweet_id": [
+        "2030234060614935007",
+        "2030234060614935007",
+        "2030234060614935007",
+        "2030234060614935007"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2030446538078716262",
+    "created_at": "2026-03-08T00:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T01:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030446538078716262"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "大阪",
+          "probability": 0.6661,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 68,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.7335,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 87,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.8164,
+          "start": 81,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhjxyxEPYC",
+          "end": 130,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+          "media_key": "3_2030233647950012416",
+          "start": 107,
+          "url": "https://t.co/IhjxyxEPYC"
+        },
+        {
+          "display_url": "pic.x.com/IhjxyxEPYC",
+          "end": 130,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+          "media_key": "3_2030233663854858240",
+          "start": 107,
+          "url": "https://t.co/IhjxyxEPYC"
+        },
+        {
+          "display_url": "pic.x.com/IhjxyxEPYC",
+          "end": 130,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+          "media_key": "3_2030233676647374848",
+          "start": 107,
+          "url": "https://t.co/IhjxyxEPYC"
+        },
+        {
+          "display_url": "pic.x.com/IhjxyxEPYC",
+          "end": 130,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+          "media_key": "3_2030233688274083840",
+          "start": 107,
+          "url": "https://t.co/IhjxyxEPYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030446538078716262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030234060614935007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: 大阪版のDOROキーホルダーいいな～wとか思いながら\nお家で仲良くたこ焼きパーティするDoroちゃん。\nアツアツのたこ焼きもDoroちゃん達は元気よく食べちゃうw\n#doro https://t.co/IhjxyxEPYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2030233647950012416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzWvwUbIAAUrSv.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2030233663854858240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzWwrkb0AAhoiK.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2030233676647374848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzWxbOaIAAtMWy.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2030233688274083840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzWyGiboAAHgp0.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030233647950012416",
+            "3_2030233663854858240",
+            "3_2030233676647374848",
+            "3_2030233688274083840"
+          ],
+          "media_source_tweet_id": [
+            "2030234060614935007",
+            "2030234060614935007",
+            "2030234060614935007",
+            "2030234060614935007"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2030446538078716262",
+        "created_at": "2026-03-08T00:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030446538078716262"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "大阪",
+              "probability": 0.6661,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.7335,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8164,
+              "start": 81,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 130,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233647950012416",
+              "start": 107,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 130,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233663854858240",
+              "start": 107,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 130,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233676647374848",
+              "start": 107,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 130,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233688274083840",
+              "start": 107,
+              "url": "https://t.co/IhjxyxEPYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030446538078716262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030234060614935007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: 大阪版のDOROキーホルダーいいな～wとか思いながら\nお家で仲良くたこ焼きパーティするDoroちゃん。\nアツアツのたこ焼きもDoroちゃん達は元気よく食べちゃうw\n#doro https://t.co/IhjxyxEPYC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030233647950012416",
+            "3_2030233663854858240",
+            "3_2030233676647374848",
+            "3_2030233688274083840"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2030234060614935007",
+        "created_at": "2026-03-07T10:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030234060614935007"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "大阪",
+              "probability": 0.7042,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.7346,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8155,
+              "start": 62,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 111,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233647950012416",
+              "start": 88,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 111,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233663854858240",
+              "start": 88,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 111,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233676647374848",
+              "start": 88,
+              "url": "https://t.co/IhjxyxEPYC"
+            },
+            {
+              "display_url": "pic.x.com/IhjxyxEPYC",
+              "end": 111,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030234060614935007/photo/1",
+              "media_key": "3_2030233688274083840",
+              "start": 88,
+              "url": "https://t.co/IhjxyxEPYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030234060614935007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1787,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "大阪版のDOROキーホルダーいいな～wとか思いながら\nお家で仲良くたこ焼きパーティするDoroちゃん。\nアツアツのたこ焼きもDoroちゃん達は元気よく食べちゃうw\n#doro https://t.co/IhjxyxEPYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4737,
+          "like_count": 90770,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13762
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 34,
+          "like_count": 395,
+          "listed_count": 5,
+          "media_count": 32,
+          "tweet_count": 46
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

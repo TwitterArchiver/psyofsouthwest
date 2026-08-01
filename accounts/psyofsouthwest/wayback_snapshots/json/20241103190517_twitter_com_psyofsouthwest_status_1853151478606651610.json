@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1853110632138318108",
+    "created_at": "2024-11-03T19:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T20:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853151478606651610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14961549",
+          "start": 0,
+          "username": "pearlher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853151478606651610",
+    "in_reply_to_user_id": "14961549",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853110632138318108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearlher 别说正国级了，社区主任是谁都不认识……大陆这种环境，人确实会丧失对政治环境的思辨能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1853110632138318108",
+        "created_at": "2024-11-03T19:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T20:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853151478606651610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14961549",
+              "start": 0,
+              "username": "pearlher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853151478606651610",
+        "in_reply_to_user_id": "14961549",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853110632138318108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearlher 别说正国级了，社区主任是谁都不认识……大陆这种环境，人确实会丧失对政治环境的思辨能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14961549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1853110632138318108",
+        "created_at": "2024-11-03T16:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T17:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853110632138318108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/billclinton/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/billclinton/status/1853089033921917270",
+              "start": 59,
+              "url": "https://t.co/54Sh0ks8aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853110632138318108",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2546,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853089033921917270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国选举，真是叹为观止。这么辛苦一票一票地争取。\n\n中国这个级别的领导人压根大街上见不到。别别说跟选民见面了………😂 https://t.co/54Sh0ks8aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2693,
+          "like_count": 18155,
+          "listed_count": 4,
+          "tweet_count": 8073
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-31T07:42:56.000Z",
+        "description": "Bio: Freelance investigative journalist，. Human Rights defender. Founder&dirctor of Xinye org     我的郵箱：pearlher@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herpeirong7305",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@herpeirong7305",
+                "start": 0,
+                "url": "https://t.co/TxCcvNdKzk"
+              }
+            ]
+          }
+        },
+        "id": "14961549",
+        "location": "Thailand",
+        "name": "Ho Peirong",
+        "pinned_tweet_id": "1848729066616328557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578649268000157697/4sYnt-Ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60898,
+          "following_count": 1644,
+          "like_count": 20294,
+          "listed_count": 514,
+          "tweet_count": 53648
+        },
+        "url": "https://t.co/TxCcvNdKzk",
+        "username": "pearlher",
+        "verified": false
+      }
+    ]
+  }
+}

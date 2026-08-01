@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1859563507915653132",
+    "created_at": "2024-11-21T11:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T12:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859563507915653132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "916758476080128000",
+          "start": 3,
+          "username": "nyanyakodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859563507915653132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859563277816299578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyanyakodayo: 今天终于独立完成了自己的著作——《喵氏英语语法秒杀体系》。历时大半年，共计92页、42,400字，凝结了多年学习与思考。这个体系融入了哲学与管理学的框架，借鉴康德哲学的“知识=感性经验+先验范畴”的理论，并结合目标管理方法，构建了独特的“秒杀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1859563507915653132",
+        "created_at": "2024-11-21T11:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859563507915653132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "916758476080128000",
+              "start": 3,
+              "username": "nyanyakodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859563507915653132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859563277816299578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyanyakodayo: 今天终于独立完成了自己的著作——《喵氏英语语法秒杀体系》。历时大半年，共计92页、42,400字，凝结了多年学习与思考。这个体系融入了哲学与管理学的框架，借鉴康德哲学的“知识=感性经验+先验范畴”的理论，并结合目标管理方法，构建了独特的“秒杀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859563266059665413",
+            "3_1859563266051387392",
+            "3_1859563266051276800",
+            "3_1859563266298785792"
+          ]
+        },
+        "author_id": "916758476080128000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1859563277816299578",
+        "created_at": "2024-11-21T11:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859563277816299578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UmcVhQ2kUe",
+              "end": 173,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1859563277816299578/photo/1",
+              "media_key": "3_1859563266059665413",
+              "start": 150,
+              "url": "https://t.co/UmcVhQ2kUe"
+            },
+            {
+              "display_url": "pic.x.com/UmcVhQ2kUe",
+              "end": 173,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1859563277816299578/photo/1",
+              "media_key": "3_1859563266051387392",
+              "start": 150,
+              "url": "https://t.co/UmcVhQ2kUe"
+            },
+            {
+              "display_url": "pic.x.com/UmcVhQ2kUe",
+              "end": 173,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1859563277816299578/photo/1",
+              "media_key": "3_1859563266051276800",
+              "start": 150,
+              "url": "https://t.co/UmcVhQ2kUe"
+            },
+            {
+              "display_url": "pic.x.com/UmcVhQ2kUe",
+              "end": 173,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1859563277816299578/photo/1",
+              "media_key": "3_1859563266298785792",
+              "start": 150,
+              "url": "https://t.co/UmcVhQ2kUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859563277816299578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天终于独立完成了自己的著作——《喵氏英语语法秒杀体系》。历时大半年，共计92页、42,400字，凝结了多年学习与思考。这个体系融入了哲学与管理学的框架，借鉴康德哲学的“知识=感性经验+先验范畴”的理论，并结合目标管理方法，构建了独特的“秒杀体系”。\n喵老师正在酝酿一场英语教学的“哥白尼式革命”。 https://t.co/UmcVhQ2kUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 2779,
+          "like_count": 19739,
+          "listed_count": 4,
+          "tweet_count": 8553
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T20:13:48.000Z",
+        "description": "我永远喜欢初音未来🌱✨",
+        "id": "916758476080128000",
+        "location": "喵子星",
+        "name": "喵喵子",
+        "pinned_tweet_id": "1742127993991188544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667069956398227457/HO1XCO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38029,
+          "following_count": 804,
+          "like_count": 17622,
+          "listed_count": 94,
+          "tweet_count": 30112
+        },
+        "username": "nyanyakodayo",
+        "verified": false
+      }
+    ]
+  }
+}

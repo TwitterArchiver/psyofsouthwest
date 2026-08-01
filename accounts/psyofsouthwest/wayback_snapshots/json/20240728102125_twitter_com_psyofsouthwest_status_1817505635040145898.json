@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817505632322195457"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1817133860423074234",
+    "created_at": "2024-07-28T10:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T11:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817505635040145898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1609755705044774912",
+          "start": 0,
+          "username": "Adalia_Han"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ijdrQJiWug",
+          "end": 58,
+          "expanded_url": "https://twitter.com/psyofsouthwest/status/1817505635040145898/photo/1",
+          "media_key": "3_1817505632322195457",
+          "start": 35,
+          "url": "https://t.co/ijdrQJiWug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817505635040145898",
+    "in_reply_to_user_id": "1609755705044774912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817302668135870470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adalia_Han 1992年参加巴塞罗那奥运会的美国男子篮球队 https://t.co/ijdrQJiWug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_1817505632322195457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTkTvjfWEAEdGmv.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817505632322195457"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1817133860423074234",
+        "created_at": "2024-07-28T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817505635040145898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1609755705044774912",
+              "start": 0,
+              "username": "Adalia_Han"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ijdrQJiWug",
+              "end": 58,
+              "expanded_url": "https://twitter.com/psyofsouthwest/status/1817505635040145898/photo/1",
+              "media_key": "3_1817505632322195457",
+              "start": 35,
+              "url": "https://t.co/ijdrQJiWug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817505635040145898",
+        "in_reply_to_user_id": "1609755705044774912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817302668135870470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adalia_Han 1992年参加巴塞罗那奥运会的美国男子篮球队 https://t.co/ijdrQJiWug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609755705044774912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "All the latest basketball action from the NBA.",
+              "id": "10000607734",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029304530",
+              "name": "NBA Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083889454813185",
+              "name": "NBA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "706083902411055104",
+              "name": "Basketball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042758024",
+              "name": "NBA"
+            }
+          }
+        ],
+        "conversation_id": "1817133860423074234",
+        "created_at": "2024-07-27T20:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T21:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817302668135870470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695240715582984192",
+              "start": 0,
+              "username": "zhngzih02665471"
+            },
+            {
+              "end": 30,
+              "id": "105972619",
+              "start": 17,
+              "username": "ChuTrieuViet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817302668135870470",
+        "in_reply_to_user_id": "1695240715582984192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817255594434387994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngzih02665471 @ChuTrieuViet 这个在英文里是game，不是competition。也就是说它是给业余选手的游戏，而不是给专业运动员的赛场。比如，你啥时候看过NBA的职业球星参加过奥运会的篮球啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 2362,
+          "like_count": 13405,
+          "listed_count": 4,
+          "tweet_count": 6937
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T03:37:33.000Z",
+        "description": "I am a disciple of Jesus Christ, committed to preaching His gospel. I dedicate my life to pursuing Him, serving Him, and worshiping Him through music.",
+        "id": "1609755705044774912",
+        "location": "Los Angeles, CA",
+        "name": "Adalia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609756827440513024/f-JTq7T4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 10,
+          "like_count": 10187,
+          "listed_count": 0,
+          "tweet_count": 374
+        },
+        "username": "Adalia_Han",
+        "verified": false
+      }
+    ]
+  }
+}

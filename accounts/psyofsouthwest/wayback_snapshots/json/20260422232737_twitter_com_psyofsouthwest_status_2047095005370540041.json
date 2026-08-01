@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2046933385403335018",
+    "created_at": "2026-04-22T23:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047095005370540041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1783506872290664448",
+          "start": 0,
+          "username": "kevinma_dev_zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047095005370540041",
+    "in_reply_to_user_id": "1783506872290664448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046933385403335018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinma_dev_zh 最可怕的是仿真的，一眼假没那么糟糕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2046933385403335018",
+        "created_at": "2026-04-22T23:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047095005370540041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1783506872290664448",
+              "start": 0,
+              "username": "kevinma_dev_zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047095005370540041",
+        "in_reply_to_user_id": "1783506872290664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046933385403335018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinma_dev_zh 最可怕的是仿真的，一眼假没那么糟糕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783506872290664448",
+        "conversation_id": "2046933385403335018",
+        "created_at": "2026-04-22T12:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:44:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046933262346620985",
+          "2046933385403335018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046933385403335018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7304,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天好多人用 GPT Image 2 来做假新闻图片，看着好烦\n\n大家见到这样的，见一个拉黑一个吧。好好地做一些创作不好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 4770,
+          "like_count": 109210,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14738
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T14:43:41.000Z",
+        "description": "关注 AI 编程、图像、视频与好玩的产品\n|  开发英语阅读产品: https://t.co/TR0z0yfd48 \n|  分享英语学习与 AI 探索",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sentiaread.com",
+                "end": 57,
+                "expanded_url": "http://sentiaread.com",
+                "start": 34,
+                "url": "https://t.co/TR0z0yfd48"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kevinma2010",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kevinma2010",
+                "start": 0,
+                "url": "https://t.co/c0n2GaFa8Y"
+              }
+            ]
+          }
+        },
+        "id": "1783506872290664448",
+        "location": "联系我 👉",
+        "name": "Kevin Ma",
+        "pinned_tweet_id": "2036271705262530875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783509931813154816/O2ZjRUSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13278,
+          "following_count": 1180,
+          "like_count": 14571,
+          "listed_count": 115,
+          "media_count": 318,
+          "tweet_count": 6698
+        },
+        "url": "https://t.co/c0n2GaFa8Y",
+        "username": "kevinma_dev_zh",
+        "verified": true
+      }
+    ]
+  }
+}

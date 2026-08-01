@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1859158507385221588",
+    "created_at": "2024-11-20T10:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T11:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859189765871964301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1644164334573027329",
+          "start": 0,
+          "username": "GNMB00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859189765871964301",
+    "in_reply_to_user_id": "1644164334573027329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859158507385221588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNMB00 ……吃不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1859158507385221588",
+        "created_at": "2024-11-20T10:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T11:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859189765871964301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1644164334573027329",
+              "start": 0,
+              "username": "GNMB00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859189765871964301",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859158507385221588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNMB00 ……吃不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644164334573027329",
+        "conversation_id": "1859158507385221588",
+        "created_at": "2024-11-20T08:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T09:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859158507385221588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859158507385221588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有穷人才知道的知识：\n淀粉肠3元一根，2根几元？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 2774,
+          "like_count": 19658,
+          "listed_count": 4,
+          "tweet_count": 8525
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T02:25:26.000Z",
+        "description": "一个摸牛包",
+        "id": "1644164334573027329",
+        "location": "巴林 里法",
+        "name": "摸牛包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859046386073038849/Sudf_Qbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 167,
+          "like_count": 13809,
+          "listed_count": 0,
+          "tweet_count": 10697
+        },
+        "username": "GNMB00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1789671846436106251",
+    "created_at": "2024-05-12T15:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T16:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789678788353126870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1488093192184479744",
+          "start": 0,
+          "username": "ceg1632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789678788353126870",
+    "in_reply_to_user_id": "1488093192184479744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789676946814898449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceg1632 在这种家庭里成长一定非常痛苦，你所做的只能是专注自己的发展，同时也要像挤脓疱一样挤掉他们遗传的有害部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1789671846436106251",
+        "created_at": "2024-05-12T15:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T16:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789678788353126870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1488093192184479744",
+              "start": 0,
+              "username": "ceg1632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789678788353126870",
+        "in_reply_to_user_id": "1488093192184479744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789676946814898449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceg1632 在这种家庭里成长一定非常痛苦，你所做的只能是专注自己的发展，同时也要像挤脓疱一样挤掉他们遗传的有害部分"
+      },
+      {
+        "attachments": {},
+        "author_id": "1488093192184479744",
+        "conversation_id": "1789671846436106251",
+        "created_at": "2024-05-12T15:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T16:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789676946814898449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789676946814898449",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789672423454921161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 救不了，从我有记忆开始它们就这样，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 2107,
+          "like_count": 10554,
+          "listed_count": 4,
+          "tweet_count": 5470
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T10:14:08.000Z",
+        "description": "真实的活在自己的世界里，",
+        "id": "1488093192184479744",
+        "name": "川",
+        "pinned_tweet_id": "1654220454780112896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776504483616268288/SBgGOi44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 2393,
+          "like_count": 3697,
+          "listed_count": 1,
+          "tweet_count": 443
+        },
+        "username": "ceg1632",
+        "verified": false
+      }
+    ]
+  }
+}

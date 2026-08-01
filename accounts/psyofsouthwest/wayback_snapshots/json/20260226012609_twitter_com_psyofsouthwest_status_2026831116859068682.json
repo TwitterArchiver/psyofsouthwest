@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026682672437764096"
+      ],
+      "media_source_tweet_id": [
+        "2026683415618039997"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2026831116859068682",
+    "created_at": "2026-02-26T01:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026831116859068682"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "doro",
+          "probability": 0.7431,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "speaky",
+          "probability": 0.5146,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "doro",
+          "probability": 0.6338,
+          "start": 58,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "doro"
+        },
+        {
+          "end": 70,
+          "start": 63,
+          "tag": "speaky"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "cute"
+        },
+        {
+          "end": 84,
+          "start": 77,
+          "tag": "kawaii"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "fun"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018102394001768448",
+          "start": 3,
+          "username": "doro_forgexmimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l9BpbB2EVo",
+          "end": 113,
+          "expanded_url": "https://x.com/doro_forgexmimi/status/2026683415618039997/video/1",
+          "media_key": "13_2026682672437764096",
+          "start": 90,
+          "url": "https://t.co/l9BpbB2EVo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026831116859068682",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026683415618039997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_forgexmimi: doro &amp; speaky playing at home 1 #doro #speaky #cute #kawaii #fun https://t.co/l9BpbB2EVo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14675,
+        "height": 1920,
+        "media_key": "13_2026682672437764096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026682672437764096/img/ApkXAWb1K_RpT48n.jpg",
+        "public_metrics": {
+          "view_count": 6833
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026682672437764096/vid/avc1/320x426/72SUwCf_BNRxhIjm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026682672437764096/vid/avc1/480x640/VqCxN1WGoft16re5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026682672437764096/vid/avc1/720x960/eAeTEH4XGRXzSx6V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026682672437764096/pl/V7nptCQcPuOMIENc.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026682672437764096"
+          ],
+          "media_source_tweet_id": [
+            "2026683415618039997"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2026831116859068682",
+        "created_at": "2026-02-26T01:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026831116859068682"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "doro",
+              "probability": 0.7431,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "speaky",
+              "probability": 0.5146,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "doro",
+              "probability": 0.6338,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "doro"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "speaky"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "cute"
+            },
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "kawaii"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "fun"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018102394001768448",
+              "start": 3,
+              "username": "doro_forgexmimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9BpbB2EVo",
+              "end": 113,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2026683415618039997/video/1",
+              "media_key": "13_2026682672437764096",
+              "start": 90,
+              "url": "https://t.co/l9BpbB2EVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026831116859068682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026683415618039997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_forgexmimi: doro &amp; speaky playing at home 1 #doro #speaky #cute #kawaii #fun https://t.co/l9BpbB2EVo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026682672437764096"
+          ]
+        },
+        "author_id": "2018102394001768448",
+        "conversation_id": "2026683415618039997",
+        "created_at": "2026-02-25T15:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026683415618039997"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "doro",
+              "probability": 0.679,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 16,
+              "normalized_text": "speaky",
+              "probability": 0.5745,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "doro",
+              "probability": 0.6305,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "doro"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "speaky"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "cute"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "kawaii"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "fun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9BpbB2EVo",
+              "end": 92,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2026683415618039997/video/1",
+              "media_key": "13_2026682672437764096",
+              "start": 69,
+              "url": "https://t.co/l9BpbB2EVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026683415618039997",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 12232,
+          "like_count": 619,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "doro &amp; speaky playing at home 1 #doro #speaky #cute #kawaii #fun https://t.co/l9BpbB2EVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 4630,
+          "like_count": 85115,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13320
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:21:35.000Z",
+        "description": "need make doro happy",
+        "id": "2018102394001768448",
+        "name": "DORO FORGE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026136259349897216/ZG-bYpA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 16,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 9
+        },
+        "username": "doro_forgexmimi",
+        "verified": false
+      }
+    ]
+  }
+}

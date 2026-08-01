@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1858493149389492269",
+    "created_at": "2024-11-19T11:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T12:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858830450325676123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "893331398",
+          "start": 0,
+          "username": "gxgexiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858830450325676123",
+    "in_reply_to_user_id": "893331398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858493149389492269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxgexiao 我以为我开车够野了，直到我去了武汉，的哥全程边打牌边开车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1858493149389492269",
+        "created_at": "2024-11-19T11:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T12:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858830450325676123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "893331398",
+              "start": 0,
+              "username": "gxgexiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858830450325676123",
+        "in_reply_to_user_id": "893331398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858493149389492269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxgexiao 我以为我开车够野了，直到我去了武汉，的哥全程边打牌边开车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "893331398",
+        "conversation_id": "1858493149389492269",
+        "created_at": "2024-11-18T12:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858493149389492269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858493149389492269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12721,
+          "like_count": 58,
+          "quote_count": 8,
+          "reply_count": 84,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开车文明程度：\n上海 10\n深圳 9\n广州 7\n其他 0\n苏州 -10\n\n不一定对，欢迎各位纠正。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 2771,
+          "like_count": 19547,
+          "listed_count": 4,
+          "tweet_count": 8489
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-20T14:14:48.000Z",
+        "description": "The more I know, the less I understand.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gexiao.me",
+                "end": 23,
+                "expanded_url": "http://www.gexiao.me",
+                "start": 0,
+                "url": "https://t.co/R8w1Unbb7q"
+              }
+            ]
+          }
+        },
+        "id": "893331398",
+        "name": "Xiao",
+        "pinned_tweet_id": "1328579872898355200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/671330181693333504/TPWVKtXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9458,
+          "following_count": 560,
+          "like_count": 1883,
+          "listed_count": 104,
+          "tweet_count": 5488
+        },
+        "url": "https://t.co/R8w1Unbb7q",
+        "username": "gxgexiao",
+        "verified": true
+      }
+    ]
+  }
+}

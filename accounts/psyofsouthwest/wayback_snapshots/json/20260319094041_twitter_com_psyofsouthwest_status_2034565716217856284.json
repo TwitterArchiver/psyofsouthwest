@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2034562556308942848"
+      ],
+      "media_source_tweet_id": [
+        "2034562568061379007"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2034565716217856284",
+    "created_at": "2026-03-19T09:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034565716217856284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987691144776663040",
+          "start": 3,
+          "username": "NikkeRf7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5pf6qfQYTm",
+          "end": 98,
+          "expanded_url": "https://x.com/NikkeRf7/status/2034562568061379007/photo/1",
+          "media_key": "16_2034562556308942848",
+          "start": 75,
+          "url": "https://t.co/5pf6qfQYTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034565716217856284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034562568061379007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NikkeRf7: しごおわ帰宅！\nガチャは軽症で済んでよかった...\n諸々終わらせたら春イベやるぞ〜！\n皆さん本日もお疲れ様でしたー！！！ https://t.co/5pf6qfQYTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2034562556308942848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDw33Yoa8AAxGfA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDw33Yoa8AAxGfA.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034562556308942848"
+          ],
+          "media_source_tweet_id": [
+            "2034562568061379007"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2034565716217856284",
+        "created_at": "2026-03-19T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034565716217856284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987691144776663040",
+              "start": 3,
+              "username": "NikkeRf7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pf6qfQYTm",
+              "end": 98,
+              "expanded_url": "https://x.com/NikkeRf7/status/2034562568061379007/photo/1",
+              "media_key": "16_2034562556308942848",
+              "start": 75,
+              "url": "https://t.co/5pf6qfQYTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034565716217856284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034562568061379007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NikkeRf7: しごおわ帰宅！\nガチャは軽症で済んでよかった...\n諸々終わらせたら春イベやるぞ〜！\n皆さん本日もお疲れ様でしたー！！！ https://t.co/5pf6qfQYTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034562556308942848"
+          ]
+        },
+        "author_id": "1987691144776663040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2034562568061379007",
+        "created_at": "2026-03-19T09:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034562568061379007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pf6qfQYTm",
+              "end": 84,
+              "expanded_url": "https://x.com/NikkeRf7/status/2034562568061379007/photo/1",
+              "media_key": "16_2034562556308942848",
+              "start": 61,
+              "url": "https://t.co/5pf6qfQYTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034562568061379007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "しごおわ帰宅！\nガチャは軽症で済んでよかった...\n諸々終わらせたら春イベやるぞ〜！\n皆さん本日もお疲れ様でしたー！！！ https://t.co/5pf6qfQYTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 4740,
+          "like_count": 96267,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14025
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T01:18:09.000Z",
+        "description": "20↑🚹微課金でのんびりニケ活をしています！\nベテラン新米問わず仲良くお話できたら嬉しいです！\n推しはレッドフードですが基本は箱推し寄りです！\n※雑多な内容も発信します",
+        "id": "1987691144776663040",
+        "name": "しるきぃさん@NIKKE",
+        "pinned_tweet_id": "2027893927253316067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987691802695225345/T9hYn9EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 1006,
+          "like_count": 11665,
+          "listed_count": 6,
+          "media_count": 1024,
+          "tweet_count": 10787
+        },
+        "username": "NikkeRf7",
+        "verified": false
+      }
+    ]
+  }
+}

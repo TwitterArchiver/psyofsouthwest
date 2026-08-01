@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1854553393525555575",
+    "created_at": "2024-11-08T19:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T20:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854971193063096338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2916917561",
+          "start": 0,
+          "username": "SamYangAus"
+        },
+        {
+          "end": 26,
+          "id": "460715974",
+          "start": 12,
+          "username": "catcatcat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854971193063096338",
+    "in_reply_to_user_id": "2916917561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854757428442939863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamYangAus @catcatcat8964 不知道耶稣考试几分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1854553393525555575",
+        "created_at": "2024-11-08T19:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T20:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854971193063096338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2916917561",
+              "start": 0,
+              "username": "SamYangAus"
+            },
+            {
+              "end": 26,
+              "id": "460715974",
+              "start": 12,
+              "username": "catcatcat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854971193063096338",
+        "in_reply_to_user_id": "2916917561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854757428442939863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamYangAus @catcatcat8964 不知道耶稣考试几分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "1854553393525555575",
+        "created_at": "2024-11-08T05:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T06:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854757428442939863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "460715974",
+              "start": 0,
+              "username": "catcatcat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854757428442939863",
+        "in_reply_to_user_id": "460715974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854553393525555575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catcatcat8964 高华一向很厉害的。耶稣不出谁与争锋的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2694,
+          "like_count": 18308,
+          "listed_count": 4,
+          "tweet_count": 8116
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 339
+        },
+        "username": "SamYangAus",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-11T01:51:57.000Z",
+        "description": "这个bio是拿来troll的谁认真读谁傻逼｜百合（迫真｜（被钦点的）键政人和岁静萌豚和黄皮左逼以及老鸨黄蝻｜魔怔mtf｜色图自动转发bot｜精神病兔狲｜原创博主｜原创心情素材收集器｜头像不是本人，这是孙雷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LSun",
+                "end": 23,
+                "expanded_url": "https://github.com/LSun",
+                "start": 0,
+                "url": "https://t.co/Ne9SnxfTOq"
+              }
+            ]
+          }
+        },
+        "id": "460715974",
+        "location": "Gookland",
+        "name": "你的X友孙木琴🏳️‍🌈",
+        "pinned_tweet_id": "1850411651784204679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806592085811773440/3u1RHWFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 3881,
+          "like_count": 249839,
+          "listed_count": 9,
+          "tweet_count": 154465
+        },
+        "url": "https://t.co/Ne9SnxfTOq",
+        "username": "catcatcat8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1903730083250180433",
+    "created_at": "2025-03-23T16:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903839470450843681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352188646766436352",
+          "start": 0,
+          "username": "techeconomyana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903839470450843681",
+    "in_reply_to_user_id": "1352188646766436352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903730083250180433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@techeconomyana 你这是在劝人放杠杆赌博"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1903730083250180433",
+        "created_at": "2025-03-23T16:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903839470450843681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352188646766436352",
+              "start": 0,
+              "username": "techeconomyana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903839470450843681",
+        "in_reply_to_user_id": "1352188646766436352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903730083250180433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@techeconomyana 你这是在劝人放杠杆赌博"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352188646766436352",
+        "conversation_id": "1903730083250180433",
+        "created_at": "2025-03-23T08:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T09:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903730083250180433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903730083250180433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 273797,
+          "like_count": 511,
+          "quote_count": 7,
+          "reply_count": 148,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "现在中国真是个人发展的大好时机，遍地都是机遇，利率2.65%的个人消费贷每个人都能借出50万来。银行基本不怎么问去向，这钱你是拿来创业，还是炒股，都可以自由支配。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 3286,
+          "like_count": 27760,
+          "listed_count": 7,
+          "media_count": 315,
+          "tweet_count": 10108
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T09:37:58.000Z",
+        "description": "经济数据分析，科技行业动态追踪。",
+        "id": "1352188646766436352",
+        "location": "China",
+        "name": "高级分析师",
+        "pinned_tweet_id": "1901488131687457096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751245194069188608/ToFwo_l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26644,
+          "following_count": 448,
+          "like_count": 19299,
+          "listed_count": 318,
+          "media_count": 504,
+          "tweet_count": 4437
+        },
+        "username": "techeconomyana",
+        "verified": true
+      }
+    ]
+  }
+}

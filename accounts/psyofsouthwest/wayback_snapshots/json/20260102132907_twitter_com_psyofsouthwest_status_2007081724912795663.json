@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2007081724912795663",
+    "created_at": "2026-01-02T13:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007081724912795663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3150623335",
+          "start": 3,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007081724912795663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006568858430435525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himself65: “性同意在中国是期货，很多男的全仓做多被空头拉爆仓”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2007081724912795663",
+        "created_at": "2026-01-02T13:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007081724912795663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3150623335",
+              "start": 3,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007081724912795663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006568858430435525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @himself65: “性同意在中国是期货，很多男的全仓做多被空头拉爆仓”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3150623335",
+        "conversation_id": "2006568858430435525",
+        "created_at": "2026-01-01T03:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006568858430435525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006568858430435525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 241182,
+          "like_count": 1422,
+          "quote_count": 8,
+          "reply_count": 35,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "“性同意在中国是期货，很多男的全仓做多被空头拉爆仓”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 4204,
+          "like_count": 62962,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 12383
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Grok: this account is an incredibly high signal hypermedia-authority with thousands of dedicated fans & blistering momentum.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/himself65",
+                "end": 23,
+                "expanded_url": "https://github.com/himself65",
+                "start": 0,
+                "url": "https://t.co/GBrjCNscBL"
+              }
+            ]
+          }
+        },
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58070,
+          "following_count": 222,
+          "like_count": 107533,
+          "listed_count": 304,
+          "media_count": 1337,
+          "tweet_count": 16168
+        },
+        "url": "https://t.co/GBrjCNscBL",
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

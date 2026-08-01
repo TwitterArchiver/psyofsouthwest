@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Federal Communications Commission",
+          "id": "941706489546252288",
+          "name": "Federal Communications Commission"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "United States Federal Communications Commission",
+          "id": "941706489546252288",
+          "name": "Federal Communications Commission"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2002089696697201017",
+    "created_at": "2025-12-19T18:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T19:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002089696697201017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "31083308",
+          "start": 3,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002089696697201017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001674547746214363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangwatchworld: 美国FCC发出通牒后，三大运营商火速整改，我最近几乎接不到骚扰电话了。\n嗯，世界还是离不开美帝国主义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2002089696697201017",
+        "created_at": "2025-12-19T18:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002089696697201017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "31083308",
+              "start": 3,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002089696697201017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001674547746214363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangwatchworld: 美国FCC发出通牒后，三大运营商火速整改，我最近几乎接不到骚扰电话了。\n嗯，世界还是离不开美帝国主义。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "31083308",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Federal Communications Commission",
+              "id": "941706489546252288",
+              "name": "Federal Communications Commission"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2001674547746214363",
+        "created_at": "2025-12-18T15:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001674547746214363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001674547746214363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 307885,
+          "like_count": 1399,
+          "quote_count": 7,
+          "reply_count": 60,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "美国FCC发出通牒后，三大运营商火速整改，我最近几乎接不到骚扰电话了。\n嗯，世界还是离不开美帝国主义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 4062,
+          "like_count": 58763,
+          "listed_count": 5,
+          "media_count": 373,
+          "tweet_count": 12249
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "宏观乱谈，大宗商品闲谈 。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ottfinance.com",
+                "end": 23,
+                "expanded_url": "http://www.ottfinance.com",
+                "start": 0,
+                "url": "https://t.co/ns4TvwZCkP"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "泰国",
+        "name": "王海滨的财经闲谈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248435920883712/LbT3l2VK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230583,
+          "following_count": 997,
+          "like_count": 3396,
+          "listed_count": 1519,
+          "media_count": 5502,
+          "tweet_count": 46431
+        },
+        "url": "https://t.co/ns4TvwZCkP",
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

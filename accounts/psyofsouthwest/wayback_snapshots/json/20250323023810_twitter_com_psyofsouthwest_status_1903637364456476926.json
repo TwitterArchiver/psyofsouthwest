@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1903316458613965276",
+    "created_at": "2025-03-23T02:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T03:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903637364456476926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "982460989005287424",
+          "start": 0,
+          "username": "entangled_pair"
+        },
+        {
+          "end": 28,
+          "id": "2786701",
+          "start": 16,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903637364456476926",
+    "in_reply_to_user_id": "982460989005287424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903384358825886034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entangled_pair @williamlong 郑灵华会去找你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1903316458613965276",
+        "created_at": "2025-03-23T02:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T03:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903637364456476926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982460989005287424",
+              "start": 0,
+              "username": "entangled_pair"
+            },
+            {
+              "end": 28,
+              "id": "2786701",
+              "start": 16,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903637364456476926",
+        "in_reply_to_user_id": "982460989005287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903384358825886034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entangled_pair @williamlong 郑灵华会去找你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982460989005287424",
+        "conversation_id": "1903316458613965276",
+        "created_at": "2025-03-22T09:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903384358825886034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903384358825886034",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8814,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903316458613965276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 另一方面虽然实名制导致个人信息泄露和开盒变得更容易了，但是现在开盒的后果其实反而不严重了。\n很多年前如果你得到了一个人的身份证信息能做很多事情，现在拿到别人的身份证基本没啥用，所以开盒很多时候也就是个心理威慑，实际给人带来的威胁很有限"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 3271,
+          "like_count": 27526,
+          "listed_count": 7,
+          "media_count": 315,
+          "tweet_count": 10090
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "当代生活是垃圾",
+        "id": "982460989005287424",
+        "name": "JK.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795750045972860928/OgxlRTIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 236,
+          "like_count": 5475,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1345
+        },
+        "username": "entangled_pair",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385902,
+          "following_count": 299,
+          "like_count": 0,
+          "listed_count": 2708,
+          "media_count": 3009,
+          "tweet_count": 28966
+        },
+        "username": "williamlong",
+        "verified": false
+      }
+    ]
+  }
+}

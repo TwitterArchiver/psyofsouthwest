@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1797903030945497355",
+    "created_at": "2024-06-04T08:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T09:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797908643490541828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1474784879720427520",
+          "start": 0,
+          "username": "wxy53231323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797908643490541828",
+    "in_reply_to_user_id": "1474784879720427520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797903030945497355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxy53231323 绞刑就是这个原理，非常危险的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1797903030945497355",
+        "created_at": "2024-06-04T08:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T09:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797908643490541828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1474784879720427520",
+              "start": 0,
+              "username": "wxy53231323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797908643490541828",
+        "in_reply_to_user_id": "1474784879720427520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797903030945497355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxy53231323 绞刑就是这个原理，非常危险的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1474784879720427520",
+        "conversation_id": "1797903030945497355",
+        "created_at": "2024-06-04T08:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T09:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797903030945497355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797903030945497355",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说脖子套上16mm安全绳从7楼跳下去头会不会断啊（认真的发问）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 2168,
+          "like_count": 11519,
+          "listed_count": 4,
+          "tweet_count": 6057
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T16:51:38.000Z",
+        "description": "是个阴暗孤僻的废物，正在准备掉出这个世界",
+        "id": "1474784879720427520",
+        "location": "Shanghai",
+        "name": "翛羽🏳‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475459940911554572/XJCF-i4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 986,
+          "like_count": 3617,
+          "listed_count": 3,
+          "tweet_count": 129
+        },
+        "username": "wxy53231323",
+        "verified": false
+      }
+    ]
+  }
+}

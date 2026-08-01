@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1984949122353525191",
+    "created_at": "2025-11-02T21:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T22:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985093984050712796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736717167981182976",
+          "start": 0,
+          "username": "ZHO_ZHO_ZHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985093984050712796",
+    "in_reply_to_user_id": "1736717167981182976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984949122353525191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHO_ZHO_ZHO ai幻觉无解"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984949110471036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4v0swLakAAjs_P.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1984949122353525191",
+        "created_at": "2025-11-02T21:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T22:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985093984050712796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736717167981182976",
+              "start": 0,
+              "username": "ZHO_ZHO_ZHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985093984050712796",
+        "in_reply_to_user_id": "1736717167981182976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984949122353525191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHO_ZHO_ZHO ai幻觉无解"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984949110471036928"
+          ]
+        },
+        "author_id": "1736717167981182976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579631776967688192",
+              "name": "Consulting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1584486561692798976",
+              "name": "Financial advisory"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1984949122353525191",
+        "created_at": "2025-11-02T11:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984949122353525191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39Cq3pXGtd",
+              "end": 179,
+              "expanded_url": "https://x.com/ZHO_ZHO_ZHO/status/1984949122353525191/photo/1",
+              "media_key": "3_1984949110471036928",
+              "start": 156,
+              "url": "https://t.co/39Cq3pXGtd"
+            },
+            {
+              "display_url": "x.com/nexta_tv/statu…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/nexta_tv/status/1984662009443410117",
+              "start": 180,
+              "url": "https://t.co/59IlSaYLXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984949122353525191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 46725,
+          "like_count": 96,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984662009443410117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OpenAI 开始卡脖子了！\n\n出于“安全”考虑，ChatGPT 已不再提供医疗、法律或财务建议（10月29日生效\n\n• 不再给出药物名称或剂量\n• 不再提供诉讼模板、法庭策略或“如果……该怎么办”之类的建议\n• 不再提供任何投资建议或买卖建议\n\n现在只提供原理和机制概述，并建议你咨询医生、律师或财务专业人士 https://t.co/39Cq3pXGtd https://t.co/59IlSaYLXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 4025,
+          "like_count": 53286,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 12050
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:57:34.000Z",
+        "description": "Architect | Artist | Ai explorer | Founder of @comfy_community & @comfy_park | zhozho3965@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "comfy_community"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "comfy_park"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZHO-ZHO-ZHO",
+                "end": 23,
+                "expanded_url": "https://github.com/ZHO-ZHO-ZHO",
+                "start": 0,
+                "url": "https://t.co/EuqvMJQe1Y"
+              }
+            ]
+          }
+        },
+        "id": "1736717167981182976",
+        "name": "-Zho-",
+        "pinned_tweet_id": "1917467387512905808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736718001905303553/eLVgZgbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29722,
+          "following_count": 162,
+          "like_count": 2564,
+          "listed_count": 400,
+          "media_count": 2182,
+          "tweet_count": 3740
+        },
+        "url": "https://t.co/EuqvMJQe1Y",
+        "username": "ZHO_ZHO_ZHO",
+        "verified": true
+      }
+    ]
+  }
+}

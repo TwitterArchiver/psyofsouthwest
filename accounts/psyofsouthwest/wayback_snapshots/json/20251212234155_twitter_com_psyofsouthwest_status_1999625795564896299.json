@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1999625795564896299",
+    "created_at": "2025-12-12T23:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999625795564896299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999625795564896299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999357689525412247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 一家 2375 名员工，年营收 7.59 亿美元的上市公司，全员远程办公，分布在全球 60 多个国家，这你能受得了吗？\n\n这家公司把「公司怎么运转」写成手册给全世界看，相当于一整家公司的操作系统，被很多人当成“远程协作圣经”和“组织管理教程…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2820,
+        "media_key": "3_1999356731600867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78kWrZbEAAsn-8.jpg",
+        "width": 2026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1999625795564896299",
+        "created_at": "2025-12-12T23:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999625795564896299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999625795564896299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999357689525412247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 一家 2375 名员工，年营收 7.59 亿美元的上市公司，全员远程办公，分布在全球 60 多个国家，这你能受得了吗？\n\n这家公司把「公司怎么运转」写成手册给全世界看，相当于一整家公司的操作系统，被很多人当成“远程协作圣经”和“组织管理教程…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999356731600867328"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692488",
+              "name": "GitLab"
+            }
+          }
+        ],
+        "conversation_id": "1999357689525412247",
+        "created_at": "2025-12-12T05:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999357689525412247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "GitLab's Handbook is a public guide that documents nearly every aspect of how the company operates offering a blueprint for remote work and ways of working.",
+              "display_url": "handbook.gitlab.com",
+              "end": 147,
+              "expanded_url": "http://handbook.gitlab.com",
+              "images": [
+                {
+                  "height": 2160,
+                  "url": "https://pbs.twimg.com/news_img/1999357697439993856/uo6GDvzf?format=png&name=orig",
+                  "width": 3840
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999357697439993856/uo6GDvzf?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "The GitLab Handbook",
+              "unwound_url": "https://handbook.gitlab.com/",
+              "url": "https://t.co/HvPxxCZ8Ib"
+            },
+            {
+              "display_url": "pic.x.com/poj8kvJO6p",
+              "end": 183,
+              "expanded_url": "https://x.com/immersivetran/status/1999357689525412247/photo/1",
+              "media_key": "3_1999356731600867328",
+              "start": 160,
+              "url": "https://t.co/poj8kvJO6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999357689525412247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "handbook.gitlab.com",
+                "end": 147,
+                "expanded_url": "http://handbook.gitlab.com",
+                "start": 124,
+                "url": "https://t.co/zx3MjmK4lD"
+              }
+            ]
+          },
+          "text": "一家 2375 名员工，年营收 7.59 亿美元的上市公司，全员远程办公，分布在全球 60 多个国家，这你能受得了吗？\n\n这家公司把「公司怎么运转」写成手册给全世界看，相当于一整家公司的操作系统，被很多人当成“远程协作圣经”和“组织管理教程”。\n\nhttps://t.co/zx3MjmK4lD 本质上是 GitLab 公司完全公开的内部 Wiki，几乎把公司运行的方方面面都写在上面，从使命愿景、价值观，到薪资结构、流程细节、会议规范、远程办公指南、入职手册，全都摊开给任何人看。​\n\n整本手册内容超过 2000–2700 页，被称为公司唯一的「单一事实源」（single source of truth），员工有问题先查手册，外部的人也能直接学习 GitLab 是怎么把一家公司运营起来的。\n\n它最特别的三个设计\n\n第一，是极致公开。GitLab 把「默认公开」写进文化里，能公开的全部放在 Handbook，不到必须保密的程度就不设权限，这里面甚至包括 OKR、流程、合规控制等细节。​\n\n第二，是“把一切写下来”的习惯。GitLab 要求用文档替代口头说明，用可搜索、可追溯的页面代替“谁记得谁说过”，所有人都遵守 handbook-first 的规则，先查手册，再问人。​\n\n第三，是为远程而生的结构。GitLab 是从创立就 All-remote 的公司，Handbook 按远程实际需求去组织内容：异步沟通指南、远程开会规范、跨时区协作技巧、福利和报销规则等，都有专门章节，帮助上千人团队在 60+ 国家高效协作。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 740,
+          "impression_count": 64459,
+          "like_count": 633,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "一家 2375 名员工，年营收 7.59 亿美元的上市公司，全员远程办公，分布在全球 60 多个国家，这你能受得了吗？\n\n这家公司把「公司怎么运转」写成手册给全世界看，相当于一整家公司的操作系统，被很多人当成“远程协作圣经”和“组织管理教程”。\n\nhttps://t.co/HvPxxCZ8Ib 本质上是 GitLab https://t.co/poj8kvJO6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 4015,
+          "like_count": 57157,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 12208
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "1995709229580370042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24307,
+          "following_count": 102,
+          "like_count": 392,
+          "listed_count": 125,
+          "media_count": 429,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": false
+      }
+    ]
+  }
+}

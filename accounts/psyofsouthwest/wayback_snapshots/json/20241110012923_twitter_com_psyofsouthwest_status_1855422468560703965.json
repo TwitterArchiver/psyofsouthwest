@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855256532054593536",
+        "7_1855256580624629760"
+      ],
+      "media_source_tweet_id": [
+        "1855257105072058480",
+        "1855257105072058480"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1855422468560703965",
+    "created_at": "2024-11-10T01:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T02:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855422468560703965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOhrxDPhir",
+          "end": 76,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+          "media_key": "7_1855256532054593536",
+          "start": 53,
+          "url": "https://t.co/nOhrxDPhir"
+        },
+        {
+          "display_url": "pic.x.com/nOhrxDPhir",
+          "end": 76,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+          "media_key": "7_1855256580624629760",
+          "start": 53,
+          "url": "https://t.co/nOhrxDPhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855422468560703965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 311
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855257105072058480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 正当郑州的大学生们向开封进发时，南京的大学生们开始向马鞍山挺进。 https://t.co/nOhrxDPhir"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31066,
+        "height": 1920,
+        "media_key": "7_1855256532054593536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855256532054593536/pu/img/1UJ-2fDe__0aLoKN.jpg",
+        "public_metrics": {
+          "view_count": 314651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256532054593536/pu/vid/avc1/320x568/oANuHDF6303_xHbc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256532054593536/pu/vid/avc1/480x852/1lejVc-KZKtd89sx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256532054593536/pu/vid/avc1/720x1280/X_qoD4JSGPO8j4Ii.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855256532054593536/pu/pl/ytrE9dvEm6IQxxrQ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 69358,
+        "height": 1280,
+        "media_key": "7_1855256580624629760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855256580624629760/pu/img/QpKr2UWW4zJUq6xE.jpg",
+        "public_metrics": {
+          "view_count": 37503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256580624629760/pu/vid/avc1/320x632/xy81VswvkQDqlQvi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256580624629760/pu/vid/avc1/480x948/b-UpkC6TFAYkqvIl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855256580624629760/pu/vid/avc1/648x1280/l1XSQf8JyuqfN8Pr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855256580624629760/pu/pl/I4HapvnH_r0c3Bf4.m3u8?tag=12&v=665"
+          }
+        ],
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855256532054593536",
+            "7_1855256580624629760"
+          ],
+          "media_source_tweet_id": [
+            "1855257105072058480",
+            "1855257105072058480"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1855422468560703965",
+        "created_at": "2024-11-10T01:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T02:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855422468560703965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOhrxDPhir",
+              "end": 76,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+              "media_key": "7_1855256532054593536",
+              "start": 53,
+              "url": "https://t.co/nOhrxDPhir"
+            },
+            {
+              "display_url": "pic.x.com/nOhrxDPhir",
+              "end": 76,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+              "media_key": "7_1855256580624629760",
+              "start": 53,
+              "url": "https://t.co/nOhrxDPhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855422468560703965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 311
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855257105072058480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 正当郑州的大学生们向开封进发时，南京的大学生们开始向马鞍山挺进。 https://t.co/nOhrxDPhir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855256532054593536",
+            "7_1855256580624629760"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1855257105072058480",
+        "created_at": "2024-11-09T14:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T15:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855257105072058480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOhrxDPhir",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+              "media_key": "7_1855256532054593536",
+              "start": 33,
+              "url": "https://t.co/nOhrxDPhir"
+            },
+            {
+              "display_url": "pic.x.com/nOhrxDPhir",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1855257105072058480/video/1",
+              "media_key": "7_1855256580624629760",
+              "start": 33,
+              "url": "https://t.co/nOhrxDPhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855257105072058480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 704741,
+          "like_count": 2927,
+          "quote_count": 68,
+          "reply_count": 386,
+          "retweet_count": 311
+        },
+        "reply_settings": "everyone",
+        "text": "正当郑州的大学生们向开封进发时，南京的大学生们开始向马鞍山挺进。 https://t.co/nOhrxDPhir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 2699,
+          "like_count": 18393,
+          "listed_count": 4,
+          "tweet_count": 8153
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786661,
+          "following_count": 921,
+          "like_count": 5451,
+          "listed_count": 7885,
+          "tweet_count": 24841
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

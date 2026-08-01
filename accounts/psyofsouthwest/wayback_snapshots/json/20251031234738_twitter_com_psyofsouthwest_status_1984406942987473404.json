@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1300453672220983296",
+          "name": "University of Southern California"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1300453672220983296",
+          "name": "University of Southern California"
+        }
+      }
+    ],
+    "conversation_id": "1984406942987473404",
+    "created_at": "2025-10-31T23:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T00:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984406942987473404"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "Halloween"
+        },
+        {
+          "end": 137,
+          "start": 123,
+          "tag": "trickandtreat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1136383051917910017",
+          "start": 3,
+          "username": "ChineseEmbinUS"
+        },
+        {
+          "end": 117,
+          "id": "19809471",
+          "start": 113,
+          "username": "USC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984406942987473404",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984336142884585855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChineseEmbinUS: It's #Halloween Day! 🎃👻 \nSee the special treats offered by our Embassy for the students from @USC! 🐼🍬\n\n#trickandtreat #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984336114824470528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nHLtcXYAAFLqo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1984336114832785408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nHLteWQAAOejf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1300453672220983296",
+              "name": "University of Southern California"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1300453672220983296",
+              "name": "University of Southern California"
+            }
+          }
+        ],
+        "conversation_id": "1984406942987473404",
+        "created_at": "2025-10-31T23:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T00:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984406942987473404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Halloween"
+            },
+            {
+              "end": 137,
+              "start": 123,
+              "tag": "trickandtreat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1136383051917910017",
+              "start": 3,
+              "username": "ChineseEmbinUS"
+            },
+            {
+              "end": 117,
+              "id": "19809471",
+              "start": 113,
+              "username": "USC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984406942987473404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984336142884585855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChineseEmbinUS: It's #Halloween Day! 🎃👻 \nSee the special treats offered by our Embassy for the students from @USC! 🐼🍬\n\n#trickandtreat #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984336114824470528",
+            "3_1984336114832785408"
+          ]
+        },
+        "author_id": "1136383051917910017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1300453672220983296",
+              "name": "University of Southern California"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1300453672220983296",
+              "name": "University of Southern California"
+            }
+          }
+        ],
+        "conversation_id": "1984336142884585855",
+        "created_at": "2025-10-31T19:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984336142884585855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "Halloween"
+            },
+            {
+              "end": 117,
+              "start": 103,
+              "tag": "trickandtreat"
+            },
+            {
+              "end": 130,
+              "start": 118,
+              "tag": "EmbassyTour"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 97,
+              "id": "19809471",
+              "start": 93,
+              "username": "USC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6rmb45PPW",
+              "end": 154,
+              "expanded_url": "https://x.com/ChineseEmbinUS/status/1984336142884585855/photo/1",
+              "media_key": "3_1984336114824470528",
+              "start": 131,
+              "url": "https://t.co/g6rmb45PPW"
+            },
+            {
+              "display_url": "pic.x.com/g6rmb45PPW",
+              "end": 154,
+              "expanded_url": "https://x.com/ChineseEmbinUS/status/1984336142884585855/photo/1",
+              "media_key": "3_1984336114832785408",
+              "start": 131,
+              "url": "https://t.co/g6rmb45PPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984336142884585855",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5712,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "It's #Halloween Day! 🎃👻 \nSee the special treats offered by our Embassy for the students from @USC! 🐼🍬\n\n#trickandtreat #EmbassyTour https://t.co/g6rmb45PPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 4021,
+          "like_count": 52721,
+          "listed_count": 7,
+          "media_count": 371,
+          "tweet_count": 12011
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-05T21:23:27.000Z",
+        "description": "Official twitter account of the Embassy of the People's Republic of China in the United States of America",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.org/eng/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.org/eng/",
+                "start": 0,
+                "url": "https://t.co/CDD3PtM4RK"
+              }
+            ]
+          }
+        },
+        "id": "1136383051917910017",
+        "location": "Washington, DC",
+        "name": "Chinese Embassy in US",
+        "pinned_tweet_id": "1983732876043850166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246473297199587329/Sih5XdxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330530,
+          "following_count": 617,
+          "like_count": 6119,
+          "listed_count": 1301,
+          "media_count": 2561,
+          "tweet_count": 6306
+        },
+        "url": "https://t.co/CDD3PtM4RK",
+        "username": "ChineseEmbinUS",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-31T08:33:13.000Z",
+        "description": "The official account of the University of Southern California. \n\nTrojan Research Fund: https://t.co/5gPQRpLqyC\n\n#USC | #FightOn",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "USC"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "tag": "FightOn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "giving.usc.edu/research",
+                "end": 110,
+                "expanded_url": "http://giving.usc.edu/research",
+                "start": 87,
+                "url": "https://t.co/5gPQRpLqyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weare.sc/links",
+                "end": 23,
+                "expanded_url": "https://weare.sc/links",
+                "start": 0,
+                "url": "https://t.co/1mv3Cz2IMO"
+              }
+            ]
+          }
+        },
+        "id": "19809471",
+        "location": "Los Angeles, CA",
+        "name": "USC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338648284118667264/u8OeYl_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174498,
+          "following_count": 3048,
+          "like_count": 18951,
+          "listed_count": 1457,
+          "media_count": 7571,
+          "tweet_count": 34887
+        },
+        "url": "https://t.co/1mv3Cz2IMO",
+        "username": "USC",
+        "verified": true
+      }
+    ]
+  }
+}

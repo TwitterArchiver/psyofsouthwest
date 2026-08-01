@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2003410464714391688",
+    "created_at": "2025-12-23T12:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003439363519316025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762002574595788800",
+          "start": 0,
+          "username": "eddyyone11403"
+        },
+        {
+          "end": 29,
+          "id": "1072109417200414720",
+          "start": 15,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003439363519316025",
+    "in_reply_to_user_id": "1762002574595788800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003425004462178366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eddyyone11403 @wangzhian8848 正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2003410464714391688",
+        "created_at": "2025-12-23T12:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003439363519316025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762002574595788800",
+              "start": 0,
+              "username": "eddyyone11403"
+            },
+            {
+              "end": 29,
+              "id": "1072109417200414720",
+              "start": 15,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003439363519316025",
+        "in_reply_to_user_id": "1762002574595788800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003425004462178366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eddyyone11403 @wangzhian8848 正解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762002574595788800",
+        "conversation_id": "2003410464714391688",
+        "created_at": "2025-12-23T11:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003425004462178366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003425004462178366",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1733,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003410464714391688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 源于《魔兽世界》这款游戏，战士有个技能叫做“斩杀”，对手血量低于20%的时候这个技能就处于可用状态，比其他技能伤害高很多，通常可以一击必杀。所以这个20%的血量就是斩杀线。现在引申为你坠落到某种状态就无法翻身了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 4103,
+          "like_count": 60230,
+          "listed_count": 5,
+          "media_count": 374,
+          "tweet_count": 12304
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T06:32:29.000Z",
+        "description": "",
+        "id": "1762002574595788800",
+        "name": "eddyyone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774461756326465539/ASH7u0Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 489,
+          "like_count": 287,
+          "listed_count": 12,
+          "media_count": 35,
+          "tweet_count": 5351
+        },
+        "username": "eddyyone11403",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466063,
+          "following_count": 650,
+          "like_count": 755,
+          "listed_count": 3933,
+          "media_count": 6631,
+          "tweet_count": 19310
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

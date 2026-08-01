@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2012068521992474641",
+    "created_at": "2026-01-16T20:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T21:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012259842199593393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2372778043",
+          "start": 0,
+          "username": "skyguoCypherium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012259842199593393",
+    "in_reply_to_user_id": "2372778043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012068521992474641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyguoCypherium 经常在医院看见因为陪诊吵架的一家人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2012068521992474641",
+        "created_at": "2026-01-16T20:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T21:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012259842199593393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2372778043",
+              "start": 0,
+              "username": "skyguoCypherium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012259842199593393",
+        "in_reply_to_user_id": "2372778043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012068521992474641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyguoCypherium 经常在医院看见因为陪诊吵架的一家人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2372778043",
+        "conversation_id": "2012068521992474641",
+        "created_at": "2026-01-16T07:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T08:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012068521992474641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012068521992474641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17513,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医院真的是对单身人士杀伤最大的地方。看着别人都是老伴或者子女陪着，自己还得一个人跑上跑下，亲自排队。要是有个腿脚不便的就更难受了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 4412,
+          "like_count": 69191,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 12632
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-04T23:06:39.000Z",
+        "description": "@CypheriumChain Commander in Chief. $CPH https://t.co/LgubsvDmiO",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "CPH"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "CypheriumChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/cypherium_supe…",
+                "end": 64,
+                "expanded_url": "https://t.me/cypherium_supergroup",
+                "start": 41,
+                "url": "https://t.co/LgubsvDmiO"
+              }
+            ]
+          }
+        },
+        "id": "2372778043",
+        "name": "Sky G.cph",
+        "pinned_tweet_id": "1991489995329400834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905108613578006528/R3JzJ1p4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20095,
+          "following_count": 1188,
+          "like_count": 12429,
+          "listed_count": 126,
+          "media_count": 927,
+          "tweet_count": 11704
+        },
+        "username": "skyguoCypherium",
+        "verified": true
+      }
+    ]
+  }
+}

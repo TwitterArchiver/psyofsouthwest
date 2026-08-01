@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2030622689132794291",
+    "created_at": "2026-03-08T12:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030622689132794291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019285153517105152",
+          "start": 3,
+          "username": "my_doro_s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030622689132794291",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030539352322007158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my_doro_s2: I finished an important exam.\nTo celebrate, I drank last night, but the hangover is pretty bad, so instead of making a new…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2030539349188915201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3sx6LbsAEjEvb.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2030539349755142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3sx8SboAAdbil.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2030539349981556736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3sx9IacAAhJCs.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2030539350178770944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3sx93bsAABmZ3.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2030622689132794291",
+        "created_at": "2026-03-08T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030622689132794291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019285153517105152",
+              "start": 3,
+              "username": "my_doro_s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030622689132794291",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030539352322007158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my_doro_s2: I finished an important exam.\nTo celebrate, I drank last night, but the hangover is pretty bad, so instead of making a new…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030539349188915201",
+            "3_2030539349755142144",
+            "3_2030539349981556736",
+            "3_2030539350178770944"
+          ]
+        },
+        "author_id": "2019285153517105152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2030539352322007158",
+        "created_at": "2026-03-08T07:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030539352322007158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BPowCs6tP",
+              "end": 287,
+              "expanded_url": "https://x.com/my_doro_s2/status/2030539352322007158/photo/1",
+              "media_key": "3_2030539349188915201",
+              "start": 264,
+              "url": "https://t.co/5BPowCs6tP"
+            },
+            {
+              "display_url": "pic.x.com/5BPowCs6tP",
+              "end": 287,
+              "expanded_url": "https://x.com/my_doro_s2/status/2030539352322007158/photo/1",
+              "media_key": "3_2030539349755142144",
+              "start": 264,
+              "url": "https://t.co/5BPowCs6tP"
+            },
+            {
+              "display_url": "pic.x.com/5BPowCs6tP",
+              "end": 287,
+              "expanded_url": "https://x.com/my_doro_s2/status/2030539352322007158/photo/1",
+              "media_key": "3_2030539349981556736",
+              "start": 264,
+              "url": "https://t.co/5BPowCs6tP"
+            },
+            {
+              "display_url": "pic.x.com/5BPowCs6tP",
+              "end": 287,
+              "expanded_url": "https://x.com/my_doro_s2/status/2030539352322007158/photo/1",
+              "media_key": "3_2030539350178770944",
+              "start": 264,
+              "url": "https://t.co/5BPowCs6tP"
+            },
+            {
+              "display_url": "x.com/my_doro_s2/sta…",
+              "end": 311,
+              "expanded_url": "https://twitter.com/my_doro_s2/status/2019292613095158268",
+              "start": 288,
+              "url": "https://t.co/LqYfOgds4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030539352322007158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1180,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019292613095158268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I finished an important exam.\nTo celebrate, I drank last night, but the hangover is pretty bad, so instead of making a new fan art today, I’m posting versions of an old meme I made in several languages.\nI used a translator, so please excuse any awkward phrasing 🙏 https://t.co/5BPowCs6tP https://t.co/LqYfOgds4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4746,
+          "like_count": 90961,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13781
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T05:41:28.000Z",
+        "description": "make ai Doro fan art.\n\n🩵🩵LOVE DORO🩵🩵\nmisc. account(@Tis_Yu_S2)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Tis_Yu_S2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/my_doro_s2?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/my_doro_s2?igsh=MWllbGIyYXNpcm96bg==",
+                "start": 0,
+                "url": "https://t.co/JlQVibrnBv"
+              }
+            ]
+          }
+        },
+        "id": "2019285153517105152",
+        "location": "msga",
+        "name": "TisYu",
+        "pinned_tweet_id": "2025362256452804840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020345206261051397/vSIJ4SuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 73,
+          "like_count": 747,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/JlQVibrnBv",
+        "username": "my_doro_s2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2008141908309414230",
+    "created_at": "2026-01-05T11:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008141908309414230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3016619443",
+          "start": 3,
+          "username": "EvanWritesX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008141908309414230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008065409312817435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EvanWritesX: 关于 Giffgaff 近期会大面积封号的误读，是时候澄清一下了。\n\n最近很多大佬不经过信息核查，发布Giffgaff将迎来大面积封号，昨天我托我在英国的朋友，电话咨询了运营商，回复很明确，中国的客户不会受到影响。… https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2008065375355764736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94U0dfXgAAnMRu.jpg",
+        "width": 1247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2008141908309414230",
+        "created_at": "2026-01-05T11:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008141908309414230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3016619443",
+              "start": 3,
+              "username": "EvanWritesX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008141908309414230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008065409312817435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EvanWritesX: 关于 Giffgaff 近期会大面积封号的误读，是时候澄清一下了。\n\n最近很多大佬不经过信息核查，发布Giffgaff将迎来大面积封号，昨天我托我在英国的朋友，电话咨询了运营商，回复很明确，中国的客户不会受到影响。… https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008065375355764736"
+          ]
+        },
+        "author_id": "3016619443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2008065409312817435",
+        "created_at": "2026-01-05T06:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008065409312817435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDfkMw6iza",
+              "end": 131,
+              "expanded_url": "https://x.com/EvanWritesX/status/2008065409312817435/photo/1",
+              "media_key": "3_2008065375355764736",
+              "start": 108,
+              "url": "https://t.co/JDfkMw6iza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008065409312817435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 675,
+                "start": 666,
+                "tag": "Giffgaff"
+              },
+              {
+                "end": 679,
+                "start": 676,
+                "tag": "保号"
+              },
+              {
+                "end": 685,
+                "start": 680,
+                "tag": "数字游民"
+              },
+              {
+                "end": 691,
+                "start": 686,
+                "tag": "信息安全"
+              },
+              {
+                "end": 695,
+                "start": 692,
+                "tag": "辟谣"
+              }
+            ]
+          },
+          "text": "关于 Giffgaff 近期会大面积封号的误读，是时候澄清一下了。\n\n最近很多大佬不经过信息核查，发布Giffgaff将迎来大面积封号，昨天我托我在英国的朋友，电话咨询了运营商，回复很明确，中国的客户不会受到影响。\n\n我检索了一下这个封号的传闻，发现这样谣言已经连续十五年了，每年都会谣传一次，为什么是Giffgaff，因为Giffgaff在国内的存量客户较多，谣Giffgaff有流量。\n\n而且我检索了一下信息源，这个封号的消息，95%以上来自 𝕏 发布。\n\n哪些喊着封号的，你可以回查一下，你拿这个号码做了什么？\n\n我特意去扒了官方 Terms & Conditions，结论如下：别慌。\n\n1.Clause 2.9 的「63天规则」不适用于中国这个条款针对的是「欧盟地区免费漫游」（Roam Like At Home）的公平使用原则。如果你在非欧盟区（比如中国），本来就是付费漫游（Pay As You Go），根本不存在占用福利一说，所以这个条款对我们没有惩罚性影响。\n\n2.Clause 3.9 的 Suspend ≠ Terminate很多人混淆了概念。Suspend 是服务暂停（通常因违规或欠费），号还在，找客服能解；Terminate 才是彻底销号。漫游本身不会导致 Terminate。\n\n真正的「号贩子」是 Clause 13.3真正会让你丢号的只有一条：连续 6 个月无余额变动。 \n\n保号金律： 每 180 天内，至少发一条短信（30p）或充值一次。单纯收验证码不算活跃！\n\n拒绝焦虑，按规矩保号即可。\n\n#Giffgaff #保号 #数字游民 #信息安全 #辟谣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 14364,
+          "like_count": 142,
+          "quote_count": 5,
+          "reply_count": 33,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "关于 Giffgaff 近期会大面积封号的误读，是时候澄清一下了。\n\n最近很多大佬不经过信息核查，发布Giffgaff将迎来大面积封号，昨天我托我在英国的朋友，电话咨询了运营商，回复很明确，中国的客户不会受到影响。 https://t.co/JDfkMw6iza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 4300,
+          "like_count": 64956,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 12441
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n\n联系方式：https://t.co/2wytvRVLqf\n读书频道：https://t.co/0fTLS0vAOS    \n魔法推荐：https://t.co/w1sYMHBO96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 35,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 12,
+                "url": "https://t.co/2wytvRVLqf"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 64,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 41,
+                "url": "https://t.co/0fTLS0vAOS"
+              },
+              {
+                "display_url": "my.racknerd.com/aff.php?aff=16…",
+                "end": 97,
+                "expanded_url": "https://my.racknerd.com/aff.php?aff=16843",
+                "start": 74,
+                "url": "https://t.co/w1sYMHBO96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRVLqf"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "微信 - EvanaWorks",
+        "name": "Jason",
+        "pinned_tweet_id": "2007676380423872646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993562015932334082/50xwYK4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7234,
+          "following_count": 663,
+          "like_count": 1903,
+          "listed_count": 29,
+          "media_count": 727,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/2wytvRVLqf",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

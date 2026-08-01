@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1925676351131935228",
+    "created_at": "2025-05-24T00:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T01:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926071298771317106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "509060289",
+          "start": 0,
+          "username": "OzS_1"
+        },
+        {
+          "end": 19,
+          "id": "1438768050535231489",
+          "start": 7,
+          "username": "whiteTony99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926071298771317106",
+    "in_reply_to_user_id": "509060289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925757552379269321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OzS_1 @whiteTony99 印度当之无愧是第一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1925676351131935228",
+        "created_at": "2025-05-24T00:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T01:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926071298771317106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "509060289",
+              "start": 0,
+              "username": "OzS_1"
+            },
+            {
+              "end": 19,
+              "id": "1438768050535231489",
+              "start": 7,
+              "username": "whiteTony99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926071298771317106",
+        "in_reply_to_user_id": "509060289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925757552379269321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OzS_1 @whiteTony99 印度当之无愧是第一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "509060289",
+        "conversation_id": "1925676351131935228",
+        "created_at": "2025-05-23T03:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T04:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925757552379269321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438768050535231489",
+              "start": 0,
+              "username": "whiteTony99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925757552379269321",
+        "in_reply_to_user_id": "1438768050535231489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38883,
+          "like_count": 466,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925676351131935228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whiteTony99 这排名太胡扯了，完全不准。印度可以用飞机拦截末端速度超过5马赫的霹雳15，怎么才排第六？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 3872,
+          "like_count": 39171,
+          "listed_count": 6,
+          "media_count": 351,
+          "tweet_count": 11154
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-29T17:43:57.000Z",
+        "description": "",
+        "id": "509060289",
+        "name": "CM",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 776,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 266
+        },
+        "username": "OzS_1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T07:33:58.000Z",
+        "description": "世界并不只有零和游戏，还有合作共赢。",
+        "id": "1438768050535231489",
+        "location": "Singapore",
+        "name": "hello world",
+        "pinned_tweet_id": "1925676351131935228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869943608075546624/BabjG_qI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20278,
+          "following_count": 5640,
+          "like_count": 19456,
+          "listed_count": 79,
+          "media_count": 5278,
+          "tweet_count": 10808
+        },
+        "username": "whiteTony99",
+        "verified": false
+      }
+    ]
+  }
+}

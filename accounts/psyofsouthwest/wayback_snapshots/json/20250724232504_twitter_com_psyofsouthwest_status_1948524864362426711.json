@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1948064752527388863",
+    "created_at": "2025-07-24T23:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T00:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948524864362426711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1183140017603899392",
+          "start": 0,
+          "username": "Yang84902462"
+        },
+        {
+          "end": 24,
+          "id": "1454803007682453513",
+          "start": 14,
+          "username": "I_Xinnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948524864362426711",
+    "in_reply_to_user_id": "1183140017603899392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948288904089551005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang84902462 @I_Xinnnnn 百度副总谢广军的女儿十三岁就开盒网暴他人，还做福利姬，人与人之间差异还是很大的，要家长因势利导"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1948064752527388863",
+        "created_at": "2025-07-24T23:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T00:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948524864362426711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1183140017603899392",
+              "start": 0,
+              "username": "Yang84902462"
+            },
+            {
+              "end": 24,
+              "id": "1454803007682453513",
+              "start": 14,
+              "username": "I_Xinnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948524864362426711",
+        "in_reply_to_user_id": "1183140017603899392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948288904089551005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang84902462 @I_Xinnnnn 百度副总谢广军的女儿十三岁就开盒网暴他人，还做福利姬，人与人之间差异还是很大的，要家长因势利导"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183140017603899392",
+        "conversation_id": "1948064752527388863",
+        "created_at": "2025-07-24T07:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T08:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948288904089551005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454803007682453513",
+              "start": 0,
+              "username": "I_Xinnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948288904089551005",
+        "in_reply_to_user_id": "1454803007682453513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1705,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948064752527388863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_Xinnnnn 为什么大家都这样，我女儿12了，不锁门，玩什么都当着我们的面玩……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 3875,
+          "like_count": 42108,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11389
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T21:59:07.000Z",
+        "description": "Deadlift!",
+        "id": "1183140017603899392",
+        "location": "Australia",
+        "name": "咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183140240329887744/rxb_XR78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 156,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 2247
+        },
+        "username": "Yang84902462",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T13:31:05.000Z",
+        "description": "非二元/性别解放主义/hrt2023.6.25/对象@Rabbit_Pussy/愿化作一朵水仙花。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Rabbit_Pussy"
+              }
+            ]
+          }
+        },
+        "id": "1454803007682453513",
+        "location": "Chiba-ken, Japan",
+        "name": "依欣",
+        "pinned_tweet_id": "1872187369094603160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 982,
+          "like_count": 8262,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 1653
+        },
+        "username": "I_Xinnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

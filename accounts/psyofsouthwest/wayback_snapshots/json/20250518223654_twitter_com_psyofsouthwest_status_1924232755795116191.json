@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924232752993300480"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1924098257170702377",
+    "created_at": "2025-05-18T22:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T23:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924232755795116191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1567847595162091522",
+          "start": 0,
+          "username": "Jiankui_He"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kq4kDF8Fx1",
+          "end": 35,
+          "expanded_url": "https://x.com/psyofsouthwest/status/1924232755795116191/photo/1",
+          "media_key": "3_1924232752993300480",
+          "start": 12,
+          "url": "https://t.co/kq4kDF8Fx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924232755795116191",
+    "in_reply_to_user_id": "1567847595162091522",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924098257170702377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiankui_He https://t.co/kq4kDF8Fx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_1924232752993300480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrQ_fmtWcAACY-n.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924232752993300480"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1924098257170702377",
+        "created_at": "2025-05-18T22:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T23:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924232755795116191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567847595162091522",
+              "start": 0,
+              "username": "Jiankui_He"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq4kDF8Fx1",
+              "end": 35,
+              "expanded_url": "https://x.com/psyofsouthwest/status/1924232755795116191/photo/1",
+              "media_key": "3_1924232752993300480",
+              "start": 12,
+              "url": "https://t.co/kq4kDF8Fx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924232755795116191",
+        "in_reply_to_user_id": "1567847595162091522",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924098257170702377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiankui_He https://t.co/kq4kDF8Fx1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567847595162091522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1924098257170702377",
+        "created_at": "2025-05-18T13:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T14:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924098257170702377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924098257170702377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 612779,
+          "like_count": 3532,
+          "quote_count": 234,
+          "reply_count": 387,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "习近平，把我的护照还给我！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 3858,
+          "like_count": 38260,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 11060
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Gene Editing Pioneer.\n3 years in prison.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126878,
+          "following_count": 2,
+          "like_count": 90,
+          "listed_count": 275,
+          "media_count": 180,
+          "tweet_count": 361
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      }
+    ]
+  }
+}

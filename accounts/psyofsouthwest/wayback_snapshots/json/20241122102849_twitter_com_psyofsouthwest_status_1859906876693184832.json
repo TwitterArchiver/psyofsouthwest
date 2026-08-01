@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1859873429639528509",
+    "created_at": "2024-11-22T10:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T11:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859906876693184832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "452072245",
+          "start": 0,
+          "username": "lxfater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859906876693184832",
+    "in_reply_to_user_id": "452072245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859873429639528509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxfater 是编程先被AI取代还是治国理政先被AI取代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1859873429639528509",
+        "created_at": "2024-11-22T10:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859906876693184832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "452072245",
+              "start": 0,
+              "username": "lxfater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859906876693184832",
+        "in_reply_to_user_id": "452072245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859873429639528509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxfater 是编程先被AI取代还是治国理政先被AI取代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "452072245",
+        "conversation_id": "1859873429639528509",
+        "created_at": "2024-11-22T08:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T09:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859873429639528509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859873429639528509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3913,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们 ，假如哪天AI真的把编程替代了，你们有啥其他计划吗？🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 2782,
+          "like_count": 19814,
+          "listed_count": 4,
+          "tweet_count": 8571
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-01T11:26:00.000Z",
+        "description": "铁头程序员在尝试如何赚钱和提问 /\n微信咨询：tiechuiren101 /\ngithub(9k):  https://t.co/ytvQf2n1Pm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/lxfater",
+                "end": 75,
+                "expanded_url": "https://github.com/lxfater",
+                "start": 52,
+                "url": "https://t.co/ytvQf2n1Pm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lxfater",
+                "end": 23,
+                "expanded_url": "http://github.com/lxfater",
+                "start": 0,
+                "url": "https://t.co/VZKpvjSs38"
+              }
+            ]
+          }
+        },
+        "id": "452072245",
+        "location": "梦开始的地方",
+        "name": "铁锤人",
+        "pinned_tweet_id": "1849299675284971897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723719195995807744/9JIAjVJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37968,
+          "following_count": 859,
+          "like_count": 2213,
+          "listed_count": 417,
+          "tweet_count": 5592
+        },
+        "url": "https://t.co/VZKpvjSs38",
+        "username": "lxfater",
+        "verified": true
+      }
+    ]
+  }
+}

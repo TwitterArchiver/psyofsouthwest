@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030282123589169152"
+      ],
+      "media_source_tweet_id": [
+        "2030282244322148726"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030453894976065646",
+    "created_at": "2026-03-08T01:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030453894976065646"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.8067,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mcXrMwDkky",
+          "end": 77,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030282244322148726/video/1",
+          "media_key": "13_2030282123589169152",
+          "start": 54,
+          "url": "https://t.co/mcXrMwDkky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030453894976065646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030282244322148726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: 友達とちょっとレトロなゲームをプレイするDoroちゃん。　#doro https://t.co/mcXrMwDkky"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 416,
+        "media_key": "13_2030282123589169152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030282123589169152/img/4rJoCPfWB1eRu4xl.jpg",
+        "public_metrics": {
+          "view_count": 438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030282123589169152/vid/avc1/488x270/l7f2ti0xOgYfZspw.mp4?tag=24"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030282123589169152/vid/avc1/752x416/TikEwUnfSdWSTcWP.mp4?tag=24"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030282123589169152/pl/mHJZQZdYhd0fMOB4.m3u8?tag=24"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030282123589169152"
+          ],
+          "media_source_tweet_id": [
+            "2030282244322148726"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030453894976065646",
+        "created_at": "2026-03-08T01:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030453894976065646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8067,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcXrMwDkky",
+              "end": 77,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030282244322148726/video/1",
+              "media_key": "13_2030282123589169152",
+              "start": 54,
+              "url": "https://t.co/mcXrMwDkky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030453894976065646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030282244322148726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: 友達とちょっとレトロなゲームをプレイするDoroちゃん。　#doro https://t.co/mcXrMwDkky"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030282123589169152"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030282244322148726",
+        "created_at": "2026-03-07T13:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030282244322148726"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8056,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcXrMwDkky",
+              "end": 58,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030282244322148726/video/1",
+              "media_key": "13_2030282123589169152",
+              "start": 35,
+              "url": "https://t.co/mcXrMwDkky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030282244322148726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1099,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "友達とちょっとレトロなゲームをプレイするDoroちゃん。　#doro https://t.co/mcXrMwDkky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4741,
+          "like_count": 90860,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13775
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 34,
+          "like_count": 402,
+          "listed_count": 5,
+          "media_count": 32,
+          "tweet_count": 54
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

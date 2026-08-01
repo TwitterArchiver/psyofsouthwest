@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030093596221919239"
+      ],
+      "media_source_tweet_id": [
+        "2030093718087422123"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030622496798683353",
+    "created_at": "2026-03-08T12:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030622496798683353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "Doroとの日常"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008327866656976896",
+          "start": 3,
+          "username": "killlllz147346"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0GK6u2FZr",
+          "end": 72,
+          "expanded_url": "https://x.com/killlllz147346/status/2030093718087422123/video/1",
+          "media_key": "13_2030093596221919239",
+          "start": 49,
+          "url": "https://t.co/h0GK6u2FZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030622496798683353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030093718087422123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killlllz147346: #Doroとの日常 #doro \n小家伙们正在乖乖吃零食 https://t.co/h0GK6u2FZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12050,
+        "height": 1112,
+        "media_key": "13_2030093596221919239",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030093596221919239/img/DOU-rAxBsRAA6L3X.jpg",
+        "public_metrics": {
+          "view_count": 10102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030093596221919239/vid/avc1/320x426/t8Fdtma7qVmlCle-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030093596221919239/vid/avc1/480x640/LBNyw0bg9TLKe3U_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030093596221919239/vid/avc1/720x958/nZ0XZq_-qZbHqY9L.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030093596221919239/pl/cuVWIYGPAixdoa1b.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030093596221919239"
+          ],
+          "media_source_tweet_id": [
+            "2030093718087422123"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030622496798683353",
+        "created_at": "2026-03-08T12:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030622496798683353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "Doroとの日常"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008327866656976896",
+              "start": 3,
+              "username": "killlllz147346"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0GK6u2FZr",
+              "end": 72,
+              "expanded_url": "https://x.com/killlllz147346/status/2030093718087422123/video/1",
+              "media_key": "13_2030093596221919239",
+              "start": 49,
+              "url": "https://t.co/h0GK6u2FZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030622496798683353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030093718087422123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killlllz147346: #Doroとの日常 #doro \n小家伙们正在乖乖吃零食 https://t.co/h0GK6u2FZr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030093596221919239"
+          ]
+        },
+        "author_id": "2008327866656976896",
+        "conversation_id": "2030093718087422123",
+        "created_at": "2026-03-07T01:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030093718087422123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Doroとの日常"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0GK6u2FZr",
+              "end": 52,
+              "expanded_url": "https://x.com/killlllz147346/status/2030093718087422123/video/1",
+              "media_key": "13_2030093596221919239",
+              "start": 29,
+              "url": "https://t.co/h0GK6u2FZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030093718087422123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 22490,
+          "like_count": 1403,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "#Doroとの日常 #doro \n小家伙们正在乖乖吃零食 https://t.co/h0GK6u2FZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4746,
+          "like_count": 90952,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13780
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T00:01:23.000Z",
+        "description": "",
+        "id": "2008327866656976896",
+        "name": "likkkkkx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008328053987196928/ViuZkLzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 15,
+          "like_count": 42,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 64
+        },
+        "username": "killlllz147346",
+        "verified": false
+      }
+    ]
+  }
+}

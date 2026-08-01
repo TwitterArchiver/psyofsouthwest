@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1981623326096466134",
+    "created_at": "2025-10-25T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981931984864870847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "21308096",
+          "start": 0,
+          "username": "cloudwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981931984864870847",
+    "in_reply_to_user_id": "21308096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981623326096466134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cloudwu 太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 254306,
+        "height": 1280,
+        "media_key": "13_1981622085773299712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981622085773299712/img/BDUAff_viCOwYATN.jpg",
+        "public_metrics": {
+          "view_count": 4069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981622085773299712/vid/avc1/320x568/nPo07xOPrfBXm8po.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981622085773299712/vid/avc1/480x852/0LVTevIIyCUh_zDx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981622085773299712/vid/avc1/720x1280/n7JIuXsWkXeCJbIn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981622085773299712/pl/7Nw0AAra2dx2ucLn.m3u8?v=73d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1981623326096466134",
+        "created_at": "2025-10-25T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981931984864870847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "21308096",
+              "start": 0,
+              "username": "cloudwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981931984864870847",
+        "in_reply_to_user_id": "21308096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981623326096466134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cloudwu 太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981622085773299712"
+          ]
+        },
+        "author_id": "21308096",
+        "conversation_id": "1981623326096466134",
+        "created_at": "2025-10-24T07:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981623326096466134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeohhIyoTA",
+              "end": 39,
+              "expanded_url": "https://x.com/cloudwu/status/1981623326096466134/video/1",
+              "media_key": "13_1981622085773299712",
+              "start": 16,
+              "url": "https://t.co/OeohhIyoTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981623326096466134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11045,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亮神给我们演示什么叫闲庭信步。 https://t.co/OeohhIyoTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 4005,
+          "like_count": 51739,
+          "listed_count": 7,
+          "media_count": 371,
+          "tweet_count": 11964
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-19T15:35:03.000Z",
+        "description": "Coder, Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Author of open source projects : skynet, ltask, sproto, luaecs, lua-bgfx, soluna, etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.codingnow.com",
+                "end": 23,
+                "expanded_url": "http://blog.codingnow.com",
+                "start": 0,
+                "url": "https://t.co/oGMgBSTSLo"
+              }
+            ]
+          }
+        },
+        "id": "21308096",
+        "location": "广州",
+        "name": "云风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385692491/me2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50736,
+          "following_count": 73,
+          "like_count": 476,
+          "listed_count": 549,
+          "media_count": 699,
+          "tweet_count": 9691
+        },
+        "url": "https://t.co/oGMgBSTSLo",
+        "username": "cloudwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832857342213238784"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1832704083972722812",
+    "created_at": "2024-09-08T19:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T20:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832857345619042720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1597435105",
+          "start": 0,
+          "username": "CNS1952"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fiemmttga",
+          "end": 50,
+          "expanded_url": "https://twitter.com/psyofsouthwest/status/1832857345619042720/photo/1",
+          "media_key": "3_1832857342213238784",
+          "start": 27,
+          "url": "https://t.co/1FIEMmTTga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832857345619042720",
+    "in_reply_to_user_id": "1597435105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832704083972722812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNS1952 不要看它说了什么，而要看丫做了什么 https://t.co/1FIEMmTTga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_1832857342213238784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW-eCraWMAA4tF1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832857342213238784"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1832704083972722812",
+        "created_at": "2024-09-08T19:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T20:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832857345619042720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1597435105",
+              "start": 0,
+              "username": "CNS1952"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fiemmttga",
+              "end": 50,
+              "expanded_url": "https://twitter.com/psyofsouthwest/status/1832857345619042720/photo/1",
+              "media_key": "3_1832857342213238784",
+              "start": 27,
+              "url": "https://t.co/1FIEMmTTga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832857345619042720",
+        "in_reply_to_user_id": "1597435105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832704083972722812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNS1952 不要看它说了什么，而要看丫做了什么 https://t.co/1FIEMmTTga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1832703537677234176"
+          ]
+        },
+        "author_id": "1597435105",
+        "conversation_id": "1832704083972722812",
+        "created_at": "2024-09-08T08:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T09:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832704083972722812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xv6snipkzq",
+              "end": 99,
+              "expanded_url": "https://twitter.com/CNS1952/status/1832704083972722812/video/1",
+              "media_key": "7_1832703537677234176",
+              "start": 76,
+              "url": "https://t.co/Xv6SnipKZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832704083972722812",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中國商務部等3部門發布《關於在醫療領域開展擴大開放試點工作的通知》，擬允許在北京、天津、上海、南京、蘇州、福州、廣州、深圳和海南全島設立外商獨資醫院。 https://t.co/Xv6SnipKZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 2421,
+          "like_count": 14204,
+          "listed_count": 4,
+          "tweet_count": 7165
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T03:27:55.000Z",
+        "description": "China News Service, 中國新聞社，簡稱“中新社”，是中國以對外報導為主要新聞業務的國家通訊社，是以台港澳同胞、海外華僑華人和與之有聯繫的外國人為主要服務對象的國際性通訊社。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinanews.com",
+                "end": 23,
+                "expanded_url": "http://www.chinanews.com/",
+                "start": 0,
+                "url": "https://t.co/B9Hdd4zrLo"
+              }
+            ]
+          }
+        },
+        "id": "1597435105",
+        "name": "中國新聞社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622436993878872065/_xuLdaod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521688,
+          "following_count": 469,
+          "like_count": 150,
+          "listed_count": 1075,
+          "tweet_count": 98296
+        },
+        "url": "https://t.co/B9Hdd4zrLo",
+        "username": "CNS1952",
+        "verified": true
+      }
+    ]
+  }
+}

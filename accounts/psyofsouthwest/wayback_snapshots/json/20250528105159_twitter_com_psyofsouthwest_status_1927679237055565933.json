@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1927003567212150805",
+    "created_at": "2025-05-28T10:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T11:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927679237055565933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354157392959660038",
+          "start": 0,
+          "username": "translate_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927679237055565933",
+    "in_reply_to_user_id": "1354157392959660038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927003567212150805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@translate_cn 老中警察喜欢调动公共汽车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1927003564594847746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4XiESWYAIykhe.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1927003567212150805",
+        "created_at": "2025-05-28T10:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T11:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927679237055565933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354157392959660038",
+              "start": 0,
+              "username": "translate_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927679237055565933",
+        "in_reply_to_user_id": "1354157392959660038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927003567212150805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@translate_cn 老中警察喜欢调动公共汽车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927003564594847746"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1927003567212150805",
+        "created_at": "2025-05-26T14:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927003567212150805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BDaveWalters/s…",
+              "end": 34,
+              "expanded_url": "https://x.com/BDaveWalters/status/1541291987013226497",
+              "start": 11,
+              "url": "https://t.co/ggJkxupBEn"
+            },
+            {
+              "display_url": "pic.x.com/nqklEvTAIQ",
+              "end": 58,
+              "expanded_url": "https://x.com/translate_cn/status/1927003567212150805/photo/1",
+              "media_key": "3_1927003564594847746",
+              "start": 35,
+              "url": "https://t.co/nqklEvTAIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927003567212150805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 27283,
+          "like_count": 336,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1541291987013226497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如何逃脱警察的围攻\n\nhttps://t.co/ggJkxupBEn https://t.co/nqklEvTAIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 3875,
+          "like_count": 39672,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 11188
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16303,
+          "following_count": 445,
+          "like_count": 775,
+          "listed_count": 94,
+          "media_count": 8709,
+          "tweet_count": 9266
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

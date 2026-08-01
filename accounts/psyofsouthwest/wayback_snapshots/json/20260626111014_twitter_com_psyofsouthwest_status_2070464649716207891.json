@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070400205007060992"
+      ],
+      "media_source_tweet_id": [
+        "2070400334829109280"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2070464649716207891",
+    "created_at": "2026-06-26T11:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070464649716207891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1517815891274121216",
+          "start": 3,
+          "username": "Heroiam_Slava"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52B5tHRBfX",
+          "end": 55,
+          "expanded_url": "https://x.com/Heroiam_Slava/status/2070400334829109280/photo/1",
+          "media_key": "3_2070400205007060992",
+          "start": 32,
+          "url": "https://t.co/52B5tHRBfX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070464649716207891",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070400334829109280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heroiam_Slava: Cooking time https://t.co/52B5tHRBfX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2070400205007060992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuKBFpXgAADjrj.png",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070400205007060992"
+          ],
+          "media_source_tweet_id": [
+            "2070400334829109280"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2070464649716207891",
+        "created_at": "2026-06-26T11:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070464649716207891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1517815891274121216",
+              "start": 3,
+              "username": "Heroiam_Slava"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52B5tHRBfX",
+              "end": 55,
+              "expanded_url": "https://x.com/Heroiam_Slava/status/2070400334829109280/photo/1",
+              "media_key": "3_2070400205007060992",
+              "start": 32,
+              "url": "https://t.co/52B5tHRBfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070464649716207891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070400334829109280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heroiam_Slava: Cooking time https://t.co/52B5tHRBfX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070400205007060992"
+          ]
+        },
+        "author_id": "1517815891274121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2070197699266146746",
+        "created_at": "2026-06-26T06:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070400334829109280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/52B5tHRBfX",
+              "end": 36,
+              "expanded_url": "https://x.com/Heroiam_Slava/status/2070400334829109280/photo/1",
+              "media_key": "3_2070400205007060992",
+              "start": 13,
+              "url": "https://t.co/52B5tHRBfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070400334829109280",
+        "in_reply_to_user_id": "1517815891274121216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1852,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070197699266146746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cooking time https://t.co/52B5tHRBfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 4763,
+          "like_count": 127208,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15533
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T10:41:48.000Z",
+        "description": "News • Drones • Military tech • Ukraine updates • Common sense • Humor • #SpacesHost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 73,
+                "tag": "SpacesHost"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "coff.ee/heroiamslava",
+                "end": 23,
+                "expanded_url": "http://coff.ee/heroiamslava",
+                "start": 0,
+                "url": "https://t.co/H5eYvhFgMz"
+              }
+            ]
+          }
+        },
+        "id": "1517815891274121216",
+        "name": "Slava 🇺🇦",
+        "pinned_tweet_id": "2070197699266146746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735767064449572864/s8CdJ5MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110036,
+          "following_count": 44,
+          "like_count": 14887,
+          "listed_count": 764,
+          "media_count": 15809,
+          "tweet_count": 30169
+        },
+        "url": "https://t.co/H5eYvhFgMz",
+        "username": "Heroiam_Slava",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2026121810236907740",
+    "created_at": "2026-02-24T17:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026343433477001598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "53074745",
+          "start": 0,
+          "username": "ni1hannah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026343433477001598",
+    "in_reply_to_user_id": "53074745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026121810236907740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ni1hannah 最害怕数学老师了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2026121810236907740",
+        "created_at": "2026-02-24T17:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026343433477001598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "53074745",
+              "start": 0,
+              "username": "ni1hannah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026343433477001598",
+        "in_reply_to_user_id": "53074745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026121810236907740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni1hannah 最害怕数学老师了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "53074745",
+        "conversation_id": "2026121810236907740",
+        "created_at": "2026-02-24T02:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026121810236907740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026121810236907740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 33310,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在美国收到的很多诈骗短信和电话都是中文的，不知被哪个网站泄漏了信息。有次有个傻x打通了，我说了句Hello，然后丫就用中文问我：你说中文吗？我迟疑了一秒，用英文答复：“No！”\n然后丫就开始骂起来：你他妈的假装不会中文？………\n我回骂了一句：草泥马！然后拉黑了。\n想想都搞笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 4604,
+          "like_count": 83946,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 13280
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-02T14:19:51.000Z",
+        "description": "Math teacher. Former college professor from China. Ph.D, Blog writer. Bilingual tweets （English & Chinese) about education & culture. 英语学习， 美国生活、教育、文化资讯。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Hannahni7716?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Hannahni7716?feature=shared",
+                "start": 0,
+                "url": "https://t.co/XGliNjlrU9"
+              }
+            ]
+          }
+        },
+        "id": "53074745",
+        "name": "Hannah倪妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686183910365929472/HDQuIwNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16716,
+          "following_count": 2201,
+          "like_count": 3152,
+          "listed_count": 128,
+          "media_count": 463,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/XGliNjlrU9",
+        "username": "ni1hannah",
+        "verified": true
+      }
+    ]
+  }
+}

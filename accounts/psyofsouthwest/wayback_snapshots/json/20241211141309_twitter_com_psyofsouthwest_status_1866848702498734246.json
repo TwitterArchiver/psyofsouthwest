@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1866845443587707337",
+    "created_at": "2024-12-11T14:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T15:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866848702498734246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "11765952",
+          "start": 0,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866848702498734246",
+    "in_reply_to_user_id": "11765952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866845443587707337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interjc 天然气都会加四氢噻吩，泄漏很容易发觉，深圳居然能发生这种事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1866845443587707337",
+        "created_at": "2024-12-11T14:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T15:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866848702498734246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866848702498734246",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866845443587707337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 天然气都会加四氢噻吩，泄漏很容易发觉，深圳居然能发生这种事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866845437896036356"
+          ]
+        },
+        "author_id": "11765952",
+        "conversation_id": "1866845443587707337",
+        "created_at": "2024-12-11T14:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T15:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866845443587707337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMOpLnaXRY",
+              "end": 171,
+              "expanded_url": "https://x.com/interjc/status/1866845443587707337/photo/1",
+              "media_key": "3_1866845437896036356",
+              "start": 148,
+              "url": "https://t.co/yMOpLnaXRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866845443587707337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我知道国内买房的时候有一些楼层的鄙视链，比如顶楼和三楼以下不能买、高层优于低楼层等，一般买房卖房时还会依据此来讨价还价\n\n虽然经常被鄙视，但我还是从不买 7 楼以上的房子，标准有三个：\n\n1. 可以五分钟内走楼梯疏散；\n2. 普通消防云梯可以触达；\n3. 三楼以上；\n\n手段越复杂、逃生概率越低 https://t.co/yMOpLnaXRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 2863,
+          "like_count": 21127,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 8913
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜全栈开发｜AIGC｜E/acc\n🚀 日本初创公司 @yokogaisha 社长\n📚 博客：https://t.co/ZikItPAYVq\n✈️ 赴日：https://t.co/Q9p845dgVS\n💬 TG群: https://t.co/zEzCv8ek6F\n📱 微信：justinchencn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 78,
+                "expanded_url": "https://interjc.net",
+                "start": 55,
+                "url": "https://t.co/ZikItPAYVq"
+              },
+              {
+                "display_url": "s.zhaikr.com/vjp",
+                "end": 108,
+                "expanded_url": "https://s.zhaikr.com/vjp",
+                "start": 85,
+                "url": "https://t.co/Q9p845dgVS"
+              },
+              {
+                "display_url": "s.zhaikr.com/g",
+                "end": 139,
+                "expanded_url": "https://s.zhaikr.com/g",
+                "start": 116,
+                "url": "https://t.co/zEzCv8ek6F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 23,
+                "expanded_url": "https://justincourse.com",
+                "start": 0,
+                "url": "https://t.co/IdaM55wD8k"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "1860647857638035794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17681,
+          "following_count": 1196,
+          "like_count": 30216,
+          "listed_count": 121,
+          "media_count": 1743,
+          "tweet_count": 17552
+        },
+        "url": "https://t.co/IdaM55wD8k",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

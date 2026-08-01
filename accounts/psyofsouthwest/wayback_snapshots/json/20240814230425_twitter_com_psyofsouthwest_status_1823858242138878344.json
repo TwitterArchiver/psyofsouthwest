@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1823858242138878344",
+    "created_at": "2024-08-14T23:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T00:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823858242138878344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "569860610",
+          "start": 3,
+          "username": "EricLiu_USA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823858242138878344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823649474859950145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EricLiu_USA: 黑神话无限连刃版CD key: 1101-0119-5306-1530-19，亲自测试有效，为广大爱国玩家指明方向。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1823858242138878344",
+        "created_at": "2024-08-14T23:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T00:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823858242138878344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "569860610",
+              "start": 3,
+              "username": "EricLiu_USA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823858242138878344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823649474859950145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EricLiu_USA: 黑神话无限连刃版CD key: 1101-0119-5306-1530-19，亲自测试有效，为广大爱国玩家指明方向。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "569860610",
+        "conversation_id": "1823649474859950145",
+        "created_at": "2024-08-14T09:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T10:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823649474859950145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/InfernoidSnow/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/InfernoidSnow/status/1823587905409049030",
+              "start": 59,
+              "url": "https://t.co/mGzPn8uQFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823649474859950145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 27624,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823587905409049030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑神话无限连刃版CD key: 1101-0119-5306-1530-19，亲自测试有效，为广大爱国玩家指明方向。 https://t.co/mGzPn8uQFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 2397,
+          "like_count": 13661,
+          "listed_count": 4,
+          "tweet_count": 7014
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-03T10:25:01.000Z",
+        "description": "新黄色新闻鉴黄师（副高级职称）",
+        "id": "569860610",
+        "name": "Eric Liu 刘力朋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780786052632068096/kCo4J36h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68209,
+          "following_count": 1537,
+          "like_count": 22845,
+          "listed_count": 298,
+          "tweet_count": 21463
+        },
+        "username": "EricLiu_USA",
+        "verified": false
+      }
+    ]
+  }
+}

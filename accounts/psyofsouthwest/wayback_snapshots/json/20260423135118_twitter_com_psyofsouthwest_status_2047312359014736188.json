@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2047146083219099939",
+    "created_at": "2026-04-23T13:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047312359014736188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "50683",
+          "start": 0,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047312359014736188",
+    "in_reply_to_user_id": "50683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047146083219099939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingyi 我们老了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2047146083219099939",
+        "created_at": "2026-04-23T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047312359014736188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "50683",
+              "start": 0,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047312359014736188",
+        "in_reply_to_user_id": "50683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047146083219099939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingyi 我们老了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50683",
+        "conversation_id": "2047146083219099939",
+        "created_at": "2026-04-23T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047146083219099939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047146083219099939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17309,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们每天浪费大量 token，用在有一个人前来买瓜这样的视频上面。有一半的算力都用来生产赛博垃圾了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 4771,
+          "like_count": 109507,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14756
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 64,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 41,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 90,
+                "expanded_url": "http://news.dex.group",
+                "start": 67,
+                "url": "https://t.co/uHtq1Z3Kus"
+              },
+              {
+                "display_url": "saaspick.dev",
+                "end": 116,
+                "expanded_url": "http://saaspick.dev",
+                "start": 93,
+                "url": "https://t.co/6rJeVpe1pD"
+              },
+              {
+                "display_url": "topfeed.xyz",
+                "end": 142,
+                "expanded_url": "http://topfeed.xyz",
+                "start": 119,
+                "url": "https://t.co/cP6NQ3keo5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": "Remote",
+        "name": "Ding",
+        "pinned_tweet_id": "2046710085989412919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150262,
+          "following_count": 4963,
+          "like_count": 2574,
+          "listed_count": 729,
+          "media_count": 2684,
+          "tweet_count": 60430
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

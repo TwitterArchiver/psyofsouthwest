@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1953709079093981482",
+    "created_at": "2025-08-08T20:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T21:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953919265016557867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573206509625876481",
+          "start": 0,
+          "username": "amehochan"
+        },
+        {
+          "end": 20,
+          "id": "146840462",
+          "start": 11,
+          "username": "renkaige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953919265016557867",
+    "in_reply_to_user_id": "1573206509625876481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953713277361696937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amehochan @renkaige 老干部子女辞职伺候老干部的并不少见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1953709079093981482",
+        "created_at": "2025-08-08T20:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953919265016557867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "amehochan"
+            },
+            {
+              "end": 20,
+              "id": "146840462",
+              "start": 11,
+              "username": "renkaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953919265016557867",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953713277361696937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amehochan @renkaige 老干部子女辞职伺候老干部的并不少见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "1953709079093981482",
+        "created_at": "2025-08-08T07:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953713277361696937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "146840462",
+              "start": 0,
+              "username": "renkaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953713277361696937",
+        "in_reply_to_user_id": "146840462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6836,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953713101351924217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renkaige 考验老干部的时刻到了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 3915,
+          "like_count": 44807,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11566
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP @ApacheFlink の貢献者。Java、Go、Scala、TS、Python、その他6つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/syhily",
+                "end": 23,
+                "expanded_url": "https://github.com/syhily",
+                "start": 0,
+                "url": "https://t.co/mlM5pgC3YS"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "Teyvat",
+        "name": "Yufan Sheng",
+        "pinned_tweet_id": "1875039643458326594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950410295282999296/GnzwRZc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27619,
+          "following_count": 869,
+          "like_count": 4846,
+          "listed_count": 162,
+          "media_count": 1942,
+          "tweet_count": 8149
+        },
+        "url": "https://t.co/mlM5pgC3YS",
+        "username": "amehochan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-22T13:43:54.000Z",
+        "description": "我这辈子还会发财吗😿",
+        "id": "146840462",
+        "location": "Hangzhou",
+        "name": "笋干太咸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/887305538324709377/zW5yPYOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 906,
+          "like_count": 2469,
+          "listed_count": 9,
+          "media_count": 227,
+          "tweet_count": 2324
+        },
+        "username": "renkaige",
+        "verified": true
+      }
+    ]
+  }
+}

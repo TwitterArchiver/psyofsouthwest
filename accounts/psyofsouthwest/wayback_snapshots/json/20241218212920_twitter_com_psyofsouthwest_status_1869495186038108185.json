@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1869285194676719846",
+    "created_at": "2024-12-18T21:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T22:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869495186038108185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "826639262988718080",
+          "start": 0,
+          "username": "0xdeusyu"
+        },
+        {
+          "end": 20,
+          "id": "5382142",
+          "start": 10,
+          "username": "oasisfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869495186038108185",
+    "in_reply_to_user_id": "826639262988718080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869340684244967799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xdeusyu @oasisfeng 二次元领导"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1869285194676719846",
+        "created_at": "2024-12-18T21:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T22:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869495186038108185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "826639262988718080",
+              "start": 0,
+              "username": "0xdeusyu"
+            },
+            {
+              "end": 20,
+              "id": "5382142",
+              "start": 10,
+              "username": "oasisfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869495186038108185",
+        "in_reply_to_user_id": "826639262988718080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869340684244967799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xdeusyu @oasisfeng 二次元领导"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826639262988718080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1869285194676719846",
+        "created_at": "2024-12-18T11:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869340684244967799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "5382142",
+              "start": 0,
+              "username": "oasisfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869340684244967799",
+        "in_reply_to_user_id": "5382142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4402,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869285194676719846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oasisfeng 可能害怕Tesla的摄像头收集路面数据不小心收集到领导了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 2894,
+          "like_count": 21763,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 9126
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T03:52:13.000Z",
+        "description": "Read ten thousand books, travel ten thousand miles. | DM for follow back | Cloud Computing |  RD & DevOps\n读万卷书行万里路 | 回关请私信 | 云计算 | 不争论，只拉黑 | @Baidu_Inc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 141,
+                "username": "Baidu_Inc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deusyu.app",
+                "end": 23,
+                "expanded_url": "http://deusyu.app",
+                "start": 0,
+                "url": "https://t.co/9JYLqWuG52"
+              }
+            ]
+          }
+        },
+        "id": "826639262988718080",
+        "location": "Beijing",
+        "name": "Rainman",
+        "pinned_tweet_id": "1838135495047409764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759121965347196928/sLTtQMGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 456,
+          "like_count": 10191,
+          "listed_count": 3,
+          "media_count": 545,
+          "tweet_count": 5737
+        },
+        "url": "https://t.co/9JYLqWuG52",
+        "username": "0xdeusyu",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-21T16:21:30.000Z",
+        "description": "Ancient Geeeek, Life Hacker, Indie Developer, Economics Rookie",
+        "id": "5382142",
+        "location": "Hangzhou, China",
+        "name": "Oasis Feng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731824343/Smile_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24052,
+          "following_count": 163,
+          "like_count": 524,
+          "listed_count": 324,
+          "media_count": 1303,
+          "tweet_count": 17677
+        },
+        "username": "oasisfeng",
+        "verified": false
+      }
+    ]
+  }
+}

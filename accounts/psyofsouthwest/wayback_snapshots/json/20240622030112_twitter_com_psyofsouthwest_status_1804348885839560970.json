@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1804210315611246775",
+    "created_at": "2024-06-22T03:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T04:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804348885839560970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679805896967483393",
+          "start": 0,
+          "username": "VSanxi18865"
+        },
+        {
+          "end": 22,
+          "id": "1692075579850563584",
+          "start": 13,
+          "username": "10Lystra"
+        },
+        {
+          "end": 36,
+          "id": "1700948552078467072",
+          "start": 23,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804348885839560970",
+    "in_reply_to_user_id": "1679805896967483393",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804339268346613890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VSanxi18865 @10Lystra @Overdose_DBD 那伦理委员会真的会变成致伤致残的轮椅委员会（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1804339268346613890].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1804339268346613890",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1804339268346613890"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1804210315611246775",
+        "created_at": "2024-06-22T03:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T04:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804348885839560970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679805896967483393",
+              "start": 0,
+              "username": "VSanxi18865"
+            },
+            {
+              "end": 22,
+              "id": "1692075579850563584",
+              "start": 13,
+              "username": "10Lystra"
+            },
+            {
+              "end": 36,
+              "id": "1700948552078467072",
+              "start": 23,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804348885839560970",
+        "in_reply_to_user_id": "1679805896967483393",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804339268346613890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VSanxi18865 @10Lystra @Overdose_DBD 那伦理委员会真的会变成致伤致残的轮椅委员会（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 2286,
+          "like_count": 12729,
+          "listed_count": 4,
+          "tweet_count": 6678
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T10:51:58.000Z",
+        "description": "MtX/Non-binary/性别不明 | 取向不明 | INFP-T/INFP-O-H总之是INFP | 情绪不稳 边缘人格可能性警告 | 阿斯伯格可能性警告 | 发病时随机b人 被我b掉不一定是你的错 | 在我推文下回复黄推的直接b | 不键政 | 暂时锁推",
+        "id": "1679805896967483393",
+        "location": "南唐金陵",
+        "name": "雨晴守望Vack🏳️‍⚧️",
+        "pinned_tweet_id": "1803390629080142185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679815423523692544/1GyMUJlk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 405,
+          "like_count": 9842,
+          "listed_count": 4,
+          "tweet_count": 4208
+        },
+        "username": "VSanxi18865",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 250,
+          "like_count": 953,
+          "listed_count": 2,
+          "tweet_count": 1817
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "精神药理学？精神分析学？\n这是这是药师波奇，研究恢复术——比如反制药物副作用\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/5ftoKDMGdw"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "location": "卡莫纳电视台二楼控电室",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782801215476432896/G1iJf3DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 48,
+          "like_count": 1,
+          "listed_count": 6,
+          "tweet_count": 4882
+        },
+        "url": "https://t.co/5ftoKDMGdw",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

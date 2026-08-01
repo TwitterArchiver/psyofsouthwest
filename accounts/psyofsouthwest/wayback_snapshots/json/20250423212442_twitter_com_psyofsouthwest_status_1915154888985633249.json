@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1915073217058005190",
+    "created_at": "2025-04-23T21:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T22:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915154888985633249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765072369599795202",
+          "start": 0,
+          "username": "Kaoruko157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915154888985633249",
+    "in_reply_to_user_id": "1765072369599795202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915073217058005190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaoruko157 生日快乐🎂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1915073217058005190].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1915073217058005190",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1915073217058005190"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1915073217058005190",
+        "created_at": "2025-04-23T21:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T22:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915154888985633249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765072369599795202",
+              "start": 0,
+              "username": "Kaoruko157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915154888985633249",
+        "in_reply_to_user_id": "1765072369599795202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915073217058005190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaoruko157 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 3622,
+          "like_count": 31499,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 10426
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T17:50:37.000Z",
+        "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人 |大切な弟 @_Pnky__|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "_Pnky__"
+              }
+            ]
+          }
+        },
+        "id": "1765072369599795202",
+        "name": "小混沌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792135388347457536/iBr2rRJL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 700,
+          "like_count": 1239,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 750
+        },
+        "username": "Kaoruko157",
+        "verified": false
+      }
+    ]
+  }
+}

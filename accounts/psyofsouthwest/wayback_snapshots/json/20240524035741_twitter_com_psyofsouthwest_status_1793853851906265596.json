@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1793599499652432190",
+    "created_at": "2024-05-24T03:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T04:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793853851906265596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1274158125520613376",
+          "start": 0,
+          "username": "RFDiffusion"
+        },
+        {
+          "end": 22,
+          "id": "1736712034811785216",
+          "start": 13,
+          "username": "BY801333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793853851906265596",
+    "in_reply_to_user_id": "1274158125520613376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793645222746018285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFDiffusion @BY801333 6月26号正式成立X平台禁毒办公室"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1793645222746018285].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1793645222746018285",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1793645222746018285"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1793599499652432190",
+        "created_at": "2024-05-24T03:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T04:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793853851906265596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1274158125520613376",
+              "start": 0,
+              "username": "RFDiffusion"
+            },
+            {
+              "end": 22,
+              "id": "1736712034811785216",
+              "start": 13,
+              "username": "BY801333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793853851906265596",
+        "in_reply_to_user_id": "1274158125520613376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793645222746018285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFDiffusion @BY801333 6月26号正式成立X平台禁毒办公室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 2124,
+          "like_count": 10880,
+          "listed_count": 4,
+          "tweet_count": 5666
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T01:52:31.000Z",
+        "description": "Attention is all you need. Transformer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "biorxiv.org",
+                "end": 23,
+                "expanded_url": "http://biorxiv.org",
+                "start": 0,
+                "url": "https://t.co/2VbwPAI9va"
+              }
+            ]
+          }
+        },
+        "id": "1274158125520613376",
+        "location": "Cortex_layer_V",
+        "name": "делтерфлн",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603422849066479617/VR26Vi4j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 343,
+          "like_count": 6119,
+          "listed_count": 3,
+          "tweet_count": 4777
+        },
+        "url": "https://t.co/2VbwPAI9va",
+        "username": "RFDiffusion",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:36:39.000Z",
+        "description": "本铺已正式停止营运业务♡遇fo即回\n                                                   药物滥用协会→ https://t.co/0Vw0m5dHyr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 100,
+                "expanded_url": "http://t.me/OLAIYA000",
+                "start": 77,
+                "url": "https://t.co/0Vw0m5dHyr"
+              }
+            ]
+          }
+        },
+        "id": "1736712034811785216",
+        "location": "您本不需要Overdose 希望您可以幸福",
+        "name": "OLAIYA_2.0",
+        "pinned_tweet_id": "1789940576789450926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736712212348276736/0__ixHcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 2684,
+          "like_count": 1590,
+          "listed_count": 2,
+          "tweet_count": 293
+        },
+        "username": "BY801333",
+        "verified": false
+      }
+    ]
+  }
+}

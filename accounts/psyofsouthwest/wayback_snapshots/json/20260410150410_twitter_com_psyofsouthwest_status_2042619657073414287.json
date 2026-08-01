@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2042593838263603665",
+    "created_at": "2026-04-10T15:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042619657073414287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1573206509625876481",
+          "start": 0,
+          "username": "syhily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042619657073414287",
+    "in_reply_to_user_id": "1573206509625876481",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042593838263603665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syhily 😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2042593838263603665",
+        "created_at": "2026-04-10T15:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042619657073414287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042619657073414287",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042593838263603665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhily 😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2042593838263603665",
+        "created_at": "2026-04-10T13:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042593838263603665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syhily/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/syhily/status/2041205065948823682",
+              "start": 6,
+              "url": "https://t.co/BD5cD4RnSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042593838263603665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3091,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041205065948823682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大号已废。 https://t.co/BD5cD4RnSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4739,
+          "like_count": 103445,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 14356
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28941,
+          "following_count": 897,
+          "like_count": 5698,
+          "listed_count": 178,
+          "media_count": 2359,
+          "tweet_count": 10204
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

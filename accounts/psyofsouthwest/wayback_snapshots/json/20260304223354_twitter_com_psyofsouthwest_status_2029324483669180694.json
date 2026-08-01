@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2029324483669180694",
+    "created_at": "2026-03-04T22:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029324483669180694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457867047334031360",
+          "start": 3,
+          "username": "sentdefender"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029324483669180694",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029320183894900993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sentdefender: Kurdish sources are again dismissing claims of an offensive to regional news outlets. Reporting surrounding the ostensibl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2029319975974899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmXxC-WkAADVgN.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2029324483669180694",
+        "created_at": "2026-03-04T22:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029324483669180694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457867047334031360",
+              "start": 3,
+              "username": "sentdefender"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029324483669180694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029320183894900993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sentdefender: Kurdish sources are again dismissing claims of an offensive to regional news outlets. Reporting surrounding the ostensibl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029319975974899712"
+          ]
+        },
+        "author_id": "1457867047334031360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2029320183894900993",
+        "created_at": "2026-03-04T22:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029320183894900993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdJQcYdKZx",
+              "end": 239,
+              "expanded_url": "https://x.com/sentdefender/status/2029320183894900993/photo/1",
+              "media_key": "3_2029319975974899712",
+              "start": 216,
+              "url": "https://t.co/cdJQcYdKZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029320183894900993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 47974,
+          "like_count": 737,
+          "quote_count": 32,
+          "reply_count": 56,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Kurdish sources are again dismissing claims of an offensive to regional news outlets. Reporting surrounding the ostensible offensive is currently murky and may be more of an information operation than a kinetic one. https://t.co/cdJQcYdKZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4719,
+          "like_count": 89299,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 13594
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T00:26:24.000Z",
+        "description": "Open Source Intelligence Monitor focused on Europe and Conflicts across the World. RT ≠ Endorsement. Want to Support my Work? https://t.co/PcUbewvWPr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/osintdefender",
+                "end": 149,
+                "expanded_url": "https://ko-fi.com/osintdefender",
+                "start": 126,
+                "url": "https://t.co/PcUbewvWPr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gMyeW4jK5W",
+                "end": 23,
+                "expanded_url": "https://discord.gg/gMyeW4jK5W",
+                "start": 0,
+                "url": "https://t.co/sISAkTi8i7"
+              }
+            ]
+          }
+        },
+        "id": "1457867047334031360",
+        "location": "Georgia, USA",
+        "name": "OSINTdefender",
+        "pinned_tweet_id": "2027836676932878445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505052393750384642/XNFUztL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993343,
+          "following_count": 1535,
+          "like_count": 62360,
+          "listed_count": 17900,
+          "media_count": 21553,
+          "tweet_count": 58181
+        },
+        "url": "https://t.co/sISAkTi8i7",
+        "username": "sentdefender",
+        "verified": true
+      }
+    ]
+  }
+}

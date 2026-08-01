@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1919436925573759314",
+    "created_at": "2025-05-06T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919795138433359967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451394204563755008",
+          "start": 0,
+          "username": "wildwall1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919795138433359967",
+    "in_reply_to_user_id": "1451394204563755008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919436925573759314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wildwall1984 为了让策略难以预期，基本上只能这么玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1919436925573759314",
+        "created_at": "2025-05-06T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919795138433359967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451394204563755008",
+              "start": 0,
+              "username": "wildwall1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919795138433359967",
+        "in_reply_to_user_id": "1451394204563755008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919436925573759314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wildwall1984 为了让策略难以预期，基本上只能这么玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451394204563755008",
+        "conversation_id": "1919436925573759314",
+        "created_at": "2025-05-05T16:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919436925573759314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919436925573759314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 53356,
+          "like_count": 444,
+          "quote_count": 3,
+          "reply_count": 57,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "如果我们对领导人的要求，已经退步到，认为不折腾就是好人的地步，可见，我们对这帮老头子有多绝望！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 3769,
+          "like_count": 34979,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 10743
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T03:45:39.000Z",
+        "description": "中国政治神奇动物学教授。在不自由的时代，做自由的人！ 曹操说https://t.co/PhXvIrxOAj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEHll…",
+                "end": 53,
+                "expanded_url": "https://www.youtube.com/channel/UCEHllJN5YYp6R-jB-6rbnQw",
+                "start": 30,
+                "url": "https://t.co/PhXvIrxOAj"
+              }
+            ]
+          }
+        },
+        "id": "1451394204563755008",
+        "name": "曹操说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917531982042660864/yaBl9ebU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41476,
+          "following_count": 312,
+          "like_count": 1016,
+          "listed_count": 158,
+          "media_count": 134,
+          "tweet_count": 8336
+        },
+        "username": "wildwall1984",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1887677954328596834",
+    "created_at": "2025-02-07T15:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T16:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887881714589987128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887881714589987128",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887677954328596834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 请问可以转发到朋友圈吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1887677954328596834",
+        "created_at": "2025-02-07T15:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T16:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887881714589987128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887881714589987128",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887677954328596834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 请问可以转发到朋友圈吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1887677954328596834",
+        "created_at": "2025-02-07T01:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T02:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887677954328596834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "作为“中国制造2025”雄心勃勃的计划的一部分，中国过去十年来一直在缓慢累积包括人工智慧在内的高科技产品方面的专业知识。对于分析师来说，DeepSeek的成功进一步证明了这个宏大专案已经取得成功。今年是中国2025计划最后一年，中国已经取得了哪些长足发展和进步？",
+              "display_url": "bbc.in/4aLtN8N",
+              "end": 155,
+              "expanded_url": "https://bbc.in/4aLtN8N",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/1887677955649769472/8bwF3YZv?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1887677955649769472/8bwF3YZv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "不只是DeepSeek——中国的十年高科技计划正在取得成效 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cjde87p7mj0o/simp?at_format=link&at_link_id=99FAF53C-E4F4-11EF-B946-FB7F50AF01CF&at_link_origin=bbcchinese&at_medium=social&at_ptr_name=twitter&at_bbc_team=editorial&at_campaign=Social_Flow&at_link_type=web_link&at_campaign_type=owned",
+              "url": "https://t.co/ssBQXLC024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887677954328596834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 132694,
+          "like_count": 264,
+          "quote_count": 17,
+          "reply_count": 141,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "作为“中国制造2025”雄心勃勃的计划的一部分，中国过去十年来一直在累积包括AI在内的高科技产业方面的技术。对于分析师来说，DeepSeek的成功进一步证明了这个宏大计划已经取得成功。\n\n今年是“中国制造2025”计划的最后一年，该国已经取得了哪些长足发展和进步？https://t.co/ssBQXLC024"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 3077,
+          "like_count": 24263,
+          "listed_count": 5,
+          "media_count": 295,
+          "tweet_count": 9678
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4737877,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 22974,
+          "tweet_count": 151950
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

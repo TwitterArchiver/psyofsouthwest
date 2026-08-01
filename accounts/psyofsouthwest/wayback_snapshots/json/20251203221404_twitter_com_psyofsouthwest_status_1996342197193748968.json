@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1996214134623629649",
+    "created_at": "2025-12-03T22:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T23:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996342197193748968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352188646766436352",
+          "start": 0,
+          "username": "techeconomyana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996342197193748968",
+    "in_reply_to_user_id": "1352188646766436352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996214134623629649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@techeconomyana 老东西们啥都不用愁，怎么可能对外面有深刻的感知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1996214134623629649",
+        "created_at": "2025-12-03T22:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996342197193748968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352188646766436352",
+              "start": 0,
+              "username": "techeconomyana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996342197193748968",
+        "in_reply_to_user_id": "1352188646766436352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996214134623629649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@techeconomyana 老东西们啥都不用愁，怎么可能对外面有深刻的感知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352188646766436352",
+        "conversation_id": "1996214134623629649",
+        "created_at": "2025-12-03T13:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996214134623629649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996214134623629649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 22388,
+          "like_count": 170,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "对于即将召开的政治局会议和中央经济工作会议，简单点评就是不抱任何希望。决策层现在处在一种思维的疲态，并未充分意识到经济下滑的斜率之大。经济不行了的声音，一次又一次；推出举措的呼声，一次又一次。决策层已经形成了麻木状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 4042,
+          "like_count": 56488,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 12189
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T09:37:58.000Z",
+        "description": "经济数据分析，科技行业动态追踪。",
+        "id": "1352188646766436352",
+        "location": "China",
+        "name": "高级分析师",
+        "pinned_tweet_id": "1995714587878932600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751245194069188608/ToFwo_l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40569,
+          "following_count": 575,
+          "like_count": 28761,
+          "listed_count": 477,
+          "media_count": 789,
+          "tweet_count": 6844
+        },
+        "username": "techeconomyana",
+        "verified": false
+      }
+    ]
+  }
+}

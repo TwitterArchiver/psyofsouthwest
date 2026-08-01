@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885127560943583232"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1885126766819434506",
+    "created_at": "2025-01-31T00:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T01:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885127563711775227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJYXml62tM",
+          "end": 31,
+          "expanded_url": "https://x.com/psyofsouthwest/status/1885127563711775227/photo/1",
+          "media_key": "3_1885127560943583232",
+          "start": 8,
+          "url": "https://t.co/rJYXml62tM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885127563711775227",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885126766819434506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG https://t.co/rJYXml62tM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1885127560943583232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GilRh2JXQAAL6-a.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885127560943583232"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1885126766819434506",
+        "created_at": "2025-01-31T00:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885127563711775227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJYXml62tM",
+              "end": 31,
+              "expanded_url": "https://x.com/psyofsouthwest/status/1885127563711775227/photo/1",
+              "media_key": "3_1885127560943583232",
+              "start": 8,
+              "url": "https://t.co/rJYXml62tM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885127563711775227",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885126766819434506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG https://t.co/rJYXml62tM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818315659673210880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1885126766819434506",
+        "created_at": "2025-01-31T00:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885126766819434506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885126766819434506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平是检验AI的唯一标准"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 3003,
+          "like_count": 23426,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 9557
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "中国大陆高中生🇨🇳/游戏玩家👾/爱追番剧🔥/讨厌任何极端💀/不参与任何性质的骂战😇/不对任何国家的人民抱有任何偏见，反对一切与人权和平等唱反调的事物。愿LGBT人群能被公平正义地对待，愿所有战争中流离失所的人们终被和平的光芒笼罩。\n-温和粉红支黑可友好交流- \n-点赞关注不代表立场- CN/EN",
+        "id": "1818315659673210880",
+        "location": "中华人民共和国驻提瓦特大陆蒙德城大使馆",
+        "name": "Nek1🦌☕✨",
+        "pinned_tweet_id": "1884528224514044010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852250060324818944/z-y_xuZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 573,
+          "like_count": 9621,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 2193
+        },
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

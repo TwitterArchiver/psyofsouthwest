@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1938982052336144719",
+    "created_at": "2025-06-29T02:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T03:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939147488537006340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1066984935414685696",
+          "start": 0,
+          "username": "ZxwCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939147488537006340",
+    "in_reply_to_user_id": "1066984935414685696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938982052336144719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZxwCat 心理战最大的原则就是真实，你们这样造假只会掉声誉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_1938981302624989184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuilOLkWMAA-yTz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1938982052336144719",
+        "created_at": "2025-06-29T02:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939147488537006340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1066984935414685696",
+              "start": 0,
+              "username": "ZxwCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939147488537006340",
+        "in_reply_to_user_id": "1066984935414685696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938982052336144719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZxwCat 心理战最大的原则就是真实，你们这样造假只会掉声誉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938981302624989184"
+          ]
+        },
+        "author_id": "1066984935414685696",
+        "conversation_id": "1938982052336144719",
+        "created_at": "2025-06-28T15:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938982052336144719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVNmZOnJrq",
+              "end": 64,
+              "expanded_url": "https://x.com/ZxwCat/status/1938982052336144719/photo/1",
+              "media_key": "3_1938981302624989184",
+              "start": 41,
+              "url": "https://t.co/hVNmZOnJrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938982052336144719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2043,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不给她一些红色铁拳尝尝，她不知道好歹。\n让她在国内多待几年，以后她比谁都爱台湾。 https://t.co/hVNmZOnJrq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 3874,
+          "like_count": 40393,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 11265
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-26T09:20:07.000Z",
+        "description": "看到作恶而不说，则与作恶者无异。",
+        "id": "1066984935414685696",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "猫眼看世界",
+        "pinned_tweet_id": "1925785447243936188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909367979059585024/fEPPhE4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2913,
+          "following_count": 320,
+          "like_count": 6174,
+          "listed_count": 3,
+          "media_count": 1031,
+          "tweet_count": 2248
+        },
+        "username": "ZxwCat",
+        "verified": true
+      }
+    ]
+  }
+}

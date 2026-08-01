@@ -1,0 +1,350 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1793975967616291169",
+    "created_at": "2024-05-25T14:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T15:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794370957529985402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1265266433665138690",
+          "start": 0,
+          "username": "geleilaoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794370957529985402",
+    "in_reply_to_user_id": "1265266433665138690",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793975967616291169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geleilaoshi 格雷老师，我想请问下，对逝去的过往表达哀伤，对即将开始的未来又充满期待，这样复杂的情感适合使用怎样的和弦进行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1793975967616291169",
+        "created_at": "2024-05-25T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794370957529985402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1265266433665138690",
+              "start": 0,
+              "username": "geleilaoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794370957529985402",
+        "in_reply_to_user_id": "1265266433665138690",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793975967616291169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geleilaoshi 格雷老师，我想请问下，对逝去的过往表达哀伤，对即将开始的未来又充满期待，这样复杂的情感适合使用怎样的和弦进行"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1793975841392611329"
+          ]
+        },
+        "author_id": "1265266433665138690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1793975967616291169",
+        "created_at": "2024-05-24T12:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T13:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793975967616291169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ueuHHNL4O5",
+              "end": 172,
+              "expanded_url": "https://twitter.com/geleilaoshi/status/1793975967616291169/video/1",
+              "media_key": "7_1793975841392611329",
+              "start": 149,
+              "url": "https://t.co/ueuHHNL4O5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793975967616291169",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 112591,
+          "like_count": 764,
+          "quote_count": 23,
+          "reply_count": 67,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们给我的力量，我会继续为你们创作新的作品！\n\n想帮助我创作更多歌曲的朋友们：\n\n 粉红们：在这里留言对我非常有帮助！你的互动会让更多人看到我的内容。\n 粉丝们：你们可以在Patreon或者Spotify上找到我的音乐，欢迎去听一听。\n\n别忘了帮我转发！我很期待在「大熊猫的天堂」与你们相遇！ https://t.co/ueuHHNL4O5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 2130,
+          "like_count": 10951,
+          "listed_count": 4,
+          "tweet_count": 5712
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-26T13:00:11.000Z",
+        "description": "Ukulele player banned in China. Music that frees minds. Berklee graduate. IRL music teacher. 被共產黨封殺的烏克麗麗手。用音樂開啓思想大門。伯克利音樂學院畢業的。音樂老師。IG/YT @geleilaoshi.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "geleilaoshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@geleilaoshi/",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@geleilaoshi/",
+                "start": 0,
+                "url": "https://t.co/XJSCBL4bUo"
+              }
+            ]
+          }
+        },
+        "id": "1265266433665138690",
+        "location": "波士顿 Boston",
+        "name": "格雷老師 Teacher Grey",
+        "pinned_tweet_id": "1748865032891289916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620885318269378562/ozwm4Rfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26530,
+          "following_count": 283,
+          "like_count": 3451,
+          "listed_count": 65,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/XJSCBL4bUo",
+        "username": "geleilaoshi",
+        "verified": true
+      }
+    ]
+  }
+}

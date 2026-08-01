@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2017901092110250242",
+    "created_at": "2026-02-05T02:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T03:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019239986592374800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019239986592374800",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017901092110250242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 七年级就开始学函数了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2017901092110250242",
+        "created_at": "2026-02-05T02:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019239986592374800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019239986592374800",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017901092110250242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 七年级就开始学函数了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786479809647869952",
+        "conversation_id": "2017901092110250242",
+        "created_at": "2026-02-01T10:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:55:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017899664620843243",
+          "2017901092110250242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skywind3000/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/skywind3000/status/2017113710440173611",
+              "start": 129,
+              "url": "https://t.co/dyNV6K3FCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017901092110250242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 39814,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017113710440173611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天和老师通了电话问了一下，这 91 分的数学是没达到班级平均分的，我和小孩聊了下反思原因，他还跟我讲因为他们现在学的太难了，听说美国高考数学只需要会四则运算就行，我说你听谁说的 “同学啊” 我问他你自己不会想想可不可能么？他还反问我 “为什么不可能啊”。 https://t.co/dyNV6K3FCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 4498,
+          "like_count": 75681,
+          "listed_count": 5,
+          "media_count": 394,
+          "tweet_count": 12885
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26231,
+          "following_count": 322,
+          "like_count": 7133,
+          "listed_count": 207,
+          "media_count": 1126,
+          "tweet_count": 8564
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

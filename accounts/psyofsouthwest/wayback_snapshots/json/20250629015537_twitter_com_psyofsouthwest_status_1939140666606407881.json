@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1939042591619928230",
+    "created_at": "2025-06-29T01:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T02:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939140666606407881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozimin"
+        },
+        {
+          "end": 25,
+          "id": "708564331332444160",
+          "start": 14,
+          "username": "GetVideoHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939140666606407881",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939042591619928230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozimin @GetVideoHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 152300,
+        "height": 1280,
+        "media_key": "13_1939040990477643776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939040990477643776/img/dKSG_R1RxVlMKv2f.jpg",
+        "public_metrics": {
+          "view_count": 1193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939040990477643776/vid/avc1/320x568/bZnuD1_sR36bauid.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939040990477643776/vid/avc1/480x852/lffIWsFsqxJjGVKX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939040990477643776/vid/avc1/720x1280/n99pAqMI6rIFuh97.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939040990477643776/pl/DkhQhTjCDNRpQ-BP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1939042591619928230",
+        "created_at": "2025-06-29T01:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939140666606407881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozimin"
+            },
+            {
+              "end": 25,
+              "id": "708564331332444160",
+              "start": 14,
+              "username": "GetVideoHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939140666606407881",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939042591619928230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozimin @GetVideoHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939040990477643776"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "conversation_id": "1939042591619928230",
+        "created_at": "2025-06-28T19:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T20:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939042591619928230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOsBikFXff",
+              "end": 64,
+              "expanded_url": "https://x.com/loolzaozimin/status/1939042591619928230/video/1",
+              "media_key": "13_1939040990477643776",
+              "start": 41,
+              "url": "https://t.co/GOsBikFXff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939042591619928230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2698,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "地下邪恶势力 暴走组织“砍人国际”暴打下坠主理人小藻 视频流出 ☠️☠️☠️☠️ https://t.co/GOsBikFXff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 3872,
+          "like_count": 40359,
+          "listed_count": 5,
+          "media_count": 353,
+          "tweet_count": 11257
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188 666 接妈妈活",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15966,
+          "following_count": 47,
+          "like_count": 775,
+          "listed_count": 22,
+          "media_count": 183,
+          "tweet_count": 393
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T08:04:35.000Z",
+        "description": "To download a video or GIF, mention @GetVideoBot, I'll get the link in a few seconds. Didn't work? Try @GetVid_. (Made by @Philipofficial9). Made in 🇳🇬.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "GetVideoBot"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "GetVid_"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "Philipofficial9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "getvideobot.com",
+                "end": 23,
+                "expanded_url": "https://getvideobot.com",
+                "start": 0,
+                "url": "https://t.co/LpZvu0wxNx"
+              }
+            ]
+          }
+        },
+        "id": "708564331332444160",
+        "location": "Earth",
+        "name": "GetVideoHQ",
+        "pinned_tweet_id": "1083996925786030080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1176163027747581952/LqBYi-1d_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648756,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 982,
+          "media_count": 12,
+          "tweet_count": 3552923
+        },
+        "url": "https://t.co/LpZvu0wxNx",
+        "username": "GetVideoHQ",
+        "verified": true
+      }
+    ]
+  }
+}

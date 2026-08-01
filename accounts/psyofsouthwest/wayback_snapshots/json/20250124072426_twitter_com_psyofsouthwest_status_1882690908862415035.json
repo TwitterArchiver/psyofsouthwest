@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882690906110750720"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1882555640796877231",
+    "created_at": "2025-01-24T07:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T08:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882690908862415035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1603110823014141952",
+          "start": 0,
+          "username": "RepOgles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrM6ttyAln",
+          "end": 33,
+          "expanded_url": "https://x.com/psyofsouthwest/status/1882690908862415035/photo/1",
+          "media_key": "3_1882690906110750720",
+          "start": 10,
+          "url": "https://t.co/xrM6ttyAln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882690908862415035",
+    "in_reply_to_user_id": "1603110823014141952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882555640796877231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RepOgles https://t.co/xrM6ttyAln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_1882690906110750720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiCpZ3iW8AAjqU7.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882690906110750720"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1882555640796877231",
+        "created_at": "2025-01-24T07:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T08:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882690908862415035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1603110823014141952",
+              "start": 0,
+              "username": "RepOgles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrM6ttyAln",
+              "end": 33,
+              "expanded_url": "https://x.com/psyofsouthwest/status/1882690908862415035/photo/1",
+              "media_key": "3_1882690906110750720",
+              "start": 10,
+              "url": "https://t.co/xrM6ttyAln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882690908862415035",
+        "in_reply_to_user_id": "1603110823014141952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882555640796877231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RepOgles https://t.co/xrM6ttyAln"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603110823014141952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1540025039914795011",
+              "name": "Constitution of United States of America"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Track the 2025 Presidential Inauguration live",
+              "id": "1881173328041332736",
+              "name": "(Test) Second inauguration of Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration is underway, marking the transition to the 47th administration. Watch live as the president and vice president are sworn in and take part in official ceremonies.",
+              "id": "1881220996641767424",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration has concluded, marking the transition to the 47th administration. The president and vice president were sworn in and participated in official ceremonies.\n",
+              "id": "1881365603878871040",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          }
+        ],
+        "conversation_id": "1882555640796877231",
+        "created_at": "2025-01-23T22:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T23:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882555640796877231"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "22nd Amendment",
+              "probability": 0.5084,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Trump",
+              "probability": 0.9012,
+              "start": 78,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "WASHINGTON, DC - Congressman Andy Ogles introduced a House Joint Resolution to amend the Constitution of the United States to allow a President to be elected for up to but no more than three terms. The language of the proposed amendment reads as follows: ",
+              "display_url": "ogles.house.gov/media/press-re…",
+              "end": 147,
+              "expanded_url": "https://ogles.house.gov/media/press-releases/rep-ogles-proposes-amending-22nd-amendment-allow-trump-serve-third-term",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1882555646601814016/JWjlqmN6?format=png&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1882555646601814016/JWjlqmN6?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "Rep. Ogles Proposes Amending the 22nd Amendment to Allow Trump to Serve a Third Term | Representative Ogles",
+              "unwound_url": "https://ogles.house.gov/media/press-releases/rep-ogles-proposes-amending-22nd-amendment-allow-trump-serve-third-term",
+              "url": "https://t.co/OTacpt3ggE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882555640796877231",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 719,
+          "impression_count": 2001576,
+          "like_count": 4891,
+          "quote_count": 2047,
+          "reply_count": 7303,
+          "retweet_count": 1109
+        },
+        "reply_settings": "everyone",
+        "text": "I just introduced a resolution to amend the 22nd Amendment to allow President Trump to seek a third term. Read the details.👇https://t.co/OTacpt3ggE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 2974,
+          "like_count": 23124,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 9497
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T19:33:17.000Z",
+        "description": "Proudly Representing Tennessee's 5th Congressional District \n| Believer | Patriot | Conservative | Father | Friend |\n@FinancialCmte & @FreedomCaucus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "FinancialCmte"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "FreedomCaucus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/repandyogles",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/repandyogles",
+                "start": 0,
+                "url": "https://t.co/pGNzzd704o"
+              }
+            ]
+          }
+        },
+        "id": "1603110823014141952",
+        "location": "TN-5",
+        "name": "Rep. Andy Ogles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753489791419564032/QgGMdIEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25539,
+          "following_count": 384,
+          "like_count": 282,
+          "listed_count": 347,
+          "media_count": 515,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/pGNzzd704o",
+        "username": "RepOgles",
+        "verified": true
+      }
+    ]
+  }
+}

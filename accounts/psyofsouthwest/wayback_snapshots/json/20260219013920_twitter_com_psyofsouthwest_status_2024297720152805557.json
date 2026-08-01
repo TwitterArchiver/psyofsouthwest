@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023820773891469315"
+      ],
+      "media_source_tweet_id": [
+        "2023820807106154776"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2024297720152805557",
+    "created_at": "2026-02-19T01:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024297720152805557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873040429802995712",
+          "start": 3,
+          "username": "Yomix1337"
+        },
+        {
+          "end": 27,
+          "id": "2019289944771223552",
+          "start": 15,
+          "username": "Notsu311406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SICbNtEJtX",
+          "end": 51,
+          "expanded_url": "https://x.com/Yomix1337/status/2023820807106154776/video/1",
+          "media_key": "7_2023820773891469315",
+          "start": 28,
+          "url": "https://t.co/SICbNtEJtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024297720152805557",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023820807106154776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yomix1337: @Notsu311406 https://t.co/SICbNtEJtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9285,
+        "height": 1354,
+        "media_key": "7_2023820773891469315",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023820773891469315/pu/img/2EwUzLjEPHRF4ab1.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023820773891469315/pu/vid/avc1/1080x1354/2aTiUk8x8INH6dgP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023820773891469315/pu/vid/avc1/720x902/EEGtgRByCUEWbuo-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023820773891469315/pu/vid/avc1/320x400/UhYgbMuoFMtoGV1F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023820773891469315/pu/vid/avc1/480x600/hLifhwGWNh-DlY6d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023820773891469315/pu/pl/0E2esAlCdZusxniq.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023820773891469315"
+          ],
+          "media_source_tweet_id": [
+            "2023820807106154776"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2024297720152805557",
+        "created_at": "2026-02-19T01:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024297720152805557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873040429802995712",
+              "start": 3,
+              "username": "Yomix1337"
+            },
+            {
+              "end": 27,
+              "id": "2019289944771223552",
+              "start": 15,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SICbNtEJtX",
+              "end": 51,
+              "expanded_url": "https://x.com/Yomix1337/status/2023820807106154776/video/1",
+              "media_key": "7_2023820773891469315",
+              "start": 28,
+              "url": "https://t.co/SICbNtEJtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024297720152805557",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023820807106154776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yomix1337: @Notsu311406 https://t.co/SICbNtEJtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023820773891469315"
+          ]
+        },
+        "author_id": "1873040429802995712",
+        "conversation_id": "2023799699866824813",
+        "created_at": "2026-02-17T18:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023820807106154776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019289944771223552",
+              "start": 0,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SICbNtEJtX",
+              "end": 36,
+              "expanded_url": "https://x.com/Yomix1337/status/2023820807106154776/video/1",
+              "media_key": "7_2023820773891469315",
+              "start": 13,
+              "url": "https://t.co/SICbNtEJtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023820807106154776",
+        "in_reply_to_user_id": "2019289944771223552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 149,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023799699866824813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notsu311406 https://t.co/SICbNtEJtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4559,
+          "like_count": 81018,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 13117
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T16:17:01.000Z",
+        "description": "certified Anime Lover qwqda member",
+        "id": "1873040429802995712",
+        "location": "Akiha-ku, Niigata",
+        "name": "Gene edited Yostuba",
+        "pinned_tweet_id": "1873066456499536048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016129049530339328/gix3kKvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 516,
+          "like_count": 25068,
+          "listed_count": 4,
+          "media_count": 3961,
+          "tweet_count": 7119
+        },
+        "username": "Yomix1337",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:00:18.000Z",
+        "description": "",
+        "id": "2019289944771223552",
+        "name": "Notsu",
+        "pinned_tweet_id": "2021490320392048675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019386585222193152/M6cJdp4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 574,
+          "like_count": 4158,
+          "listed_count": 15,
+          "media_count": 424,
+          "tweet_count": 1124
+        },
+        "username": "Notsu311406",
+        "verified": true
+      }
+    ]
+  }
+}

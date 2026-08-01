@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009519906077982720"
+      ],
+      "media_source_tweet_id": [
+        "2009519919889829898"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2009537707735912477",
+    "created_at": "2026-01-09T08:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009537707735912477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VEJ3FrM0DB",
+          "end": 43,
+          "expanded_url": "https://x.com/abskoop/status/2009519919889829898/photo/1",
+          "media_key": "3_2009519906077982720",
+          "start": 20,
+          "url": "https://t.co/VEJ3FrM0DB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009537707735912477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009519919889829898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: 那些新能源🙊 https://t.co/VEJ3FrM0DB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1783,
+        "media_key": "3_2009519906077982720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-M_tSrawAAYgM9.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009519906077982720"
+          ],
+          "media_source_tweet_id": [
+            "2009519919889829898"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2009537707735912477",
+        "created_at": "2026-01-09T08:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009537707735912477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VEJ3FrM0DB",
+              "end": 43,
+              "expanded_url": "https://x.com/abskoop/status/2009519919889829898/photo/1",
+              "media_key": "3_2009519906077982720",
+              "start": 20,
+              "url": "https://t.co/VEJ3FrM0DB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009537707735912477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009519919889829898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: 那些新能源🙊 https://t.co/VEJ3FrM0DB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009519906077982720"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2009519919889829898",
+        "created_at": "2026-01-09T06:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009519919889829898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VEJ3FrM0DB",
+              "end": 30,
+              "expanded_url": "https://x.com/abskoop/status/2009519919889829898/photo/1",
+              "media_key": "3_2009519906077982720",
+              "start": 7,
+              "url": "https://t.co/VEJ3FrM0DB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009519919889829898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 19876,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "那些新能源🙊 https://t.co/VEJ3FrM0DB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008850628722974720/i8U-Mww2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 4348,
+          "like_count": 66308,
+          "listed_count": 5,
+          "media_count": 381,
+          "tweet_count": 12507
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737459,
+          "following_count": 1198,
+          "like_count": 26098,
+          "listed_count": 2651,
+          "media_count": 23171,
+          "tweet_count": 59724
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

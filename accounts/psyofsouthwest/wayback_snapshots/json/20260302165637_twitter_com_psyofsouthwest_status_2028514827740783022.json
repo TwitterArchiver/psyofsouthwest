@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2028514827740783022",
+    "created_at": "2026-03-02T16:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028514827740783022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "ニケサバゲー"
+        },
+        {
+          "end": 83,
+          "start": 77,
+          "tag": "ファスガン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878299115781849089",
+          "start": 3,
+          "username": "SavaNIKKE"
+        },
+        {
+          "end": 48,
+          "id": "1135709508292960257",
+          "start": 39,
+          "username": "BGN_STGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028514827740783022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028465484082127202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SavaNIKKE: #ニケサバゲー イメージイラスト追加‼\nまたも @BGN_STGY 様にDoroイラストを描いていただきました。\n\n今回は #ファスガン での開催、ファスガンといえば寿司ということで、寿司Doroが参戦です🍣🍣🍣\n\nパッチも出ます‼ご期待ください👍…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2028465429359063040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaOj4wbcAA5EDg.jpg",
+        "width": 2619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2028514827740783022",
+        "created_at": "2026-03-02T16:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028514827740783022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "ニケサバゲー"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "ファスガン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878299115781849089",
+              "start": 3,
+              "username": "SavaNIKKE"
+            },
+            {
+              "end": 48,
+              "id": "1135709508292960257",
+              "start": 39,
+              "username": "BGN_STGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028514827740783022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028465484082127202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SavaNIKKE: #ニケサバゲー イメージイラスト追加‼\nまたも @BGN_STGY 様にDoroイラストを描いていただきました。\n\n今回は #ファスガン での開催、ファスガンといえば寿司ということで、寿司Doroが参戦です🍣🍣🍣\n\nパッチも出ます‼ご期待ください👍…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028465429359063040"
+          ]
+        },
+        "author_id": "1878299115781849089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2028465484082127202",
+        "created_at": "2026-03-02T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028465484082127202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ニケサバゲー"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "ファスガン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1135709508292960257",
+              "start": 24,
+              "username": "BGN_STGY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAjXSdpVF1",
+              "end": 148,
+              "expanded_url": "https://x.com/SavaNIKKE/status/2028465484082127202/photo/1",
+              "media_key": "3_2028465429359063040",
+              "start": 125,
+              "url": "https://t.co/GAjXSdpVF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028465484082127202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1121,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#ニケサバゲー イメージイラスト追加‼\nまたも @BGN_STGY 様にDoroイラストを描いていただきました。\n\n今回は #ファスガン での開催、ファスガンといえば寿司ということで、寿司Doroが参戦です🍣🍣🍣\n\nパッチも出ます‼ご期待ください👍 https://t.co/GAjXSdpVF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4697,
+          "like_count": 88236,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 13499
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T04:33:22.000Z",
+        "description": "次回は3月21日 土曜日を予定しております！",
+        "id": "1878299115781849089",
+        "name": "NIKKE×サバゲー",
+        "pinned_tweet_id": "2004844801833984428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011214308815093763/020XTJu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 476,
+          "like_count": 3497,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 830
+        },
+        "username": "SavaNIKKE",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-04T00:47:02.000Z",
+        "description": "きもおたく たまに絵を描いたりぬいぐるみ作ったり コスプレしてるのは妹のトスミXEです\n遊戯王OCG、メガニケ、StellarBlade etc\n無断転載・使用・AI学習禁止 使いたいときはDMください！\n各種リンク↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/EXmist",
+                "end": 23,
+                "expanded_url": "https://lit.link/EXmist",
+                "start": 0,
+                "url": "https://t.co/HBKBraiQZW"
+              }
+            ]
+          }
+        },
+        "id": "1135709508292960257",
+        "location": "Bは自衛ですることがあります；；",
+        "name": "EXミスト(8人目)@サバニケ→ちし共・トリもち祭",
+        "pinned_tweet_id": "2012979178661188094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907033544687554560/fYDB3kkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 458,
+          "like_count": 5215,
+          "listed_count": 28,
+          "media_count": 2717,
+          "tweet_count": 20539
+        },
+        "url": "https://t.co/HBKBraiQZW",
+        "username": "BGN_STGY",
+        "verified": true
+      }
+    ]
+  }
+}

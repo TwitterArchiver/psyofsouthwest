@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1404362418256375810",
+          "name": "Ray Dalio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404362418256375810",
+          "name": "Ray Dalio"
+        }
+      }
+    ],
+    "conversation_id": "2023108455855440142",
+    "created_at": "2026-02-15T18:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023108455855440142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "62603893",
+          "start": 3,
+          "username": "RayDalio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2022…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2022788012598341633",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2022788012598341633",
+          "url": "https://t.co/tjmbT5ytUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023108455855440142",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5941
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022788750388998543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RayDalio: https://t.co/tjmbT5ytUN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1404362418256375810",
+              "name": "Ray Dalio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404362418256375810",
+              "name": "Ray Dalio"
+            }
+          }
+        ],
+        "conversation_id": "2023108455855440142",
+        "created_at": "2026-02-15T18:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023108455855440142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "62603893",
+              "start": 3,
+              "username": "RayDalio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2022…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2022788012598341633",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2022788012598341633",
+              "url": "https://t.co/tjmbT5ytUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023108455855440142",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5941
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022788750388998543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RayDalio: https://t.co/tjmbT5ytUN"
+      },
+      {
+        "article": {
+          "title": "It’s Official: The World Order Has Broken Down"
+        },
+        "attachments": {},
+        "author_id": "62603893",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1404362418256375810",
+              "name": "Ray Dalio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404362418256375810",
+              "name": "Ray Dalio"
+            }
+          }
+        ],
+        "conversation_id": "2022788750388998543",
+        "created_at": "2026-02-14T21:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022788750388998543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2022…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2022788012598341633",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2022788012598341633",
+              "url": "https://t.co/tjmbT5ytUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022788750388998543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72076,
+          "impression_count": 20609675,
+          "like_count": 31817,
+          "quote_count": 1133,
+          "reply_count": 1252,
+          "retweet_count": 5941
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tjmbT5ytUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 4527,
+          "like_count": 78917,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 13003
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T19:47:29.000Z",
+        "description": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wmi.edu.sg/dmp-online/?ut…",
+                "end": 23,
+                "expanded_url": "https://wmi.edu.sg/dmp-online/?utm_source=raydalio_x&utm_medium=social_bio&utm_campaign=dmp_program_",
+                "start": 0,
+                "url": "https://t.co/BFWBy4MZT4"
+              }
+            ]
+          }
+        },
+        "id": "62603893",
+        "name": "Ray Dalio",
+        "pinned_tweet_id": "2022788750388998543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465691046747283461/3ZtnoH5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905261,
+          "following_count": 92,
+          "like_count": 217,
+          "listed_count": 14661,
+          "media_count": 3264,
+          "tweet_count": 7189
+        },
+        "url": "https://t.co/BFWBy4MZT4",
+        "username": "RayDalio",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2042870145287360685",
+    "created_at": "2026-04-11T10:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042907490770145742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018480767358451712",
+          "start": 0,
+          "username": "3mHE7w4Yp2NX"
+        },
+        {
+          "end": 25,
+          "id": "965503592391098368",
+          "start": 14,
+          "username": "0xTraderYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042907490770145742",
+    "in_reply_to_user_id": "2018480767358451712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042903563568071023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3mHE7w4Yp2NX @0xTraderYi 这是阿富汗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2042870145287360685",
+        "created_at": "2026-04-11T10:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042907490770145742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018480767358451712",
+              "start": 0,
+              "username": "3mHE7w4Yp2NX"
+            },
+            {
+              "end": 25,
+              "id": "965503592391098368",
+              "start": 14,
+              "username": "0xTraderYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042907490770145742",
+        "in_reply_to_user_id": "2018480767358451712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042903563568071023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3mHE7w4Yp2NX @0xTraderYi 这是阿富汗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018480767358451712",
+        "conversation_id": "2042870145287360685",
+        "created_at": "2026-04-11T09:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042903563568071023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965503592391098368",
+              "start": 0,
+              "username": "0xTraderYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042903563568071023",
+        "in_reply_to_user_id": "965503592391098368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042870145287360685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xTraderYi 這是伊朗🇮🇷？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4731,
+          "like_count": 103870,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 14375
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T00:25:12.000Z",
+        "description": "",
+        "id": "2018480767358451712",
+        "name": "白衣天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018482699506524160/zV0JP8iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 208
+        },
+        "username": "3mHE7w4Yp2NX",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T08:29:29.000Z",
+        "description": "实盘trader ｜币coin实盘 四年240倍 ｜币安 现货合约邀请码 BNBN2026|🛰️ xiazongbatou｜qq裙 1015797317",
+        "id": "965503592391098368",
+        "location": "Auckland, New Zealand",
+        "name": "Trader壹身武艺｜🔶BNB| IQ16 🕊️",
+        "pinned_tweet_id": "1961787183049953397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012142279079952384/_FESP4fc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13959,
+          "following_count": 1597,
+          "like_count": 12608,
+          "listed_count": 130,
+          "media_count": 4719,
+          "tweet_count": 20677
+        },
+        "username": "0xTraderYi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1920359674194338056",
+    "created_at": "2025-05-08T16:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T17:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920516081266880633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "739753498535993344",
+          "start": 0,
+          "username": "wyx666zz"
+        },
+        {
+          "end": 18,
+          "id": "1685871556604653568",
+          "start": 10,
+          "username": "tuziapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920516081266880633",
+    "in_reply_to_user_id": "739753498535993344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920477233082478652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyx666zz @tuziapi 大模型采集了张纪中和杨振宁？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1920359674194338056",
+        "created_at": "2025-05-08T16:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920516081266880633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "739753498535993344",
+              "start": 0,
+              "username": "wyx666zz"
+            },
+            {
+              "end": 18,
+              "id": "1685871556604653568",
+              "start": 10,
+              "username": "tuziapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920516081266880633",
+        "in_reply_to_user_id": "739753498535993344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920477233082478652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyx666zz @tuziapi 大模型采集了张纪中和杨振宁？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739753498535993344",
+        "conversation_id": "1920359674194338056",
+        "created_at": "2025-05-08T13:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T14:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920477233082478652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1685871556604653568",
+              "start": 0,
+              "username": "tuziapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920477233082478652",
+        "in_reply_to_user_id": "1685871556604653568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920364462814445885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuziapi 为啥白发不能是爸爸🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 3799,
+          "like_count": 35426,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 10789
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-06T09:39:13.000Z",
+        "description": "从事过云原生（云边协同，AI平台等）和AIGC（RAG 、Agent等）。\n\n目前在搞大模型推理加速，算力调度等方向 \n\n欢迎大家私信交流 or 岗位邀请等\n\nGithub: https://t.co/e4C7Z8Ld4m\n个人网站：https://t.co/9Rp0r3zXP2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/631068264",
+                "end": 111,
+                "expanded_url": "https://github.com/631068264",
+                "start": 88,
+                "url": "https://t.co/e4C7Z8Ld4m"
+              },
+              {
+                "display_url": "wyx.cloudns.asia",
+                "end": 140,
+                "expanded_url": "https://www.wyx.cloudns.asia/",
+                "start": 117,
+                "url": "https://t.co/9Rp0r3zXP2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/631068264",
+                "end": 23,
+                "expanded_url": "https://github.com/631068264",
+                "start": 0,
+                "url": "https://t.co/e4C7Z8Ld4m"
+              }
+            ]
+          }
+        },
+        "id": "739753498535993344",
+        "name": "qwer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648512292462682112/dxnvw06M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 79,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/e4C7Z8Ld4m",
+        "username": "wyx666zz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T04:35:00.000Z",
+        "description": "两个小业务，欢迎光临\n\n1. ChatGPT直连站（免费长期试用）：https://t.co/w2CmjpUPRs\n2. API转发站（送 0.4 美金）：https://t.co/GHqlf1sTlm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tu-zi.com",
+                "end": 57,
+                "expanded_url": "https://tu-zi.com",
+                "start": 34,
+                "url": "https://t.co/w2CmjpUPRs"
+              },
+              {
+                "display_url": "api.tu-zi.com",
+                "end": 101,
+                "expanded_url": "https://api.tu-zi.com",
+                "start": 78,
+                "url": "https://t.co/GHqlf1sTlm"
+              }
+            ]
+          }
+        },
+        "id": "1685871556604653568",
+        "location": "NewYork",
+        "name": "兔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908204410762911746/2mcL2L3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 242,
+          "like_count": 4966,
+          "listed_count": 50,
+          "media_count": 1098,
+          "tweet_count": 4160
+        },
+        "username": "tuziapi",
+        "verified": true
+      }
+    ]
+  }
+}

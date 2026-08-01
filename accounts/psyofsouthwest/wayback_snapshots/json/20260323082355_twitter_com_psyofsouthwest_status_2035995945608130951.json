@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035862880952954880"
+      ],
+      "media_source_tweet_id": [
+        "2035862944576360617"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035995945608130951",
+    "created_at": "2026-03-23T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035995945608130951"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "Doroとの日常"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008327866656976896",
+          "start": 3,
+          "username": "killlllz147346"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDyCYxQn2Y",
+          "end": 59,
+          "expanded_url": "https://x.com/killlllz147346/status/2035862944576360617/video/1",
+          "media_key": "13_2035862880952954880",
+          "start": 36,
+          "url": "https://t.co/XDyCYxQn2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035995945608130951",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035862944576360617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killlllz147346: #Doroとの日常 #doro https://t.co/XDyCYxQn2Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10053,
+        "height": 1112,
+        "media_key": "13_2035862880952954880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035862880952954880/img/xuDSv3bUFQEEk0Pg.jpg",
+        "public_metrics": {
+          "view_count": 339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035862880952954880/vid/avc1/320x426/F3Ohzzi9cWOUcpJ7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035862880952954880/vid/avc1/480x640/ceCbIDx4UN6nYYQA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035862880952954880/vid/avc1/720x958/PT58ASHsiJDAj801.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035862880952954880/pl/H9uEVJrn5RvBsy30.m3u8?tag=14"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035862880952954880"
+          ],
+          "media_source_tweet_id": [
+            "2035862944576360617"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035995945608130951",
+        "created_at": "2026-03-23T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035995945608130951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "Doroとの日常"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008327866656976896",
+              "start": 3,
+              "username": "killlllz147346"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDyCYxQn2Y",
+              "end": 59,
+              "expanded_url": "https://x.com/killlllz147346/status/2035862944576360617/video/1",
+              "media_key": "13_2035862880952954880",
+              "start": 36,
+              "url": "https://t.co/XDyCYxQn2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035995945608130951",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035862944576360617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killlllz147346: #Doroとの日常 #doro https://t.co/XDyCYxQn2Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035862880952954880"
+          ]
+        },
+        "author_id": "2008327866656976896",
+        "conversation_id": "2035862944576360617",
+        "created_at": "2026-03-22T23:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035862944576360617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Doroとの日常"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDyCYxQn2Y",
+              "end": 39,
+              "expanded_url": "https://x.com/killlllz147346/status/2035862944576360617/video/1",
+              "media_key": "13_2035862880952954880",
+              "start": 16,
+              "url": "https://t.co/XDyCYxQn2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035862944576360617",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1095,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#Doroとの日常 #doro https://t.co/XDyCYxQn2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 4748,
+          "like_count": 98047,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14109
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T00:01:23.000Z",
+        "description": "",
+        "id": "2008327866656976896",
+        "name": "likkkkkx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008328053987196928/ViuZkLzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 17,
+          "like_count": 140,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 108
+        },
+        "username": "killlllz147346",
+        "verified": false
+      }
+    ]
+  }
+}

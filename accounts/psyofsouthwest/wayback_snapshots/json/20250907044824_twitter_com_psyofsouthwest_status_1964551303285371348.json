@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1964121597922390112",
+    "created_at": "2025-09-07T04:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964551303285371348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "139254649",
+          "start": 0,
+          "username": "realLarryLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964551303285371348",
+    "in_reply_to_user_id": "139254649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964121597922390112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realLarryLi 这就是早期教育的问题，习思想教育已经渗透到幼儿园了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1964121597922390112",
+        "created_at": "2025-09-07T04:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964551303285371348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "139254649",
+              "start": 0,
+              "username": "realLarryLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964551303285371348",
+        "in_reply_to_user_id": "139254649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964121597922390112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realLarryLi 这就是早期教育的问题，习思想教育已经渗透到幼儿园了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "139254649",
+        "conversation_id": "1964121597922390112",
+        "created_at": "2025-09-06T00:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T01:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964121597922390112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964121597922390112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 117146,
+          "like_count": 929,
+          "quote_count": 19,
+          "reply_count": 135,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "你推部分程序员真的挺分裂的\n\n谈及劳动法、官僚主义、个人崇拜，甚至国内的不公现象时，都表现得愤世嫉俗，甚至还能自嘲，简直和异议人士没什么两样\n\n可是一听到别国人说中国是专制/集权/威权/极权国家，好像脑子里一个开关就打开了，变得暴跳如雷。别人说的难道不是事实吗？\n\n无法理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 3939,
+          "like_count": 47756,
+          "listed_count": 7,
+          "media_count": 367,
+          "tweet_count": 11724
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-02T01:56:29.000Z",
+        "description": "",
+        "id": "139254649",
+        "name": "Larry Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1117657382589321216/zj1CSRsI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 855,
+          "like_count": 1347,
+          "listed_count": 18,
+          "media_count": 101,
+          "tweet_count": 2514
+        },
+        "username": "realLarryLi",
+        "verified": false
+      }
+    ]
+  }
+}

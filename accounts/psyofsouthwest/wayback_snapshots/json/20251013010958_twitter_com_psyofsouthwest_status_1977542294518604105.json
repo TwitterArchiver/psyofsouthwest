@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1977271085189222463",
+    "created_at": "2025-10-13T01:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T02:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977542294518604105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1764818331822182400",
+          "start": 0,
+          "username": "imxiaohu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977542294518604105",
+    "in_reply_to_user_id": "1764818331822182400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977271085189222463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imxiaohu ai也犯贱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_1977270579549159424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CtHbbbwAAk6GH.png",
+        "width": 1602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1977271085189222463",
+        "created_at": "2025-10-13T01:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977542294518604105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764818331822182400",
+              "start": 0,
+              "username": "imxiaohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977542294518604105",
+        "in_reply_to_user_id": "1764818331822182400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977271085189222463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imxiaohu ai也犯贱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977270579549159424"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1977271085189222463",
+        "created_at": "2025-10-12T07:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977271085189222463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYmh6izsCw",
+              "end": 196,
+              "expanded_url": "https://x.com/imxiaohu/status/1977271085189222463/photo/1",
+              "media_key": "3_1977270579549159424",
+              "start": 173,
+              "url": "https://t.co/YYmh6izsCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977271085189222463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "研究显示：对AI越粗鲁，AI 回答的越准确 \n\n越礼貌反而会降低准确率🤣\n\n研究人员使用 ChatGPT 的 Deep Research 功能生成 50 道多项选择题，涵盖数学、科学与历史等领域；\n\n每道题有 4 个选项\n\n每题分别使用5 种不同语气进行提问\n\n关键发现：\n\n- 整体准确率随“语气粗鲁化”而提高\n- “最粗鲁” 比 “最可气” 高出约 4个百分点\n- 表现最差的是“过于客气”的语气\n- 所有显著比较均指向同一趋势：语气越不礼貌，模型越准确"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 183341,
+          "like_count": 804,
+          "quote_count": 34,
+          "reply_count": 77,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "研究显示：对AI越粗鲁，AI 回答的越准确 \n\n越礼貌反而会降低准确率🤣\n\n研究人员使用 ChatGPT 的 Deep Research 功能生成 50 道多项选择题，涵盖数学、科学与历史等领域；\n\n每道题有 4 个选项\n\n每题分别使用5 种不同语气进行提问\n\n关键发现：\n\n- 整体准确率随“语气粗鲁化”而提高\n- “最粗鲁” 比 “最可气” https://t.co/YYmh6izsCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 3980,
+          "like_count": 49960,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11841
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 36,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 13,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72170,
+          "following_count": 1463,
+          "like_count": 1758,
+          "listed_count": 913,
+          "media_count": 4505,
+          "tweet_count": 7174
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "imxiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1908566434395156785",
+    "created_at": "2025-04-05T22:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T23:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908648674608955501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812816454271795200",
+          "start": 0,
+          "username": "ShenShixing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908648674608955501",
+    "in_reply_to_user_id": "1812816454271795200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908566434395156785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenShixing_ 没有洗衣机吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1908566434395156785",
+        "created_at": "2025-04-05T22:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T23:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908648674608955501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812816454271795200",
+              "start": 0,
+              "username": "ShenShixing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908648674608955501",
+        "in_reply_to_user_id": "1812816454271795200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908566434395156785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenShixing_ 没有洗衣机吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812816454271795200",
+        "conversation_id": "1908566434395156785",
+        "created_at": "2025-04-05T17:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T18:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908566434395156785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908566434395156785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为两只手都受伤了手掌没办法不沾水，尝试洗衣服根本洗不干净…连最后拧干水都很费力😭在这里许个愿希望自己快快好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 3348,
+          "like_count": 28723,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 10183
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T11:48:34.000Z",
+        "description": "欢迎扩列 发些日常和碎碎念",
+        "id": "1812816454271795200",
+        "name": "Sh1xin5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906620749160632320/EOVnN0Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 86,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 253
+        },
+        "username": "ShenShixing_",
+        "verified": false
+      }
+    ]
+  }
+}

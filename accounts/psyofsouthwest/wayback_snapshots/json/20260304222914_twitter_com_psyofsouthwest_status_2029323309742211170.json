@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029026556970930177"
+      ],
+      "media_source_tweet_id": [
+        "2029026616311980277"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2029323309742211170",
+    "created_at": "2026-03-04T22:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029323309742211170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1540305025771118594",
+          "start": 3,
+          "username": "Darkyoshi0007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYsMqVK87g",
+          "end": 76,
+          "expanded_url": "https://x.com/Darkyoshi0007/status/2029026616311980277/photo/1",
+          "media_key": "3_2029026556970930177",
+          "start": 53,
+          "url": "https://t.co/oYsMqVK87g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029323309742211170",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029026616311980277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Darkyoshi0007: asi nos vemos la mayoría de doros https://t.co/oYsMqVK87g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2029026556970930177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiM50AWEAEFe3j.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029026556970930177"
+          ],
+          "media_source_tweet_id": [
+            "2029026616311980277"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2029323309742211170",
+        "created_at": "2026-03-04T22:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029323309742211170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1540305025771118594",
+              "start": 3,
+              "username": "Darkyoshi0007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYsMqVK87g",
+              "end": 76,
+              "expanded_url": "https://x.com/Darkyoshi0007/status/2029026616311980277/photo/1",
+              "media_key": "3_2029026556970930177",
+              "start": 53,
+              "url": "https://t.co/oYsMqVK87g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029323309742211170",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029026616311980277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Darkyoshi0007: asi nos vemos la mayoría de doros https://t.co/oYsMqVK87g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029026556970930177"
+          ]
+        },
+        "author_id": "1540305025771118594",
+        "conversation_id": "2029026616311980277",
+        "created_at": "2026-03-04T02:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029026616311980277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYsMqVK87g",
+              "end": 57,
+              "expanded_url": "https://x.com/Darkyoshi0007/status/2029026616311980277/photo/1",
+              "media_key": "3_2029026556970930177",
+              "start": 34,
+              "url": "https://t.co/oYsMqVK87g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029026616311980277",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1987,
+          "like_count": 266,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "asi nos vemos la mayoría de doros https://t.co/oYsMqVK87g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4719,
+          "like_count": 89286,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 13593
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:05:33.000Z",
+        "description": "Intento de streamer y maestro en psicología y orientación escolar l tengo 25 años l me encanta los videojuegos retro\nhttps://t.co/uwavt5KuHJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@darkyoshi007",
+                "end": 140,
+                "expanded_url": "http://tiktok.com/@darkyoshi007",
+                "start": 117,
+                "url": "https://t.co/uwavt5KuHJ"
+              }
+            ]
+          }
+        },
+        "id": "1540305025771118594",
+        "name": "Darkyoshi007",
+        "pinned_tweet_id": "2017407270590554479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017406585383927808/0RP2gvtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 30,
+          "like_count": 1979,
+          "listed_count": 7,
+          "media_count": 416,
+          "tweet_count": 715
+        },
+        "username": "Darkyoshi0007",
+        "verified": false
+      }
+    ]
+  }
+}

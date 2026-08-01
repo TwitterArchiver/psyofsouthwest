@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031735886602498048"
+      ],
+      "media_source_tweet_id": [
+        "2031735889865662718"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2031745427046088797",
+    "created_at": "2026-03-11T14:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031745427046088797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39716430",
+          "start": 3,
+          "username": "plantegg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iD6ZL56kpO",
+          "end": 52,
+          "expanded_url": "https://x.com/plantegg/status/2031735889865662718/photo/1",
+          "media_key": "3_2031735886602498048",
+          "start": 29,
+          "url": "https://t.co/iD6ZL56kpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031745427046088797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031735889865662718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plantegg: 被裁员了，求个机会，简历如图 https://t.co/iD6ZL56kpO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2031735886602498048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDItBjZa8AAGbgZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031735886602498048"
+          ],
+          "media_source_tweet_id": [
+            "2031735889865662718"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2031745427046088797",
+        "created_at": "2026-03-11T14:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031745427046088797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39716430",
+              "start": 3,
+              "username": "plantegg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iD6ZL56kpO",
+              "end": 52,
+              "expanded_url": "https://x.com/plantegg/status/2031735889865662718/photo/1",
+              "media_key": "3_2031735886602498048",
+              "start": 29,
+              "url": "https://t.co/iD6ZL56kpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031745427046088797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031735889865662718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plantegg: 被裁员了，求个机会，简历如图 https://t.co/iD6ZL56kpO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031735886602498048"
+          ]
+        },
+        "author_id": "39716430",
+        "conversation_id": "2031735889865662718",
+        "created_at": "2026-03-11T14:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031735889865662718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iD6ZL56kpO",
+              "end": 38,
+              "expanded_url": "https://x.com/plantegg/status/2031735889865662718/photo/1",
+              "media_key": "3_2031735886602498048",
+              "start": 15,
+              "url": "https://t.co/iD6ZL56kpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031735889865662718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6036,
+          "like_count": 48,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "被裁员了，求个机会，简历如图 https://t.co/iD6ZL56kpO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 4732,
+          "like_count": 92305,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 13838
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T08:54:08.000Z",
+        "description": "Claude code/AI/Agent/智能体，AI探索，工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io/2022/01/01/%E4…",
+                "end": 75,
+                "expanded_url": "https://plantegg.github.io/2022/01/01/%E4%B8%89%E4%B8%AA%E6%95%85%E4%BA%8B/",
+                "start": 52,
+                "url": "https://t.co/sdAwtv1et3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io",
+                "end": 23,
+                "expanded_url": "https://plantegg.github.io",
+                "start": 0,
+                "url": "https://t.co/UWhpCZ06ua"
+              }
+            ]
+          }
+        },
+        "id": "39716430",
+        "name": "plantegg",
+        "pinned_tweet_id": "2028760160873652670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55212,
+          "following_count": 443,
+          "like_count": 2717,
+          "listed_count": 357,
+          "media_count": 1763,
+          "tweet_count": 8963
+        },
+        "url": "https://t.co/UWhpCZ06ua",
+        "username": "plantegg",
+        "verified": true
+      }
+    ]
+  }
+}

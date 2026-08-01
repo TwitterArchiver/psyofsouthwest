@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1966013807316316412",
+    "created_at": "2025-09-11T23:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966281469044895765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "24146010",
+          "start": 0,
+          "username": "localoca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966281469044895765",
+    "in_reply_to_user_id": "24146010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966013807316316412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@localoca8964 会发展到肾衰么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1966013773912879106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ivHGmaMAICIUn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1966013807316316412",
+        "created_at": "2025-09-11T23:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966281469044895765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24146010",
+              "start": 0,
+              "username": "localoca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966281469044895765",
+        "in_reply_to_user_id": "24146010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966013807316316412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@localoca8964 会发展到肾衰么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966013773912879106"
+          ]
+        },
+        "author_id": "24146010",
+        "conversation_id": "1966013807316316412",
+        "created_at": "2025-09-11T05:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966013807316316412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4uwp3S2ZK",
+              "end": 113,
+              "expanded_url": "https://x.com/localoca8964/status/1966013807316316412/photo/1",
+              "media_key": "3_1966013773912879106",
+              "start": 90,
+              "url": "https://t.co/N4uwp3S2ZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966013807316316412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2325,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在海上浪呢，接到了一个案例，女性跟着小红书减肥，从什么清水断食，到干断，各种折腾。前两天浙江那么热的天，她折腾干断食，愣是一口水不喝，结果半夜起来尿尿发现茶色尿，右侧腰疼痛…… https://t.co/N4uwp3S2ZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 3949,
+          "like_count": 48312,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 11743
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-13T08:23:17.000Z",
+        "description": "From hook to cook#榻上度人欢喜佛 我好色贪财 人胖鸟短 贪生怕死 一身正气「天安門事件」蒙古海军军医",
+        "id": "24146010",
+        "location": "shanghai",
+        "name": "卖鱼的老莫8964",
+        "pinned_tweet_id": "1774836466436469211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790682106211020800/fDwGAHdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5406,
+          "following_count": 7496,
+          "like_count": 44327,
+          "listed_count": 43,
+          "media_count": 1697,
+          "tweet_count": 26695
+        },
+        "username": "localoca8964",
+        "verified": false
+      }
+    ]
+  }
+}

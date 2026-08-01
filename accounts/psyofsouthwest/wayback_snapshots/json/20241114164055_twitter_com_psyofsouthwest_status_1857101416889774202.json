@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1856953323674636696",
+    "created_at": "2024-11-14T16:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T17:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857101416889774202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "902524928175390720",
+          "start": 0,
+          "username": "rongjian1957"
+        },
+        {
+          "end": 21,
+          "id": "141627220",
+          "start": 14,
+          "username": "zlj517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857101416889774202",
+    "in_reply_to_user_id": "902524928175390720",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856953323674636696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rongjian1957 @zlj517"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1856953323674636696",
+        "created_at": "2024-11-14T16:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857101416889774202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "902524928175390720",
+              "start": 0,
+              "username": "rongjian1957"
+            },
+            {
+              "end": 21,
+              "id": "141627220",
+              "start": 14,
+              "username": "zlj517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857101416889774202",
+        "in_reply_to_user_id": "902524928175390720",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856953323674636696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rongjian1957 @zlj517"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856953303600615424"
+          ]
+        },
+        "author_id": "902524928175390720",
+        "conversation_id": "1856953323674636696",
+        "created_at": "2024-11-14T06:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856953323674636696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWxfz5ctwA",
+              "end": 79,
+              "expanded_url": "https://x.com/rongjian1957/status/1856953323674636696/photo/1",
+              "media_key": "3_1856953303600615424",
+              "start": 56,
+              "url": "https://t.co/mWxfz5ctwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856953323674636696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 198376,
+          "like_count": 502,
+          "quote_count": 6,
+          "reply_count": 110,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "被扫进历史垃圾堆了，没想到人家胡汉三又回来了，怎么办？战狼外交，口炮过瘾，说话顾头不顾腚，这回会不会长点记性？ https://t.co/mWxfz5ctwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 2735,
+          "like_count": 18911,
+          "listed_count": 4,
+          "tweet_count": 8266
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-29T13:34:45.000Z",
+        "description": "自由职业者",
+        "id": "902524928175390720",
+        "location": "北京",
+        "name": "荣剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/902532392413310977/LSOtG258_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249131,
+          "following_count": 481,
+          "like_count": 185,
+          "listed_count": 820,
+          "tweet_count": 6540
+        },
+        "username": "rongjian1957",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-08T15:38:36.000Z",
+        "description": "Personal views. Reposts are not endorsements.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfa.gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.mfa.gov.cn",
+                "start": 0,
+                "url": "https://t.co/kx9AuqFpAt"
+              }
+            ]
+          }
+        },
+        "id": "141627220",
+        "location": "Beijing, China",
+        "name": "Lijian Zhao 赵立坚",
+        "pinned_tweet_id": "1819027406721785898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279077465676120064/maVlJpBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930228,
+          "following_count": 167027,
+          "like_count": 125625,
+          "listed_count": 3416,
+          "tweet_count": 72331
+        },
+        "url": "https://t.co/kx9AuqFpAt",
+        "username": "zlj517",
+        "verified": true
+      }
+    ]
+  }
+}

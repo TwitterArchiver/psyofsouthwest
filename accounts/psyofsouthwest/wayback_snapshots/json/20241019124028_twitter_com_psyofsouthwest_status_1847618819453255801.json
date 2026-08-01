@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1847617969595245020",
+    "created_at": "2024-10-19T12:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T13:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847618819453255801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847618819453255801",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847617969595245020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 难怪很久没有看到ta了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1847617969595245020",
+        "created_at": "2024-10-19T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847618819453255801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847618819453255801",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847617969595245020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 难怪很久没有看到ta了呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847617960749486080"
+          ]
+        },
+        "author_id": "1467175651954200577",
+        "conversation_id": "1847617969595245020",
+        "created_at": "2024-10-19T12:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847617969595245020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3KtphsIU2",
+              "end": 43,
+              "expanded_url": "https://x.com/kjkluk/status/1847617969595245020/photo/1",
+              "media_key": "3_1847617960749486080",
+              "start": 20,
+              "url": "https://t.co/N3KtphsIU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847617969595245020",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这位把关注者清光了。\n不会有事吧 担心 https://t.co/N3KtphsIU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 2588,
+          "like_count": 16553,
+          "listed_count": 4,
+          "tweet_count": 7643
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1778705963245330728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838493659358187520/4O0N0VzH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1689,
+          "like_count": 130576,
+          "listed_count": 7,
+          "tweet_count": 5673
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

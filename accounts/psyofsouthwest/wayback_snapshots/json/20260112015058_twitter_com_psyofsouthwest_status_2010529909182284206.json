@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010416730036961282"
+      ],
+      "media_source_tweet_id": [
+        "2010416745996235101"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2010529909182284206",
+    "created_at": "2026-01-12T01:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010529909182284206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jiCr5tOsTo",
+          "end": 48,
+          "expanded_url": "https://x.com/abskoop/status/2010416745996235101/photo/1",
+          "media_key": "3_2010416730036961282",
+          "start": 25,
+          "url": "https://t.co/jiCr5tOsTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010529909182284206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010416745996235101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: 有好玩的暗号发我好吗🤝 https://t.co/jiCr5tOsTo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2010416730036961282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZvXURbAAIdb0M.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010416730036961282"
+          ],
+          "media_source_tweet_id": [
+            "2010416745996235101"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2010529909182284206",
+        "created_at": "2026-01-12T01:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010529909182284206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiCr5tOsTo",
+              "end": 48,
+              "expanded_url": "https://x.com/abskoop/status/2010416745996235101/photo/1",
+              "media_key": "3_2010416730036961282",
+              "start": 25,
+              "url": "https://t.co/jiCr5tOsTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010529909182284206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010416745996235101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: 有好玩的暗号发我好吗🤝 https://t.co/jiCr5tOsTo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010416730036961282"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2010416745996235101",
+        "created_at": "2026-01-11T18:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010416745996235101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiCr5tOsTo",
+              "end": 35,
+              "expanded_url": "https://x.com/abskoop/status/2010416745996235101/photo/1",
+              "media_key": "3_2010416730036961282",
+              "start": 12,
+              "url": "https://t.co/jiCr5tOsTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010416745996235101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1255,
+          "impression_count": 783173,
+          "like_count": 2143,
+          "quote_count": 2,
+          "reply_count": 102,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "有好玩的暗号发我好吗🤝 https://t.co/jiCr5tOsTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 4396,
+          "like_count": 67403,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 12560
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738003,
+          "following_count": 1201,
+          "like_count": 26098,
+          "listed_count": 2654,
+          "media_count": 23213,
+          "tweet_count": 59836
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

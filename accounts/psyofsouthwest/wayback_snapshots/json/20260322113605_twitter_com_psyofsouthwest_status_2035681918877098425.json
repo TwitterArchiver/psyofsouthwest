@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035667160044126208",
+        "3_2035667182869532672",
+        "3_2035667198501605376",
+        "3_2035667223914930176"
+      ],
+      "media_source_tweet_id": [
+        "2035667446942806176",
+        "2035667446942806176",
+        "2035667446942806176",
+        "2035667446942806176"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035681918877098425",
+    "created_at": "2026-03-22T11:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035681918877098425"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.7699,
+          "start": 56,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pSrWyCeZJA",
+          "end": 94,
+          "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+          "media_key": "3_2035667160044126208",
+          "start": 71,
+          "url": "https://t.co/pSrWyCeZJA"
+        },
+        {
+          "display_url": "pic.x.com/pSrWyCeZJA",
+          "end": 94,
+          "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+          "media_key": "3_2035667182869532672",
+          "start": 71,
+          "url": "https://t.co/pSrWyCeZJA"
+        },
+        {
+          "display_url": "pic.x.com/pSrWyCeZJA",
+          "end": 94,
+          "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+          "media_key": "3_2035667198501605376",
+          "start": 71,
+          "url": "https://t.co/pSrWyCeZJA"
+        },
+        {
+          "display_url": "pic.x.com/pSrWyCeZJA",
+          "end": 94,
+          "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+          "media_key": "3_2035667223914930176",
+          "start": 71,
+          "url": "https://t.co/pSrWyCeZJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035681918877098425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035667446942806176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: お外で泥だらけになるまで遊んできたので\n飼い主にお風呂で綺麗にしてもらったDoroちゃん。　#doro https://t.co/pSrWyCeZJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2035667160044126208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAkfyNbwAA1o54.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2035667182869532672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAkhHPb0AAx9nN.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2035667198501605376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAkiBeaUAAOfzm.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2035667223914930176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAkjgJa4AANFOh.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035667160044126208",
+            "3_2035667182869532672",
+            "3_2035667198501605376",
+            "3_2035667223914930176"
+          ],
+          "media_source_tweet_id": [
+            "2035667446942806176",
+            "2035667446942806176",
+            "2035667446942806176",
+            "2035667446942806176"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035681918877098425",
+        "created_at": "2026-03-22T11:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035681918877098425"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.7699,
+              "start": 56,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 94,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667160044126208",
+              "start": 71,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 94,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667182869532672",
+              "start": 71,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 94,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667198501605376",
+              "start": 71,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 94,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667223914930176",
+              "start": 71,
+              "url": "https://t.co/pSrWyCeZJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035681918877098425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035667446942806176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: お外で泥だらけになるまで遊んできたので\n飼い主にお風呂で綺麗にしてもらったDoroちゃん。　#doro https://t.co/pSrWyCeZJA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035667160044126208",
+            "3_2035667182869532672",
+            "3_2035667198501605376",
+            "3_2035667223914930176"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035667446942806176",
+        "created_at": "2026-03-22T10:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035667446942806176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.766,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 75,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667160044126208",
+              "start": 52,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 75,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667182869532672",
+              "start": 52,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 75,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667198501605376",
+              "start": 52,
+              "url": "https://t.co/pSrWyCeZJA"
+            },
+            {
+              "display_url": "pic.x.com/pSrWyCeZJA",
+              "end": 75,
+              "expanded_url": "https://x.com/panicbluedoro/status/2035667446942806176/photo/1",
+              "media_key": "3_2035667223914930176",
+              "start": 52,
+              "url": "https://t.co/pSrWyCeZJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035667446942806176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 423,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "お外で泥だらけになるまで遊んできたので\n飼い主にお風呂で綺麗にしてもらったDoroちゃん。　#doro https://t.co/pSrWyCeZJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 4745,
+          "like_count": 97891,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14097
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 54,
+          "like_count": 1207,
+          "listed_count": 7,
+          "media_count": 98,
+          "tweet_count": 229
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

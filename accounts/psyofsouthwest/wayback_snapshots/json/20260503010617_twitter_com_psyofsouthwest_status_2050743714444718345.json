@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2050579843881075185",
+    "created_at": "2026-05-03T01:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T02:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050743714444718345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1372104916806692867",
+          "start": 0,
+          "username": "tianmo12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050743714444718345",
+    "in_reply_to_user_id": "1372104916806692867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050579843881075185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianmo12345 孔夫子旧书网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2050579843881075185",
+        "created_at": "2026-05-03T01:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050743714444718345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1372104916806692867",
+              "start": 0,
+              "username": "tianmo12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050743714444718345",
+        "in_reply_to_user_id": "1372104916806692867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050579843881075185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmo12345 孔夫子旧书网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372104916806692867",
+        "conversation_id": "2050579843881075185",
+        "created_at": "2026-05-02T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050579843881075185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050579843881075185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2366,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纸质书好贵啊，一本专业书上千块钱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 4799,
+          "like_count": 114162,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 14998
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T08:38:10.000Z",
+        "description": "天行健，君子以自强不息。友好交流，求同存异，推止推。数学是我老婆，嗜书。",
+        "id": "1372104916806692867",
+        "name": "天末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008772148719218693/O5S9zwL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 802,
+          "like_count": 44176,
+          "listed_count": 7,
+          "media_count": 186,
+          "tweet_count": 12464
+        },
+        "username": "tianmo12345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1867389560424145110",
+    "created_at": "2024-12-13T05:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T06:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867435210423607684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1544651077370449922",
+          "start": 0,
+          "username": "deafalsolife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867435210423607684",
+    "in_reply_to_user_id": "1544651077370449922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867389560424145110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deafalsolife 职高可以研究下社会需求比较稳定的职业岗位"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867389560424145110].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867389560424145110",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867389560424145110"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1867389560424145110",
+        "created_at": "2024-12-13T05:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T06:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867435210423607684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1544651077370449922",
+              "start": 0,
+              "username": "deafalsolife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867435210423607684",
+        "in_reply_to_user_id": "1544651077370449922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867389560424145110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deafalsolife 职高可以研究下社会需求比较稳定的职业岗位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 2861,
+          "like_count": 21309,
+          "listed_count": 6,
+          "media_count": 261,
+          "tweet_count": 8974
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T11:55:16.000Z",
+        "description": "ftm/抑郁疗愈中…",
+        "id": "1544651077370449922",
+        "name": "枫糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784438026242023424/SLuIXFJ9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 861,
+          "like_count": 32552,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 3245
+        },
+        "username": "deafalsolife",
+        "verified": false
+      }
+    ]
+  }
+}

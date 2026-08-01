@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1885159740159791354",
+    "created_at": "2025-01-31T04:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T05:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885179186161029214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1355115606509559811",
+          "start": 0,
+          "username": "Homura_Alter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885179186161029214",
+    "in_reply_to_user_id": "1355115606509559811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885159740159791354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homura_Alter 但是，中央人民广播电台的播音员，播报新闻的时候频繁口误"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885159740159791354].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885159740159791354",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885159740159791354"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1885159740159791354",
+        "created_at": "2025-01-31T04:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T05:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885179186161029214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355115606509559811",
+              "start": 0,
+              "username": "Homura_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885179186161029214",
+        "in_reply_to_user_id": "1355115606509559811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885159740159791354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homura_Alter 但是，中央人民广播电台的播音员，播报新闻的时候频繁口误"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 3004,
+          "like_count": 23468,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 9563
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T11:28:40.000Z",
+        "description": "不定期淡推，有事Telegram找我/阶级敌人/Anti-DEI/Anti-Woke/反跨/老保/网络右翼/清蒸骰子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/dANWihevLc"
+              }
+            ]
+          }
+        },
+        "id": "1355115606509559811",
+        "name": "胡桃夹子",
+        "pinned_tweet_id": "1881184241536655650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534022320540491778/3aT-CRh0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4981,
+          "following_count": 1029,
+          "like_count": 36262,
+          "listed_count": 11,
+          "media_count": 974,
+          "tweet_count": 22531
+        },
+        "url": "https://t.co/dANWihevLc",
+        "username": "Homura_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

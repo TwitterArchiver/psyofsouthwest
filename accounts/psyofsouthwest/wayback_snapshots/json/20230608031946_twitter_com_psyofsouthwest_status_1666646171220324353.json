@@ -1,0 +1,624 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1666646171220324353",
+    "created_at": "2023-06-08T03:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-08T04:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1666646171220324353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "958562247831367680",
+          "start": 3,
+          "username": "Bitturing"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一站式新闻、数据、分析、AI 及交加密工具服务的 Web3 内容平台",
+          "display_url": "shandian.io/flashgpt",
+          "end": 63,
+          "expanded_url": "http://shandian.io/flashgpt",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=orig",
+              "width": 300
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "闪电头条⚡️",
+          "unwound_url": "https://www.shandian.io/flashgpt",
+          "url": "https://t.co/44HjsrF5UO"
+        },
+        {
+          "description": "Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
+          "display_url": "Cohesive.so",
+          "end": 105,
+          "expanded_url": "http://Cohesive.so",
+          "images": [
+            {
+              "height": 338,
+              "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 82,
+          "status": 200,
+          "title": "Cohesive",
+          "unwound_url": "https://cohesive.so/",
+          "url": "https://t.co/j1upFWktiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1666646171220324353",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666294723366260737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitturing: 三个人干三十个人的活系列 \n\nAI 工具\n\n1. https://t.co/44HjsrF5UO\n无需注册的 ChatGPT\n\n2. https://t.co/j1upFWktiW\n下一代文本和音频 AI 编辑器\n\n3. https://t.co/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1666646171220324353",
+        "created_at": "2023-06-08T03:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-08T04:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666646171220324353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "958562247831367680",
+              "start": 3,
+              "username": "Bitturing"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一站式新闻、数据、分析、AI 及交加密工具服务的 Web3 内容平台",
+              "display_url": "shandian.io/flashgpt",
+              "end": 63,
+              "expanded_url": "http://shandian.io/flashgpt",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "闪电头条⚡️",
+              "unwound_url": "https://www.shandian.io/flashgpt",
+              "url": "https://t.co/44HjsrF5UO"
+            },
+            {
+              "description": "Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
+              "display_url": "Cohesive.so",
+              "end": 105,
+              "expanded_url": "http://Cohesive.so",
+              "images": [
+                {
+                  "height": 338,
+                  "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "Cohesive",
+              "unwound_url": "https://cohesive.so/",
+              "url": "https://t.co/j1upFWktiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666646171220324353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666294723366260737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitturing: 三个人干三十个人的活系列 \n\nAI 工具\n\n1. https://t.co/44HjsrF5UO\n无需注册的 ChatGPT\n\n2. https://t.co/j1upFWktiW\n下一代文本和音频 AI 编辑器\n\n3. https://t.co/…"
+      },
+      {
+        "attachments": {},
+        "author_id": "958562247831367680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1666294723366260737",
+        "created_at": "2023-06-07T04:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-07T05:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666294723366260737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一站式新闻、数据、分析、AI 及交加密工具服务的 Web3 内容平台",
+              "display_url": "shandian.io/flashgpt",
+              "end": 48,
+              "expanded_url": "http://shandian.io/flashgpt",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1664259583697887233/2vn8bFKe?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "闪电头条⚡️",
+              "unwound_url": "https://www.shandian.io/flashgpt",
+              "url": "https://t.co/44HjsrF5UO"
+            },
+            {
+              "description": "Experience productivity boost with Cohesive, where the power of human creativity meets the brilliance of AI. Seamlessly create, refine, edit, and publish your work with ease.",
+              "display_url": "Cohesive.so",
+              "end": 90,
+              "expanded_url": "http://Cohesive.so",
+              "images": [
+                {
+                  "height": 338,
+                  "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1666477518495395849/XpH6tZjj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "Cohesive",
+              "unwound_url": "https://cohesive.so/",
+              "url": "https://t.co/j1upFWktiW"
+            },
+            {
+              "description": "Generates delightful UI designs from a text prompt in an instant. Galileo AI combines UI components, images, and content to help you design faster.",
+              "display_url": "Usegalileo.ai",
+              "end": 134,
+              "expanded_url": "http://Usegalileo.ai",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/1665245752552050690/JWI-cPNT?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1665245752552050690/JWI-cPNT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Galileo AI · Copilot for interface design",
+              "unwound_url": "https://www.usegalileo.ai/",
+              "url": "https://t.co/Uhj6Vroe1s"
+            },
+            {
+              "description": "Discover the GPT-powered meeting software to video record, transcribe, highlight and share your online meetings. Try tldv for free!",
+              "display_url": "Tldv.io",
+              "end": 170,
+              "expanded_url": "http://Tldv.io",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1666526858639470592/i9w2GqzM?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1666526858639470592/i9w2GqzM?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 147,
+              "status": 200,
+              "title": "AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv",
+              "unwound_url": "https://tldv.io/",
+              "url": "https://t.co/D5fSJ9NxkA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666294723366260737",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 14243,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "三个人干三十个人的活系列 \n\nAI 工具\n\n1. https://t.co/44HjsrF5UO\n无需注册的 ChatGPT\n\n2. https://t.co/j1upFWktiW\n下一代文本和音频 AI 编辑器\n\n3. https://t.co/Uhj6Vroe1s\n立即设计的想法\n\n4. https://t.co/D5fSJ9NxkA\n高级会议助理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "心理健康教育，信奉家庭心理治疗。\n认为家长问题＞子女问题，家长解决能力＞子女解决能力。\n强调充分觉察、边界稳定、干涉适度。\nStand With Ukraine🇺🇦；Let trans kids bloom🏳️‍⚧️；跨性别群体友好🏳️‍⚧️；改名字住址不会变。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1659973243028242433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665535205044789248/XE4NJ8PT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 2733,
+          "listed_count": 2,
+          "tweet_count": 1376
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T04:47:03.000Z",
+        "description": "#Bitcoin #Crypto 从 2017年5月入圈 \n⚓选择比努力重要 \n📑推特用作笔记 |\n🖼️每个人都是自己的建筑师  | \n🪙 HODL $BTC | \n🤖拥抱新的生产力革命 AI",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "Crypto"
+              }
+            ]
+          }
+        },
+        "id": "958562247831367680",
+        "location": "Bitcoin Island",
+        "name": "Bitturing",
+        "pinned_tweet_id": "1635227904492843008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8835,
+          "following_count": 320,
+          "listed_count": 192,
+          "tweet_count": 640
+        },
+        "username": "Bitturing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1861011748624474344",
+    "created_at": "2024-11-25T16:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T17:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861082381194535065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701426110083563520",
+          "start": 0,
+          "username": "wongkong00538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861082381194535065",
+    "in_reply_to_user_id": "1701426110083563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861011748624474344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wongkong00538 你也可以同时锻炼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1861011748624474344",
+        "created_at": "2024-11-25T16:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861082381194535065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861082381194535065",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861011748624474344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wongkong00538 你也可以同时锻炼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701426110083563520",
+        "conversation_id": "1861011748624474344",
+        "created_at": "2024-11-25T11:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T12:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861011748624474344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861011748624474344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆说要锻炼吃辣能力，我给她饭上抹朝天椒辣酱😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 2800,
+          "like_count": 20129,
+          "listed_count": 4,
+          "tweet_count": 8646
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "如果我锁推了，只代表我最近可能淡推了，没有别的原因。请互关好友不要取关哦，西瓜在此谢过😆😆",
+        "id": "1701426110083563520",
+        "location": "西瓜星球 西瓜种植基地",
+        "name": "西瓜🍉锁推就是在淡推",
+        "pinned_tweet_id": "1860638145999786424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833656090073931776/G5f-LZjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 774,
+          "like_count": 36660,
+          "listed_count": 0,
+          "tweet_count": 13982
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

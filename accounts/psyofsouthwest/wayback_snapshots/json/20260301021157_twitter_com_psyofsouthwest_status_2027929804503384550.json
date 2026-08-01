@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027796764754104322"
+      ],
+      "media_source_tweet_id": [
+        "2027797006727418202"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027929804503384550",
+    "created_at": "2026-03-01T02:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027929804503384550"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "doro",
+          "probability": 0.6369,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "doro",
+          "probability": 0.3771,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "doro"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "ドロ"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "cute"
+        },
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "shorts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018102394001768448",
+          "start": 3,
+          "username": "doro_forgexmimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RANvfS1pnh",
+          "end": 80,
+          "expanded_url": "https://x.com/doro_forgexmimi/status/2027797006727418202/video/1",
+          "media_key": "13_2027796764754104322",
+          "start": 57,
+          "url": "https://t.co/RANvfS1pnh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027929804503384550",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027797006727418202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_forgexmimi: doro feroz🍊#doro  #ドロ #cute #shorts https://t.co/RANvfS1pnh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23477,
+        "height": 720,
+        "media_key": "13_2027796764754104322",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027796764754104322/img/eNMp0IHTeeFOmX7W.jpg",
+        "public_metrics": {
+          "view_count": 823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027796764754104322/vid/avc1/274x270/8exu7UOHO10H0j9S.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027796764754104322/vid/avc1/366x360/2uvzf-i6mDqes4kA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027796764754104322/vid/avc1/732x720/AH-NdpX4ojScQ5Wb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027796764754104322/pl/eKPxo0URJIQ7_LKP.m3u8?tag=14"
+          }
+        ],
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027796764754104322"
+          ],
+          "media_source_tweet_id": [
+            "2027797006727418202"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027929804503384550",
+        "created_at": "2026-03-01T02:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027929804503384550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "doro",
+              "probability": 0.6369,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "doro",
+              "probability": 0.3771,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "doro"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "ドロ"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "cute"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "shorts"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018102394001768448",
+              "start": 3,
+              "username": "doro_forgexmimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RANvfS1pnh",
+              "end": 80,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2027797006727418202/video/1",
+              "media_key": "13_2027796764754104322",
+              "start": 57,
+              "url": "https://t.co/RANvfS1pnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027929804503384550",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027797006727418202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_forgexmimi: doro feroz🍊#doro  #ドロ #cute #shorts https://t.co/RANvfS1pnh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027796764754104322"
+          ]
+        },
+        "author_id": "2018102394001768448",
+        "conversation_id": "2027797006727418202",
+        "created_at": "2026-02-28T17:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027797006727418202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "doro"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "ドロ"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "cute"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "shorts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RANvfS1pnh",
+              "end": 59,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2027797006727418202/video/1",
+              "media_key": "13_2027796764754104322",
+              "start": 36,
+              "url": "https://t.co/RANvfS1pnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027797006727418202",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2048,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "doro feroz🍊#doro  #ドロ #cute #shorts https://t.co/RANvfS1pnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 4658,
+          "like_count": 86394,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13385
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:21:35.000Z",
+        "description": "need make doro happy",
+        "id": "2018102394001768448",
+        "name": "DORO FORGE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026136259349897216/ZG-bYpA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 18,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 14
+        },
+        "username": "doro_forgexmimi",
+        "verified": false
+      }
+    ]
+  }
+}

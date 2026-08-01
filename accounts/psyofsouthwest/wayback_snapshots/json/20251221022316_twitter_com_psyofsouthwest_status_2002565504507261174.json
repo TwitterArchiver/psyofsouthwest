@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002208548256952321"
+      ],
+      "media_source_tweet_id": [
+        "2002208686585119035"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002565504507261174",
+    "created_at": "2025-12-21T02:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002565504507261174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "369732811",
+          "start": 3,
+          "username": "congge918"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Meuol3hlQ",
+          "end": 68,
+          "expanded_url": "https://x.com/congge918/status/2002208686585119035/video/1",
+          "media_key": "13_2002208548256952321",
+          "start": 45,
+          "url": "https://t.co/5Meuol3hlQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002565504507261174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002208686585119035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @congge918: 现在的抖音真魔幻，睡醒看到“西游记唐僧四人”正在直播取经。 https://t.co/5Meuol3hlQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17400,
+        "height": 1280,
+        "media_key": "13_2002208548256952321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002208548256952321/img/QWJy-1W9G4hAjOmJ.jpg",
+        "public_metrics": {
+          "view_count": 135717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002208548256952321/vid/avc1/320x690/bf6xQ_wR8VB0mHcr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002208548256952321/vid/avc1/480x1036/Vwe-yYLZlpZljAp2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002208548256952321/vid/avc1/592x1280/5RSvWFgmu3nPSVSL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002208548256952321/pl/3lB0DmZ-81s_jFDk.m3u8?v=f08"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002208548256952321"
+          ],
+          "media_source_tweet_id": [
+            "2002208686585119035"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002565504507261174",
+        "created_at": "2025-12-21T02:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002565504507261174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "369732811",
+              "start": 3,
+              "username": "congge918"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Meuol3hlQ",
+              "end": 68,
+              "expanded_url": "https://x.com/congge918/status/2002208686585119035/video/1",
+              "media_key": "13_2002208548256952321",
+              "start": 45,
+              "url": "https://t.co/5Meuol3hlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002565504507261174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002208686585119035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @congge918: 现在的抖音真魔幻，睡醒看到“西游记唐僧四人”正在直播取经。 https://t.co/5Meuol3hlQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002208548256952321"
+          ]
+        },
+        "author_id": "369732811",
+        "conversation_id": "2002208686585119035",
+        "created_at": "2025-12-20T02:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002208686585119035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Meuol3hlQ",
+              "end": 53,
+              "expanded_url": "https://x.com/congge918/status/2002208686585119035/video/1",
+              "media_key": "13_2002208548256952321",
+              "start": 30,
+              "url": "https://t.co/5Meuol3hlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002208686585119035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 256167,
+          "like_count": 1543,
+          "quote_count": 12,
+          "reply_count": 145,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "现在的抖音真魔幻，睡醒看到“西游记唐僧四人”正在直播取经。 https://t.co/5Meuol3hlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 4098,
+          "like_count": 59776,
+          "listed_count": 5,
+          "media_count": 374,
+          "tweet_count": 12297
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-07T21:12:55.000Z",
+        "description": "丨@U9_BlockChain Co-founder\n丨Ambassador for @injective @MorphNetwork @TheoriqAI \n丨 #Binance 近3亿选择：https://t.co/iHW5AKstIE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "U9_BlockChain"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "injective"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "MorphNetwork"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "TheoriqAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/en/register?re…",
+                "end": 120,
+                "expanded_url": "https://www.binance.com/en/register?ref=300572367",
+                "start": 97,
+                "url": "https://t.co/iHW5AKstIE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/congge918",
+                "end": 23,
+                "expanded_url": "https://t.me/congge918",
+                "start": 0,
+                "url": "https://t.co/WG4O36Ity8"
+              }
+            ]
+          }
+        },
+        "id": "369732811",
+        "location": "商务合作➡",
+        "name": "聪哥.sats",
+        "pinned_tweet_id": "1957807417590435883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954046716459823104/Ag2kqiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37230,
+          "following_count": 4006,
+          "like_count": 29522,
+          "listed_count": 224,
+          "media_count": 1672,
+          "tweet_count": 36504
+        },
+        "url": "https://t.co/WG4O36Ity8",
+        "username": "congge918",
+        "verified": true
+      }
+    ]
+  }
+}

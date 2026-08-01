@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038188189618442240"
+      ],
+      "media_source_tweet_id": [
+        "2038188885813981207"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038509501083447505",
+    "created_at": "2026-03-30T06:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038509501083447505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "36952268",
+          "start": 3,
+          "username": "iamtonyzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WbkYUltkIr",
+          "end": 74,
+          "expanded_url": "https://x.com/xiaopeng163/status/2038188885813981207/video/1",
+          "media_key": "13_2038188189618442240",
+          "start": 51,
+          "url": "https://t.co/WbkYUltkIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038509501083447505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038412983433675135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamtonyzhu: 卧槽，大早上被这个小视频看哭了。\n\n每一个事成，都在用坚定和坚持\n\n https://t.co/WbkYUltkIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 543440,
+        "height": 1214,
+        "media_key": "13_2038188189618442240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038188189618442240/img/cg2lJL1bfEZSISR1.jpg",
+        "public_metrics": {
+          "view_count": 68387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038188189618442240/vid/avc1/720x808/-v0bsXgNT_k4283o.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038188189618442240/vid/avc1/1080x1214/6RPodAIqMVOI2HUf.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038188189618442240/vid/avc1/320x358/o3WiRLPyAnuAtbqQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038188189618442240/vid/avc1/480x538/1gSE585XrIShot6H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038188189618442240/pl/o4zWrpOelTsuQ2ge.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038188189618442240"
+          ],
+          "media_source_tweet_id": [
+            "2038188885813981207"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038509501083447505",
+        "created_at": "2026-03-30T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038509501083447505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "36952268",
+              "start": 3,
+              "username": "iamtonyzhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbkYUltkIr",
+              "end": 74,
+              "expanded_url": "https://x.com/xiaopeng163/status/2038188885813981207/video/1",
+              "media_key": "13_2038188189618442240",
+              "start": 51,
+              "url": "https://t.co/WbkYUltkIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038509501083447505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038412983433675135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamtonyzhu: 卧槽，大早上被这个小视频看哭了。\n\n每一个事成，都在用坚定和坚持\n\n https://t.co/WbkYUltkIr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038188189618442240"
+          ],
+          "media_source_tweet_id": [
+            "2038188885813981207"
+          ]
+        },
+        "author_id": "36952268",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038412983433675135",
+        "created_at": "2026-03-30T00:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T01:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038412983433675135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbkYUltkIr",
+              "end": 58,
+              "expanded_url": "https://x.com/xiaopeng163/status/2038188885813981207/video/1",
+              "media_key": "13_2038188189618442240",
+              "start": 35,
+              "url": "https://t.co/WbkYUltkIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038412983433675135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 19098,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，大早上被这个小视频看哭了。\n\n每一个事成，都在用坚定和坚持\n\n https://t.co/WbkYUltkIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 4759,
+          "like_count": 100186,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14191
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T14:23:58.000Z",
+        "description": "Tony出海, Founder, Ship AI startups。10年前从国内互联网产品转行做跨境电商，对海外市场非常熟悉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhaihao.com",
+                "end": 23,
+                "expanded_url": "https://chuhaihao.com",
+                "start": 0,
+                "url": "https://t.co/z4bStGJOWO"
+              }
+            ]
+          }
+        },
+        "id": "36952268",
+        "location": "Tony出海营销手册👉",
+        "name": "Tony出海",
+        "pinned_tweet_id": "2038430926770950341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731259755891732480/C4u-Yz1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22652,
+          "following_count": 2018,
+          "like_count": 7162,
+          "listed_count": 273,
+          "media_count": 1119,
+          "tweet_count": 6495
+        },
+        "url": "https://t.co/z4bStGJOWO",
+        "username": "iamtonyzhu",
+        "verified": true
+      }
+    ]
+  }
+}

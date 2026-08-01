@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1851192604102443010"
+      ],
+      "media_source_tweet_id": [
+        "1851193548655509846"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851404178649653501",
+    "created_at": "2024-10-29T23:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T00:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851404178649653501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "259611996",
+          "start": 3,
+          "username": "bearbig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJqy6Itm0P",
+          "end": 133,
+          "expanded_url": "https://x.com/bearbig/status/1851193548655509846/video/1",
+          "media_key": "13_1851192604102443010",
+          "start": 110,
+          "url": "https://t.co/BJqy6Itm0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851404178649653501",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851193548655509846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bearbig: 仅用了70篇AI帖子，粉丝数却达到了13.3万！究竟是怎么做到的？！\n\n案例分析：一个由AI驱动的Instagram账号是如何通过讲故事和情感导向的内容，在100天内吸引到13.3万粉丝的。… https://t.co/BJqy6Itm0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 625733,
+        "height": 1080,
+        "media_key": "13_1851192604102443010",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1851192604102443010/img/fLk3WVbFZdS2r2u2.jpg",
+        "public_metrics": {
+          "view_count": 27660
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1851192604102443010/pl/x35SyDgq2aNR60Ps.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851192604102443010/vid/avc1/1280x720/_xQJeRxQTYwEwtvA.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851192604102443010/vid/avc1/640x360/fUgm1h7lQ9WgywAa.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851192604102443010/vid/avc1/1920x1080/Ii40CclQsAD4E2ja.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1851192604102443010/vid/avc1/480x270/St1B7ntNlQCIy9dt.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1851192604102443010"
+          ],
+          "media_source_tweet_id": [
+            "1851193548655509846"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851404178649653501",
+        "created_at": "2024-10-29T23:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T00:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851404178649653501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "259611996",
+              "start": 3,
+              "username": "bearbig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJqy6Itm0P",
+              "end": 133,
+              "expanded_url": "https://x.com/bearbig/status/1851193548655509846/video/1",
+              "media_key": "13_1851192604102443010",
+              "start": 110,
+              "url": "https://t.co/BJqy6Itm0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851404178649653501",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851193548655509846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bearbig: 仅用了70篇AI帖子，粉丝数却达到了13.3万！究竟是怎么做到的？！\n\n案例分析：一个由AI驱动的Instagram账号是如何通过讲故事和情感导向的内容，在100天内吸引到13.3万粉丝的。… https://t.co/BJqy6Itm0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1851192604102443010"
+          ]
+        },
+        "author_id": "259611996",
+        "conversation_id": "1851193548655509846",
+        "created_at": "2024-10-29T09:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T10:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851193548655509846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJqy6Itm0P",
+              "end": 120,
+              "expanded_url": "https://x.com/bearbig/status/1851193548655509846/video/1",
+              "media_key": "13_1851192604102443010",
+              "start": 97,
+              "url": "https://t.co/BJqy6Itm0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851193548655509846",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 541,
+          "impression_count": 81040,
+          "like_count": 458,
+          "quote_count": 10,
+          "reply_count": 19,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "仅用了70篇AI帖子，粉丝数却达到了13.3万！究竟是怎么做到的？！\n\n案例分析：一个由AI驱动的Instagram账号是如何通过讲故事和情感导向的内容，在100天内吸引到13.3万粉丝的。… https://t.co/BJqy6Itm0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 2679,
+          "like_count": 17934,
+          "listed_count": 4,
+          "tweet_count": 7999
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "Product Designer @Xero, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity. Learning AI at https://t.co/XIsYs4F3xq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 17,
+                "username": "Xero"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Bearwith.AI",
+                "end": 154,
+                "expanded_url": "http://Bearwith.AI",
+                "start": 131,
+                "url": "https://t.co/XIsYs4F3xq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bearwith.AI",
+                "end": 23,
+                "expanded_url": "https://Bearwith.AI",
+                "start": 0,
+                "url": "https://t.co/W4GUChoXr4"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "location": "Learn AI with me 👉",
+        "name": "Bear Liu",
+        "pinned_tweet_id": "1851193548655509846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86692,
+          "following_count": 2097,
+          "like_count": 2617,
+          "listed_count": 506,
+          "tweet_count": 11852
+        },
+        "url": "https://t.co/W4GUChoXr4",
+        "username": "bearbig",
+        "verified": true
+      }
+    ]
+  }
+}

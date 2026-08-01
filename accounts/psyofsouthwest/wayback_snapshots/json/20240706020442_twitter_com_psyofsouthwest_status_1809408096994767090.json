@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1809407807181189426",
+    "created_at": "2024-07-06T02:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T03:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809408096994767090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1524331133856784384",
+          "start": 0,
+          "username": "DSnwni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809408096994767090",
+    "in_reply_to_user_id": "1524331133856784384",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809407807181189426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DSnwni 开车的不容易晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1809407807181189426",
+        "created_at": "2024-07-06T02:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T03:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809408096994767090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1524331133856784384",
+              "start": 0,
+              "username": "DSnwni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809408096994767090",
+        "in_reply_to_user_id": "1524331133856784384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809407807181189426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DSnwni 开车的不容易晕"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809407804073205760"
+          ]
+        },
+        "author_id": "1524331133856784384",
+        "conversation_id": "1809407807181189426",
+        "created_at": "2024-07-06T02:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T03:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809407807181189426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WtuAkgnviN",
+              "end": 55,
+              "expanded_url": "https://twitter.com/DSnwni/status/1809407807181189426/photo/1",
+              "media_key": "3_1809407804073205760",
+              "start": 32,
+              "url": "https://t.co/WtuAkgnviN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809407807181189426",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在车后面坐着看别人练车，然后我就有点晕车。练习的时候不会晕车吧 https://t.co/WtuAkgnviN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 2345,
+          "like_count": 13317,
+          "listed_count": 4,
+          "tweet_count": 6886
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T10:10:48.000Z",
+        "description": "不约，联系方式只有微信，没有qq。精神分裂确诊，在吃药治疗，可以找拉克私信发泄，不接线下，不出原味，是树洞推，任何人都可以来找我聊天或者倾诉",
+        "id": "1524331133856784384",
+        "location": "距离你500m",
+        "name": "小拉克",
+        "pinned_tweet_id": "1753267924964352279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687748397959372800/y7vnlzry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7200,
+          "following_count": 497,
+          "like_count": 9269,
+          "listed_count": 11,
+          "tweet_count": 3541
+        },
+        "username": "DSnwni",
+        "verified": false
+      }
+    ]
+  }
+}

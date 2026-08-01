@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1841665745639358530",
+    "created_at": "2024-10-03T23:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T00:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841982843565564047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "703415134576705536",
+          "start": 0,
+          "username": "JyaXieng"
+        },
+        {
+          "end": 18,
+          "id": "259611996",
+          "start": 10,
+          "username": "bearbig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841982843565564047",
+    "in_reply_to_user_id": "703415134576705536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841873679514534297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyaXieng @bearbig 人就是这么low"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1841665745639358530",
+        "created_at": "2024-10-03T23:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T00:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841982843565564047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "703415134576705536",
+              "start": 0,
+              "username": "JyaXieng"
+            },
+            {
+              "end": 18,
+              "id": "259611996",
+              "start": 10,
+              "username": "bearbig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841982843565564047",
+        "in_reply_to_user_id": "703415134576705536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841873679514534297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyaXieng @bearbig 人就是这么low"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "703415134576705536",
+        "conversation_id": "1841665745639358530",
+        "created_at": "2024-10-03T16:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T17:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841873679514534297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "259611996",
+              "start": 0,
+              "username": "bearbig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841873679514534297",
+        "in_reply_to_user_id": "259611996",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841665745639358530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bearbig 看这种书的人也太low"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 2496,
+          "like_count": 15006,
+          "listed_count": 4,
+          "tweet_count": 7355
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-27T03:03:31.000Z",
+        "description": "English & Philosophy & Information Technology & Computer Science",
+        "id": "703415134576705536",
+        "name": "Apulunar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839213052157161472/9rR_GKkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 844,
+          "like_count": 919,
+          "listed_count": 3,
+          "tweet_count": 8009
+        },
+        "username": "JyaXieng",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "Product Designer @Xero, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity. Learning AI at https://t.co/XIsYs4F3xq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 17,
+                "username": "Xero"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Bearwith.AI",
+                "end": 154,
+                "expanded_url": "http://Bearwith.AI",
+                "start": 131,
+                "url": "https://t.co/XIsYs4F3xq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bearwith.AI",
+                "end": 23,
+                "expanded_url": "https://Bearwith.AI",
+                "start": 0,
+                "url": "https://t.co/W4GUChoXr4"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "location": "Learn AI with me 👉",
+        "name": "Bear Liu",
+        "pinned_tweet_id": "1838043518134342124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84825,
+          "following_count": 2034,
+          "like_count": 2500,
+          "listed_count": 499,
+          "tweet_count": 11529
+        },
+        "url": "https://t.co/W4GUChoXr4",
+        "username": "bearbig",
+        "verified": true
+      }
+    ]
+  }
+}

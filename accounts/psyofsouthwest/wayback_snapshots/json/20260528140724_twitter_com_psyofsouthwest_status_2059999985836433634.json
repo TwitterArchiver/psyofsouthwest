@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059995236869554176",
+        "3_2059995236890492928",
+        "3_2059995236873781248"
+      ],
+      "media_source_tweet_id": [
+        "2059995245467803729",
+        "2059995245467803729",
+        "2059995245467803729"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2059999985836433634",
+    "created_at": "2026-05-28T14:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059999985836433634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997495772066324480",
+          "start": 3,
+          "username": "kuma02150128"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0QXvfS7bf8",
+          "end": 113,
+          "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+          "media_key": "3_2059995236869554176",
+          "start": 90,
+          "url": "https://t.co/0QXvfS7bf8"
+        },
+        {
+          "display_url": "pic.x.com/0QXvfS7bf8",
+          "end": 113,
+          "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+          "media_key": "3_2059995236890492928",
+          "start": 90,
+          "url": "https://t.co/0QXvfS7bf8"
+        },
+        {
+          "display_url": "pic.x.com/0QXvfS7bf8",
+          "end": 113,
+          "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+          "media_key": "3_2059995236873781248",
+          "start": 90,
+          "url": "https://t.co/0QXvfS7bf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059999985836433634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059995245467803729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuma02150128: 好痛真的好痛..\n我要赚钱支付自己的学费真的好痛苦.\n谁能帮一下kuma啊🥺🥺\n哪怕一点点\n我也努力给你们提供情绪价值的！！\n我好像活下去啊… https://t.co/0QXvfS7bf8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059999985836433634].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059999985836433634",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059999985836433634"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059995236869554176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSwOybQAAbd1K.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059995236890492928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSwO3awAAaM4N.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059995236873781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaSwOzbwAATZs6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059995236869554176",
+            "3_2059995236890492928",
+            "3_2059995236873781248"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2059995245467803729",
+        "created_at": "2026-05-28T13:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995245467803729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QXvfS7bf8",
+              "end": 95,
+              "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+              "media_key": "3_2059995236869554176",
+              "start": 72,
+              "url": "https://t.co/0QXvfS7bf8"
+            },
+            {
+              "display_url": "pic.x.com/0QXvfS7bf8",
+              "end": 95,
+              "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+              "media_key": "3_2059995236890492928",
+              "start": 72,
+              "url": "https://t.co/0QXvfS7bf8"
+            },
+            {
+              "display_url": "pic.x.com/0QXvfS7bf8",
+              "end": 95,
+              "expanded_url": "https://x.com/kuma02150128/status/2059995245467803729/photo/1",
+              "media_key": "3_2059995236873781248",
+              "start": 72,
+              "url": "https://t.co/0QXvfS7bf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059995245467803729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好痛真的好痛..\n我要赚钱支付自己的学费真的好痛苦.\n谁能帮一下kuma啊🥺🥺\n哪怕一点点\n我也努力给你们提供情绪价值的！！\n我好像活下去啊… https://t.co/0QXvfS7bf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 4728,
+          "like_count": 121193,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 15434
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！\n亲爱的@qsmhls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "qsmhls"
+              }
+            ]
+          }
+        },
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 188,
+          "like_count": 3461,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 999
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

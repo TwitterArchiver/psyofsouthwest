@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1888076211051470982",
+    "created_at": "2025-02-08T15:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T16:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888243110037078047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4775210080",
+          "start": 0,
+          "username": "lazydjay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888243110037078047",
+    "in_reply_to_user_id": "4775210080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888076211051470982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazydjay 阿里企业邮箱好像目前是免费的，为了省钱，建议联邦政府所有部门集体改用阿里企业邮箱😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1888076211051470982",
+        "created_at": "2025-02-08T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888243110037078047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4775210080",
+              "start": 0,
+              "username": "lazydjay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888243110037078047",
+        "in_reply_to_user_id": "4775210080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888076211051470982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazydjay 阿里企业邮箱好像目前是免费的，为了省钱，建议联邦政府所有部门集体改用阿里企业邮箱😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4775210080",
+        "conversation_id": "1888076211051470982",
+        "created_at": "2025-02-08T04:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T05:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888076211051470982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888076211051470982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 417319,
+          "like_count": 729,
+          "quote_count": 12,
+          "reply_count": 102,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克牛逼，他把美国培养4年多的对华特工，身份统统曝光。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 3088,
+          "like_count": 24364,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 9727
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-11T14:56:13.000Z",
+        "description": "机器猫，一位热爱自由的艺术家，有朋自远方来 聊感兴趣的话题 不亦乐乎！💕",
+        "id": "4775210080",
+        "name": "Jay Yates",
+        "pinned_tweet_id": "1468233775490478080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837239361437368320/-A8FJZAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79042,
+          "following_count": 347,
+          "like_count": 59505,
+          "listed_count": 317,
+          "media_count": 16645,
+          "tweet_count": 34934
+        },
+        "username": "lazydjay",
+        "verified": false
+      }
+    ]
+  }
+}

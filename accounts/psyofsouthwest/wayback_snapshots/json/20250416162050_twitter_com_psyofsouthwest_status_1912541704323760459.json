@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1912324027965927618",
+    "created_at": "2025-04-16T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912541704323760459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817573438334341120",
+          "start": 0,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912541704323760459",
+    "in_reply_to_user_id": "1817573438334341120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912324027965927618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teachaerli 岸英，喊医生来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1912324025147117568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GonwkaZW0AAhpw0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912541704323760459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912541704323760459",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912324027965927618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 岸英，喊医生来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912324025147117568"
+          ]
+        },
+        "author_id": "1817573438334341120",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T01:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T02:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912324027965927618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omA5h3WfiK",
+              "end": 23,
+              "expanded_url": "https://x.com/teachaerli/status/1912324027965927618/photo/1",
+              "media_key": "3_1912324025147117568",
+              "start": 0,
+              "url": "https://t.co/omA5h3WfiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912324027965927618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 346192,
+          "like_count": 685,
+          "quote_count": 63,
+          "reply_count": 649,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/omA5h3WfiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 3485,
+          "like_count": 29916,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 10302
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 84,
+          "like_count": 40,
+          "listed_count": 10,
+          "media_count": 307,
+          "tweet_count": 330
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

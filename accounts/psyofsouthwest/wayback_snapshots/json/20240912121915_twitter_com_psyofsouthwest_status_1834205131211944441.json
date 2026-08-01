@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1834204671134584931",
+    "created_at": "2024-09-12T12:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T13:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834205131211944441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834205131211944441",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834204671134584931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 圈刹无敌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1834204671134584931",
+        "created_at": "2024-09-12T12:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T13:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834205131211944441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834205131211944441",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834204671134584931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 圈刹无敌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "1834204671134584931",
+        "created_at": "2024-09-12T12:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T13:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834204671134584931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834204671134584931",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后碟片松了，要整好麻烦还要卸后轮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 2425,
+          "like_count": 14333,
+          "listed_count": 4,
+          "tweet_count": 7193
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "拥有可爱南宁小狗 @pbpp10521715\n小号 @Refixxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "pbpp10521715"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "Refixxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1601728",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1601728",
+                "start": 0,
+                "url": "https://t.co/GkJyfp9iAx"
+              }
+            ]
+          }
+        },
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "何猫",
+        "pinned_tweet_id": "1833092757692223592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780619731655106560/kRs1EEzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 1276,
+          "like_count": 7138,
+          "listed_count": 45,
+          "tweet_count": 336182
+        },
+        "url": "https://t.co/GkJyfp9iAx",
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2026594189388186103",
+    "created_at": "2026-02-25T17:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026717316839600484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "854250925480845312",
+          "start": 0,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026717316839600484",
+    "in_reply_to_user_id": "854250925480845312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026594189388186103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyue 中国人不曾有过对权力祛魅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2026594189388186103",
+        "created_at": "2026-02-25T17:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026717316839600484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "854250925480845312",
+              "start": 0,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026717316839600484",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026594189388186103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyue 中国人不曾有过对权力祛魅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "2026594189388186103",
+        "created_at": "2026-02-25T09:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026594189388186103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026594189388186103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4408,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有时候会觉得，国内现在痛骂文科生的调调挺像小农社会骂工匠奇技淫巧的……\n我看闹钟缺的不是德先生和赛先生，而是王阳明-李贽心学的本土“文艺复兴”和启蒙运动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 4624,
+          "like_count": 84922,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13308
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 1430,
+          "like_count": 18540,
+          "listed_count": 12,
+          "media_count": 985,
+          "tweet_count": 8802
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

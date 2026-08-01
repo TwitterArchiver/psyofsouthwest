@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1812510726751416586",
+    "created_at": "2024-07-14T22:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T23:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812620242176127155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588558150126354432",
+          "start": 0,
+          "username": "H4rU_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812620242176127155",
+    "in_reply_to_user_id": "1588558150126354432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812510726751416586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H4rU_xi 南京的话，你可以在北京西路70号门口😜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1812510726751416586",
+        "created_at": "2024-07-14T22:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T23:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812620242176127155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588558150126354432",
+              "start": 0,
+              "username": "H4rU_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812620242176127155",
+        "in_reply_to_user_id": "1588558150126354432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812510726751416586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4rU_xi 南京的话，你可以在北京西路70号门口😜"
+      },
+      {
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1812510726751416586",
+        "created_at": "2024-07-14T15:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812510726751416586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812510726751416586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想\n如果没有稳定住所还不想死桥洞里还有什么合适的紫砂地点🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 2362,
+          "like_count": 13397,
+          "listed_count": 4,
+          "tweet_count": 6915
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "“我们会在下一个世界相遇”",
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "纸飞机云☁️",
+        "pinned_tweet_id": "1800894721071755623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800158932176179200/uhPZ9ZJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 403,
+          "like_count": 1506,
+          "listed_count": 4,
+          "tweet_count": 8562
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

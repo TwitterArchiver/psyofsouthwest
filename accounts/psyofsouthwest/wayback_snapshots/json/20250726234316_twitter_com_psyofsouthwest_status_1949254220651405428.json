@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1949070498975060281",
+    "created_at": "2025-07-26T23:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T00:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949254220651405428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "985336151366975489",
+          "start": 0,
+          "username": "a84956132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949254220651405428",
+    "in_reply_to_user_id": "985336151366975489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949070498975060281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a84956132 做了一个艰难的决定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1949070498975060281",
+        "created_at": "2025-07-26T23:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T00:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949254220651405428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "985336151366975489",
+              "start": 0,
+              "username": "a84956132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949254220651405428",
+        "in_reply_to_user_id": "985336151366975489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949070498975060281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a84956132 做了一个艰难的决定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985336151366975489",
+        "conversation_id": "1949070498975060281",
+        "created_at": "2025-07-26T11:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949070498975060281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949070498975060281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11944,
+          "like_count": 164,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "快進到那一夜賴總統思索良久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 3880,
+          "like_count": 42333,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11416
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-15T01:56:59.000Z",
+        "description": "台灣神友/玩網廢物/成為一個有意識形態的人之前，首先得先是個人/我是青鳥信使編輯之一 @courier_blue/最終決戰兵器@b95067243/黎波塔聯省民國國務總理兼外務總長 @Liberta_gov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "courier_blue"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "b95067243"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "Liberta_gov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluebirdcourier",
+                "end": 23,
+                "expanded_url": "https://t.me/bluebirdcourier",
+                "start": 0,
+                "url": "https://t.co/oEF3pUou38"
+              }
+            ]
+          }
+        },
+        "id": "985336151366975489",
+        "location": "蓬萊島",
+        "name": "木板",
+        "pinned_tweet_id": "1680436672440463361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926940976787914752/VoJfG2Q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 311,
+          "like_count": 34753,
+          "listed_count": 10,
+          "media_count": 3256,
+          "tweet_count": 11022
+        },
+        "url": "https://t.co/oEF3pUou38",
+        "username": "a84956132",
+        "verified": false
+      }
+    ]
+  }
+}

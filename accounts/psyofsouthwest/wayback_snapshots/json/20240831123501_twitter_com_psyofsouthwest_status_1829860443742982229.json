@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1829852520463946149",
+    "created_at": "2024-08-31T12:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T13:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829860443742982229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588558150126354432",
+          "start": 0,
+          "username": "H4rU_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829860443742982229",
+    "in_reply_to_user_id": "1588558150126354432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829852520463946149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H4rU_xi ……Tony老师的话术也很厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1829852520463946149",
+        "created_at": "2024-08-31T12:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T13:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829860443742982229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588558150126354432",
+              "start": 0,
+              "username": "H4rU_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829860443742982229",
+        "in_reply_to_user_id": "1588558150126354432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829852520463946149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4rU_xi ……Tony老师的话术也很厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1829852520463946149",
+        "created_at": "2024-08-31T12:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829852520463946149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829852520463946149",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "箱子好贵\n蛋白矫正也好贵。。。\n下海了想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 2412,
+          "like_count": 14183,
+          "listed_count": 4,
+          "tweet_count": 7133
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "“我将永远存在，在那个可以观测到的闪耀的地方”\n@SyndicalismCat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "SyndicalismCat"
+              }
+            ]
+          }
+        },
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "飞行低云☁️",
+        "pinned_tweet_id": "1824317849780846655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800158932176179200/uhPZ9ZJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 363,
+          "like_count": 2546,
+          "listed_count": 5,
+          "tweet_count": 10527
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

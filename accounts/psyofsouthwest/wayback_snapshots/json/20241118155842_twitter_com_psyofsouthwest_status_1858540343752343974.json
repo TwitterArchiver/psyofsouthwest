@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1858450960747753955",
+    "created_at": "2024-11-18T15:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T16:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858540343752343974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "93102137",
+          "start": 0,
+          "username": "e097"
+        },
+        {
+          "end": 14,
+          "id": "1433678976564662273",
+          "start": 6,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858540343752343974",
+    "in_reply_to_user_id": "93102137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858483524044513333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e097 @hsn8086 革命自诞生之初就是杀来杀去，从不是什么高尚玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1858450960747753955",
+        "created_at": "2024-11-18T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858540343752343974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "93102137",
+              "start": 0,
+              "username": "e097"
+            },
+            {
+              "end": 14,
+              "id": "1433678976564662273",
+              "start": 6,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858540343752343974",
+        "in_reply_to_user_id": "93102137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858483524044513333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e097 @hsn8086 革命自诞生之初就是杀来杀去，从不是什么高尚玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "93102137",
+        "conversation_id": "1858450960747753955",
+        "created_at": "2024-11-18T12:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T13:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858483524044513333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858483524044513333",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29334,
+          "like_count": 1001,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858450960747753955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 无锡这哥们满嘴的公平正义，实际上杀的全是同为底层的同学，纯纯弱智加垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 2766,
+          "like_count": 19420,
+          "listed_count": 4,
+          "tweet_count": 8433
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-28T02:32:34.000Z",
+        "description": "It is my duty!",
+        "id": "93102137",
+        "location": "パラダイス",
+        "name": "絶望した",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690974109340246016/wymT0ReJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1651,
+          "like_count": 47824,
+          "listed_count": 5,
+          "tweet_count": 6619
+        },
+        "username": "e097",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 内: @hsn8086k | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hsn8086k"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14284,
+          "following_count": 884,
+          "like_count": 36102,
+          "listed_count": 45,
+          "tweet_count": 7402
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

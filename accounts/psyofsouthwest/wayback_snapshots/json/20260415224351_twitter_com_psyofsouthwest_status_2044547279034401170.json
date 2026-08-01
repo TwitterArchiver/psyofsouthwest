@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2044060479296012396",
+    "created_at": "2026-04-15T22:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T23:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044547279034401170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1573206509625876481",
+          "start": 0,
+          "username": "syhily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044547279034401170",
+    "in_reply_to_user_id": "1573206509625876481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044060479296012396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syhily 做题屌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2044060479296012396",
+        "created_at": "2026-04-15T22:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044547279034401170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044547279034401170",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044060479296012396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhily 做题屌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2044060479296012396",
+        "created_at": "2026-04-14T14:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044060479296012396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044060479296012396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 121599,
+          "like_count": 185,
+          "quote_count": 39,
+          "reply_count": 108,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "下班和同事聊晚上吃什么，我说，我吃过了芝麻糊（zhī ma hù），所以不大想吃了。\n\n同事惊道：你吃了什么？\n我：zhī ma hù。\n同事：这是什么东西？\n我又重复了一遍，想了想又补充道：有些地方会误读作 zhī ma hú。\n\n同事说，你肯定读错了，是两声。\n我打开《新华字典》，糊在表达粥状食物时读四声。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 4748,
+          "like_count": 105915,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14548
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "pinned_tweet_id": "2044314403559092520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28714,
+          "following_count": 896,
+          "like_count": 5765,
+          "listed_count": 174,
+          "media_count": 2377,
+          "tweet_count": 10291
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": true
+      }
+    ]
+  }
+}

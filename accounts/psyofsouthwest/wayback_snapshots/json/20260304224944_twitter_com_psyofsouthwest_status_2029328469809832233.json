@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028829833824993280"
+      ],
+      "media_source_tweet_id": [
+        "2028830104454156571"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029328469809832233",
+    "created_at": "2026-03-04T22:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029328469809832233"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.7466,
+          "start": 37,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCpqFbfexd",
+          "end": 75,
+          "expanded_url": "https://x.com/panicbluedoro/status/2028830104454156571/photo/1",
+          "media_key": "3_2028829833824993280",
+          "start": 52,
+          "url": "https://t.co/rCpqFbfexd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029328469809832233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028830104454156571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: ダンスフロアで踊ってない夜を知らないDoroちゃんｗ\n#doro https://t.co/rCpqFbfexd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2028829833824993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfZ_BLagAAiP1H.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028829833824993280"
+          ],
+          "media_source_tweet_id": [
+            "2028830104454156571"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029328469809832233",
+        "created_at": "2026-03-04T22:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029328469809832233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.7466,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCpqFbfexd",
+              "end": 75,
+              "expanded_url": "https://x.com/panicbluedoro/status/2028830104454156571/photo/1",
+              "media_key": "3_2028829833824993280",
+              "start": 52,
+              "url": "https://t.co/rCpqFbfexd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029328469809832233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028830104454156571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: ダンスフロアで踊ってない夜を知らないDoroちゃんｗ\n#doro https://t.co/rCpqFbfexd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028829833824993280"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028830104454156571",
+        "created_at": "2026-03-03T13:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028830104454156571"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.724,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCpqFbfexd",
+              "end": 56,
+              "expanded_url": "https://x.com/panicbluedoro/status/2028830104454156571/photo/1",
+              "media_key": "3_2028829833824993280",
+              "start": 33,
+              "url": "https://t.co/rCpqFbfexd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028830104454156571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 388,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ダンスフロアで踊ってない夜を知らないDoroちゃんｗ\n#doro https://t.co/rCpqFbfexd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4719,
+          "like_count": 89327,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 13601
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 29,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 18
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

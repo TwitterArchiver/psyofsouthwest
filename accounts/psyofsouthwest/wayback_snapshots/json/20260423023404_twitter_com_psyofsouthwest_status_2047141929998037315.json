@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2046458506224734324",
+    "created_at": "2026-04-23T02:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047141929998037315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440640680682917894",
+          "start": 0,
+          "username": "himanaanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047141929998037315",
+    "in_reply_to_user_id": "1440640680682917894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046458506224734324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himanaanya 炮弹的杀伤力还是有目共睹的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2046458496103890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZ7KNvaQAAl3oJ.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2046458506224734324",
+        "created_at": "2026-04-23T02:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047141929998037315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440640680682917894",
+              "start": 0,
+              "username": "himanaanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047141929998037315",
+        "in_reply_to_user_id": "1440640680682917894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046458506224734324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himanaanya 炮弹的杀伤力还是有目共睹的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046458496103890944"
+          ]
+        },
+        "author_id": "1440640680682917894",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          }
+        ],
+        "conversation_id": "2046458506224734324",
+        "created_at": "2026-04-21T05:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046458506224734324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLzkYFwP2O",
+              "end": 47,
+              "expanded_url": "https://x.com/himanaanya/status/2046458506224734324/photo/1",
+              "media_key": "3_2046458496103890944",
+              "start": 24,
+              "url": "https://t.co/VLzkYFwP2O"
+            },
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/2046430446108741830",
+              "start": 48,
+              "url": "https://t.co/2ylnJ0nsaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046458506224734324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 194722,
+          "like_count": 2700,
+          "quote_count": 5,
+          "reply_count": 72,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046430446108741830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この事故ですら「中国が悪い」が大量発生してて涙 https://t.co/VLzkYFwP2O https://t.co/2ylnJ0nsaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 4771,
+          "like_count": 109320,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14746
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T11:34:55.000Z",
+        "description": "#私は高市を選んでいない #私は8割だ ＃ママ戦争止めてくるわ ＃本当に止める #グローバル大企業の経済的覇権主義に反対します　私の全てのリツイートは私の発信と同義です。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 0,
+                "tag": "私は高市を選んでいない"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "私は8割だ"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "tag": "ママ戦争止めてくるわ"
+              },
+              {
+                "end": 39,
+                "start": 32,
+                "tag": "本当に止める"
+              },
+              {
+                "end": 63,
+                "start": 40,
+                "tag": "グローバル大企業の経済的覇権主義に反対します"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/lists/173692…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/lists/1736926347203899860",
+                "start": 0,
+                "url": "https://t.co/3zc2Hkt5Fx"
+              }
+            ]
+          }
+        },
+        "id": "1440640680682917894",
+        "location": "現実と科学に基づいて社会を考える会",
+        "name": "かるぴすぎつね🌹高市政権に立ち向かう",
+        "pinned_tweet_id": "2022969122800455803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733491577140772864/tGd24tju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7202,
+          "following_count": 675,
+          "like_count": 436853,
+          "listed_count": 429,
+          "media_count": 5096,
+          "tweet_count": 35768
+        },
+        "url": "https://t.co/3zc2Hkt5Fx",
+        "username": "himanaanya",
+        "verified": false
+      }
+    ]
+  }
+}

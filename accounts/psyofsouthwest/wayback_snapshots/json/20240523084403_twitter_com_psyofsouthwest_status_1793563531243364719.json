@@ -1,0 +1,254 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1793459286842257422",
+    "created_at": "2024-05-23T08:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T09:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793563531243364719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641569890283970561",
+          "start": 0,
+          "username": "GlobalPressCorp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793563531243364719",
+    "in_reply_to_user_id": "1641569890283970561",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793459286842257422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlobalPressCorp maybe next 3-4 weeks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1793459286842257422",
+        "created_at": "2024-05-23T08:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T09:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793563531243364719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641569890283970561",
+              "start": 0,
+              "username": "GlobalPressCorp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793563531243364719",
+        "in_reply_to_user_id": "1641569890283970561",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793459286842257422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlobalPressCorp maybe next 3-4 weeks"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793453057713590272"
+          ]
+        },
+        "author_id": "1641569890283970561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1793459286842257422",
+        "created_at": "2024-05-23T01:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T02:25:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793453061119316030",
+          "1793459286842257422"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "China",
+              "probability": 0.9725,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Taiwan",
+              "probability": 0.9618,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Taiwan",
+              "probability": 0.9615,
+              "start": 137,
+              "type": "Place"
+            },
+            {
+              "end": 171,
+              "normalized_text": "Kinmen",
+              "probability": 0.7755,
+              "start": 166,
+              "type": "Place"
+            },
+            {
+              "end": 183,
+              "normalized_text": "Dongyin",
+              "probability": 0.7965,
+              "start": 177,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UaFgdHCeAV",
+              "end": 226,
+              "expanded_url": "https://twitter.com/GlobalPressCorp/status/1793459286842257422/photo/1",
+              "media_key": "3_1793453057713590272",
+              "start": 203,
+              "url": "https://t.co/UaFgdHCeAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793459286842257422",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 562,
+          "impression_count": 330146,
+          "like_count": 2419,
+          "quote_count": 322,
+          "reply_count": 316,
+          "retweet_count": 864
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Source says China will invade Taiwan in early June. \n\nAs of now the Chinese military have begin drills surrounding entirety of Taiwan, including islands of Kinmen and Dongyin, state media says https://t.co/UaFgdHCeAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 2124,
+          "like_count": 10856,
+          "listed_count": 4,
+          "tweet_count": 5653
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T22:35:38.000Z",
+        "description": "Your daily dose of global news and insights.",
+        "id": "1641569890283970561",
+        "location": "United States",
+        "name": "Global Press",
+        "pinned_tweet_id": "1793459286842257422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789572624240259072/pPHZcrlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19627,
+          "following_count": 717,
+          "like_count": 7768,
+          "listed_count": 99,
+          "tweet_count": 30273
+        },
+        "username": "GlobalPressCorp",
+        "verified": true
+      }
+    ]
+  }
+}

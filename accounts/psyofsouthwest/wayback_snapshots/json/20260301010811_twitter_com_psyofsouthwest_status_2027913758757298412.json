@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2027913758757298412",
+    "created_at": "2026-03-01T01:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T02:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027913758757298412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2578666621",
+          "start": 3,
+          "username": "yiyun_dan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027913758757298412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027629074739314985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiyun_dan1: 闲着没事整了个 wechat-decrypt，可以解密微信4.0（Windows）的本地数据库。\n\n原理：微信用 SQLCipher 4 加密本地聊天记录，但进程内存里会缓存解密密钥。这个工具通过扫描内存提取密钥，然后解密全部数据库，还支持：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2027913758757298412",
+        "created_at": "2026-03-01T01:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027913758757298412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2578666621",
+              "start": 3,
+              "username": "yiyun_dan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027913758757298412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027629074739314985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yiyun_dan1: 闲着没事整了个 wechat-decrypt，可以解密微信4.0（Windows）的本地数据库。\n\n原理：微信用 SQLCipher 4 加密本地聊天记录，但进程内存里会缓存解密密钥。这个工具通过扫描内存提取密钥，然后解密全部数据库，还支持：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2578666621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2027629074739314985",
+        "created_at": "2026-02-28T06:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027629074739314985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027629074739314985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/joshua-deng/we…",
+                "end": 270,
+                "expanded_url": "http://github.com/joshua-deng/wechat-decrypt",
+                "start": 247,
+                "url": "https://t.co/829S1mUTVe"
+              }
+            ]
+          },
+          "text": "闲着没事整了个 wechat-decrypt，可以解密微信4.0（Windows）的本地数据库。\n\n原理：微信用 SQLCipher 4 加密本地聊天记录，但进程内存里会缓存解密密钥。这个工具通过扫描内存提取密钥，然后解密全部数据库，还支持：\n\n· 实时消息监听（Web UI，约100ms延迟）\n· 接入 Claude MCP，让 AI 直接读取你的微信记录\n· 搜索历史消息、联系人等\n\n对于想备份、分析自己聊天记录的人来说，这意味着本地存储的微信数据不再是一个黑盒子。\n\nGitHub: https://t.co/829S1mUTVe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1872,
+          "impression_count": 153281,
+          "like_count": 1372,
+          "quote_count": 14,
+          "reply_count": 56,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "闲着没事整了个 wechat-decrypt，可以解密微信4.0（Windows）的本地数据库。\n\n原理：微信用 SQLCipher 4 加密本地聊天记录，但进程内存里会缓存解密密钥。这个工具通过扫描内存提取密钥，然后解密全部数据库，还支持：\n\n· 实时消息监听（Web UI，约100ms延迟）\n· 接入 Claude MCP，让 AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4658,
+          "like_count": 86201,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13369
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-20T13:09:10.000Z",
+        "description": "资深老韭菜，13年从业者。隐山观察链上分析师\nSOL大额监控信号频道：https://t.co/JajrDKLFtL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/solBigamout",
+                "end": 58,
+                "expanded_url": "https://t.me/solBigamout",
+                "start": 35,
+                "url": "https://t.co/JajrDKLFtL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yinshanguancha",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yinshanguancha",
+                "start": 0,
+                "url": "https://t.co/2w6Ripul8b"
+              }
+            ]
+          }
+        },
+        "id": "2578666621",
+        "location": "Hongkong",
+        "name": "Joshua.D",
+        "pinned_tweet_id": "2003661461479129250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720349568536297472/QVzPS5Rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21599,
+          "following_count": 1668,
+          "like_count": 2198,
+          "listed_count": 727,
+          "media_count": 1774,
+          "tweet_count": 3838
+        },
+        "url": "https://t.co/2w6Ripul8b",
+        "username": "yiyun_dan1",
+        "verified": true
+      }
+    ]
+  }
+}

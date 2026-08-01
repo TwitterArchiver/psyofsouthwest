@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1979914617473146941",
+    "created_at": "2025-10-19T23:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T00:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980049874197307858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674281529852174341",
+          "start": 0,
+          "username": "Frost_SZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980049874197307858",
+    "in_reply_to_user_id": "1674281529852174341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979914617473146941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frost_SZH 穷得出奇的鲁西南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1979914617473146941",
+        "created_at": "2025-10-19T23:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T00:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980049874197307858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674281529852174341",
+              "start": 0,
+              "username": "Frost_SZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980049874197307858",
+        "in_reply_to_user_id": "1674281529852174341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979914617473146941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frost_SZH 穷得出奇的鲁西南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674281529852174341",
+        "conversation_id": "1979914617473146941",
+        "created_at": "2025-10-19T14:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979914617473146941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/mhtqwq/status/1979730721204998500",
+              "start": 27,
+              "url": "https://t.co/mvn7RHb3yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979914617473146941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979730721204998500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不愧是曾经被德意志殖民过的青岛和被英国殖民过的威海卫 https://t.co/mvn7RHb3yX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 3988,
+          "like_count": 50972,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11907
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生",
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "霜在華",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953915525354205189/3yeNoPX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 962,
+          "like_count": 30431,
+          "listed_count": 4,
+          "media_count": 844,
+          "tweet_count": 7257
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

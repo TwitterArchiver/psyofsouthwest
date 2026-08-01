@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1943241566375588111",
+    "created_at": "2025-07-12T02:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943858030237692007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943858030237692007",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943241566375588111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozimin 成为外源化学物质的奴隶吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1943241566375588111",
+        "created_at": "2025-07-12T02:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943858030237692007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943858030237692007",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943241566375588111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozimin 成为外源化学物质的奴隶吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1943241566375588111",
+        "created_at": "2025-07-10T09:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943241566375588111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943241566375588111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5876,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要被这些垃圾药害死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 3876,
+          "like_count": 41023,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 11319
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188  接线下纯绿 多个人格超控的账号",
+        "name": "小藻",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16162,
+          "following_count": 47,
+          "like_count": 806,
+          "listed_count": 22,
+          "media_count": 167,
+          "tweet_count": 400
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

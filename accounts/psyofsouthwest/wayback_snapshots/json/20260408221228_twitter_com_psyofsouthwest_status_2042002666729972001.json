@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2042002666729972001",
+    "created_at": "2026-04-08T22:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042002666729972001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "807587246366859264",
+          "start": 3,
+          "username": "Maxwell_SCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042002666729972001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041881195764682988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maxwell_SCU: 从技术原理上来说，要彻底切断中国互联网与国际互联网的联系，理论上唯一的手段就是把光纤割了。只要出境的光纤光缆依然连接，在数字层面实现完全隔离在技术上就是非常困难的。\n\n这种困难首先源于现代互联网流量的高度加密化。目前，全球大部分互联网数据都通过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2042002666729972001",
+        "created_at": "2026-04-08T22:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042002666729972001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "807587246366859264",
+              "start": 3,
+              "username": "Maxwell_SCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042002666729972001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041881195764682988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maxwell_SCU: 从技术原理上来说，要彻底切断中国互联网与国际互联网的联系，理论上唯一的手段就是把光纤割了。只要出境的光纤光缆依然连接，在数字层面实现完全隔离在技术上就是非常困难的。\n\n这种困难首先源于现代互联网流量的高度加密化。目前，全球大部分互联网数据都通过…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "807587246366859264",
+        "conversation_id": "2041881195764682988",
+        "created_at": "2026-04-08T14:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041881195764682988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041881195764682988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从技术原理上来说，要彻底切断中国互联网与国际互联网的联系，理论上唯一的手段就是把光纤割了。只要出境的光纤光缆依然连接，在数字层面实现完全隔离在技术上就是非常困难的。\n\n这种困难首先源于现代互联网流量的高度加密化。目前，全球大部分互联网数据都通过 HTTPS 等协议进行加密传输。当这些数据经过国际出口网关时，它们表现为一串串无法直接读取的加密字符。在这些流量中，包含了跨国银行的金融结算、微软等企业的云服务、正常的外贸业务数据以及 TikTok 等平台的商务信息。\n\n虽然目前的管理手段（如 GFW）可以利用机器学习技术进行流量特征分析——即通过观察数据包的大小、发送频率和时序等特征，即使不拆开包看内容，也能推测出用户可能在访问某些特定网站。但是，这种基于统计学的识别方法并非万无一失。现在的加密技术可以通过在数据流中加入随机的关键词混杂、填充伪装数据或改变传输模式，使流量特征变得毫无规律，从而让机器学习算法失效。\n\n由于混淆和加密的方法种类极其繁多且更新迅速，特别是AI时代的到来，更是让技术一般的人也能迅速改变一下自己的加密算法，因此，技术上很难开发出一套能百分之百准确区分“商务数据”与“社交数据”的算法。如果要追求彻底识别，唯一的方法是暴力破解加密内容，但这种算力成本和时间成本是天文数字，在现实中完全不可行。如果采取简单粗暴的全盘拦截，则会误伤所有的正常外贸和金融活动。\n\n此外，现代互联网普遍采用 CDN（内容分发网络）架构。数据不再是简单的点对点传输，而是通过全球各地的中转节点进行分发。这意味着一个 IP 地址可能同时对应着数千种不同的合法业务，简单的 IP 或域名封锁会导致严重的误杀，直接影响国内企业的国际协作。\n\n从现实动机来看，中国深度参与全球经济，外贸结算、科技交流以及企业出海都极度依赖国际数据通道。彻底断网将对国家经济造成巨大的负面影响。因此，在物理链路必须保持畅通、加密和混淆技术不断演进的背景下，技术上无法在保证正常商务运转的同时，彻底切断所有其他形式的国际数据往来。\n\n最后很多人的思路就是，自己最聪明，“管事儿的人，包括大领导”从上到下都蠢。这种思路下面，自己在投资，个人发展，乃至价值观上面都会付出很多不必要的代价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 14187,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "从技术原理上来说，要彻底切断中国互联网与国际互联网的联系，理论上唯一的手段就是把光纤割了。只要出境的光纤光缆依然连接，在数字层面实现完全隔离在技术上就是非常困难的。\n\n这种困难首先源于现代互联网流量的高度加密化。目前，全球大部分互联网数据都通过 HTTPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4742,
+          "like_count": 102324,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14289
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-10T14:06:18.000Z",
+        "description": "码农，神经生物学，数学爱好者，我老婆炒股很厉害",
+        "id": "807587246366859264",
+        "location": "中国",
+        "name": "杀马特宅主",
+        "pinned_tweet_id": "2035722589843386661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325136975175680/T2onDrdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11784,
+          "following_count": 1195,
+          "like_count": 2251,
+          "listed_count": 88,
+          "media_count": 2854,
+          "tweet_count": 20188
+        },
+        "username": "Maxwell_SCU",
+        "verified": true
+      }
+    ]
+  }
+}

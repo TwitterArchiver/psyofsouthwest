@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1308895460107534337",
+          "name": "Airsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308895460107534337",
+          "name": "Airsoft"
+        }
+      }
+    ],
+    "conversation_id": "2028515992368972018",
+    "created_at": "2026-03-02T17:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028515992368972018"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "ニケサバゲー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878299115781849089",
+          "start": 3,
+          "username": "SavaNIKKE"
+        }
+      ],
+      "urls": [
+        {
+          "description": "（Googleフォームより参加表明をお願いいたします。Twiplaでの参加表明は現在承っておりません。）（以下の内容は今後変更となる場合があります。）※車両での来場について現在、駐車場が満車となってお",
+          "display_url": "twipla.jp/events/691375",
+          "end": 121,
+          "expanded_url": "https://twipla.jp/events/691375",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 98,
+          "status": 200,
+          "title": "【ニケサバゲー：2nd】赤外線サバゲー×NIKKE - TwiPla",
+          "unwound_url": "https://twipla.jp/events/691375",
+          "url": "https://t.co/nvivd91zkk"
+        },
+        {
+          "display_url": "t.co/55Hk",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/55Hk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028515992368972018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028453381585650025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SavaNIKKE: 📣 第２回 #ニケサバゲー のご案内\n\n開催１か月を切りましたが引き続き参加者募集中でございます！\n皆様奮ってご参加くださいませ💁‍♂️\n\nご参加は以下よりどうぞ！\nhttps://t.co/nvivd91zkk https://t.co/55Hk…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028453376183480321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaDmTLbsAEk3y4.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          }
+        ],
+        "conversation_id": "2028515992368972018",
+        "created_at": "2026-03-02T17:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028515992368972018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "ニケサバゲー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878299115781849089",
+              "start": 3,
+              "username": "SavaNIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "（Googleフォームより参加表明をお願いいたします。Twiplaでの参加表明は現在承っておりません。）（以下の内容は今後変更となる場合があります。）※車両での来場について現在、駐車場が満車となってお",
+              "display_url": "twipla.jp/events/691375",
+              "end": 121,
+              "expanded_url": "https://twipla.jp/events/691375",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "【ニケサバゲー：2nd】赤外線サバゲー×NIKKE - TwiPla",
+              "unwound_url": "https://twipla.jp/events/691375",
+              "url": "https://t.co/nvivd91zkk"
+            },
+            {
+              "display_url": "t.co/55Hk",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/55Hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028515992368972018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028453381585650025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SavaNIKKE: 📣 第２回 #ニケサバゲー のご案内\n\n開催１か月を切りましたが引き続き参加者募集中でございます！\n皆様奮ってご参加くださいませ💁‍♂️\n\nご参加は以下よりどうぞ！\nhttps://t.co/nvivd91zkk https://t.co/55Hk…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028453376183480321"
+          ]
+        },
+        "author_id": "1878299115781849089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308895460107534337",
+              "name": "Airsoft"
+            }
+          }
+        ],
+        "conversation_id": "2028453381585650025",
+        "created_at": "2026-03-02T12:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028453381585650025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "ニケサバゲー"
+            }
+          ],
+          "urls": [
+            {
+              "description": "（Googleフォームより参加表明をお願いいたします。Twiplaでの参加表明は現在承っておりません。）（以下の内容は今後変更となる場合があります。）※車両での来場について現在、駐車場が満車となってお",
+              "display_url": "twipla.jp/events/691375",
+              "end": 106,
+              "expanded_url": "https://twipla.jp/events/691375",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028128999273361409/0_hltXuw?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "【ニケサバゲー：2nd】赤外線サバゲー×NIKKE - TwiPla",
+              "unwound_url": "https://twipla.jp/events/691375",
+              "url": "https://t.co/nvivd91zkk"
+            },
+            {
+              "display_url": "pic.x.com/55HkmbtEKx",
+              "end": 130,
+              "expanded_url": "https://x.com/SavaNIKKE/status/2028453381585650025/photo/1",
+              "media_key": "3_2028453376183480321",
+              "start": 107,
+              "url": "https://t.co/55HkmbtEKx"
+            },
+            {
+              "display_url": "x.com/SavaNIKKE/stat…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/SavaNIKKE/status/2004844801833984428",
+              "start": 131,
+              "url": "https://t.co/FgsyOne2Y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028453381585650025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1604,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004844801833984428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "📣 第２回 #ニケサバゲー のご案内\n\n開催１か月を切りましたが引き続き参加者募集中でございます！\n皆様奮ってご参加くださいませ💁‍♂️\n\nご参加は以下よりどうぞ！\nhttps://t.co/nvivd91zkk https://t.co/55HkmbtEKx https://t.co/FgsyOne2Y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4698,
+          "like_count": 88249,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 13500
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T04:33:22.000Z",
+        "description": "次回は3月21日 土曜日を予定しております！",
+        "id": "1878299115781849089",
+        "name": "NIKKE×サバゲー",
+        "pinned_tweet_id": "2004844801833984428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011214308815093763/020XTJu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 476,
+          "like_count": 3497,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 830
+        },
+        "username": "SavaNIKKE",
+        "verified": true
+      }
+    ]
+  }
+}

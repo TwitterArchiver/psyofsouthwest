@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2017405083915333951",
+    "created_at": "2026-02-01T01:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017773569078661338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "5147381",
+          "start": 0,
+          "username": "realPureNomad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017773569078661338",
+    "in_reply_to_user_id": "5147381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017405083915333951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realPureNomad 百色助学案了解一下？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2017405083915333951",
+        "created_at": "2026-02-01T01:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017773569078661338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "5147381",
+              "start": 0,
+              "username": "realPureNomad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017773569078661338",
+        "in_reply_to_user_id": "5147381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017405083915333951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realPureNomad 百色助学案了解一下？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5147381",
+        "conversation_id": "2017405083915333951",
+        "created_at": "2026-01-31T01:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017405083915333951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017405083915333951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 226728,
+          "like_count": 214,
+          "quote_count": 17,
+          "reply_count": 239,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "白人里面的恋童癖比例比东亚人高多了？很少听到东亚人恋童癖的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 4481,
+          "like_count": 73621,
+          "listed_count": 5,
+          "media_count": 389,
+          "tweet_count": 12793
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-18T19:09:47.000Z",
+        "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+        "id": "5147381",
+        "location": "the world",
+        "name": "Pure Nomad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999969466017284100/-9cWbr1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125794,
+          "following_count": 4472,
+          "like_count": 1541,
+          "listed_count": 1966,
+          "media_count": 719,
+          "tweet_count": 4737
+        },
+        "username": "realPureNomad",
+        "verified": true
+      }
+    ]
+  }
+}

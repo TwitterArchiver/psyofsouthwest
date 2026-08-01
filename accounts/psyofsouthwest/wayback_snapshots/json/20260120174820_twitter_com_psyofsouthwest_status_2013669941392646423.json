@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2013603772224704824",
+    "created_at": "2026-01-20T17:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T18:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013669941392646423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974082673095118848",
+          "start": 0,
+          "username": "tuzhilaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013669941392646423",
+    "in_reply_to_user_id": "1974082673095118848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013603772224704824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzhilaoye 人工筛选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2013603772224704824",
+        "created_at": "2026-01-20T17:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013669941392646423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974082673095118848",
+              "start": 0,
+              "username": "tuzhilaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013669941392646423",
+        "in_reply_to_user_id": "1974082673095118848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013603772224704824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzhilaoye 人工筛选"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974082673095118848",
+        "conversation_id": "2013603772224704824",
+        "created_at": "2026-01-20T13:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013603772224704824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aidunklelorna/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/aidunklelorna/status/2013549123639628013",
+              "start": 34,
+              "url": "https://t.co/5DUcVlbTbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013603772224704824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 349,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013549123639628013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是反驳“中国人是被制度扭曲的，老百姓是无辜的”的论调最好的回击。 https://t.co/5DUcVlbTbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 4447,
+          "like_count": 71150,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 12696
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T12:02:49.000Z",
+        "description": "文洁· 秽土转生版 继续不定期普及#反出生主义 思想。",
+        "id": "1974082673095118848",
+        "name": "叶文洁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974083039274688513/PqtChwQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 425,
+          "like_count": 11261,
+          "listed_count": 11,
+          "media_count": 48,
+          "tweet_count": 2387
+        },
+        "username": "tuzhilaoye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "description": "Black Panther",
+          "id": "873208160261099520",
+          "name": "Black Panther"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Action and adventure",
+          "id": "856976360337661952",
+          "name": "Action & adventure films"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1572244246240776192",
+          "name": "Black Panther"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1572244246240776192",
+          "name": "Black Panther"
+        }
+      }
+    ],
+    "conversation_id": "2076315856427008010",
+    "created_at": "2026-07-12T14:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076315856427008010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901633000259092481",
+          "start": 3,
+          "username": "goshenggo"
+        },
+        {
+          "end": 127,
+          "id": "1815055266087571456",
+          "start": 114,
+          "username": "iwantrun_com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076315856427008010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076260091326869773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goshenggo: 大家不用过于焦虑，简单地说是他们 能知道你用啥vpn 因为有特征 ，但是不知道 你发的内容是什么内容还是加密的 。我们预计很快会推出一个如何自己搭建vpn的教程，提供最靠谱的加密协议 。这个脚本由 @iwantrun_com…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Black Panther",
+              "id": "873208160261099520",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Action and adventure",
+              "id": "856976360337661952",
+              "name": "Action & adventure films"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          }
+        ],
+        "conversation_id": "2076315856427008010",
+        "created_at": "2026-07-12T14:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076315856427008010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901633000259092481",
+              "start": 3,
+              "username": "goshenggo"
+            },
+            {
+              "end": 127,
+              "id": "1815055266087571456",
+              "start": 114,
+              "username": "iwantrun_com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076315856427008010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076260091326869773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goshenggo: 大家不用过于焦虑，简单地说是他们 能知道你用啥vpn 因为有特征 ，但是不知道 你发的内容是什么内容还是加密的 。我们预计很快会推出一个如何自己搭建vpn的教程，提供最靠谱的加密协议 。这个脚本由 @iwantrun_com…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901633000259092481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Black Panther",
+              "id": "873208160261099520",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Action and adventure",
+              "id": "856976360337661952",
+              "name": "Action & adventure films"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          }
+        ],
+        "conversation_id": "2076260091326869773",
+        "created_at": "2026-07-12T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076260091326869773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 112,
+              "id": "1815055266087571456",
+              "start": 99,
+              "username": "iwantrun_com"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/goshenggo/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/goshenggo/status/2076252352441675886",
+              "start": 113,
+              "url": "https://t.co/euh2fSnb8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260091326869773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 112,
+                "id": "1815055266087571456",
+                "start": 99,
+                "username": "iwantrun_com"
+              }
+            ]
+          },
+          "text": "大家不用过于焦虑，简单地说是他们 能知道你用啥vpn 因为有特征 ，但是不知道 你发的内容是什么内容还是加密的 。我们预计很快会推出一个如何自己搭建vpn的教程，提供最靠谱的加密协议 。这个脚本由 @iwantrun_com 编辑，我已经交给了专业第三方审核脚本，并咨询了netaskari意见，如果一切顺利的话未来两周应该推出来，开源精神 造福大众"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 22989,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252352441675886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不用过于焦虑，简单地说是他们 能知道你用啥vpn 因为有特征 ，但是不知道 你发的内容是什么内容还是加密的 。我们预计很快会推出一个如何自己搭建vpn的教程，提供最靠谱的加密协议 。这个脚本由 @iwantrun_com https://t.co/euh2fSnb8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 4816,
+          "like_count": 131548,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15571
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T13:54:34.000Z",
+        "description": "youtuber，职业冲塔海外UP主 🎄联系可直接私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/playlist?list=PL3bAfMXyZjrPwHs-h-kBEkABuB9xsySGa",
+                "start": 0,
+                "url": "https://t.co/r9Y89Avcfv"
+              }
+            ]
+          }
+        },
+        "id": "1901633000259092481",
+        "location": "United States",
+        "name": "Archer/张狗剩🎄",
+        "pinned_tweet_id": "2073018305305358536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025197417512202240/lLpU1_OO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38836,
+          "following_count": 176,
+          "like_count": 100,
+          "listed_count": 93,
+          "media_count": 142,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/r9Y89Avcfv",
+        "username": "goshenggo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T16:04:40.000Z",
+        "description": "自由档案馆 (https://t.co/LUlJogi0NS) 是一个致力于思想和言论自由的平台，旨在为沉默者发声。\n\n我们鼓励您向我们发送相关信息，无论是关于人权侵犯、言论自由受限，还是任何形式的迫害，您的声音都至关重要。\n\n投稿邮箱：iwantrun.com@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iwantrun.com",
+                "end": 30,
+                "expanded_url": "http://iwantrun.com",
+                "start": 7,
+                "url": "https://t.co/LUlJogi0NS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iwantrun.com",
+                "end": 23,
+                "expanded_url": "https://iwantrun.com/",
+                "start": 0,
+                "url": "https://t.co/oJQi3Sm0h6"
+              }
+            ]
+          }
+        },
+        "id": "1815055266087571456",
+        "name": "自由档案馆",
+        "pinned_tweet_id": "2043571204876124616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055504941100507136/ckGwzZIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 109,
+          "like_count": 187,
+          "listed_count": 11,
+          "media_count": 394,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/oJQi3Sm0h6",
+        "username": "iwantrun_com",
+        "verified": true
+      }
+    ]
+  }
+}

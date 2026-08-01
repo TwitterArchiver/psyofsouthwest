@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1884607772974854367",
+    "created_at": "2025-01-30T16:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T17:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885000980120420693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "773087847607742465",
+          "start": 0,
+          "username": "nachtlieds"
+        },
+        {
+          "end": 28,
+          "id": "1026825498645524480",
+          "start": 12,
+          "username": "LongLiveSalotSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885000980120420693",
+    "in_reply_to_user_id": "773087847607742465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884975657031225540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nachtlieds @LongLiveSalotSa 你看清楚我底下的补充数据再算，刚刚有个用十四亿来算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1884607772974854367",
+        "created_at": "2025-01-30T16:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T17:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885000980120420693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "773087847607742465",
+              "start": 0,
+              "username": "nachtlieds"
+            },
+            {
+              "end": 28,
+              "id": "1026825498645524480",
+              "start": 12,
+              "username": "LongLiveSalotSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885000980120420693",
+        "in_reply_to_user_id": "773087847607742465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884975657031225540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nachtlieds @LongLiveSalotSa 你看清楚我底下的补充数据再算，刚刚有个用十四亿来算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "773087847607742465",
+        "conversation_id": "1884607772974854367",
+        "created_at": "2025-01-30T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884975657031225540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            },
+            {
+              "end": 32,
+              "id": "1026825498645524480",
+              "start": 16,
+              "username": "LongLiveSalotSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884975657031225540",
+        "in_reply_to_user_id": "385760660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884783618058252550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest @LongLiveSalotSa 1.4万人一年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 3001,
+          "like_count": 23386,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 9545
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-06T09:18:01.000Z",
+        "description": "这里只是我的一部分",
+        "id": "773087847607742465",
+        "name": "han shoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191842556637827072/IMFcDecq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 1580,
+          "like_count": 10181,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1462
+        },
+        "username": "nachtlieds",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-07T13:40:51.000Z",
+        "description": "中国語ネイティブレベル\n\n鯊魚防务公司顧員\n\nANCAP🌗\n\n以前以為赫兰老乡和共趣左蛆是最劣等的\n\n現在発現似乎精日東百币和低智支黒在支味浓郁程度上更勝一筹\n\nCommunist NMSL\n\nBy the way, f-ucking Chinamen.",
+        "id": "1026825498645524480",
+        "location": "滅共の松明の下 or 中国人の墳頭",
+        "name": "シノダ🌗",
+        "pinned_tweet_id": "1496447080579362820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636422765057290240/DUf_Na0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 778,
+          "like_count": 5279,
+          "listed_count": 14,
+          "media_count": 1224,
+          "tweet_count": 15192
+        },
+        "username": "LongLiveSalotSa",
+        "verified": false
+      }
+    ]
+  }
+}

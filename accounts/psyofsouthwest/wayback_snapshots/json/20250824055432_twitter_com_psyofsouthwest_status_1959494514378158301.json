@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1959092917429313606",
+    "created_at": "2025-08-24T05:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959494514378158301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1870635892165283840",
+          "start": 0,
+          "username": "dzmism"
+        },
+        {
+          "end": 24,
+          "id": "1381282369416560641",
+          "start": 8,
+          "username": "whatareyourdoi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959494514378158301",
+    "in_reply_to_user_id": "1870635892165283840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959305475863756890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzmism @whatareyourdoi2 好像是澳大利亚心理学专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1959092917429313606",
+        "created_at": "2025-08-24T05:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959494514378158301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1870635892165283840",
+              "start": 0,
+              "username": "dzmism"
+            },
+            {
+              "end": 24,
+              "id": "1381282369416560641",
+              "start": 8,
+              "username": "whatareyourdoi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959494514378158301",
+        "in_reply_to_user_id": "1870635892165283840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959305475863756890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzmism @whatareyourdoi2 好像是澳大利亚心理学专业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870635892165283840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1959092917429313606",
+        "created_at": "2025-08-23T17:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959305475863756890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1381282369416560641",
+              "start": 0,
+              "username": "whatareyourdoi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959305475863756890",
+        "in_reply_to_user_id": "1381282369416560641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959092917429313606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatareyourdoi2 当年不是有一个德国留学回来找工作碰壁，打算送外卖过渡一下，结果被门卫捅死的事件吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 3941,
+          "like_count": 47182,
+          "listed_count": 7,
+          "media_count": 367,
+          "tweet_count": 11703
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T01:02:27.000Z",
+        "description": "",
+        "id": "1870635892165283840",
+        "name": "好湿好湿啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871317558110093312/woTnDuH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 5443,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 2534
+        },
+        "username": "dzmism",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T16:26:01.000Z",
+        "description": "共产主义吃瓜党、毛茸茸教成员、唠嗑爱好者",
+        "id": "1381282369416560641",
+        "location": "猫猫山",
+        "name": "what are your doing(干啥嘞)",
+        "pinned_tweet_id": "1849840007852458398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381283132570144777/MOzqQr8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11220,
+          "following_count": 2736,
+          "like_count": 405999,
+          "listed_count": 46,
+          "media_count": 5821,
+          "tweet_count": 48654
+        },
+        "username": "whatareyourdoi2",
+        "verified": false
+      }
+    ]
+  }
+}

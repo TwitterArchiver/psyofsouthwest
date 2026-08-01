@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2030062127227064418",
+    "created_at": "2026-03-06T23:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030062127227064418"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 94,
+          "normalized_text": "Mamboro",
+          "probability": 0.7899,
+          "start": 88,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1381053294655668224",
+          "start": 3,
+          "username": "Ishiii2Nao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030062127227064418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029882872715485228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ishiii2Nao: I'm not entirely busy, but I am a bit lazy to do much somehow.\n\nForgive Mamboro for this laziness.\n\nWork is just fine, I'm…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "16_2029882862464552960",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCuXtWjaUAA69dc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCuXtWjaUAA69dc.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2030062127227064418",
+        "created_at": "2026-03-06T23:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030062127227064418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "Mamboro",
+              "probability": 0.7899,
+              "start": 88,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1381053294655668224",
+              "start": 3,
+              "username": "Ishiii2Nao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030062127227064418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029882872715485228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ishiii2Nao: I'm not entirely busy, but I am a bit lazy to do much somehow.\n\nForgive Mamboro for this laziness.\n\nWork is just fine, I'm…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029882862464552960"
+          ]
+        },
+        "author_id": "1381053294655668224",
+        "conversation_id": "2029882872715485228",
+        "created_at": "2026-03-06T11:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029882872715485228"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "Mamboro",
+              "probability": 0.8159,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilo8XNLsHN",
+              "end": 200,
+              "expanded_url": "https://x.com/Ishiii2Nao/status/2029882872715485228/photo/1",
+              "media_key": "16_2029882862464552960",
+              "start": 177,
+              "url": "https://t.co/ilo8XNLsHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029882872715485228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1257,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "I'm not entirely busy, but I am a bit lazy to do much somehow.\n\nForgive Mamboro for this laziness.\n\nWork is just fine, I'm doing my own kit since I can't draw much untill 21st. https://t.co/ilo8XNLsHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4728,
+          "like_count": 90354,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13727
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T01:15:51.000Z",
+        "description": "Model kits • DORO • Matikanetannhauser • Fan Games | Just vibing with DORO energy",
+        "id": "1381053294655668224",
+        "name": "Nao.Ishiii 🩷 Matikane-DORO-hauser",
+        "pinned_tweet_id": "2003083132019630469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988964095220150272/aGOHStP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 4731,
+          "like_count": 49788,
+          "listed_count": 5,
+          "media_count": 2153,
+          "tweet_count": 34572
+        },
+        "username": "Ishiii2Nao",
+        "verified": false
+      }
+    ]
+  }
+}

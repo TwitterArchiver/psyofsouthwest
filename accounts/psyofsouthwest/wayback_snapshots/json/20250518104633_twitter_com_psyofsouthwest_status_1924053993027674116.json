@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1924053993027674116",
+    "created_at": "2025-05-18T10:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924053993027674116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609456562443268097",
+          "start": 3,
+          "username": "snowfairy011026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924053993027674116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924019799082008816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowfairy011026: 这样的自卫应当被鼓励提倡，因为只有这样能够保证不再发生更多不该有的暴力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1924053993027674116",
+        "created_at": "2025-05-18T10:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924053993027674116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609456562443268097",
+              "start": 3,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924053993027674116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924019799082008816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowfairy011026: 这样的自卫应当被鼓励提倡，因为只有这样能够保证不再发生更多不该有的暴力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609456562443268097",
+        "conversation_id": "1924019799082008816",
+        "created_at": "2025-05-18T08:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T09:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924019799082008816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zh40Le1ZOOB/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Zh40Le1ZOOB/status/1924016248268128286",
+              "start": 37,
+              "url": "https://t.co/nZ0d2joAL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924019799082008816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924016248268128286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样的自卫应当被鼓励提倡，因为只有这样能够保证不再发生更多不该有的暴力。 https://t.co/nZ0d2joAL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 3851,
+          "like_count": 38035,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 11038
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "星空文明是一个大型互助群体，由微国家玩家、架空与科幻作家、应急救助干预团队等不同群体团结而成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starrysky.wiki",
+                "end": 23,
+                "expanded_url": "http://starrysky.wiki",
+                "start": 0,
+                "url": "https://t.co/qK7KOaw5pb"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "location": "NGC 4755 珠宝盒星团",
+        "name": "星空文明 Starry Sky Civilization",
+        "pinned_tweet_id": "1923990447502074247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869504691375349760/A5kIMk_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 1884,
+          "like_count": 11514,
+          "listed_count": 8,
+          "media_count": 672,
+          "tweet_count": 8947
+        },
+        "url": "https://t.co/qK7KOaw5pb",
+        "username": "snowfairy011026",
+        "verified": true
+      }
+    ]
+  }
+}

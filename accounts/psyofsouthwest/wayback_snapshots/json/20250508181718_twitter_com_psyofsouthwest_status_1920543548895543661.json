@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1920408506693193801",
+    "created_at": "2025-05-08T18:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T19:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920543548895543661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920543548895543661",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920408506693193801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 是谁把年轻人教养成这样的呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11500,
+        "height": 848,
+        "media_key": "13_1920408294620807168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920408294620807168/img/AM5VS4_ClaRAoYwa.jpg",
+        "public_metrics": {
+          "view_count": 44844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920408294620807168/vid/avc1/320x584/FJNeOjtGxmVdbVSb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920408294620807168/vid/avc1/464x848/U9ySIvVKb71iiaK1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920408294620807168/pl/531q99QJWCPGI2t1.m3u8?v=cfc"
+          }
+        ],
+        "width": 464
+      },
+      {
+        "height": 1175,
+        "media_key": "3_1920408423855783937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqapSWeXgAEkYTn.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1920408506693193801",
+        "created_at": "2025-05-08T18:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T19:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920543548895543661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920543548895543661",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920408506693193801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 是谁把年轻人教养成这样的呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920408294620807168",
+            "3_1920408423855783937"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1920408506693193801",
+        "created_at": "2025-05-08T09:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T10:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920408506693193801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIHDuvg9tp",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1920408506693193801/video/1",
+              "media_key": "13_1920408294620807168",
+              "start": 59,
+              "url": "https://t.co/vIHDuvg9tp"
+            },
+            {
+              "display_url": "pic.x.com/vIHDuvg9tp",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1920408506693193801/video/1",
+              "media_key": "3_1920408423855783937",
+              "start": 59,
+              "url": "https://t.co/vIHDuvg9tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920408506693193801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 97998,
+          "like_count": 607,
+          "quote_count": 12,
+          "reply_count": 105,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "5月7日，网传江苏盐城外国语学校，一名初中生遭到霸凌后跳楼，家属在校外拉横幅维权，并呐喊：“这个社会还有没有公道了” https://t.co/vIHDuvg9tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 3809,
+          "like_count": 35528,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 10803
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1917183619799613928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988872,
+          "following_count": 951,
+          "like_count": 6267,
+          "listed_count": 8129,
+          "media_count": 27652,
+          "tweet_count": 34099
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

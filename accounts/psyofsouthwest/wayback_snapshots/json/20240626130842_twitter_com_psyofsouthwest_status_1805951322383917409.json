@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1805935402198450641",
+    "created_at": "2024-06-26T13:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T14:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805951322383917409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805951322383917409",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805935402198450641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1805935402198450641",
+        "created_at": "2024-06-26T13:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T14:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805951322383917409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805951322383917409",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805935402198450641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 怎么了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1805935402198450641",
+        "created_at": "2024-06-26T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805935402198450641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805935402198450641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会要噶了吧救命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 2319,
+          "like_count": 12864,
+          "listed_count": 4,
+          "tweet_count": 6759
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "狐物器回归。\n⚠多意識體注意⚠ 為非本意識體操作盡量負責，如有冒犯抱歉",
+        "id": "1467175651954200577",
+        "location": "Yamaguchi-ken, Japan",
+        "name": "川井橘音🏳️‍⚧️ かわい きつね",
+        "pinned_tweet_id": "1782326507307983298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787027759338016768/wGmlgY5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1192,
+          "like_count": 80707,
+          "listed_count": 5,
+          "tweet_count": 3707
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1924674710090219917",
+    "created_at": "2025-05-20T07:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T08:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924723313873473694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371296214692499457",
+          "start": 0,
+          "username": "MisakaNo10777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924723313873473694",
+    "in_reply_to_user_id": "1371296214692499457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924674710090219917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNo10777 问题模式是可以遗传的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1924674710090219917",
+        "created_at": "2025-05-20T07:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T08:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924723313873473694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371296214692499457",
+              "start": 0,
+              "username": "MisakaNo10777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924723313873473694",
+        "in_reply_to_user_id": "1371296214692499457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924674710090219917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo10777 问题模式是可以遗传的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371296214692499457",
+        "conversation_id": "1924674710090219917",
+        "created_at": "2025-05-20T03:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T04:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924674710090219917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wyao9533/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/wyao9533/status/1920764493132403014",
+              "start": 14,
+              "url": "https://t.co/mPE9Q2XZ2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924674710090219917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2518,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920764493132403014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜你pass成了大家长。 https://t.co/mPE9Q2XZ2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 3863,
+          "like_count": 38679,
+          "listed_count": 6,
+          "media_count": 349,
+          "tweet_count": 11106
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T03:04:44.000Z",
+        "description": "I am a college computer science student & developer & Misaka No.10777 . 失败学研0",
+        "id": "1371296214692499457",
+        "location": "别人交白卷就考上的某个一本",
+        "name": "Misaka10777",
+        "pinned_tweet_id": "1685137590465495040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722776439832055808/fuQD5NGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4301,
+          "following_count": 3524,
+          "like_count": 447362,
+          "listed_count": 16,
+          "media_count": 2946,
+          "tweet_count": 21746
+        },
+        "username": "MisakaNo10777",
+        "verified": false
+      }
+    ]
+  }
+}

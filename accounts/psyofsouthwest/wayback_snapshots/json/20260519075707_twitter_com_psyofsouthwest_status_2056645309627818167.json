@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2056018848722403723",
+    "created_at": "2026-05-19T07:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056645309627818167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960902268317999104",
+          "start": 0,
+          "username": "flyfishing05067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056645309627818167",
+    "in_reply_to_user_id": "1960902268317999104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056018848722403723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyfishing05067 节哀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2056018848722403723",
+        "created_at": "2026-05-19T07:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056645309627818167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960902268317999104",
+              "start": 0,
+              "username": "flyfishing05067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056645309627818167",
+        "in_reply_to_user_id": "1960902268317999104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056018848722403723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyfishing05067 节哀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960902268317999104",
+        "conversation_id": "2056018848722403723",
+        "created_at": "2026-05-17T14:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056018848722403723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056018848722403723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小雪的死对我的打击很大，因此淡推了一段时间\n讣告：莹雪（真名：孙铨鸿）于4.17吞亚硝酸钠，抢救后神志不清，直到5.6去世"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 4755,
+          "like_count": 118975,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 15319
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T03:08:48.000Z",
+        "description": "170cm/生产日期：2011.5.6/年龄党/坐标陕西/家长不管党/hrt2025.10.6/重度抑郁/梦想成为职业路亚钓手",
+        "id": "1960902268317999104",
+        "name": "困猫睡不醒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056016792099930112/7fzHfoJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 27,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 19
+        },
+        "username": "flyfishing05067",
+        "verified": false
+      }
+    ]
+  }
+}

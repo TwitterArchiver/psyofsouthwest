@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1999625965849444712",
+    "created_at": "2025-12-12T23:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999625965849444712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1685827826405216256",
+          "start": 3,
+          "username": "Cynarababecc"
+        },
+        {
+          "end": 25,
+          "id": "1602328096622800896",
+          "start": 18,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999625965849444712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999392327572553961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cynarababecc: @dutyge 建国以后农民还有统战价值吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1999625965849444712",
+        "created_at": "2025-12-12T23:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999625965849444712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1685827826405216256",
+              "start": 3,
+              "username": "Cynarababecc"
+            },
+            {
+              "end": 25,
+              "id": "1602328096622800896",
+              "start": 18,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999625965849444712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999392327572553961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cynarababecc: @dutyge 建国以后农民还有统战价值吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685827826405216256",
+        "conversation_id": "1999355340014367028",
+        "created_at": "2025-12-12T08:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999392327572553961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999392327572553961",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2866,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999355340014367028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 建国以后农民还有统战价值吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 4015,
+          "like_count": 57159,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 12209
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T01:43:19.000Z",
+        "description": "投稿xyxx296@163.com",
+        "id": "1685827826405216256",
+        "location": "中南海",
+        "name": "近乎远乎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902549012097724420/CRF7JTVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2304,
+          "like_count": 2519,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 6802
+        },
+        "username": "Cynarababecc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53857,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 247,
+          "media_count": 8559,
+          "tweet_count": 14488
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

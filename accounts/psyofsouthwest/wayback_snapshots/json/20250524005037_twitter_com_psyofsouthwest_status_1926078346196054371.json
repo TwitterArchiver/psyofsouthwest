@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1925775017284907486",
+    "created_at": "2025-05-24T00:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T01:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926078346196054371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1602328096622800896",
+          "start": 0,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926078346196054371",
+    "in_reply_to_user_id": "1602328096622800896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925775017284907486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dutyge 贷款30年，月供1500，合计支付540000，等额本息支付，利率4%，大约需要贷款315000"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_1925775013514199040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm6K-3WQAA82nj.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1925775017284907486",
+        "created_at": "2025-05-24T00:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T01:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926078346196054371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926078346196054371",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925775017284907486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 贷款30年，月供1500，合计支付540000，等额本息支付，利率4%，大约需要贷款315000"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925775013514199040"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1925775017284907486",
+        "created_at": "2025-05-23T04:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925775017284907486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cenVQJ4NRX",
+              "end": 54,
+              "expanded_url": "https://x.com/dutyge/status/1925775017284907486/photo/1",
+              "media_key": "3_1925775013514199040",
+              "start": 31,
+              "url": "https://t.co/cenVQJ4NRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925775017284907486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 20663,
+          "like_count": 158,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "房价跌到什么程度，可以抄底？\n\n以西南三线省会城市为例。\n👇 https://t.co/cenVQJ4NRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 3872,
+          "like_count": 39224,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 11158
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27114,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 104,
+          "media_count": 6586,
+          "tweet_count": 10091
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

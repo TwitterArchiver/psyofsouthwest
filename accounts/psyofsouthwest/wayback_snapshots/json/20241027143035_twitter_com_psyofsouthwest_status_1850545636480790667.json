@@ -1,0 +1,145 @@
+{
+  "data": {
+    "author_id": "385760660",
+    "conversation_id": "1850545636480790667",
+    "created_at": "2024-10-27T14:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T15:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850545636480790667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14961549",
+          "start": 3,
+          "username": "pearlher"
+        }
+      ]
+    },
+    "id": "1850545636480790667",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850506376734515567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearlher: 夸得我头晕，都不好意思转了…… https://t.co/7tq12fpzqV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "385760660",
+        "conversation_id": "1850545636480790667",
+        "created_at": "2024-10-27T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850545636480790667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14961549",
+              "start": 3,
+              "username": "pearlher"
+            }
+          ]
+        },
+        "id": "1850545636480790667",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850506376734515567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearlher: 夸得我头晕，都不好意思转了…… https://t.co/7tq12fpzqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 2812,
+          "like_count": 20307,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 8679
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-31T07:42:56.000Z",
+        "description": "Bio: Freelance investigative journalist，. Human Rights defender. Founder&dirctor of Xinye org 我的郵箱：pearlher@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herpeirong7305",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@herpeirong7305",
+                "start": 0,
+                "url": "https://t.co/TxCcvNdKzk"
+              }
+            ]
+          }
+        },
+        "id": "14961549",
+        "location": "Thailand",
+        "name": "Ho Peirong is on bluesky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578649268000157697/4sYnt-Ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61064,
+          "following_count": 1461,
+          "like_count": 20778,
+          "listed_count": 516,
+          "media_count": 4348,
+          "tweet_count": 54389
+        },
+        "url": "https://t.co/TxCcvNdKzk",
+        "username": "pearlher",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2002107976199668094",
+    "created_at": "2025-12-19T20:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002107976199668094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660598418409127937",
+          "start": 3,
+          "username": "GitHub_Daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/nnxine",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/nnxine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002107976199668094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001955684808818839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GitHub_Daily: 如果你想在自己的电脑或手机上搞一个速度快、不联网、不花钱的 AI 模型。\n\n那可以去试下 Nexa SDK 这个开源项目。\n\n它可以说是目前市面上集成度最高、工具链最完整的开源方案之一。\n\nGitHub：https://t.co/nnxine…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1827,
+        "media_key": "3_2001955672892825601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hgE-La4AEWS79.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2002107976199668094",
+        "created_at": "2025-12-19T20:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002107976199668094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660598418409127937",
+              "start": 3,
+              "username": "GitHub_Daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/nnxine",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/nnxine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002107976199668094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001955684808818839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GitHub_Daily: 如果你想在自己的电脑或手机上搞一个速度快、不联网、不花钱的 AI 模型。\n\n那可以去试下 Nexa SDK 这个开源项目。\n\n它可以说是目前市面上集成度最高、工具链最完整的开源方案之一。\n\nGitHub：https://t.co/nnxine…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001955672892825601"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2001955684808818839",
+        "created_at": "2025-12-19T10:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001955684808818839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and mor...",
+              "display_url": "github.com/NexaAI/nexa-sdk",
+              "end": 125,
+              "expanded_url": "http://github.com/NexaAI/nexa-sdk",
+              "start": 102,
+              "status": 200,
+              "title": "GitHub - NexaAI/nexa-sdk: Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
+              "unwound_url": "https://github.com/NexaAI/nexa-sdk",
+              "url": "https://t.co/nnxinejGeJ"
+            },
+            {
+              "display_url": "pic.x.com/LhWcqXMsMo",
+              "end": 188,
+              "expanded_url": "https://x.com/GitHub_Daily/status/2001955684808818839/photo/1",
+              "media_key": "3_2001955672892825601",
+              "start": 165,
+              "url": "https://t.co/LhWcqXMsMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001955684808818839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/NexaAI/nexa-sdk",
+                "end": 125,
+                "expanded_url": "http://github.com/NexaAI/nexa-sdk",
+                "start": 102,
+                "url": "https://t.co/WVR0UnPhuh"
+              }
+            ]
+          },
+          "text": "如果你想在自己的电脑或手机上搞一个速度快、不联网、不花钱的 AI 模型。\n\n那可以去试下 Nexa SDK 这个开源项目。\n\n它可以说是目前市面上集成度最高、工具链最完整的开源方案之一。\n\nGitHub：https://t.co/WVR0UnPhuh\n\n靠着自研的模型压缩技术，即便完全断网，它也能在几毫秒内搜遍本地几千张相片。\n\n处理上万份敏感文档也不在话下，数据始终留在本地，安全性与隐私性远超云端模型 API。\n\n无缝兼容 OpenAI API 接口，方便我们直接集成到现有的开发工作流当中。\n\n另外，它还提供开箱即用的命令行工具，一行代码就能完成模型的下载与运行，上手特别简单。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 21779,
+          "like_count": 255,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "如果你想在自己的电脑或手机上搞一个速度快、不联网、不花钱的 AI 模型。\n\n那可以去试下 Nexa SDK 这个开源项目。\n\n它可以说是目前市面上集成度最高、工具链最完整的开源方案之一。\n\nGitHub：https://t.co/nnxinejGeJ\n\n靠着自研的模型压缩技术，即便完全断网，它也能在几毫秒内搜遍本地几千张相片。 https://t.co/LhWcqXMsMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 4066,
+          "like_count": 58955,
+          "listed_count": 5,
+          "media_count": 373,
+          "tweet_count": 12260
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "2001955684808818839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58629,
+          "following_count": 139,
+          "like_count": 37,
+          "listed_count": 568,
+          "media_count": 1666,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

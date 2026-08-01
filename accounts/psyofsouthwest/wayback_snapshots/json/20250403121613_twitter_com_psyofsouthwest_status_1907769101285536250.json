@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "1907410314909368589",
+    "created_at": "2025-04-03T12:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T13:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907769101285536250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1748355023409475584",
+          "start": 0,
+          "username": "Tsla99T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907769101285536250",
+    "in_reply_to_user_id": "1748355023409475584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907410314909368589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsla99T 看样子只能把雪糕筒弄成龙勃透镜那样的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907410311528747008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnh7kouWkAAuFXc.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "1907410314909368589",
+        "created_at": "2025-04-03T12:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907769101285536250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1748355023409475584",
+              "start": 0,
+              "username": "Tsla99T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907769101285536250",
+        "in_reply_to_user_id": "1748355023409475584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907410314909368589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsla99T 看样子只能把雪糕筒弄成龙勃透镜那样的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907410311528747008"
+          ]
+        },
+        "author_id": "1748355023409475584",
+        "conversation_id": "1907410314909368589",
+        "created_at": "2025-04-02T12:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907410314909368589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctanq9DH0K",
+              "end": 45,
+              "expanded_url": "https://x.com/Tsla99T/status/1907410314909368589/photo/1",
+              "media_key": "3_1907410311528747008",
+              "start": 22,
+              "url": "https://t.co/ctanq9DH0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907410314909368589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 375875,
+          "like_count": 838,
+          "quote_count": 11,
+          "reply_count": 92,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "你真的以为激光雷达就安全了？这个解释很专业 https://t.co/ctanq9DH0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 3325,
+          "like_count": 28386,
+          "listed_count": 6,
+          "media_count": 315,
+          "tweet_count": 10152
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T14:41:46.000Z",
+        "description": "Ex-Tesla AI Engineer | Law School JD Candidate. I will not work for any company that competes with Tesla. #TSLA (after 10X) will be my retirement fund",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "TSLA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TSLA99T",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@TSLA99T",
+                "start": 0,
+                "url": "https://t.co/rtYrhiocWz"
+              }
+            ]
+          }
+        },
+        "id": "1748355023409475584",
+        "location": "Dallas, TX",
+        "name": "TSLA99T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748689184754106368/zgIeFTON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18086,
+          "following_count": 242,
+          "like_count": 5473,
+          "listed_count": 186,
+          "media_count": 423,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/rtYrhiocWz",
+        "username": "Tsla99T",
+        "verified": true
+      }
+    ]
+  }
+}

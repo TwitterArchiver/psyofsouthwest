@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1808566954686566875",
+    "created_at": "2024-07-03T22:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T23:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808635809077067862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464586716010921985",
+          "start": 0,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808635809077067862",
+    "in_reply_to_user_id": "1464586716010921985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808566954686566875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RDrugLab 削弱认知加工就够了，不需要增强记忆复现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1808566954686566875",
+        "created_at": "2024-07-03T22:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T23:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808635809077067862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808635809077067862",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808566954686566875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 削弱认知加工就够了，不需要增强记忆复现"
+      },
+      {
+        "attachments": {},
+        "author_id": "1464586716010921985",
+        "conversation_id": "1808566954686566875",
+        "created_at": "2024-07-03T18:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T19:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808566954686566875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808566954686566875",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所谓的“ 吐真剂”“听话药”，绝对的来讲，是不存在的，但是实现方式可能会有类似。比如说可以在药物的影响下，让编假话更难符合逻辑，就可以变得攻破；再就是可以让人更喜欢说话，之后再判断说的是真话还是假话，也可以使得问讯更容易。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 2338,
+          "like_count": 13222,
+          "listed_count": 4,
+          "tweet_count": 6859
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "旨在教育及危害管理，通过非世俗及道德偏见的方式，追求真实的知识与反馈。",
+        "id": "1464586716010921985",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1589678733388308480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1464587532201390081/DvaK9ITc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 2,
+          "tweet_count": 93
+        },
+        "username": "RDrugLab",
+        "verified": false
+      }
+    ]
+  }
+}

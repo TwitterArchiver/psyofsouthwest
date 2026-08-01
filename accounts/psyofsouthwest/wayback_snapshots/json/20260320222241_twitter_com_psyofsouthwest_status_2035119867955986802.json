@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2034980885460643921",
+    "created_at": "2026-03-20T22:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T23:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035119867955986802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885874569562644481",
+          "start": 0,
+          "username": "HappyQQ_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035119867955986802",
+    "in_reply_to_user_id": "885874569562644481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034980885460643921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyQQ_AI 这说的是周私钥吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2034980885460643921",
+        "created_at": "2026-03-20T22:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T23:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035119867955986802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885874569562644481",
+              "start": 0,
+              "username": "HappyQQ_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035119867955986802",
+        "in_reply_to_user_id": "885874569562644481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034980885460643921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyQQ_AI 这说的是周私钥吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885874569562644481",
+        "conversation_id": "2034980885460643921",
+        "created_at": "2026-03-20T13:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034980885460643921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034980885460643921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3498,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个搞网络安全的天天吓唬国家，在新闻媒体上吹牛逼说什么跟踪到国外的某些牛逼的黑客组织，结果自己连基本的SDL都不做，很难想像如果哪天真是国与国的信息战，就靠这些草台班子😂🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 4740,
+          "like_count": 96829,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 14050
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T14:52:10.000Z",
+        "description": "专注𝗔𝗜、AI安全、软件开发、系统架构、技术战略等前沿技术领域，\n公众号：移动互联网     |    Youtube频道&微信视频号：大语言模型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HappyQQ",
+                "end": 23,
+                "expanded_url": "https://github.com/HappyQQ",
+                "start": 0,
+                "url": "https://t.co/VisJrcKuYI"
+              }
+            ]
+          }
+        },
+        "id": "885874569562644481",
+        "name": "🐉HappyQQ_AI🦜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963127781685858304/bQ6BtMOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18843,
+          "following_count": 3781,
+          "like_count": 144475,
+          "listed_count": 129,
+          "media_count": 1658,
+          "tweet_count": 42676
+        },
+        "url": "https://t.co/VisJrcKuYI",
+        "username": "HappyQQ_AI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2008631427781284264",
+    "created_at": "2026-01-06T20:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008631427781284264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1645244883152834562",
+          "start": 3,
+          "username": "LipuAIX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2008…",
+          "end": 36,
+          "expanded_url": "http://x.com/i/article/2008378850485395456",
+          "start": 13,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2008378850485395456",
+          "url": "https://t.co/uUUkZsKHDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008631427781284264",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008407179645305188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LipuAIX: https://t.co/uUUkZsKHDj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2008631427781284264",
+        "created_at": "2026-01-06T20:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008631427781284264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645244883152834562",
+              "start": 3,
+              "username": "LipuAIX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 36,
+              "expanded_url": "http://x.com/i/article/2008378850485395456",
+              "start": 13,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008378850485395456",
+              "url": "https://t.co/uUUkZsKHDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008631427781284264",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008407179645305188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LipuAIX: https://t.co/uUUkZsKHDj"
+      },
+      {
+        "article": {
+          "title": "我用 Gemini 挖出了法院信访回信里的“自认违法”铁证"
+        },
+        "attachments": {},
+        "author_id": "1645244883152834562",
+        "conversation_id": "2008407179645305188",
+        "created_at": "2026-01-06T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008407179645305188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2008378850485395456",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008378850485395456",
+              "url": "https://t.co/uUUkZsKHDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008407179645305188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 819,
+          "impression_count": 292720,
+          "like_count": 885,
+          "quote_count": 10,
+          "reply_count": 57,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uUUkZsKHDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 4303,
+          "like_count": 65262,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 12459
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T01:58:58.000Z",
+        "description": "💪 AI 实战派 | 教程天花板 | 前大厂工程师\n⚖️ 非律师，靠 AI 起诉市政府，赢过一场，目前最高院再审/高院上诉中...\n🔗 公众号「稀有学生」作者。关注我，与你一起成为 AI 领域的稀有学生",
+        "id": "1645244883152834562",
+        "location": "火星",
+        "name": "离谱",
+        "pinned_tweet_id": "2008117144743981118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737018737708965888/OAa1WJ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10022,
+          "following_count": 238,
+          "like_count": 554,
+          "listed_count": 93,
+          "media_count": 246,
+          "tweet_count": 621
+        },
+        "username": "LipuAIX",
+        "verified": true
+      }
+    ]
+  }
+}

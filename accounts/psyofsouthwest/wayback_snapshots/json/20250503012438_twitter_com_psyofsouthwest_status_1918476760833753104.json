@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1918327926019563977",
+    "created_at": "2025-05-03T01:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T02:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918476760833753104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090988661733113856",
+          "start": 0,
+          "username": "DoraDaemon1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918476760833753104",
+    "in_reply_to_user_id": "1090988661733113856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918327926019563977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoraDaemon1 听她吹牛逼，怎么可能呢，高速超时费比高速费还贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1918327926019563977",
+        "created_at": "2025-05-03T01:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918476760833753104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090988661733113856",
+              "start": 0,
+              "username": "DoraDaemon1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918476760833753104",
+        "in_reply_to_user_id": "1090988661733113856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918327926019563977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoraDaemon1 听她吹牛逼，怎么可能呢，高速超时费比高速费还贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090988661733113856",
+        "conversation_id": "1918327926019563977",
+        "created_at": "2025-05-02T15:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918327926019563977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918327926019563977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4040,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"一女子自驾游去新疆，为蹭五一高速免费，她提前半个月出发，全程3000多公里，需要1600余元高速费，但她车辆一直没开下高速，准备等到5月1日高速免费时再下高速。\"\n\n3000多公里高速公路上开半个月，中间还没下过高速？这个我不太能理解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 3740,
+          "like_count": 34226,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 10677
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T15:02:21.000Z",
+        "description": "G+难民/花草植物/游记/IT技术；",
+        "id": "1090988661733113856",
+        "location": "Earth",
+        "name": "𝐃ora𝐃aemon",
+        "pinned_tweet_id": "1118869795829501952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090990788001951745/G6bCRlQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11426,
+          "following_count": 2335,
+          "like_count": 114889,
+          "listed_count": 69,
+          "media_count": 20227,
+          "tweet_count": 73071
+        },
+        "username": "DoraDaemon1",
+        "verified": false
+      }
+    ]
+  }
+}

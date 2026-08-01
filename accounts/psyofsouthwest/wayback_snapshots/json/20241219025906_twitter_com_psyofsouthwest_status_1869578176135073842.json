@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1869564577261957214",
+    "created_at": "2024-12-19T02:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T03:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869578176135073842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573105662556622848",
+          "start": 0,
+          "username": "rqzymzdxw"
+        },
+        {
+          "end": 27,
+          "id": "1249525383797456898",
+          "start": 11,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869578176135073842",
+    "in_reply_to_user_id": "1573105662556622848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869576999930638437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rqzymzdxw @jakobsonradical 这只是梗概，感兴趣可以自行搜寻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1869564577261957214",
+        "created_at": "2024-12-19T02:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T03:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869578176135073842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573105662556622848",
+              "start": 0,
+              "username": "rqzymzdxw"
+            },
+            {
+              "end": 27,
+              "id": "1249525383797456898",
+              "start": 11,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869578176135073842",
+        "in_reply_to_user_id": "1573105662556622848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869576999930638437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rqzymzdxw @jakobsonradical 这只是梗概，感兴趣可以自行搜寻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573105662556622848",
+        "conversation_id": "1869564577261957214",
+        "created_at": "2024-12-19T02:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T03:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869576999930638437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            },
+            {
+              "end": 32,
+              "id": "1249525383797456898",
+              "start": 16,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869576999930638437",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869575356484849896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest @jakobsonradical 就這句？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 2898,
+          "like_count": 21776,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 9139
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T00:24:51.000Z",
+        "description": "08 One of the signatories of the charter was sentenced to two years in prison for making comments online in support of Hong Kong's anti-extradition movement.",
+        "id": "1573105662556622848",
+        "name": "自由的嚮往 🎗️🇺🇦🇮🇱",
+        "pinned_tweet_id": "1812080865712709662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773052627565023233/_c2B4aOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 220,
+          "like_count": 10623,
+          "listed_count": 16,
+          "media_count": 1146,
+          "tweet_count": 25595
+        },
+        "username": "rqzymzdxw",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224935,
+          "following_count": 1495,
+          "like_count": 43598,
+          "listed_count": 927,
+          "media_count": 16893,
+          "tweet_count": 24093
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

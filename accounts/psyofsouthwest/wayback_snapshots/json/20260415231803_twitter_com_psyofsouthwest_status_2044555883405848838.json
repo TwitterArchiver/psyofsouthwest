@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2044209085524951551",
+    "created_at": "2026-04-15T23:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044555883405848838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044555883405848838",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044209085524951551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 习主席用过的遥控器"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54533,
+        "height": 910,
+        "media_key": "13_2044120652756533248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044120652756533248/img/Nq7s2EG4PfP54Hd9.jpg",
+        "public_metrics": {
+          "view_count": 154817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044120652756533248/vid/avc1/320x404/2jX5YwN6_-VL5cQr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044120652756533248/vid/avc1/480x606/wGR0yt-KQVzKoagJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044120652756533248/vid/avc1/720x910/NuLkamt7sI5Bnx78.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044120652756533248/pl/HLvzY8r5knj01MSW.m3u8?v=30a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2044209085524951551",
+        "created_at": "2026-04-15T23:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044555883405848838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044555883405848838",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044209085524951551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 习主席用过的遥控器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044120652756533248"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2044209085524951551",
+        "created_at": "2026-04-15T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044209085524951551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBDtnuFGKO",
+              "end": 59,
+              "expanded_url": "https://x.com/satireorcry1/status/2044209085524951551/video/1",
+              "media_key": "13_2044120652756533248",
+              "start": 36,
+              "url": "https://t.co/xBDtnuFGKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044209085524951551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 341892,
+          "like_count": 2434,
+          "quote_count": 11,
+          "reply_count": 135,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "中国初中生讽刺中国政府的官僚体制！\n\n生动地诠释了什么叫“官僚主义”！ https://t.co/xBDtnuFGKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 4749,
+          "like_count": 105999,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14552
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19678,
+          "following_count": 1490,
+          "like_count": 11933,
+          "listed_count": 43,
+          "media_count": 2234,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

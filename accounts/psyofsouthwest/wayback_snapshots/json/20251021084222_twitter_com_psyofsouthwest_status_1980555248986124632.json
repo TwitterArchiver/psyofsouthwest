@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1980478127529955766",
+    "created_at": "2025-10-21T08:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T09:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980555248986124632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980555248986124632",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980478127529955766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 饿得太少了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39678,
+        "height": 854,
+        "media_key": "13_1980477914068992000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980477914068992000/img/3Y0uRLuar1pw93JX.jpg",
+        "public_metrics": {
+          "view_count": 12372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980477914068992000/vid/avc1/320x568/lCgSFRC_lX9YXXry.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980477914068992000/vid/avc1/480x854/S8PcW0T6LS7Z5llP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980477914068992000/pl/8cAhOpgbwmByME5s.m3u8?tag=14&v=2e5"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1980478127529955766",
+        "created_at": "2025-10-21T08:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980555248986124632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980555248986124632",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980478127529955766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 饿得太少了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980477914068992000"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1980478127529955766",
+        "created_at": "2025-10-21T03:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980478127529955766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l56uxOcNco",
+              "end": 52,
+              "expanded_url": "https://x.com/FurinaDF/status/1980478127529955766/video/1",
+              "media_key": "13_1980477914068992000",
+              "start": 29,
+              "url": "https://t.co/l56uxOcNco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980478127529955766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 24423,
+          "like_count": 97,
+          "quote_count": 6,
+          "reply_count": 52,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "网友：\n绝大多数的00后、10后、20后，都是毛泽东粉丝 https://t.co/l56uxOcNco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3992,
+          "like_count": 51250,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11920
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "希望我发的每一条帖子，都在你的意料之外@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58022,
+          "following_count": 2366,
+          "like_count": 29469,
+          "listed_count": 169,
+          "media_count": 7313,
+          "tweet_count": 11844
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

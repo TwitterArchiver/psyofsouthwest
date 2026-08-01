@@ -1,0 +1,283 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805862766563180546",
+        "3_1805862768857563138"
+      ],
+      "media_source_tweet_id": [
+        "1805862772032651645",
+        "1805862772032651645"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1805885744969335200",
+    "created_at": "2024-06-26T08:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T09:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805885744969335200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "715618813",
+          "start": 3,
+          "username": "LeigeSee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/zYerOwDPm4",
+          "end": 91,
+          "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+          "media_key": "3_1805862766563180546",
+          "start": 68,
+          "url": "https://t.co/zYerOwDPm4"
+        },
+        {
+          "display_url": "pic.twitter.com/zYerOwDPm4",
+          "end": 91,
+          "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+          "media_key": "3_1805862768857563138",
+          "start": 68,
+          "url": "https://t.co/zYerOwDPm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805885744969335200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805862772032651645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeigeSee: 刚学到一个冷知识：唾液里含有大量的细菌，而尿液通常是无菌的。\n所以，接吻是不卫生的，下面才是讲卫生的做法。 https://t.co/zYerOwDPm4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_1805862766563180546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ-2nkoaQAIoeWx.jpg",
+        "width": 1070
+      },
+      {
+        "height": 973,
+        "media_key": "3_1805862768857563138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ-2ntLbwAIWJDi.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805862766563180546",
+            "3_1805862768857563138"
+          ],
+          "media_source_tweet_id": [
+            "1805862772032651645",
+            "1805862772032651645"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1805885744969335200",
+        "created_at": "2024-06-26T08:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805885744969335200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "715618813",
+              "start": 3,
+              "username": "LeigeSee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zYerOwDPm4",
+              "end": 91,
+              "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+              "media_key": "3_1805862766563180546",
+              "start": 68,
+              "url": "https://t.co/zYerOwDPm4"
+            },
+            {
+              "display_url": "pic.twitter.com/zYerOwDPm4",
+              "end": 91,
+              "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+              "media_key": "3_1805862768857563138",
+              "start": 68,
+              "url": "https://t.co/zYerOwDPm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805885744969335200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805862772032651645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeigeSee: 刚学到一个冷知识：唾液里含有大量的细菌，而尿液通常是无菌的。\n所以，接吻是不卫生的，下面才是讲卫生的做法。 https://t.co/zYerOwDPm4"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805862766563180546",
+            "3_1805862768857563138"
+          ]
+        },
+        "author_id": "715618813",
+        "conversation_id": "1805862772032651645",
+        "created_at": "2024-06-26T07:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T08:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805862772032651645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zYerOwDPm4",
+              "end": 77,
+              "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+              "media_key": "3_1805862766563180546",
+              "start": 54,
+              "url": "https://t.co/zYerOwDPm4"
+            },
+            {
+              "display_url": "pic.twitter.com/zYerOwDPm4",
+              "end": 77,
+              "expanded_url": "https://twitter.com/LeigeSee/status/1805862772032651645/photo/1",
+              "media_key": "3_1805862768857563138",
+              "start": 54,
+              "url": "https://t.co/zYerOwDPm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805862772032651645",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 464,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚学到一个冷知识：唾液里含有大量的细菌，而尿液通常是无菌的。\n所以，接吻是不卫生的，下面才是讲卫生的做法。 https://t.co/zYerOwDPm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 2318,
+          "like_count": 12853,
+          "listed_count": 4,
+          "tweet_count": 6752
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-25T06:48:00.000Z",
+        "description": "全职奶爸，兼职开发点APP啥滴。 | |  最新作品True Face，google play下载链接:\nhttps://t.co/Efdcghc9mp  | |  喜欢各种有趣但没用的知识（故事）（记住的是知识，记不住的是故事）。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 76,
+                "expanded_url": "https://play.google.com/store/apps/details?id=com.yjh.tf",
+                "start": 53,
+                "url": "https://t.co/Efdcghc9mp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tftfapp.com",
+                "end": 23,
+                "expanded_url": "https://tftfapp.com",
+                "start": 0,
+                "url": "https://t.co/TSJxEhh8aE"
+              }
+            ]
+          }
+        },
+        "id": "715618813",
+        "name": "Leige",
+        "pinned_tweet_id": "1783755518970118493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1237998766470221824/jDe6bZDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5814,
+          "following_count": 277,
+          "like_count": 2685,
+          "listed_count": 28,
+          "tweet_count": 7980
+        },
+        "url": "https://t.co/TSJxEhh8aE",
+        "username": "LeigeSee",
+        "verified": true
+      }
+    ]
+  }
+}

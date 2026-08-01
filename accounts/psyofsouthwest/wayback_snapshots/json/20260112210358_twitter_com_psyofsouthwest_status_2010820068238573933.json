@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2010817764781420712",
+    "created_at": "2026-01-12T21:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T22:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010820068238573933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1498973278744031232",
+          "start": 0,
+          "username": "WarMonitor3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010820068238573933",
+    "in_reply_to_user_id": "1498973278744031232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010817764781420712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WarMonitor3 There's an old Chinese proverb: \"Closing the door to beat the dog.\" This describes exactly this situation."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2010817764781420712",
+        "created_at": "2026-01-12T21:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T22:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010820068238573933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1498973278744031232",
+              "start": 0,
+              "username": "WarMonitor3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010820068238573933",
+        "in_reply_to_user_id": "1498973278744031232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010817764781420712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WarMonitor3 There's an old Chinese proverb: \"Closing the door to beat the dog.\" This describes exactly this situation."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498973278744031232",
+        "conversation_id": "2010817764781420712",
+        "created_at": "2026-01-12T20:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T21:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010817764781420712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010817764781420712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7664,
+          "like_count": 223,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "People don’t realise how serious it is when a country shuts off its internet for 100+ hours."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 4403,
+          "like_count": 67621,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 12582
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T10:47:40.000Z",
+        "description": "Reporting On Wars",
+        "id": "1498973278744031232",
+        "name": "WarMonitor🇺🇦🇬🇧",
+        "pinned_tweet_id": "2010730856051261774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523747009609572352/n4FiuzR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821048,
+          "following_count": 277,
+          "like_count": 1114,
+          "listed_count": 8381,
+          "media_count": 5440,
+          "tweet_count": 26319
+        },
+        "username": "WarMonitor3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1803259729122304009",
+    "created_at": "2024-06-19T09:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T10:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803352666430443710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "880471231987728388",
+          "start": 0,
+          "username": "latecomerss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803352666430443710",
+    "in_reply_to_user_id": "880471231987728388",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803259729122304009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@latecomerss 我在闲鱼上买了车架和套件，还有轮子自己组的，花了1000块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1803259729122304009",
+        "created_at": "2024-06-19T09:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T10:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803352666430443710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "880471231987728388",
+              "start": 0,
+              "username": "latecomerss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803352666430443710",
+        "in_reply_to_user_id": "880471231987728388",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803259729122304009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@latecomerss 我在闲鱼上买了车架和套件，还有轮子自己组的，花了1000块"
+      },
+      {
+        "attachments": {},
+        "author_id": "880471231987728388",
+        "conversation_id": "1803259729122304009",
+        "created_at": "2024-06-19T02:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T03:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803259729122304009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803259729122304009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3029,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老赵跟我宣布：\n他要戒烟，省钱买一辆3500块的公路车\n\n他是这样算账的：每个月买悦刻烟弹差不多350块，他只要10个月不抽烟就能省出来一辆公路车了🚴\n\n来自大魔王的吐槽：老赵他妈的上下班就两三公里，买了一辆1500的山地车还不满足，还非要买个公路车，我真的笑了\n，一天骑不了五公里，逗不逗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 2264,
+          "like_count": 12422,
+          "listed_count": 4,
+          "tweet_count": 6544
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-29T17:01:14.000Z",
+        "description": "吐槽老赵专推｜互联网行业待退休｜打工人迟到首席代表 ｜喜欢研究用户体验",
+        "id": "880471231987728388",
+        "location": "东北区",
+        "name": "大魔王",
+        "pinned_tweet_id": "922875870628290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600526039306080256/OHLBz2Lc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7339,
+          "following_count": 293,
+          "like_count": 14651,
+          "listed_count": 25,
+          "tweet_count": 31433
+        },
+        "username": "latecomerss",
+        "verified": false
+      }
+    ]
+  }
+}

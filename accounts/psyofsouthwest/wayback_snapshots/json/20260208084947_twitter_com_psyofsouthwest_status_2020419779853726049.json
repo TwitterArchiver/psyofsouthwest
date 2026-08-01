@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020396528125214720"
+      ],
+      "media_source_tweet_id": [
+        "2020396530201411776"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020419779853726049",
+    "created_at": "2026-02-08T08:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T09:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020419779853726049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "16044147",
+          "start": 3,
+          "username": "appinn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "🎙️ Faster Whisper TransWithAI ChickenRice 是一款基于 Faster Whisper 和音声优化 VAD 的日文转中文优化版本，来自 AI汉化组的作品。没想到吧，现在汉化组已经进化写AI工具，而不是用AI工具了。",
+          "display_url": "appinn.com/faster-whisper…",
+          "end": 66,
+          "expanded_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+          "images": [
+            {
+              "height": 700,
+              "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=orig",
+              "width": 1608
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 43,
+          "status": 200,
+          "title": "5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 - 小众软件",
+          "unwound_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+          "url": "https://t.co/QtpJluCywg"
+        },
+        {
+          "display_url": "pic.x.com/bt8q10ov7y",
+          "end": 90,
+          "expanded_url": "https://x.com/appinn/status/2020396530201411776/photo/1",
+          "media_key": "3_2020396528125214720",
+          "start": 67,
+          "url": "https://t.co/bt8q10ov7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020419779853726049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020396530201411776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @appinn: 5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 https://t.co/QtpJluCywg https://t.co/bt8q10ov7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 72,
+        "media_key": "3_2020396528125214720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnj8BRWAAAelNX.png",
+        "width": 72
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020396528125214720"
+          ],
+          "media_source_tweet_id": [
+            "2020396530201411776"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020419779853726049",
+        "created_at": "2026-02-08T08:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020419779853726049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "16044147",
+              "start": 3,
+              "username": "appinn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🎙️ Faster Whisper TransWithAI ChickenRice 是一款基于 Faster Whisper 和音声优化 VAD 的日文转中文优化版本，来自 AI汉化组的作品。没想到吧，现在汉化组已经进化写AI工具，而不是用AI工具了。",
+              "display_url": "appinn.com/faster-whisper…",
+              "end": 66,
+              "expanded_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+              "images": [
+                {
+                  "height": 700,
+                  "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=orig",
+                  "width": 1608
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 - 小众软件",
+              "unwound_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+              "url": "https://t.co/QtpJluCywg"
+            },
+            {
+              "display_url": "pic.x.com/bt8q10ov7y",
+              "end": 90,
+              "expanded_url": "https://x.com/appinn/status/2020396530201411776/photo/1",
+              "media_key": "3_2020396528125214720",
+              "start": 67,
+              "url": "https://t.co/bt8q10ov7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020419779853726049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020396530201411776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @appinn: 5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 https://t.co/QtpJluCywg https://t.co/bt8q10ov7y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020396528125214720"
+          ]
+        },
+        "author_id": "16044147",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020396530201411776",
+        "created_at": "2026-02-08T07:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T08:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020396530201411776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🎙️ Faster Whisper TransWithAI ChickenRice 是一款基于 Faster Whisper 和音声优化 VAD 的日文转中文优化版本，来自 AI汉化组的作品。没想到吧，现在汉化组已经进化写AI工具，而不是用AI工具了。",
+              "display_url": "appinn.com/faster-whisper…",
+              "end": 54,
+              "expanded_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+              "images": [
+                {
+                  "height": 700,
+                  "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=orig",
+                  "width": 1608
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020396533166813185/tBNNo_Ni?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 - 小众软件",
+              "unwound_url": "https://www.appinn.com/faster-whisper-transwithai-chickenrice/",
+              "url": "https://t.co/QtpJluCywg"
+            },
+            {
+              "display_url": "pic.x.com/bt8q10ov7y",
+              "end": 78,
+              "expanded_url": "https://x.com/appinn/status/2020396530201411776/photo/1",
+              "media_key": "3_2020396528125214720",
+              "start": 55,
+              "url": "https://t.co/bt8q10ov7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020396530201411776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 699,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "5000小时训练，自动识别日文视频，并翻译中文字幕的开源工具 https://t.co/QtpJluCywg https://t.co/bt8q10ov7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 4506,
+          "like_count": 76628,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12922
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-29T16:35:23.000Z",
+        "description": "小众软件官方账户。自动发布小众软件、电脑玩物的最新文章或常用软件的升级信息。投递途径：https://t.co/lM5tr8tSt9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "faxian.appinn.com",
+                "end": 66,
+                "expanded_url": "http://faxian.appinn.com",
+                "start": 43,
+                "url": "https://t.co/lM5tr8tSt9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appinn.com",
+                "end": 23,
+                "expanded_url": "http://www.appinn.com",
+                "start": 0,
+                "url": "https://t.co/C42F29QPfd"
+              }
+            ]
+          }
+        },
+        "id": "16044147",
+        "name": "小众软件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/469565990074712064/ZgVhe4vc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127282,
+          "following_count": 5691,
+          "like_count": 0,
+          "listed_count": 831,
+          "media_count": 10504,
+          "tweet_count": 17813
+        },
+        "url": "https://t.co/C42F29QPfd",
+        "username": "appinn",
+        "verified": false
+      }
+    ]
+  }
+}

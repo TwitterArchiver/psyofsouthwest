@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2008455321497596151",
+    "created_at": "2026-01-19T17:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013297168241586454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001998644673994752",
+          "start": 0,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013297168241586454",
+    "in_reply_to_user_id": "2001998644673994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013289772794404969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morganofliberal 自由派应该尊重中国人的自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2008455321497596151",
+        "created_at": "2026-01-19T17:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013297168241586454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001998644673994752",
+              "start": 0,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013297168241586454",
+        "in_reply_to_user_id": "2001998644673994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013289772794404969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morganofliberal 自由派应该尊重中国人的自由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001998644673994752",
+        "conversation_id": "2008455321497596151",
+        "created_at": "2026-01-19T16:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013289772794404969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013289772794404969",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013289058093400070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 至少在大家的印象里，自由派不再是殖人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 4440,
+          "like_count": 70534,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 12677
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikipedia.com",
+                "end": 23,
+                "expanded_url": "http://wikipedia.com",
+                "start": 0,
+                "url": "https://t.co/O2drc8pVpm"
+              }
+            ]
+          }
+        },
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 227,
+          "like_count": 1366,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/O2drc8pVpm",
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

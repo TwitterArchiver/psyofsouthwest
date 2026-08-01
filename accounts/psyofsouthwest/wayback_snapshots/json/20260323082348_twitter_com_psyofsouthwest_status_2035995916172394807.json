@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035882493929246721"
+      ],
+      "media_source_tweet_id": [
+        "2035882616444846406"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2035995916172394807",
+    "created_at": "2026-03-23T08:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035995916172394807"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Doro Magical Girl",
+          "probability": 0.7497,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "Doro",
+          "probability": 0.7045,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "NIKKE",
+          "probability": 0.5924,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "NIKKEdoro",
+          "probability": 0.6765,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "Doro"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 65,
+          "start": 55,
+          "tag": "NIKKEdoro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1332818364943757312",
+          "start": 3,
+          "username": "JeantfyDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjhUbExIyX",
+          "end": 89,
+          "expanded_url": "https://x.com/JeantfyDraw/status/2035882616444846406/photo/1",
+          "media_key": "3_2035882493929246721",
+          "start": 66,
+          "url": "https://t.co/UjhUbExIyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035995916172394807",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035882616444846406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeantfyDraw: Doro Magical Girl 💗⭐️✨\n\n #Doro #NIKKE #NIKKEdoro https://t.co/UjhUbExIyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2035882493929246721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDoV3cW0AEYfVn.jpg",
+        "width": 2273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035882493929246721"
+          ],
+          "media_source_tweet_id": [
+            "2035882616444846406"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2035995916172394807",
+        "created_at": "2026-03-23T08:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035995916172394807"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Doro Magical Girl",
+              "probability": 0.7497,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Doro",
+              "probability": 0.7045,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "NIKKE",
+              "probability": 0.5924,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "NIKKEdoro",
+              "probability": 0.6765,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "Doro"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 65,
+              "start": 55,
+              "tag": "NIKKEdoro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1332818364943757312",
+              "start": 3,
+              "username": "JeantfyDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjhUbExIyX",
+              "end": 89,
+              "expanded_url": "https://x.com/JeantfyDraw/status/2035882616444846406/photo/1",
+              "media_key": "3_2035882493929246721",
+              "start": 66,
+              "url": "https://t.co/UjhUbExIyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035995916172394807",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035882616444846406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeantfyDraw: Doro Magical Girl 💗⭐️✨\n\n #Doro #NIKKE #NIKKEdoro https://t.co/UjhUbExIyX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035882493929246721"
+          ]
+        },
+        "author_id": "1332818364943757312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2035882616444846406",
+        "created_at": "2026-03-23T00:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035882616444846406"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Doro",
+              "probability": 0.5552,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "Doro",
+              "probability": 0.6936,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "NIKKE",
+              "probability": 0.5171,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "NIKKEdoro",
+              "probability": 0.5925,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "Doro"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "NIKKEdoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjhUbExIyX",
+              "end": 72,
+              "expanded_url": "https://x.com/JeantfyDraw/status/2035882616444846406/photo/1",
+              "media_key": "3_2035882493929246721",
+              "start": 49,
+              "url": "https://t.co/UjhUbExIyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035882616444846406",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2906,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "Doro Magical Girl 💗⭐️✨\n\n #Doro #NIKKE #NIKKEdoro https://t.co/UjhUbExIyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 4748,
+          "like_count": 98046,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14108
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T22:47:34.000Z",
+        "description": "SFW and NSFW 🔞    \n\nPATRE0N:\nhttps://t.co/VXKhdvPghd \nPIXIV: \n-\n\n|ENG / SPA|\n💖🇵🇪🎨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/JeanTFYDraw",
+                "end": 52,
+                "expanded_url": "https://www.patreon.com/JeanTFYDraw",
+                "start": 29,
+                "url": "https://t.co/VXKhdvPghd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/jeantfy?countr…",
+                "end": 23,
+                "expanded_url": "https://paypal.me/jeantfy?country.x=PE&locale.x=es_XC",
+                "start": 0,
+                "url": "https://t.co/tGlPnepekI"
+              }
+            ]
+          }
+        },
+        "id": "1332818364943757312",
+        "name": "JeantfyDraw",
+        "pinned_tweet_id": "1933714672386977944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743481243713302528/EZs4CuSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 583,
+          "like_count": 50787,
+          "listed_count": 19,
+          "media_count": 509,
+          "tweet_count": 14872
+        },
+        "url": "https://t.co/tGlPnepekI",
+        "username": "JeantfyDraw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1860537852184133971",
+    "created_at": "2024-11-24T06:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T07:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860573593911869660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662505852924772352",
+          "start": 0,
+          "username": "xuexitongLOVEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860573593911869660",
+    "in_reply_to_user_id": "1662505852924772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860537852184133971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexitongLOVEU 你这是准备学mhyyyy呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1860537852184133971",
+        "created_at": "2024-11-24T06:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T07:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860573593911869660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662505852924772352",
+              "start": 0,
+              "username": "xuexitongLOVEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860573593911869660",
+        "in_reply_to_user_id": "1662505852924772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860537852184133971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexitongLOVEU 你这是准备学mhyyyy呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662505852924772352",
+        "conversation_id": "1860537852184133971",
+        "created_at": "2024-11-24T04:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T05:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860537852184133971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860537852184133971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽了哪个内鬼把我群举报封了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2797,
+          "like_count": 20050,
+          "listed_count": 4,
+          "tweet_count": 8625
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T17:07:51.000Z",
+        "description": "学习强国",
+        "id": "1662505852924772352",
+        "name": "学习通",
+        "pinned_tweet_id": "1858695809124233411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859395078420406272/VYjNYSjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1178,
+          "like_count": 4315,
+          "listed_count": 2,
+          "tweet_count": 1903
+        },
+        "username": "xuexitongLOVEU",
+        "verified": false
+      }
+    ]
+  }
+}

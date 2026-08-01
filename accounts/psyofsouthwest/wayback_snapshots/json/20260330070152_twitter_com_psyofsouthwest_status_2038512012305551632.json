@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038459749537345536",
+        "3_2038459749579345920",
+        "3_2038459749667368960",
+        "3_2038459749625434112"
+      ],
+      "media_source_tweet_id": [
+        "2038459788196233230",
+        "2038459788196233230",
+        "2038459788196233230",
+        "2038459788196233230"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "2038512012305551632",
+    "created_at": "2026-03-30T07:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038512012305551632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "551900195",
+          "start": 3,
+          "username": "EliseS1999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VxcLso2tZl",
+          "end": 49,
+          "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+          "media_key": "3_2038459749537345536",
+          "start": 26,
+          "url": "https://t.co/VxcLso2tZl"
+        },
+        {
+          "display_url": "pic.x.com/VxcLso2tZl",
+          "end": 49,
+          "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+          "media_key": "3_2038459749579345920",
+          "start": 26,
+          "url": "https://t.co/VxcLso2tZl"
+        },
+        {
+          "display_url": "pic.x.com/VxcLso2tZl",
+          "end": 49,
+          "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+          "media_key": "3_2038459749667368960",
+          "start": 26,
+          "url": "https://t.co/VxcLso2tZl"
+        },
+        {
+          "display_url": "pic.x.com/VxcLso2tZl",
+          "end": 49,
+          "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+          "media_key": "3_2038459749625434112",
+          "start": 26,
+          "url": "https://t.co/VxcLso2tZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038512012305551632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038459788196233230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EliseS1999: Doroと鉄道の旅 https://t.co/VxcLso2tZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2038459749537345536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoQV4wa8AAb3f4.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2256,
+        "media_key": "3_2038459749579345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoQV46b0AAOA0N.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2256,
+        "media_key": "3_2038459749667368960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoQV5Pa8AA1XcJ.jpg",
+        "width": 4000
+      },
+      {
+        "height": 2256,
+        "media_key": "3_2038459749625434112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEoQV5FbEAAmDsC.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038459749537345536",
+            "3_2038459749579345920",
+            "3_2038459749667368960",
+            "3_2038459749625434112"
+          ],
+          "media_source_tweet_id": [
+            "2038459788196233230",
+            "2038459788196233230",
+            "2038459788196233230",
+            "2038459788196233230"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2038512012305551632",
+        "created_at": "2026-03-30T07:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038512012305551632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "551900195",
+              "start": 3,
+              "username": "EliseS1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 49,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749537345536",
+              "start": 26,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 49,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749579345920",
+              "start": 26,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 49,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749667368960",
+              "start": 26,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 49,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749625434112",
+              "start": 26,
+              "url": "https://t.co/VxcLso2tZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038512012305551632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038459788196233230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EliseS1999: Doroと鉄道の旅 https://t.co/VxcLso2tZl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038459749537345536",
+            "3_2038459749579345920",
+            "3_2038459749667368960",
+            "3_2038459749625434112"
+          ]
+        },
+        "author_id": "551900195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2038459788196233230",
+        "created_at": "2026-03-30T03:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038459788196233230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 33,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749537345536",
+              "start": 10,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 33,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749579345920",
+              "start": 10,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 33,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749667368960",
+              "start": 10,
+              "url": "https://t.co/VxcLso2tZl"
+            },
+            {
+              "display_url": "pic.x.com/VxcLso2tZl",
+              "end": 33,
+              "expanded_url": "https://x.com/EliseS1999/status/2038459788196233230/photo/1",
+              "media_key": "3_2038459749625434112",
+              "start": 10,
+              "url": "https://t.co/VxcLso2tZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038459788196233230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 568,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Doroと鉄道の旅 https://t.co/VxcLso2tZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 4760,
+          "like_count": 100233,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14193
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-12T14:26:57.000Z",
+        "description": "多趣味人間です。車で遠出したりゲームしたりアニメ見たり…プラモは少しサボり気味。でも買っちゃうの。\nまどドラ、アリスギアをプレイしてます。愛車はルノーのトゥインゴくんです。10年超え10万km超えですがまだまだ乗るゾ。\nミニカーも集めてます。少し趣味控えないとな……",
+        "id": "551900195",
+        "name": "るの夫",
+        "pinned_tweet_id": "2035268192579592702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686741690780962822/xP1fO-kO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 649,
+          "like_count": 127024,
+          "listed_count": 11,
+          "media_count": 11358,
+          "tweet_count": 27649
+        },
+        "username": "EliseS1999",
+        "verified": false
+      }
+    ]
+  }
+}

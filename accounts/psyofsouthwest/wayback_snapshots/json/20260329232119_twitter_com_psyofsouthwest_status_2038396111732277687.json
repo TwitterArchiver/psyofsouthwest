@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038261783702700032"
+      ],
+      "media_source_tweet_id": [
+        "2038262118034882796"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2038396111732277687",
+    "created_at": "2026-03-29T23:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038396111732277687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "endfield"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "gugugaga"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "Aiart"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "43246875",
+          "start": 3,
+          "username": "qhgy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fTHfVDWmkZ",
+          "end": 79,
+          "expanded_url": "https://x.com/qhgy/status/2038262118034882796/video/1",
+          "media_key": "13_2038261783702700032",
+          "start": 56,
+          "url": "https://t.co/fTHfVDWmkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038396111732277687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038262118034882796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qhgy: おしおきタイム！🐧💀\n\n#endfield #gugugaga #Aiart  #doro https://t.co/fTHfVDWmkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 1280,
+        "media_key": "13_2038261783702700032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038261783702700032/img/JiK-ghAfp89DJS9k.jpg",
+        "public_metrics": {
+          "view_count": 4410
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038261783702700032/vid/avc1/320x568/wQvHeviQSa8W8NtS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038261783702700032/vid/avc1/480x852/2KNNBNE8-bllQZz_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038261783702700032/vid/avc1/720x1280/650FppYQ5kBIIkDQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038261783702700032/pl/qfmMN4kZwYza_hz7.m3u8?v=8d8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038261783702700032"
+          ],
+          "media_source_tweet_id": [
+            "2038262118034882796"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2038396111732277687",
+        "created_at": "2026-03-29T23:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038396111732277687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "endfield"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "Aiart"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "43246875",
+              "start": 3,
+              "username": "qhgy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTHfVDWmkZ",
+              "end": 79,
+              "expanded_url": "https://x.com/qhgy/status/2038262118034882796/video/1",
+              "media_key": "13_2038261783702700032",
+              "start": 56,
+              "url": "https://t.co/fTHfVDWmkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038396111732277687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038262118034882796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qhgy: おしおきタイム！🐧💀\n\n#endfield #gugugaga #Aiart  #doro https://t.co/fTHfVDWmkZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038261783702700032"
+          ]
+        },
+        "author_id": "43246875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2038262118034882796",
+        "created_at": "2026-03-29T14:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038262118034882796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "endfield"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "Aiart"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTHfVDWmkZ",
+              "end": 69,
+              "expanded_url": "https://x.com/qhgy/status/2038262118034882796/video/1",
+              "media_key": "13_2038261783702700032",
+              "start": 46,
+              "url": "https://t.co/fTHfVDWmkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038262118034882796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 8875,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "おしおきタイム！🐧💀\n\n#endfield #gugugaga #Aiart  #doro https://t.co/fTHfVDWmkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 4758,
+          "like_count": 100029,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14183
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T01:59:54.000Z",
+        "description": "AI Animation Creator\nAI動画クリエイター 🎬｜フリーレン推し 🧝‍♀️｜ピカチュウ育ち ⚡｜ドラえもんで人生変わった 🤖｜夢の対決を現実にする人 ✨",
+        "id": "43246875",
+        "location": "どこでもドア の向こう側 🚪",
+        "name": "秦淮孤月",
+        "pinned_tweet_id": "2038113975930437817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010249649219936257/HQGpOjJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26508,
+          "following_count": 2235,
+          "like_count": 42716,
+          "listed_count": 254,
+          "media_count": 4207,
+          "tweet_count": 92449
+        },
+        "username": "qhgy",
+        "verified": true
+      }
+    ]
+  }
+}

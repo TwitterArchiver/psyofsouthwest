@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2033267425701924877",
+    "created_at": "2026-03-16T06:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033432194732249397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "58487473",
+          "start": 0,
+          "username": "cryptomanran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033432194732249397",
+    "in_reply_to_user_id": "58487473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033267425701924877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptomanran 我不认为共产党会在沿海产能会被轰炸的条件下进攻台湾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2033267425701924877",
+        "created_at": "2026-03-16T06:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033432194732249397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "58487473",
+              "start": 0,
+              "username": "cryptomanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033432194732249397",
+        "in_reply_to_user_id": "58487473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033267425701924877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptomanran 我不认为共产党会在沿海产能会被轰炸的条件下进攻台湾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "58487473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2033267425701924877",
+        "created_at": "2026-03-15T19:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033267425701924877"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "China",
+              "probability": 0.9815,
+              "start": 5,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Taiwan",
+              "probability": 0.965,
+              "start": 33,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033267425701924877",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 334353,
+          "like_count": 3960,
+          "quote_count": 36,
+          "reply_count": 332,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "Dear China.\n\nPlease don't attack Taiwan now.\n\nMy portfolio just can't handle it..\n\nBest Regards,\n\nRan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 4725,
+          "like_count": 94548,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 13905
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-20T14:33:19.000Z",
+        "description": "CNBC Crypto Trader , Founder Crypto Banter. Invest in protocols that will change the world-give them enough time to do their thing. Tweets not financial advice.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/CryptoBanter…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/CryptoBanterGroup",
+                "start": 0,
+                "url": "https://t.co/NBNjJSWX3B"
+              }
+            ]
+          }
+        },
+        "id": "58487473",
+        "location": "www.cryptobanter.com",
+        "name": "Ran Neuner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834157145299763200/Fh1b6K9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971056,
+          "following_count": 4722,
+          "like_count": 4568,
+          "listed_count": 7916,
+          "media_count": 4311,
+          "tweet_count": 20579
+        },
+        "url": "https://t.co/NBNjJSWX3B",
+        "username": "cryptomanran",
+        "verified": true
+      }
+    ]
+  }
+}

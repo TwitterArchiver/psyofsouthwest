@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1329859405450416129",
+          "name": "Naoya Inoue"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1329859405450416129",
+          "name": "Naoya Inoue"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Men's Boxing",
+          "id": "1164893579346452483",
+          "name": "Men's boxing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1329859405450416129",
+          "name": "Naoya Inoue"
+        }
+      }
+    ],
+    "conversation_id": "2050576741492531570",
+    "created_at": "2026-05-02T14:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050576741492531570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1250455601630437376",
+          "start": 3,
+          "username": "CyEquity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050576741492531570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050558686125592684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyEquity: で井上尚弥選手  VS  中谷潤人選手\n\nいよいよですね、、、世紀の一戦にして本日のビッグマッチ\n\nどちらにも勝って欲しい\nどちらにも負けて欲しくない\n\n同じ思いのファンの方はとてもたくさんいらっしゃるのではないでしょうか？🥹\n\nあなたはどう思います…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Men's Boxing",
+              "id": "1164893579346452483",
+              "name": "Men's boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          }
+        ],
+        "conversation_id": "2050576741492531570",
+        "created_at": "2026-05-02T14:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050576741492531570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1250455601630437376",
+              "start": 3,
+              "username": "CyEquity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050576741492531570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050558686125592684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyEquity: で井上尚弥選手  VS  中谷潤人選手\n\nいよいよですね、、、世紀の一戦にして本日のビッグマッチ\n\nどちらにも勝って欲しい\nどちらにも負けて欲しくない\n\n同じ思いのファンの方はとてもたくさんいらっしゃるのではないでしょうか？🥹\n\nあなたはどう思います…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250455601630437376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Men's Boxing",
+              "id": "1164893579346452483",
+              "name": "Men's boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1329859405450416129",
+              "name": "Naoya Inoue"
+            }
+          }
+        ],
+        "conversation_id": "2050558686125592684",
+        "created_at": "2026-05-02T12:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050558686125592684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050558686125592684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sports.yahoo.co.jp/contents/22236",
+                "end": 301,
+                "expanded_url": "https://sports.yahoo.co.jp/contents/22236",
+                "start": 278,
+                "url": "https://t.co/5xX5DEjIza"
+              }
+            ]
+          },
+          "text": "で井上尚弥選手  VS  中谷潤人選手\n\nいよいよですね、、、世紀の一戦にして本日のビッグマッチ\n\nどちらにも勝って欲しい\nどちらにも負けて欲しくない\n\n同じ思いのファンの方はとてもたくさんいらっしゃるのではないでしょうか？🥹\n\nあなたはどう思いますか？🧐\n\nどちらが勝っても感動の試合になる事は間違いない🥊🔥\n\n※私は本日現地に応援に行く予定が右足骨折🩼により現地ではない場所で応援になり非常に残念ですが、全身全霊全力MAX🔥で、井上尚弥選手も中谷潤人選手もフル応援しています🥳\n\n速報　井上尚弥vs.中谷潤人　世界統一スーパーバンタム級タイトルマッチ\nhttps://t.co/5xX5DEjIza"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20818,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "で井上尚弥選手  VS  中谷潤人選手\n\nいよいよですね、、、世紀の一戦にして本日のビッグマッチ\n\nどちらにも勝って欲しい\nどちらにも負けて欲しくない\n\n同じ思いのファンの方はとてもたくさんいらっしゃるのではないでしょうか？🥹\n\nあなたはどう思いますか？🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 4801,
+          "like_count": 113937,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 14992
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T16:07:17.000Z",
+        "description": "呟き少なめですが\n\n投資は日本の株式メインで楽しんでます😊\n\n実業もひっそりとやってます☺️\n\n「質実剛健」\n\n浅き川も深く渡れ\n\n※ブルーバッジ(ブルバ)の方は基本相互フォローOKですのでご遠慮なく😊\n　それ以外もご一緒に楽しめる方は基本OKですので皆様お気軽にどうぞ☺️",
+        "id": "1250455601630437376",
+        "name": "ES",
+        "pinned_tweet_id": "1314488538113564674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794195315631042560/BtCfUgsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1920,
+          "like_count": 31588,
+          "listed_count": 13,
+          "media_count": 332,
+          "tweet_count": 7376
+        },
+        "username": "CyEquity",
+        "verified": true
+      }
+    ]
+  }
+}

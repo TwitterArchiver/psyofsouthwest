@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1868190105296605463",
+    "created_at": "2024-12-15T13:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T14:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868285101949301138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573206509625876481",
+          "start": 0,
+          "username": "amehochan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868285101949301138",
+    "in_reply_to_user_id": "1573206509625876481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868190105296605463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amehochan 人类的自然选择？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1868190105296605463",
+        "created_at": "2024-12-15T13:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868285101949301138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573206509625876481",
+              "start": 0,
+              "username": "amehochan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868285101949301138",
+        "in_reply_to_user_id": "1573206509625876481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868190105296605463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amehochan 人类的自然选择？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868190094395387904"
+          ]
+        },
+        "author_id": "1573206509625876481",
+        "conversation_id": "1868190105296605463",
+        "created_at": "2024-12-15T07:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T08:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868190105296605463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoyEunrxLE",
+              "end": 40,
+              "expanded_url": "https://x.com/amehochan/status/1868190105296605463/photo/1",
+              "media_key": "3_1868190094395387904",
+              "start": 17,
+              "url": "https://t.co/AoyEunrxLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868190105296605463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1922,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么小姑娘也喜欢玩棍子。😂😂😂 https://t.co/AoyEunrxLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 2887,
+          "like_count": 21581,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 9062
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP Contributor for @ApacheFlink. Coding in Java, Go, Scala, TS, Python and other 6 PLs. Reading is the only entertainment for him.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/syhily",
+                "end": 23,
+                "expanded_url": "https://github.com/syhily",
+                "start": 0,
+                "url": "https://t.co/mlM5pgBw9k"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "Teyvat",
+        "name": "Yufan Sheng",
+        "pinned_tweet_id": "1749434804427186293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849393602553872384/4E_qExs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24948,
+          "following_count": 861,
+          "like_count": 4346,
+          "listed_count": 142,
+          "media_count": 1577,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/mlM5pgBw9k",
+        "username": "amehochan",
+        "verified": false
+      }
+    ]
+  }
+}

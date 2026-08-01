@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1943813955836948791",
+    "created_at": "2025-07-11T23:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T00:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943813955836948791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "36952268",
+          "start": 3,
+          "username": "iamtonyzhu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A simple but powerful video editor that gets the job done. In your browser.",
+          "display_url": "opencut.app",
+          "end": 118,
+          "expanded_url": "http://opencut.app",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 95,
+          "status": 200,
+          "title": "OpenCut",
+          "unwound_url": "https://opencut.app/",
+          "url": "https://t.co/fH9STEjLu8"
+        },
+        {
+          "display_url": "t.co/Tv",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/Tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943813955836948791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 875
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943105646691238090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @iamtonyzhu: 抖音的视频剪辑软件剪映国际版CapCut处处设置收费开会员，把老外搞炸裂了，然后自己发起一个开源替代版OpenCut，在Github上7.6K星了。\n\n网站：https://t.co/fH9STEjLu8\n开源地址：https://t.co/Tv…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1943105632480927744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdMRxkWIAAF0Xz.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1943813955836948791",
+        "created_at": "2025-07-11T23:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T00:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943813955836948791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "36952268",
+              "start": 3,
+              "username": "iamtonyzhu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A simple but powerful video editor that gets the job done. In your browser.",
+              "display_url": "opencut.app",
+              "end": 118,
+              "expanded_url": "http://opencut.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "OpenCut",
+              "unwound_url": "https://opencut.app/",
+              "url": "https://t.co/fH9STEjLu8"
+            },
+            {
+              "display_url": "t.co/Tv",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/Tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943813955836948791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943105646691238090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @iamtonyzhu: 抖音的视频剪辑软件剪映国际版CapCut处处设置收费开会员，把老外搞炸裂了，然后自己发起一个开源替代版OpenCut，在Github上7.6K星了。\n\n网站：https://t.co/fH9STEjLu8\n开源地址：https://t.co/Tv…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943105632480927744"
+          ]
+        },
+        "author_id": "36952268",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1943105646691238090",
+        "created_at": "2025-07-10T00:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T01:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943105646691238090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A simple but powerful video editor that gets the job done. In your browser.",
+              "display_url": "opencut.app",
+              "end": 102,
+              "expanded_url": "http://opencut.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941335755911221248/NV-WQcEY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "OpenCut",
+              "unwound_url": "https://opencut.app/",
+              "url": "https://t.co/fH9STEjLu8"
+            },
+            {
+              "description": "The open-source CapCut alternative. Contribute to OpenCut-app/OpenCut development by creating an account on GitHub.",
+              "display_url": "github.com/OpenCut-app/Op…",
+              "end": 131,
+              "expanded_url": "https://github.com/OpenCut-app/OpenCut",
+              "start": 108,
+              "status": 200,
+              "title": "GitHub - OpenCut-app/OpenCut: The open-source CapCut alternative",
+              "unwound_url": "https://github.com/OpenCut-app/OpenCut",
+              "url": "https://t.co/TvfrLWXWoA"
+            },
+            {
+              "display_url": "pic.x.com/5GsBBDNwuW",
+              "end": 155,
+              "expanded_url": "https://x.com/iamtonyzhu/status/1943105646691238090/photo/1",
+              "media_key": "3_1943105632480927744",
+              "start": 132,
+              "url": "https://t.co/5GsBBDNwuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943105646691238090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4453,
+          "impression_count": 882591,
+          "like_count": 4805,
+          "quote_count": 39,
+          "reply_count": 90,
+          "retweet_count": 875
+        },
+        "reply_settings": "verified",
+        "text": "抖音的视频剪辑软件剪映国际版CapCut处处设置收费开会员，把老外搞炸裂了，然后自己发起一个开源替代版OpenCut，在Github上7.6K星了。\n\n网站：https://t.co/fH9STEjLu8\n开源地址：https://t.co/TvfrLWXWoA https://t.co/5GsBBDNwuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 3875,
+          "like_count": 41009,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 11318
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T14:23:58.000Z",
+        "description": "Founder, AI startups. 8年前从传统互联网转跨境电商。分享一些最新AI动态，出海营销运营分享。",
+        "id": "36952268",
+        "name": "Tony出海",
+        "pinned_tweet_id": "1943465048480842066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731259755891732480/C4u-Yz1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11473,
+          "following_count": 1297,
+          "like_count": 3185,
+          "listed_count": 136,
+          "media_count": 641,
+          "tweet_count": 3710
+        },
+        "username": "iamtonyzhu",
+        "verified": true
+      }
+    ]
+  }
+}

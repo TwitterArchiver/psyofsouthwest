@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1850750672905682959",
+    "created_at": "2024-10-28T05:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T06:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850774869195018738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "382673585",
+          "start": 0,
+          "username": "TH9521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850774869195018738",
+    "in_reply_to_user_id": "382673585",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850750672905682959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TH9521 运动手表可以配合各种传感器记录数据或者估算数据，比如功率、踏频、左右平衡、最大摄氧量、心率、呼吸频率、出汗量、血氧、肌氧、心率变异性、步频、步幅、垂直振幅、速度、配速、距离、触地时间等等。还有久坐提醒、喝水提醒、睡眠分析和训练指导，让我们离健康更近一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1850750672905682959",
+        "created_at": "2024-10-28T05:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T06:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850774869195018738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "382673585",
+              "start": 0,
+              "username": "TH9521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850774869195018738",
+        "in_reply_to_user_id": "382673585",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850750672905682959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TH9521 运动手表可以配合各种传感器记录数据或者估算数据，比如功率、踏频、左右平衡、最大摄氧量、心率、呼吸频率、出汗量、血氧、肌氧、心率变异性、步频、步幅、垂直振幅、速度、配速、距离、触地时间等等。还有久坐提醒、喝水提醒、睡眠分析和训练指导，让我们离健康更近一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "382673585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "1850750672905682959",
+        "created_at": "2024-10-28T04:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T05:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850750672905682959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850750672905682959",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1956,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天副业群讨论的议题是：电子手表有用吗？总结如下：\n\n儿童手表：重点的三个功能是 GPS定位，家长电话，警报功能。据说，国内主流市场，已经被小天才儿童手表占领了，如果用的不是小天才手表，会被小朋友视为异类。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 2677,
+          "like_count": 17733,
+          "listed_count": 4,
+          "tweet_count": 7930
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-30T13:56:03.000Z",
+        "description": "科技爱好者｜五星评论家｜热点图捕手｜INFJ 提倡者｜ 擅长话题：科技 / 营销 / 产品 / 副业 / 互联网等｜ 关注我获得一个有趣的 𝕏 友。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1517247024458244096",
+                "start": 0,
+                "url": "https://t.co/fuHKb0B5w3"
+              }
+            ]
+          }
+        },
+        "id": "382673585",
+        "location": "日本",
+        "name": "🔰桃子队长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450481288696107009/dWF5B1Gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10004,
+          "following_count": 499,
+          "like_count": 4046,
+          "listed_count": 41,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/fuHKb0B5w3",
+        "username": "TH9521",
+        "verified": true
+      }
+    ]
+  }
+}

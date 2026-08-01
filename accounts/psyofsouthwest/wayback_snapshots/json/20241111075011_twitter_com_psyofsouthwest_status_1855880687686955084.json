@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1855875014836596893",
+    "created_at": "2024-11-11T07:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T08:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855880687686955084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "884699431152476161",
+          "start": 0,
+          "username": "bbbubblecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855880687686955084",
+    "in_reply_to_user_id": "884699431152476161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855879716219326484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbubblecat 2018年就已经断了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1855875014836596893",
+        "created_at": "2024-11-11T07:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T08:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855880687686955084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "884699431152476161",
+              "start": 0,
+              "username": "bbbubblecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855880687686955084",
+        "in_reply_to_user_id": "884699431152476161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855879716219326484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbubblecat 2018年就已经断了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "884699431152476161",
+        "conversation_id": "1855875014836596893",
+        "created_at": "2024-11-11T07:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855879716219326484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855879716219326484",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855879471628275843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 艹，这些法西斯国家能不能死一死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 2720,
+          "like_count": 18687,
+          "listed_count": 4,
+          "tweet_count": 8204
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-11T09:02:36.000Z",
+        "description": "码农｜跨性别🏳️‍⚧️｜支持🇮🇷｜花卉种植｜厨师",
+        "id": "884699431152476161",
+        "name": "气泡泡🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673153912994660353/VhT7p5oK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 915,
+          "like_count": 18385,
+          "listed_count": 5,
+          "tweet_count": 10070
+        },
+        "username": "bbbubblecat",
+        "verified": false
+      }
+    ]
+  }
+}

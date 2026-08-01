@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1866345191348552109",
+    "created_at": "2024-12-10T04:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T05:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866345191348552109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/grok/share/c…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/c6VDUvwEIk2HdRzBWDUmrBHX1",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/grok/share/c6VDUvwEIk2HdRzBWDUmrBHX1",
+          "url": "https://t.co/MqF8NbDVUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866345191348552109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MqF8NbDVUi\n很好，很中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1866345191348552109",
+        "created_at": "2024-12-10T04:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T05:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866345191348552109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/c…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/c6VDUvwEIk2HdRzBWDUmrBHX1",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/grok/share/c6VDUvwEIk2HdRzBWDUmrBHX1",
+              "url": "https://t.co/MqF8NbDVUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866345191348552109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MqF8NbDVUi\n很好，很中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 2851,
+          "like_count": 20900,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 8842
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

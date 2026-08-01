@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1809255303021752675",
+    "created_at": "2024-07-06T01:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T02:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809400256817188963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809400256817188963",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809255303021752675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 一派胡言，敢同恶鬼争高下，不向霸王让寸分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1809255303021752675",
+        "created_at": "2024-07-06T01:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T02:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809400256817188963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809400256817188963",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809255303021752675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 一派胡言，敢同恶鬼争高下，不向霸王让寸分"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1809255300915994625"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "1809255303021752675",
+        "created_at": "2024-07-05T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809255303021752675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "今天吃药了嘛"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809255303021752675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃今天吃药了嘛\n吃了\n现在准备吃药睡觉\n有人非说我是男娘😡\n我很气愤\n所以发推来让你们投票来证明\n我 不是 男娘！！！！\n［问题：我是男娘吗？］"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 2344,
+          "like_count": 13317,
+          "listed_count": 4,
+          "tweet_count": 6882
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1766486037780742148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739475919306362880/AKQqeTED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 1598,
+          "like_count": 314146,
+          "listed_count": 10,
+          "tweet_count": 12232
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

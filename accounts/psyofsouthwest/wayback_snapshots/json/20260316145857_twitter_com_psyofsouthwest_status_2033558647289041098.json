@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033534814301913088"
+      ],
+      "media_source_tweet_id": [
+        "2033535130988630087"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033558647289041098",
+    "created_at": "2026-03-16T14:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033558647289041098"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Doro",
+          "probability": 0.4047,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "doro",
+          "probability": 0.4116,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "AssettoCorsa",
+          "probability": 0.508,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "doro"
+        },
+        {
+          "end": 61,
+          "start": 48,
+          "tag": "AssettoCorsa"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238039266057261062",
+          "start": 3,
+          "username": "ZocLucis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cNbCNoUj76",
+          "end": 85,
+          "expanded_url": "https://x.com/ZocLucis/status/2033535130988630087/video/1",
+          "media_key": "13_2033534814301913088",
+          "start": 62,
+          "url": "https://t.co/cNbCNoUj76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033558647289041098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033535130988630087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZocLucis: Doro the Rally‑Run Champion #doro #AssettoCorsa https://t.co/cNbCNoUj76"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 268566,
+        "height": 1080,
+        "media_key": "13_2033534814301913088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033534814301913088/img/oYB0H41esxs49JAh.jpg",
+        "public_metrics": {
+          "view_count": 652
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033534814301913088/vid/avc1/1920x1080/bLc6BMCo_QFDtCRn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033534814301913088/vid/avc1/640x360/0aOMDDG4fl7SLTWh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033534814301913088/vid/avc1/1280x720/8YEzwQV6AWvGdoqE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033534814301913088/pl/c5zoxKE6ykDVwOta.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033534814301913088/vid/avc1/480x270/ygPa14-h66VP279H.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033534814301913088"
+          ],
+          "media_source_tweet_id": [
+            "2033535130988630087"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033558647289041098",
+        "created_at": "2026-03-16T14:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033558647289041098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Doro",
+              "probability": 0.4047,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "doro",
+              "probability": 0.4116,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "AssettoCorsa",
+              "probability": 0.508,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "doro"
+            },
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "AssettoCorsa"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238039266057261062",
+              "start": 3,
+              "username": "ZocLucis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNbCNoUj76",
+              "end": 85,
+              "expanded_url": "https://x.com/ZocLucis/status/2033535130988630087/video/1",
+              "media_key": "13_2033534814301913088",
+              "start": 62,
+              "url": "https://t.co/cNbCNoUj76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033558647289041098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033535130988630087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZocLucis: Doro the Rally‑Run Champion #doro #AssettoCorsa https://t.co/cNbCNoUj76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033534814301913088"
+          ]
+        },
+        "author_id": "1238039266057261062",
+        "conversation_id": "2033535130988630087",
+        "created_at": "2026-03-16T13:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033535130988630087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "doro",
+              "probability": 0.4489,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "AssettoCorsa",
+              "probability": 0.479,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "doro"
+            },
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "AssettoCorsa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNbCNoUj76",
+              "end": 71,
+              "expanded_url": "https://x.com/ZocLucis/status/2033535130988630087/video/1",
+              "media_key": "13_2033534814301913088",
+              "start": 48,
+              "url": "https://t.co/cNbCNoUj76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033535130988630087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1624,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Doro the Rally‑Run Champion #doro #AssettoCorsa https://t.co/cNbCNoUj76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4729,
+          "like_count": 94981,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 13933
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T09:49:07.000Z",
+        "description": "nothing is permanent",
+        "id": "1238039266057261062",
+        "name": "Lucis",
+        "pinned_tweet_id": "1722807135372005701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757695084206993408/U6mEZUmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 336,
+          "like_count": 106450,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 1121
+        },
+        "username": "ZocLucis",
+        "verified": true
+      }
+    ]
+  }
+}

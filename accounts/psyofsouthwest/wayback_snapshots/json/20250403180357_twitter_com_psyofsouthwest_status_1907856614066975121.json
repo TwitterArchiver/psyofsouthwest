@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1907760000950243787",
+    "created_at": "2025-04-03T18:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T19:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907856614066975121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "153810519",
+          "start": 0,
+          "username": "MedvedevRussiaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907856614066975121",
+    "in_reply_to_user_id": "153810519",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907760000950243787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MedvedevRussiaE Петр Великий однажды сказал, что водка может позволить кораблям плыть, а может и затонуть."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1907760000950243787",
+        "created_at": "2025-04-03T18:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T19:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907856614066975121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "153810519",
+              "start": 0,
+              "username": "MedvedevRussiaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907856614066975121",
+        "in_reply_to_user_id": "153810519",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907760000950243787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MedvedevRussiaE Петр Великий однажды сказал, что водка может позволить кораблям плыть, а может и затонуть."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "153810519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Russian President Vladimir Putin and US President Joe Biden spoke again on the phone Thursday afternoon about Ukraine. Russia requested the call, according to The New York Times. Per the White House, Putin and Biden spoke for about 50 minutes. The leaders last call that was made known to the public was on December 7, when Russia said it would send ideas on the crisis to Washington \"within a week,\" Reuters reported. The US Air Force flew two reconnaissance missions over eastern Ukraine this week, the first on December 27 just a few days after Russia said it would withdraw 10,000 troops from the shared border, CNN reported.\n\nMore on the leaders’ call:\n- Ukraine has been a point of contention for the two countries since the annexation of Crimea in 2014, Al Jazeera reports\n\n- Russia denied a new assault on Ukraine during the previous conversation and warned against any NATO military involvement, according to Reuters and Al Jazeera\n\n- Biden warned Putin about possible sanctions against Russia in case of an escalation during the December 7 call, AFP reports",
+              "id": "1468005593088598016",
+              "name": "Biden and Putin speak again about the situation in Ukraine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "US President Joe Biden landed in Poland on Friday, where he received a briefing on the humanitarian situation in Ukraine alongside Polish President Andrzej Duda. He also met with US troops of the 82nd Airborne Division. Biden’s visit follows his meetings in Brussels with NATO, G7 and EU allies over Russia’s war against Ukraine.",
+              "id": "1505769604353703937",
+              "name": "US President Biden, Polish President Duda receive humanitarian briefing on Ukraine"
+            }
+          }
+        ],
+        "conversation_id": "1907760000950243787",
+        "created_at": "2025-04-03T11:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T12:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907760000950243787"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Russia",
+              "probability": 0.9896,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "US",
+              "probability": 0.967,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 56,
+              "normalized_text": "EU",
+              "probability": 0.9784,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 163,
+              "normalized_text": "Lao Tzu",
+              "probability": 0.9575,
+              "start": 157,
+              "type": "Person"
+            },
+            {
+              "end": 262,
+              "normalized_text": "EU",
+              "probability": 0.9432,
+              "start": 261,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907760000950243787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 405638,
+          "like_count": 10618,
+          "quote_count": 324,
+          "reply_count": 907,
+          "retweet_count": 2318
+        },
+        "reply_settings": "everyone",
+        "text": "As it is, Russia barely does any trade with the US and EU, nearly all of it is under sanctions. Yet, our economy is growing 3% now. We’ll take the advice of Lao Tzu and sit by the river, waiting for the body of the enemy to float by. The decaying corpse of the EU economy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 3327,
+          "like_count": 28433,
+          "listed_count": 6,
+          "media_count": 315,
+          "tweet_count": 10158
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-09T14:36:47.000Z",
+        "description": "Deputy Chair of the Security Council of the Russian Federation. The third President of Russia, 2008-2012. For tweets in Russian, follow @MedvedevRussia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 136,
+                "username": "MedvedevRussia"
+              }
+            ]
+          }
+        },
+        "id": "153810519",
+        "location": "Moscow, Russia",
+        "name": "Dmitry Medvedev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2348669225/5sfntu2zxyvans8vf9n8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422055,
+          "following_count": 18,
+          "like_count": 74,
+          "listed_count": 9294,
+          "media_count": 617,
+          "tweet_count": 1754
+        },
+        "username": "MedvedevRussiaE",
+        "verified": true
+      }
+    ]
+  }
+}

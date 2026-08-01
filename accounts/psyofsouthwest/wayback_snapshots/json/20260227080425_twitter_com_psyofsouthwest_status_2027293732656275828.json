@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2027059670180151417",
+    "created_at": "2026-02-27T08:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027293732656275828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027293732656275828",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027059670180151417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD 唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027059666870845440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQBvZbwAA1DLK.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027059666631675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQBugaUAAUGCf.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027059666841485312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQBvSbwAAFgIs.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027059665729994760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGQBrJbwAgzRiC.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2027059670180151417",
+        "created_at": "2026-02-27T08:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027293732656275828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027293732656275828",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027059670180151417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD 唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027059666870845440",
+            "3_2027059666631675904",
+            "3_2027059666841485312",
+            "3_2027059665729994760"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2027059670180151417",
+        "created_at": "2026-02-26T16:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027059670180151417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pv8M6jRYep",
+              "end": 136,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027059670180151417/photo/1",
+              "media_key": "3_2027059666870845440",
+              "start": 113,
+              "url": "https://t.co/pv8M6jRYep"
+            },
+            {
+              "display_url": "pic.x.com/pv8M6jRYep",
+              "end": 136,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027059670180151417/photo/1",
+              "media_key": "3_2027059666631675904",
+              "start": 113,
+              "url": "https://t.co/pv8M6jRYep"
+            },
+            {
+              "display_url": "pic.x.com/pv8M6jRYep",
+              "end": 136,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027059670180151417/photo/1",
+              "media_key": "3_2027059666841485312",
+              "start": 113,
+              "url": "https://t.co/pv8M6jRYep"
+            },
+            {
+              "display_url": "pic.x.com/pv8M6jRYep",
+              "end": 136,
+              "expanded_url": "https://x.com/QXY_WARD/status/2027059670180151417/photo/1",
+              "media_key": "3_2027059665729994760",
+              "start": 113,
+              "url": "https://t.co/pv8M6jRYep"
+            },
+            {
+              "display_url": "x.com/bdxiaoxiong/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/bdxiaoxiong/status/2026712244256690567",
+              "start": 137,
+              "url": "https://t.co/1KvIphQW2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027059670180151417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1114,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026712244256690567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "节哀...\n我以前认识这位姐姐，和她聊过。我们是在一个QQ群里认识的，她曾向我倾诉过痛苦，我当时给她发了邓紫棋的演唱会视频，因为我知道歌声和信仰能给人力量。\n愿主耶稣接她到天家，不再有痛苦，下辈子能做一个被家人疼爱的可爱女孩 https://t.co/pv8M6jRYep https://t.co/1KvIphQW2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 4650,
+          "like_count": 85805,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13351
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED #ZARD @gemoving",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "ZARD"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "gemoving"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014717131527737344/s9lhHAUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1219,
+          "like_count": 2318,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

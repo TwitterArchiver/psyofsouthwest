@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2032337717275853282",
+    "created_at": "2026-03-16T11:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033507322241421590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442530559629008902",
+          "start": 0,
+          "username": "Sinda1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033507322241421590",
+    "in_reply_to_user_id": "1442530559629008902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032337717275853282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sinda1118 这是我这辈子见到的第一个消息人士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2032337717275853282",
+        "created_at": "2026-03-16T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033507322241421590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442530559629008902",
+              "start": 0,
+              "username": "Sinda1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033507322241421590",
+        "in_reply_to_user_id": "1442530559629008902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032337717275853282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sinda1118 这是我这辈子见到的第一个消息人士"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442530559629008902",
+        "conversation_id": "2032337717275853282",
+        "created_at": "2026-03-13T06:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:02:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032336474763583831",
+          "2032337717275853282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032337717275853282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 783082,
+          "like_count": 789,
+          "quote_count": 13,
+          "reply_count": 360,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "小道消息:\n中国7nm最快今年,最迟明年.\n芯片被干成白菜价的一天终究会到来.\n此贴待留以后作证."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 4725,
+          "like_count": 94837,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 13924
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T16:44:36.000Z",
+        "description": "Ex-TradFi | EQ ,CMD , FX $ Crypto Trader.\n前传统金融老人|现股票,大宗,外汇和虚拟币交易.",
+        "id": "1442530559629008902",
+        "name": "Sinda",
+        "pinned_tweet_id": "2029234630814261668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763148188050239488/vsa_C3-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11017,
+          "following_count": 147,
+          "like_count": 657,
+          "listed_count": 186,
+          "media_count": 85,
+          "tweet_count": 543
+        },
+        "username": "Sinda1118",
+        "verified": true
+      }
+    ]
+  }
+}

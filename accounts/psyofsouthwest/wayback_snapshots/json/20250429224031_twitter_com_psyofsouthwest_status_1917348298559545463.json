@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1917067737961988402",
+    "created_at": "2025-04-29T22:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917348298559545463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917348298559545463",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917067737961988402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen04 只能靠核心控制器主控的系统，其子系统全都被有意设计成各种歪瓜裂枣，这是无法靠自己发展出子系统分控的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1917067737961988402",
+        "created_at": "2025-04-29T22:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T23:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917348298559545463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917348298559545463",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917067737961988402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen04 只能靠核心控制器主控的系统，其子系统全都被有意设计成各种歪瓜裂枣，这是无法靠自己发展出子系统分控的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154174763918606339",
+        "conversation_id": "1917067737961988402",
+        "created_at": "2025-04-29T04:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917067737961988402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoshen04/stat…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/maoshen04/status/1916996995044016594",
+              "start": 101,
+              "url": "https://t.co/rYTvvmpWEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917067737961988402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 26710,
+          "like_count": 147,
+          "quote_count": 4,
+          "reply_count": 114,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916996995044016594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国未来的出路，是邦联，连联邦都不合适\n\n各地独立成主权国家，再共同组建“中盟”军事组织，应对外地入侵，形成“邦联”，然后各自发展，互相竞争，国家治理不好，老百姓就用手投票，用脚跑路，才是老百姓的福祉 https://t.co/rYTvvmpWEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 3696,
+          "like_count": 33022,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 10571
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "美籍，未來🇺🇸國會參議員，本尊唯一推特賬號，YouTube【貓神看天下】博主｜獨立評論員，不站隊、不結盟，拒絕加入任何組織｜鐵肩擔道義，辣筆寫文章｜知行合一，本性本真本心；我心💕光明，何懼蒼蠅蟲蚊 😤 ｜電報群：https://t.co/tBMbXQEknm，Bluesky：maoshen，敬請關注🙏",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maoshen950404",
+                "end": 129,
+                "expanded_url": "https://t.me/maoshen950404",
+                "start": 106,
+                "url": "https://t.co/tBMbXQEknm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/maoshen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/maoshen",
+                "start": 0,
+                "url": "https://t.co/WbubXJ2HyM"
+              }
+            ]
+          }
+        },
+        "id": "1154174763918606339",
+        "location": "Tampa, FL",
+        "name": "猫神",
+        "pinned_tweet_id": "1916585853855375655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916703750686695424/CfdqVYyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170525,
+          "following_count": 79,
+          "like_count": 3598,
+          "listed_count": 474,
+          "media_count": 1496,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/WbubXJ2HyM",
+        "username": "maoshen04",
+        "verified": true
+      }
+    ]
+  }
+}

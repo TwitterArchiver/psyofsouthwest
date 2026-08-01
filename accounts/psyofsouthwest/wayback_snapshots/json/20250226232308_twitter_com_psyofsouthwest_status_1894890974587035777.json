@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1894771136665354741",
+    "created_at": "2025-02-26T23:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T00:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894890974587035777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "811201583287439360",
+          "start": 0,
+          "username": "KUI__YANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894890974587035777",
+    "in_reply_to_user_id": "811201583287439360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894771136665354741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUI__YANG 老东西们的脑子其实跟受迫妄想的老共也没什么区别……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1894771136665354741",
+        "created_at": "2025-02-26T23:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T00:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894890974587035777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "811201583287439360",
+              "start": 0,
+              "username": "KUI__YANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894890974587035777",
+        "in_reply_to_user_id": "811201583287439360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894771136665354741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUI__YANG 老东西们的脑子其实跟受迫妄想的老共也没什么区别……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "811201583287439360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1894771136665354741",
+        "created_at": "2025-02-26T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894771136665354741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangdan1989/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/wangdan1989/status/1894534489294213560",
+              "start": 139,
+              "url": "https://t.co/4CeKsyFQKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894771136665354741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7586,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894534489294213560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些事物原本可以直击现象，却非要去“找出现象后的本质”，这不仅是本末倒置，还有点自作聪明了。\n川普其言其行，已然招致天怒人怨，这个跟中共的舆论战关系不大，不必牵强关联。\n川普上任一个月，对世界的负面影响，尤其是在让人类丧失对公平、正义、契约的信仰方面，已经超过普京和习近平了。 https://t.co/4CeKsyFQKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 3156,
+          "like_count": 25608,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 9890
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-20T13:28:23.000Z",
+        "description": "不虚度，不枉付。",
+        "id": "811201583287439360",
+        "location": "LOS ANGELES",
+        "name": "KUI YANG-葵阳先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1046319665612447744/k6phbOeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141107,
+          "following_count": 1281,
+          "like_count": 303796,
+          "listed_count": 450,
+          "media_count": 8830,
+          "tweet_count": 114742
+        },
+        "username": "KUI__YANG",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2040956999496802708",
+    "created_at": "2026-04-06T16:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041198670318604738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2011599098567409665",
+          "start": 0,
+          "username": "wd2xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041198670318604738",
+    "in_reply_to_user_id": "2011599098567409665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040995274378957060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wd2xxj 这不是活该嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77080,
+        "height": 720,
+        "media_key": "13_2040995090475384832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040995090475384832/img/IcmreS2xcuI7F8_H.jpg",
+        "public_metrics": {
+          "view_count": 19683
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040995090475384832/vid/avc1/412x270/51efAvDIv4nwzduH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040995090475384832/vid/avc1/550x360/pPhhNMVrbnTyz9zw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040995090475384832/vid/avc1/1100x720/1fZnWeVPVycRZTjl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040995090475384832/pl/SfB2lDGaPbZ-ImR8.m3u8"
+          }
+        ],
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2040956999496802708",
+        "created_at": "2026-04-06T16:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041198670318604738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2011599098567409665",
+              "start": 0,
+              "username": "wd2xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198670318604738",
+        "in_reply_to_user_id": "2011599098567409665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040995274378957060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wd2xxj 这不是活该嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040995090475384832"
+          ]
+        },
+        "author_id": "2011599098567409665",
+        "conversation_id": "2040956999496802708",
+        "created_at": "2026-04-06T03:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040995274378957060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WB1N6c1jSH",
+              "end": 23,
+              "expanded_url": "https://x.com/wd2xxj/status/2040995274378957060/video/1",
+              "media_key": "13_2040995090475384832",
+              "start": 0,
+              "url": "https://t.co/WB1N6c1jSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040995274378957060",
+        "in_reply_to_user_id": "2011599098567409665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32553,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040956999496802708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WB1N6c1jSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 4749,
+          "like_count": 101579,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14254
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T00:39:40.000Z",
+        "description": "",
+        "id": "2011599098567409665",
+        "name": "非常快6号机",
+        "pinned_tweet_id": "2031626268517810601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011599200648388608/4DMHAckG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 225,
+          "like_count": 7653,
+          "listed_count": 11,
+          "media_count": 1100,
+          "tweet_count": 2760
+        },
+        "username": "wd2xxj",
+        "verified": false
+      }
+    ]
+  }
+}

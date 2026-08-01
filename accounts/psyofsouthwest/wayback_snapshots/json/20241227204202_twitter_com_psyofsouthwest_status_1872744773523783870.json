@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1872543549415366919",
+    "created_at": "2024-12-27T20:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T21:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872744773523783870"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "SCABAL",
+          "probability": 0.5106,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "826639262988718080",
+          "start": 0,
+          "username": "0xdeusyu"
+        },
+        {
+          "end": 24,
+          "id": "1737438242382000128",
+          "start": 10,
+          "username": "jiamimaodashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872744773523783870",
+    "in_reply_to_user_id": "826639262988718080",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872744138711683572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xdeusyu @jiamimaodashu SCABAL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1872543549415366919",
+        "created_at": "2024-12-27T20:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T21:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872744773523783870"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "SCABAL",
+              "probability": 0.5106,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "826639262988718080",
+              "start": 0,
+              "username": "0xdeusyu"
+            },
+            {
+              "end": 24,
+              "id": "1737438242382000128",
+              "start": 10,
+              "username": "jiamimaodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872744773523783870",
+        "in_reply_to_user_id": "826639262988718080",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872744138711683572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xdeusyu @jiamimaodashu SCABAL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826639262988718080",
+        "conversation_id": "1872543549415366919",
+        "created_at": "2024-12-27T20:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T21:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872744138711683572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1737438242382000128",
+              "start": 0,
+              "username": "jiamimaodashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872744138711683572",
+        "in_reply_to_user_id": "1737438242382000128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872543549415366919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiamimaodashu 商务座的乘务员确实精致一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 2938,
+          "like_count": 22367,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 9294
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T03:52:13.000Z",
+        "description": "读万卷书行万里路 | 软件工程师 | 云计算 | 不争论，只拉黑 | @Baidu_Inc\nRead ten thousand books, travel ten thousand miles. | DM for follow back | Cloud Computing |  RD & DevOps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Baidu_Inc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deusyu.app",
+                "end": 23,
+                "expanded_url": "http://deusyu.app",
+                "start": 0,
+                "url": "https://t.co/9JYLqWuG52"
+              }
+            ]
+          }
+        },
+        "id": "826639262988718080",
+        "location": "Beijing",
+        "name": "Rainman",
+        "pinned_tweet_id": "1838135495047409764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759121965347196928/sLTtQMGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 467,
+          "like_count": 10456,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 6038
+        },
+        "url": "https://t.co/9JYLqWuG52",
+        "username": "0xdeusyu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-20T11:42:38.000Z",
+        "description": "放肆生活   内修自我    Web3的长期主义者！\n交易用Bitget，有机会赢最高 6200 USDT 的迎新礼！注册链接：https://t.co/YON7H14MGK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "partner.bitgetapps.com/bg/VTQ5L4",
+                "end": 87,
+                "expanded_url": "https://partner.bitgetapps.com/bg/VTQ5L4",
+                "start": 64,
+                "url": "https://t.co/YON7H14MGK"
+              }
+            ]
+          }
+        },
+        "id": "1737438242382000128",
+        "name": "@jiamimao 猫叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758305253488009216/9xVsPFM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11525,
+          "following_count": 1197,
+          "like_count": 13905,
+          "listed_count": 49,
+          "media_count": 1227,
+          "tweet_count": 12797
+        },
+        "username": "jiamimaodashu",
+        "verified": true
+      }
+    ]
+  }
+}

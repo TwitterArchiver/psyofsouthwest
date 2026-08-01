@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2052066061902872963",
+    "created_at": "2026-05-06T17:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052072901541560425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135120566287921153",
+          "start": 0,
+          "username": "Alex_perception"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052072901541560425",
+    "in_reply_to_user_id": "1135120566287921153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052066061902872963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_perception 看球时间太长了，改看格斗比赛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2052066061902872963",
+        "created_at": "2026-05-06T17:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052072901541560425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135120566287921153",
+              "start": 0,
+              "username": "Alex_perception"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052072901541560425",
+        "in_reply_to_user_id": "1135120566287921153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052066061902872963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_perception 看球时间太长了，改看格斗比赛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135120566287921153",
+        "conversation_id": "2052066061902872963",
+        "created_at": "2026-05-06T16:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052066061902872963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alex_perceptio…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Alex_perception/status/2051947293063176667",
+              "start": 17,
+              "url": "https://t.co/uDPEkzDLy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052066061902872963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051947293063176667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说，X上有多少爱看足球的朋友？ https://t.co/uDPEkzDLy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 4813,
+          "like_count": 115828,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 15119
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T09:46:47.000Z",
+        "description": "YouTuber\n用逻辑和独立思考发掘事物的本质\n经济爱好者\n认清客观事实 友善交流 拒绝情绪宣泄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ganzhi0906",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ganzhi0906",
+                "start": 0,
+                "url": "https://t.co/K9Eg80Ihnp"
+              }
+            ]
+          }
+        },
+        "id": "1135120566287921153",
+        "name": "Alex_感知",
+        "pinned_tweet_id": "2051947293063176667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692350922599596032/Hz0cOlcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42449,
+          "following_count": 969,
+          "like_count": 4787,
+          "listed_count": 364,
+          "media_count": 954,
+          "tweet_count": 20485
+        },
+        "url": "https://t.co/K9Eg80Ihnp",
+        "username": "Alex_perception",
+        "verified": true
+      }
+    ]
+  }
+}

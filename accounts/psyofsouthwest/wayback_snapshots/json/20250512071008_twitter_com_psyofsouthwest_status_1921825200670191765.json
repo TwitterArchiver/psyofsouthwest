@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1921825200670191765",
+    "created_at": "2025-05-12T07:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T08:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921825200670191765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "24124203",
+          "start": 3,
+          "username": "waylybaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921825200670191765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921805402938736701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waylybaye: 想做一个「AI 反腐」开源应用「海瑞/Harry」，用大模型自动审查各单位、国企、高校的采购公示，初筛发现可能有猫腻的就标注风险，让志愿反腐员人工确认，确认有问题的公示。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1921825200670191765",
+        "created_at": "2025-05-12T07:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T08:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921825200670191765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24124203",
+              "start": 3,
+              "username": "waylybaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921825200670191765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921805402938736701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waylybaye: 想做一个「AI 反腐」开源应用「海瑞/Harry」，用大模型自动审查各单位、国企、高校的采购公示，初筛发现可能有猫腻的就标注风险，让志愿反腐员人工确认，确认有问题的公示。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24124203",
+        "conversation_id": "1921805402938736701",
+        "created_at": "2025-05-12T05:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T06:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921805402938736701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921805402938736701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 21549,
+          "like_count": 149,
+          "quote_count": 16,
+          "reply_count": 102,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "想做一个「AI 反腐」开源应用「海瑞/Harry」，用大模型自动审查各单位、国企、高校的采购公示，初筛发现可能有猫腻的就标注风险，让志愿反腐员人工确认，确认有问题的公示。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 3823,
+          "like_count": 36729,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 10928
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-13T04:05:00.000Z",
+        "description": "",
+        "id": "24124203",
+        "location": "中华人民共和国",
+        "name": "Baye",
+        "pinned_tweet_id": "1817766319745597450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149914,
+          "following_count": 474,
+          "like_count": 21118,
+          "listed_count": 1171,
+          "media_count": 656,
+          "tweet_count": 13858
+        },
+        "username": "waylybaye",
+        "verified": true
+      }
+    ]
+  }
+}

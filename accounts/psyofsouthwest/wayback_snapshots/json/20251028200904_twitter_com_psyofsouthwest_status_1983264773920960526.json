@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1983045749366763896",
+    "created_at": "2025-10-28T20:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T21:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983264773920960526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292518508215992322",
+          "start": 0,
+          "username": "ReversedFrontTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983264773920960526",
+    "in_reply_to_user_id": "1292518508215992322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983045749366763896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReversedFrontTW 麦子是脱粒之后堆放成圆锥形，图绘有误"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1983045740470702080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UxmCYbkAAgLD0.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1983045749366763896",
+        "created_at": "2025-10-28T20:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T21:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983264773920960526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292518508215992322",
+              "start": 0,
+              "username": "ReversedFrontTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983264773920960526",
+        "in_reply_to_user_id": "1292518508215992322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983045749366763896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReversedFrontTW 麦子是脱粒之后堆放成圆锥形，图绘有误"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983045740470702080"
+          ]
+        },
+        "author_id": "1292518508215992322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1983045749366763896",
+        "created_at": "2025-10-28T05:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983045749366763896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1spCLWyl6",
+              "end": 41,
+              "expanded_url": "https://x.com/ReversedFrontTW/status/1983045749366763896/photo/1",
+              "media_key": "3_1983045740470702080",
+              "start": 18,
+              "url": "https://t.co/z1spCLWyl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983045749366763896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 237,
+                "start": 231,
+                "tag": "逆统战烽火"
+              }
+            ]
+          },
+          "text": "【提醒各位不想要抽中习近平的玩家】\n对于反共阵营玩家而言，目前SSR习近平只有在普通卡池“革命手记”出现，不会在各阵营本身的阵营池（例如反贼联盟阵营的“告十八省豪杰书”、台湾阵营的“台湾前途决议文”、香港阵营的“临时政府宣言”）出现。如果您不希望抽中习近平，请避免使用“革命手记”这个卡池。如果玩家们希望“革命手记”这个卡池最好也不要出现习近平，我们会考虑进一步将习近平移除，或开设其它卡池安置习近平，希望各位革命者愿意在此将您的意见告诉我们，感谢您的包涵！\n\n#逆统战烽火"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 224701,
+          "like_count": 971,
+          "quote_count": 27,
+          "reply_count": 103,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "【提醒各位不想要抽中习近平的玩家】 https://t.co/z1spCLWyl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 4014,
+          "like_count": 52127,
+          "listed_count": 7,
+          "media_count": 371,
+          "tweet_count": 11989
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T17:50:11.000Z",
+        "description": "现代东亚国战手游《逆统战：烽火》苹果、谷歌商店请挂VPN跨外区",
+        "id": "1292518508215992322",
+        "name": "逆統戰：烽火 Reversed Front: Bonfire",
+        "pinned_tweet_id": "1963449938182033837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16452,
+          "following_count": 348,
+          "like_count": 2300,
+          "listed_count": 47,
+          "media_count": 649,
+          "tweet_count": 3160
+        },
+        "username": "ReversedFrontTW",
+        "verified": true
+      }
+    ]
+  }
+}

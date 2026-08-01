@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2069750158519149030",
+    "created_at": "2026-06-24T11:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069750158519149030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510749894457311240",
+          "start": 3,
+          "username": "benoitmgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069750158519149030",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069486173676814548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benoitmgh: 🔴  La question n'est plus \" est-ce que l' Ukraine peut gagner contre la Russie ? \" mais \n\" Quand l'Ukraine va gagner contre…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2069750158519149030",
+        "created_at": "2026-06-24T11:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069750158519149030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510749894457311240",
+              "start": 3,
+              "username": "benoitmgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069750158519149030",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069486173676814548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benoitmgh: 🔴  La question n'est plus \" est-ce que l' Ukraine peut gagner contre la Russie ? \" mais \n\" Quand l'Ukraine va gagner contre…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510749894457311240",
+        "conversation_id": "2069486173676814548",
+        "created_at": "2026-06-23T18:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069486173676814548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069486173676814548",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6554,
+          "like_count": 565,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "🔴  La question n'est plus \" est-ce que l' Ukraine peut gagner contre la Russie ? \" mais \n\" Quand l'Ukraine va gagner contre la Russie ?\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 4753,
+          "like_count": 126721,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15518
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T22:44:30.000Z",
+        "description": "français, profondément pro-européen, et au côté de l'Ukraine avec mes fils franco-ukrainiens",
+        "id": "1510749894457311240",
+        "location": "🇪🇺",
+        "name": "BMGH 🇫🇷 🇪🇺 🇺🇦",
+        "pinned_tweet_id": "1880688548493578630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537778201501499392/G3IwxZQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14021,
+          "following_count": 4905,
+          "like_count": 87732,
+          "listed_count": 131,
+          "media_count": 6072,
+          "tweet_count": 30318
+        },
+        "url": "",
+        "username": "benoitmgh",
+        "verified": true
+      }
+    ]
+  }
+}

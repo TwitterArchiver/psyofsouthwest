@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1837868123174658461",
+    "created_at": "2024-09-22T15:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T16:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837872721461452858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "52727419",
+          "start": 0,
+          "username": "lhw168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837872721461452858",
+    "in_reply_to_user_id": "52727419",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837868123174658461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhw168 实际上是化肥船……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1837868123174658461",
+        "created_at": "2024-09-22T15:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T16:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837872721461452858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "52727419",
+              "start": 0,
+              "username": "lhw168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837872721461452858",
+        "in_reply_to_user_id": "52727419",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837868123174658461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhw168 实际上是化肥船……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52727419",
+        "conversation_id": "1837868123174658461",
+        "created_at": "2024-09-22T14:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837868123174658461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jerry00107966/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Jerry00107966/status/1837805208820383773",
+              "start": 24,
+              "url": "https://t.co/HkEge9zDyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837868123174658461",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837805208820383773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俄罗斯人真特喵的蠢\n竟然把弹药库建在贝鲁特\n😁 https://t.co/HkEge9zDyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 2462,
+          "like_count": 14584,
+          "listed_count": 4,
+          "tweet_count": 7270
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-01T13:40:17.000Z",
+        "description": "唐山大叔，客居日本20年。工作在东京，居住在千叶农村。喜欢种菜种花，写字看书，更喜欢满世界瞎转。虽然在岛国20年了，日语还不过关还在不断学习中😅。偶尔也作志愿者教教中文。\n最近在骑摩托车，准备退休后骑它去环游岛国。\n偶尔上传日本生活的视频，欢迎访问俺的YouTube频道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCKtkU…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCKtkUMzqgD3HlpRWcfjJKBQ",
+                "start": 0,
+                "url": "https://t.co/vQONrJQSBO"
+              }
+            ]
+          }
+        },
+        "id": "52727419",
+        "location": "日本 東京 千葉",
+        "name": "唐山大叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825420594835587072/Ix27AXvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12959,
+          "following_count": 718,
+          "like_count": 53713,
+          "listed_count": 39,
+          "tweet_count": 37253
+        },
+        "url": "https://t.co/vQONrJQSBO",
+        "username": "lhw168",
+        "verified": false
+      }
+    ]
+  }
+}

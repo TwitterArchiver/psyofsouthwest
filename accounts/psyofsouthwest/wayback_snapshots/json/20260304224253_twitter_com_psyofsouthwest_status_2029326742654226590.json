@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029184022925168640"
+      ],
+      "media_source_tweet_id": [
+        "2029184029321511148"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2029326742654226590",
+    "created_at": "2026-03-04T22:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029326742654226590"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Doro",
+          "probability": 0.5062,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "198087727",
+          "start": 3,
+          "username": "SUNZERG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2h5bt4JHu",
+          "end": 52,
+          "expanded_url": "https://x.com/SUNZERG/status/2029184029321511148/photo/1",
+          "media_key": "3_2029184022925168640",
+          "start": 29,
+          "url": "https://t.co/D2h5bt4JHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029326742654226590",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029184029321511148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUNZERG: Bear angry Doro https://t.co/D2h5bt4JHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029184022925168640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkcHiZaUAAQRjY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029184022925168640"
+          ],
+          "media_source_tweet_id": [
+            "2029184029321511148"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2029326742654226590",
+        "created_at": "2026-03-04T22:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029326742654226590"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Doro",
+              "probability": 0.5062,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "198087727",
+              "start": 3,
+              "username": "SUNZERG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2h5bt4JHu",
+              "end": 52,
+              "expanded_url": "https://x.com/SUNZERG/status/2029184029321511148/photo/1",
+              "media_key": "3_2029184022925168640",
+              "start": 29,
+              "url": "https://t.co/D2h5bt4JHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029326742654226590",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029184029321511148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUNZERG: Bear angry Doro https://t.co/D2h5bt4JHu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029184022925168640"
+          ]
+        },
+        "author_id": "198087727",
+        "conversation_id": "2029184029321511148",
+        "created_at": "2026-03-04T13:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029184029321511148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2h5bt4JHu",
+              "end": 39,
+              "expanded_url": "https://x.com/SUNZERG/status/2029184029321511148/photo/1",
+              "media_key": "3_2029184022925168640",
+              "start": 16,
+              "url": "https://t.co/D2h5bt4JHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029184029321511148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 629,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Bear angry Doro https://t.co/D2h5bt4JHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4719,
+          "like_count": 89313,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 13596
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T09:35:00.000Z",
+        "description": "May anger be with you~💢💢💢\n하이랄의링크.마성전설",
+        "id": "198087727",
+        "location": " south korea",
+        "name": "link",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025632898720858112/vmO8L3DF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 682,
+          "like_count": 594,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 411
+        },
+        "username": "SUNZERG",
+        "verified": false
+      }
+    ]
+  }
+}

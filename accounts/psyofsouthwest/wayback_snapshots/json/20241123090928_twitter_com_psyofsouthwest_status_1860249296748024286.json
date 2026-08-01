@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1860031310900929009",
+    "created_at": "2024-11-23T09:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T10:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860249296748024286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1180509370833989632",
+          "start": 0,
+          "username": "Ocean040228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860249296748024286",
+    "in_reply_to_user_id": "1180509370833989632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860095398989476032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocean040228 去医院做高压氧治疗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1860031310900929009",
+        "created_at": "2024-11-23T09:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T10:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860249296748024286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1180509370833989632",
+              "start": 0,
+              "username": "Ocean040228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860249296748024286",
+        "in_reply_to_user_id": "1180509370833989632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860095398989476032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocean040228 去医院做高压氧治疗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180509370833989632",
+        "conversation_id": "1860031310900929009",
+        "created_at": "2024-11-22T22:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T23:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860095398989476032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860095398989476032",
+        "in_reply_to_user_id": "1180509370833989632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10977,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860031310900929009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被警哥发现了，没似成，谢谢大家的关心🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 2786,
+          "like_count": 19886,
+          "listed_count": 4,
+          "tweet_count": 8589
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T15:45:51.000Z",
+        "description": "Mtx🍥｜INFJ｜ADHD重度患者😫｜🥺可以互fo噢～",
+        "id": "1180509370833989632",
+        "location": "根據相關法律法規和政策，該位置末予顯示",
+        "name": "Ocean🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800510777897684992/OihTQuXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 326,
+          "like_count": 4229,
+          "listed_count": 0,
+          "tweet_count": 296
+        },
+        "username": "Ocean040228",
+        "verified": false
+      }
+    ]
+  }
+}

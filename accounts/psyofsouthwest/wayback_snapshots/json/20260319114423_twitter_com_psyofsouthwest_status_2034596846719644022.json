@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034071054981668864"
+      ],
+      "media_source_tweet_id": [
+        "2034071058492387366"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2034596846719644022",
+    "created_at": "2026-03-19T11:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034596846719644022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WEi9BGKESm",
+          "end": 63,
+          "expanded_url": "https://x.com/DoroStar5522/status/2034071058492387366/photo/1",
+          "media_key": "3_2034071054981668864",
+          "start": 40,
+          "url": "https://t.co/WEi9BGKESm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034596846719644022",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034071058492387366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: Acaricien a sus Doros https://t.co/WEi9BGKESm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_2034071054981668864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp42PgWIAASGMn.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034071054981668864"
+          ],
+          "media_source_tweet_id": [
+            "2034071058492387366"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2034596846719644022",
+        "created_at": "2026-03-19T11:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034596846719644022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEi9BGKESm",
+              "end": 63,
+              "expanded_url": "https://x.com/DoroStar5522/status/2034071058492387366/photo/1",
+              "media_key": "3_2034071054981668864",
+              "start": 40,
+              "url": "https://t.co/WEi9BGKESm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034596846719644022",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034071058492387366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: Acaricien a sus Doros https://t.co/WEi9BGKESm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034071054981668864"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2034071058492387366",
+        "created_at": "2026-03-18T00:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034071058492387366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEi9BGKESm",
+              "end": 45,
+              "expanded_url": "https://x.com/DoroStar5522/status/2034071058492387366/photo/1",
+              "media_key": "3_2034071054981668864",
+              "start": 22,
+              "url": "https://t.co/WEi9BGKESm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034071058492387366",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 4695,
+          "like_count": 644,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Acaricien a sus Doros https://t.co/WEi9BGKESm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 4740,
+          "like_count": 96460,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14026
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "pinned_tweet_id": "2027240093748977883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 57,
+          "like_count": 2487,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 1350
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

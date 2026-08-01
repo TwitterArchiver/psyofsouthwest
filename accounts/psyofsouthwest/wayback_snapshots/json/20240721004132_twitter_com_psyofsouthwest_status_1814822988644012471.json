@@ -1,0 +1,814 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US President Joe Biden",
+          "id": "10040395078",
+          "name": "Joe Biden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+          "id": "1811085126010281984",
+          "name": "2024 Republican National Convention"
+        }
+      }
+    ],
+    "conversation_id": "1814822988644012471",
+    "created_at": "2024-07-21T00:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T01:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814822988644012471"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Biden",
+          "probability": 0.9219,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "Trump",
+          "probability": 0.9644,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Trump",
+          "probability": 0.9556,
+          "start": 69,
+          "type": "Person"
+        },
+        {
+          "end": 78,
+          "normalized_text": "Joe",
+          "probability": 0.753,
+          "start": 76,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "Biden",
+          "probability": 0.9256,
+          "start": 91,
+          "type": "Person"
+        },
+        {
+          "end": 103,
+          "normalized_text": "Donald",
+          "probability": 0.6297,
+          "start": 98,
+          "type": "Person"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Trump",
+          "probability": 0.9522,
+          "start": 107,
+          "type": "Person"
+        },
+        {
+          "end": 137,
+          "normalized_text": "Joe",
+          "probability": 0.5733,
+          "start": 135,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "213427681",
+          "start": 3,
+          "username": "LolOverruled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814822988644012471",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48414
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812658195581501805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LolOverruled: *Biden touching Trump’s ear* who did this to you?\n\nTrump: Joe forget it\n\nBiden: Donald\n\n*Trump tearing up* forget it Joe…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          }
+        ],
+        "conversation_id": "1814822988644012471",
+        "created_at": "2024-07-21T00:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T01:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814822988644012471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Biden",
+              "probability": 0.9219,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Trump",
+              "probability": 0.9644,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Trump",
+              "probability": 0.9556,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Joe",
+              "probability": 0.753,
+              "start": 76,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Biden",
+              "probability": 0.9256,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Donald",
+              "probability": 0.6297,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Trump",
+              "probability": 0.9522,
+              "start": 107,
+              "type": "Person"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Joe",
+              "probability": 0.5733,
+              "start": 135,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "213427681",
+              "start": 3,
+              "username": "LolOverruled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814822988644012471",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48414
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812658195581501805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LolOverruled: *Biden touching Trump’s ear* who did this to you?\n\nTrump: Joe forget it\n\nBiden: Donald\n\n*Trump tearing up* forget it Joe…"
+      },
+      {
+        "attachments": {},
+        "author_id": "213427681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          }
+        ],
+        "conversation_id": "1812658195581501805",
+        "created_at": "2024-07-15T01:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T02:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812658195581501805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Biden",
+              "probability": 0.9227,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Trump",
+              "probability": 0.9544,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Trump",
+              "probability": 0.9645,
+              "start": 51,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Joe",
+              "probability": 0.8131,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Biden",
+              "probability": 0.9293,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Donald",
+              "probability": 0.6542,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Trump",
+              "probability": 0.943,
+              "start": 89,
+              "type": "Person"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Joe\n\nBiden",
+              "probability": 0.8535,
+              "start": 117,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Donald",
+              "probability": 0.8191,
+              "start": 129,
+              "type": "Person"
+            },
+            {
+              "end": 164,
+              "normalized_text": "Joe",
+              "probability": 0.7743,
+              "start": 162,
+              "type": "Person"
+            },
+            {
+              "end": 204,
+              "normalized_text": "Donald",
+              "probability": 0.8165,
+              "start": 199,
+              "type": "Person"
+            },
+            {
+              "end": 220,
+              "normalized_text": "Donald",
+              "probability": 0.8515,
+              "start": 215,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812658195581501805",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29323,
+          "impression_count": 13886000,
+          "like_count": 399384,
+          "quote_count": 7005,
+          "reply_count": 3927,
+          "retweet_count": 48414
+        },
+        "reply_settings": "everyone",
+        "text": "*Biden touching Trump’s ear* who did this to you?\n\nTrump: Joe forget it\n\nBiden: Donald\n\n*Trump tearing up* forget it Joe\n\nBiden: Donald!\n\nThey passionately kiss. Joe’s tongue pushes itself deep into Donald’s mouth. Donald lets out a moan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 2360,
+          "like_count": 13417,
+          "listed_count": 4,
+          "tweet_count": 6929
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-08T22:16:01.000Z",
+        "description": "court appointed hype man reach me by email loloverruledbusiness@gmail or IG dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lololinks",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lololinks",
+                "start": 0,
+                "url": "https://t.co/nfzxJU0dxZ"
+              }
+            ]
+          }
+        },
+        "id": "213427681",
+        "location": "New York, NY",
+        "name": "Lolo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796936417349619713/MG0k1JzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171578,
+          "following_count": 1212,
+          "like_count": 58248,
+          "listed_count": 330,
+          "tweet_count": 44182
+        },
+        "url": "https://t.co/nfzxJU0dxZ",
+        "username": "LolOverruled",
+        "verified": false
+      }
+    ]
+  }
+}

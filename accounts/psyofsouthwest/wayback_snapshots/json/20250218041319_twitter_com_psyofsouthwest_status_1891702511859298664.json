@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1891318329958125570",
+    "created_at": "2025-02-18T04:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T05:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891702511859298664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891702511859298664",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891318329958125570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 你想咋滴？😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1891318329958125570",
+        "created_at": "2025-02-18T04:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T05:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891702511859298664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891702511859298664",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891318329958125570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 你想咋滴？😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786565196913541120",
+        "conversation_id": "1891318329958125570",
+        "created_at": "2025-02-17T02:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891318329958125570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891318329958125570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46837,
+          "like_count": 441,
+          "quote_count": 6,
+          "reply_count": 89,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "东北话给人一种中国还没扫盲结束的感觉，听着就身体不适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 3111,
+          "like_count": 24764,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 9798
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "铡美案单推人，斗罗大陆忠实粉丝，社区街道办主任的软肋，平时喜欢唱红歌和铡美案",
+        "id": "1786565196913541120",
+        "location": "距离7公里",
+        "name": "迅鸽🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 1129,
+          "like_count": 74849,
+          "listed_count": 15,
+          "media_count": 1199,
+          "tweet_count": 20306
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

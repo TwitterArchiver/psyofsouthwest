@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030508909509672960"
+      ],
+      "media_source_tweet_id": [
+        "2030509101260620253"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030623418383823038",
+    "created_at": "2026-03-08T12:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030623418383823038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYtABDTV8K",
+          "end": 41,
+          "expanded_url": "https://x.com/DoroStar5522/status/2030509101260620253/video/1",
+          "media_key": "7_2030508909509672960",
+          "start": 18,
+          "url": "https://t.co/UYtABDTV8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030623418383823038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030509101260620253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: https://t.co/UYtABDTV8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13466,
+        "height": 1278,
+        "media_key": "7_2030508909509672960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030508909509672960/pu/img/DoaG8GGDxvXUwO7m.jpg",
+        "public_metrics": {
+          "view_count": 1031
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030508909509672960/pu/vid/avc1/320x636/ly_KTQNOahth95Z7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030508909509672960/pu/vid/avc1/480x954/PageBY4PS1AjJAgc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030508909509672960/pu/vid/avc1/642x1278/4Vs6PHLYeVP8gG6A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030508909509672960/pu/pl/kes_Jb95G1xaVz9n.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030508909509672960"
+          ],
+          "media_source_tweet_id": [
+            "2030509101260620253"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030623418383823038",
+        "created_at": "2026-03-08T12:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030623418383823038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYtABDTV8K",
+              "end": 41,
+              "expanded_url": "https://x.com/DoroStar5522/status/2030509101260620253/video/1",
+              "media_key": "7_2030508909509672960",
+              "start": 18,
+              "url": "https://t.co/UYtABDTV8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030623418383823038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030509101260620253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: https://t.co/UYtABDTV8K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030508909509672960"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2030509101260620253",
+        "created_at": "2026-03-08T05:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030509101260620253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYtABDTV8K",
+              "end": 23,
+              "expanded_url": "https://x.com/DoroStar5522/status/2030509101260620253/video/1",
+              "media_key": "7_2030508909509672960",
+              "start": 0,
+              "url": "https://t.co/UYtABDTV8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030509101260620253",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3000,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UYtABDTV8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4746,
+          "like_count": 90980,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13783
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "pinned_tweet_id": "2027240093748977883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 51,
+          "like_count": 1729,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 922
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

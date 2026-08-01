@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1919783184260301033",
+    "created_at": "2025-05-06T16:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T17:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919787362202120450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938963008",
+          "start": 0,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919787362202120450",
+    "in_reply_to_user_id": "1938963008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919783184260301033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HotmailfromSH 空巢的背后是关系的破裂，说到关系破裂就复杂了，甚至墙内都发不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1919783184260301033",
+        "created_at": "2025-05-06T16:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919787362202120450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938963008",
+              "start": 0,
+              "username": "HotmailfromSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919787362202120450",
+        "in_reply_to_user_id": "1938963008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919783184260301033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HotmailfromSH 空巢的背后是关系的破裂，说到关系破裂就复杂了，甚至墙内都发不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938963008",
+        "conversation_id": "1919783184260301033",
+        "created_at": "2025-05-06T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919783184260301033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919783184260301033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1008,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到一句特别扎心的话“我们注定是孝顺父母的最后一代，被子女抛弃的第一代....”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 3768,
+          "like_count": 34927,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 10735
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "荣格信徒；医学科普&原研药专业解决方案~",
+        "id": "1938963008",
+        "location": "California, USA",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "1771438123500847385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133284,
+          "following_count": 951,
+          "like_count": 132265,
+          "listed_count": 720,
+          "media_count": 4059,
+          "tweet_count": 51894
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

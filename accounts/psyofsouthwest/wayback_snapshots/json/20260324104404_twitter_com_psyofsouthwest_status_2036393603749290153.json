@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2036302526094647341",
+    "created_at": "2026-03-24T10:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036393603749290153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2706106326",
+          "start": 0,
+          "username": "FreeforHKpeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036393603749290153",
+    "in_reply_to_user_id": "2706106326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036302526094647341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeforHKpeople 包子真的怕水吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2036302526094647341",
+        "created_at": "2026-03-24T10:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036393603749290153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2706106326",
+              "start": 0,
+              "username": "FreeforHKpeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036393603749290153",
+        "in_reply_to_user_id": "2706106326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036302526094647341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeforHKpeople 包子真的怕水吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2706106326",
+        "conversation_id": "2036302526094647341",
+        "created_at": "2026-03-24T04:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036302526094647341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036302526094647341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17570,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，一人把一句想对习近平说的话打在评论区。\n\n谢谢大家🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 4752,
+          "like_count": 98447,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14126
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-04T09:22:38.000Z",
+        "description": "王涵，Han. 反共活动家 Anti-CCP activist from China. 毕业于USC，Graduated from USC. Santa Clara Law Student.",
+        "id": "2706106326",
+        "location": "California, USA",
+        "name": "王涵（Han）🇺🇦🇺🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596665738797817856/Xn0zbgk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12037,
+          "following_count": 1582,
+          "like_count": 4873,
+          "listed_count": 58,
+          "media_count": 459,
+          "tweet_count": 4334
+        },
+        "username": "FreeforHKpeople",
+        "verified": true
+      }
+    ]
+  }
+}

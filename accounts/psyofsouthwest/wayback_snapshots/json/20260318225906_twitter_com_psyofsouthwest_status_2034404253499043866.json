@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034258313081470976"
+      ],
+      "media_source_tweet_id": [
+        "2034258573233209774"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034404253499043866",
+    "created_at": "2026-03-18T22:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T23:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034404253499043866"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "gugugaga",
+          "probability": 0.5627,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "aichibi",
+          "probability": 0.4263,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "gugugaga"
+        },
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "aichibi"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "AI動画"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "43246875",
+          "start": 3,
+          "username": "qhgy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbYt1LAfyU",
+          "end": 72,
+          "expanded_url": "https://x.com/qhgy/status/2034258573233209774/video/1",
+          "media_key": "13_2034258313081470976",
+          "start": 49,
+          "url": "https://t.co/LbYt1LAfyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034404253499043866",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034258573233209774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qhgy: Love only me.\n#gugugaga #aichibi #AI動画 https://t.co/LbYt1LAfyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1280,
+        "media_key": "13_2034258313081470976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034258313081470976/img/qZh3mco8uUc-j6FG.jpg",
+        "public_metrics": {
+          "view_count": 2587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034258313081470976/vid/avc1/320x568/uFwWA1prrm4rG56Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034258313081470976/vid/avc1/480x852/9fbT_PdsnR3EWXWU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034258313081470976/vid/avc1/720x1280/_gYwo6tibtb3lMS4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034258313081470976/pl/OQE5gB-VLLKsYJPz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034258313081470976"
+          ],
+          "media_source_tweet_id": [
+            "2034258573233209774"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034404253499043866",
+        "created_at": "2026-03-18T22:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T23:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034404253499043866"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "gugugaga",
+              "probability": 0.5627,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "aichibi",
+              "probability": 0.4263,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "aichibi"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "AI動画"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "43246875",
+              "start": 3,
+              "username": "qhgy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbYt1LAfyU",
+              "end": 72,
+              "expanded_url": "https://x.com/qhgy/status/2034258573233209774/video/1",
+              "media_key": "13_2034258313081470976",
+              "start": 49,
+              "url": "https://t.co/LbYt1LAfyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034404253499043866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034258573233209774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qhgy: Love only me.\n#gugugaga #aichibi #AI動画 https://t.co/LbYt1LAfyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034258313081470976"
+          ]
+        },
+        "author_id": "43246875",
+        "conversation_id": "2034258573233209774",
+        "created_at": "2026-03-18T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034258573233209774"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "gugugaga",
+              "probability": 0.538,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "aichibi",
+              "probability": 0.4935,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "aichibi"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "AI動画"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbYt1LAfyU",
+              "end": 62,
+              "expanded_url": "https://x.com/qhgy/status/2034258573233209774/video/1",
+              "media_key": "13_2034258313081470976",
+              "start": 39,
+              "url": "https://t.co/LbYt1LAfyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034258573233209774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 5767,
+          "like_count": 322,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Love only me.\n#gugugaga #aichibi #AI動画 https://t.co/LbYt1LAfyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 4736,
+          "like_count": 96078,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14012
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T01:59:54.000Z",
+        "description": "AI Animation Creator\nAI動画クリエイター 🎬｜フリーレン推し 🧝‍♀️｜ピカチュウ育ち ⚡｜ドラえもんで人生変わった 🤖｜夢の対決を現実にする人 ✨",
+        "id": "43246875",
+        "location": "どこでもドア の向こう側 🚪",
+        "name": "秦淮孤月",
+        "pinned_tweet_id": "2024422152888590740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010249649219936257/HQGpOjJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26221,
+          "following_count": 2236,
+          "like_count": 42607,
+          "listed_count": 250,
+          "media_count": 4116,
+          "tweet_count": 92346
+        },
+        "username": "qhgy",
+        "verified": true
+      }
+    ]
+  }
+}

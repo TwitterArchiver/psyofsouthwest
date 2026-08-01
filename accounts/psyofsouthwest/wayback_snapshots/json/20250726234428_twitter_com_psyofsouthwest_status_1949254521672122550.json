@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1949038750488731724",
+    "created_at": "2025-07-26T23:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T00:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949254521672122550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1393595636851773442",
+          "start": 0,
+          "username": "Wutaigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949254521672122550",
+    "in_reply_to_user_id": "1393595636851773442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949038750488731724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wutaigo 有说拍照时把战略地图都拍下来了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_1949038661385023488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxgVglbcAAWErk.jpg",
+        "width": 898
+      },
+      {
+        "height": 692,
+        "media_key": "3_1949038661380816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxgVgkbQAA9Mvb.jpg",
+        "width": 873
+      },
+      {
+        "height": 696,
+        "media_key": "3_1949038661422772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwxgVgubcAAeNCD.jpg",
+        "width": 1073
+      },
+      {
+        "duration_ms": 30986,
+        "height": 1920,
+        "media_key": "13_1949038661439455232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949038661439455232/img/6KhUAsD4OCFUGk2P.jpg",
+        "public_metrics": {
+          "view_count": 1186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949038661439455232/pl/-JRJJlqFGwqD99ff.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949038661439455232/vid/avc1/320x694/KprzjOsKy2HsAk4n.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949038661439455232/vid/avc1/884x1920/5bDVnJ_dyTbFkvSn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949038661439455232/vid/avc1/720x1562/L-MyKeD6l_xi7pg1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949038661439455232/vid/avc1/480x1042/QziZXSeE_MlHLE_m.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1949038750488731724",
+        "created_at": "2025-07-26T23:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T00:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949254521672122550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1393595636851773442",
+              "start": 0,
+              "username": "Wutaigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949254521672122550",
+        "in_reply_to_user_id": "1393595636851773442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949038750488731724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wutaigo 有说拍照时把战略地图都拍下来了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949038661385023488",
+            "3_1949038661380816896",
+            "3_1949038661422772224",
+            "13_1949038661439455232"
+          ]
+        },
+        "author_id": "1393595636851773442",
+        "conversation_id": "1949038750488731724",
+        "created_at": "2025-07-26T09:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T10:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949038750488731724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BE7UPTB5sw",
+              "end": 169,
+              "expanded_url": "https://x.com/Wutaigo/status/1949038750488731724/video/1",
+              "media_key": "3_1949038661385023488",
+              "start": 146,
+              "url": "https://t.co/BE7UPTB5sw"
+            },
+            {
+              "display_url": "pic.x.com/BE7UPTB5sw",
+              "end": 169,
+              "expanded_url": "https://x.com/Wutaigo/status/1949038750488731724/video/1",
+              "media_key": "3_1949038661380816896",
+              "start": 146,
+              "url": "https://t.co/BE7UPTB5sw"
+            },
+            {
+              "display_url": "pic.x.com/BE7UPTB5sw",
+              "end": 169,
+              "expanded_url": "https://x.com/Wutaigo/status/1949038750488731724/video/1",
+              "media_key": "3_1949038661422772224",
+              "start": 146,
+              "url": "https://t.co/BE7UPTB5sw"
+            },
+            {
+              "display_url": "pic.x.com/BE7UPTB5sw",
+              "end": 169,
+              "expanded_url": "https://x.com/Wutaigo/status/1949038750488731724/video/1",
+              "media_key": "13_1949038661439455232",
+              "start": 146,
+              "url": "https://t.co/BE7UPTB5sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949038750488731724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4029,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "泰柬边境军事冲突……\n他没飞韩国前还真的亲自指挥亲自部署，也有三胖将军的架势。\n泰国网友特意留言แม่ทัพกรูใส่รองเท้าแตะ..\nมรึงจะไปรบ..หรือจะไปซื้อปาท่องโก๋ตลาดนัดว่ะ (我的将军穿着凉鞋,你是要打仗吗？还是要去市场买油条？) https://t.co/BE7UPTB5sw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 3880,
+          "like_count": 42336,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11417
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T15:54:47.000Z",
+        "description": "泰国资深法律、投资、移民专家，泰工作20多年，盈科外服泰国分公司董事长，法人股东，国王研究院法律系毕业，苏南达皇家大学公共发展管理学院哲学博士，提供一站式企业解决方案。",
+        "id": "1393595636851773442",
+        "location": "Bangkok, Thailand",
+        "name": "光头吴@Wutaigo",
+        "pinned_tweet_id": "1644640745847140353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902738791644979200/uNpoXhxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27677,
+          "following_count": 3171,
+          "like_count": 85722,
+          "listed_count": 71,
+          "media_count": 3317,
+          "tweet_count": 57657
+        },
+        "username": "Wutaigo",
+        "verified": true
+      }
+    ]
+  }
+}

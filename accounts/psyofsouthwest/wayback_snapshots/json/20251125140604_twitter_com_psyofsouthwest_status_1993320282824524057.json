@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1992906991854035260",
+    "created_at": "2025-11-25T14:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993320282824524057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1596917234198351873",
+          "start": 0,
+          "username": "Huaiyuvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993320282824524057",
+    "in_reply_to_user_id": "1596917234198351873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992906991854035260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huaiyuvu 会串……我的网盘出现过别人的照片……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1992906991854035260",
+        "created_at": "2025-11-25T14:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993320282824524057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596917234198351873",
+              "start": 0,
+              "username": "Huaiyuvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993320282824524057",
+        "in_reply_to_user_id": "1596917234198351873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992906991854035260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huaiyuvu 会串……我的网盘出现过别人的照片……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596917234198351873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1992906991854035260",
+        "created_at": "2025-11-24T10:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992906991854035260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992906991854035260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 1182261,
+          "like_count": 834,
+          "quote_count": 5,
+          "reply_count": 169,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "百度网盘后台审核人员可以看到用户的照片吗？\n我大学拍的照片全存网盘里了\n刚刚去看 炸了一大堆(･･;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 4040,
+          "like_count": 55841,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12156
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T17:22:11.000Z",
+        "description": "躲起来发一些朋友圈不能发的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaiyuvu1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaiyuvu1",
+                "start": 0,
+                "url": "https://t.co/YY2cXyt3Nt"
+              }
+            ]
+          }
+        },
+        "id": "1596917234198351873",
+        "location": "可以向我提问",
+        "name": "姜姜",
+        "pinned_tweet_id": "1983349681246835020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714888341219627008/a6oSg6xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16431,
+          "following_count": 1,
+          "like_count": 61,
+          "listed_count": 41,
+          "media_count": 50,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/YY2cXyt3Nt",
+        "username": "Huaiyuvu",
+        "verified": false
+      }
+    ]
+  }
+}

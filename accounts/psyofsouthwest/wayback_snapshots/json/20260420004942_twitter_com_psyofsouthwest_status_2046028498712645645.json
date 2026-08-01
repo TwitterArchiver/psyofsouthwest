@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045795119564312576"
+      ],
+      "media_source_tweet_id": [
+        "2045804603246318034"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2046028498712645645",
+    "created_at": "2026-04-20T00:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046028498712645645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1344266246880161793",
+          "start": 3,
+          "username": "anime_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLKB9BLEVj",
+          "end": 40,
+          "expanded_url": "https://x.com/anime_daily/status/2045804603246318034/photo/1",
+          "media_key": "3_2045795119564312576",
+          "start": 17,
+          "url": "https://t.co/fLKB9BLEVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046028498712645645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045804603246318034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_daily: https://t.co/fLKB9BLEVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2045795119564312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQf0njb0AAglFw.png",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045795119564312576"
+          ],
+          "media_source_tweet_id": [
+            "2045804603246318034"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2046028498712645645",
+        "created_at": "2026-04-20T00:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046028498712645645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1344266246880161793",
+              "start": 3,
+              "username": "anime_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLKB9BLEVj",
+              "end": 40,
+              "expanded_url": "https://x.com/anime_daily/status/2045804603246318034/photo/1",
+              "media_key": "3_2045795119564312576",
+              "start": 17,
+              "url": "https://t.co/fLKB9BLEVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046028498712645645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045804603246318034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_daily: https://t.co/fLKB9BLEVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045795119564312576"
+          ]
+        },
+        "author_id": "1344266246880161793",
+        "conversation_id": "2045804603246318034",
+        "created_at": "2026-04-19T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045804603246318034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLKB9BLEVj",
+              "end": 23,
+              "expanded_url": "https://x.com/anime_daily/status/2045804603246318034/photo/1",
+              "media_key": "3_2045795119564312576",
+              "start": 0,
+              "url": "https://t.co/fLKB9BLEVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045804603246318034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 23127,
+          "like_count": 2307,
+          "quote_count": 9,
+          "reply_count": 17,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fLKB9BLEVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 4758,
+          "like_count": 107239,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 14610
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T12:57:10.000Z",
+        "description": "aesthetics, fantasy, manga, memes, retro.",
+        "id": "1344266246880161793",
+        "name": "Anime Daily",
+        "pinned_tweet_id": "2045502613492224101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045793956609626112/PzCjshdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160006,
+          "following_count": 443,
+          "like_count": 25376,
+          "listed_count": 174,
+          "media_count": 9611,
+          "tweet_count": 17666
+        },
+        "username": "anime_daily",
+        "verified": true
+      }
+    ]
+  }
+}

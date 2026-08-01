@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2073812469940625423",
+    "created_at": "2026-07-05T16:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073812469940625423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054368430565056512",
+          "start": 3,
+          "username": "TheWildHunter02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073812469940625423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073530003883802933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @TheWildHunter02: 习近平的数字极权：人类历史上最可怕的监控国家\n\n乔治·奥威尔的名作《1984》，描述了一个用电幕监视所有人的极权社会。\n他精准地预言了共产主义的未来，但他低估了技术的可能性。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2073812469940625423",
+        "created_at": "2026-07-05T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073812469940625423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054368430565056512",
+              "start": 3,
+              "username": "TheWildHunter02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812469940625423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073530003883802933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @TheWildHunter02: 习近平的数字极权：人类历史上最可怕的监控国家\n\n乔治·奥威尔的名作《1984》，描述了一个用电幕监视所有人的极权社会。\n他精准地预言了共产主义的未来，但他低估了技术的可能性。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054368430565056512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2073530003883802933",
+        "created_at": "2026-07-04T22:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073530003883802933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073530003883802933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平的数字极权：人类历史上最可怕的监控国家\n\n乔治·奥威尔的名作《1984》，描述了一个用电幕监视所有人的极权社会。\n他精准地预言了共产主义的未来，但他低估了技术的可能性。\n\n习近平今天建造的，比奥威尔想象的更彻底。中国今天拥有全球最密集的监控摄像网络。截至2022年，中国安装的监控摄像头数量超过5亿个，平均每3个中国人，就有一个摄像头对着他们。\n\n这些摄像头不是普通的录像设备，它们联接着人工智能人脸识别系统，可以在人群中实时识别任何一张脸，与公安数据库实时比对，在数秒内锁定目标。\n\n2018年，BBC记者做了一个实验：他的面部信息被录入郑州公安系统，7分钟后，他在一个拥有几十万人的火车站被精准找到，仅仅用了7分钟。\n\n中国的手机实名制，是监控体系的另一个核心支柱。每一张SIM卡都与真实身份绑定，每一个微信账号都与手机号关联，每一条消息、每一个搜索、每一次购物，都留有记录。\n\n“净网”系统，可以实时扫描微信、微博等平台的所有内容，关键词触发审查，账号被封，必要时警察上门。你以为发给朋友的私信，可能已经被机器读过了。\n\n社会信用体系，是习近平时代最具原创性的统治工具之一。基本逻辑是：将公民和企业的行为数字化评分，好行为加分，坏行为减分，分数决定你能做什么、不能做什么。\n\n黑名单上的人，无法购买机票和高铁票，无法让子女就读特定学校，无法担任公司高管，无法获得银行贷款。截至2019年，中国已执行限制购买机票约1700万次，限制购买高铁票约500万次。\n\n一旦不偿还债务，闯红灯，在网上发布“虚假信息”，拒绝服兵役，批评政府政策，以及被法院列为“失信被执行人”。“虚假信息”的定义，由党决定。\n\n如果说中国内地的监控是常规操作，新疆就是这套系统的极限测试场。维吾尔族人面对的，是人类历史上针对特定族群最密集的数字监控：强制安装“净网”APP，手机被定期检查，发现境外应用程序、加密软件、宗教内容，即可被捕。\n\nDNA采集，采集维吾尔族人的血液、虹膜、声纹样本，建立生物特征数据库。\n\n二维码门牌，每户家庭门口张贴二维码，官员扫码即可调取家庭成员信息、宗教状况、可疑程度。\n\n“便民警务站”，每隔几百米一个检查站，维吾尔族人频繁接受证件检查和人脸扫描。\n\n这套系统，让150万人的拘押成为可能，当你掌握了所有人的行踪、关系、行为记录，大规模抓捕只是数据筛选的问题。\n\n大数据：预测性执法。习近平时代的监控，已经从事后追踪进化到事前预防。\n“一体化联合作战平台”简称IJOP，是新疆警方使用的大数据系统。\n\n它汇集了手机位置数据、消费记录、宗教活动、家庭关系、出行记录，通过算法给每个人标注风险等级。被算法标注为“高风险”的人，在没有任何明确违法行为的情况下，可以被预防性拘押。\n\n这套监控体系，离不开中国科技公司的技术支撑。看下这些一同作恶的科技公司：\n\n华为——提供网络基础设施和智慧城市解决方案，包括人脸识别系统。\n商汤科技——全球最大的人脸识别公司之一，为新疆监控提供核心技术。\n旷视科技——人脸识别领域的重要供应商，与公安系统深度合作。\n海康威视、大华——全球最大的监控摄像头制造商，产品遍布新疆。\n这些公司，已被美国列入实体清单，禁止与美国企业交易。\n\n中国正在将这套监控技术，通过“一带一路”等渠道，输出给全球威权政府。\n津巴布韦，中国帮助建立面部识别数据库。厄瓜多尔，中国提供全国视频监控系统ECU-911。巴基斯坦，华为参与建设“安全城市”监控网络。沙特阿拉伯、阿联酋等国家中国监控技术大量输入。\n\n民主国家建造了互联网，威权中国正在建造监控网。前者让信息自由流动，后者让权力追踪所有人。\n\n一个中国普通市民的一天：早上出门，人脸识别摄像头记录时间地点。坐地铁，刷身份证，记录行程。用微信支付买早餐，消费记录上传系统。打开手机，微信消息经过关键词扫描。午休发了一条朋友圈批评地方政府，账号被封，次日接到电话约谈。\n\n这不是反乌托邦小说，这是2026年中国城市居民的日常。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 21814,
+          "like_count": 232,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 42
+        },
+        "reply_settings": "verified",
+        "text": "习近平的数字极权：人类历史上最可怕的监控国家\n\n乔治·奥威尔的名作《1984》，描述了一个用电幕监视所有人的极权社会。\n他精准地预言了共产主义的未来，但他低估了技术的可能性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4797,
+          "like_count": 129793,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15567
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T01:09:50.000Z",
+        "description": "自由主义者，海外中国人。X是言论自由平台，翻墙出来的中国人请尽快适应。历史研究只是爱好，讨论可以漫骂拉黑。另外不是支黑，是包蜜。",
+        "id": "2054368430565056512",
+        "location": "日本",
+        "name": "荒野猎人",
+        "pinned_tweet_id": "2054400486556725669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054397011831799808/ZMXRIyE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2820,
+          "following_count": 26,
+          "like_count": 1986,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "TheWildHunter02",
+        "verified": true
+      }
+    ]
+  }
+}

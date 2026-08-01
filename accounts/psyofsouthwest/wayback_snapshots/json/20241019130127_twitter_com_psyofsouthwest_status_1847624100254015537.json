@@ -1,0 +1,157 @@
+{
+  "data": {
+    "author_id": "385760660",
+    "conversation_id": "1847621886970310955",
+    "created_at": "2024-10-19T13:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T14:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847624100254015537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1028097257378332672",
+          "start": 0,
+          "username": "hatunagi_yuzuki"
+        }
+      ]
+    },
+    "id": "1847624100254015537",
+    "in_reply_to_user_id": "1028097257378332672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 63,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847621886970310955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatunagi_yuzuki 南京那些d节目现在都没人看了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "385760660",
+        "conversation_id": "1847621886970310955",
+        "created_at": "2024-10-19T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847624100254015537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1028097257378332672",
+              "start": 0,
+              "username": "hatunagi_yuzuki"
+            }
+          ]
+        },
+        "id": "1847624100254015537",
+        "in_reply_to_user_id": "1028097257378332672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847621886970310955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatunagi_yuzuki 南京那些d节目现在都没人看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2834,
+          "like_count": 20709,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 8773
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T01:54:22.000Z",
+        "description": "百三十斤大柚子，废物点心 |\n心里住着Steven ❤️ @Stv_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Stv_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hatunagi_yuzuki",
+                "end": 23,
+                "expanded_url": "http://t.me/hatunagi_yuzuki",
+                "start": 0,
+                "url": "https://t.co/HvRUMmQj4D"
+              }
+            ]
+          }
+        },
+        "id": "1028097257378332672",
+        "location": "@Stv_Lynn 脑子里",
+        "name": "初凪ゆずき aka yuzuki",
+        "pinned_tweet_id": "1837478725849579585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681241074755588097/S4Umf5LO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 483,
+          "like_count": 11357,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 8679
+        },
+        "url": "https://t.co/HvRUMmQj4D",
+        "username": "hatunagi_yuzuki",
+        "verified": false
+      }
+    ]
+  }
+}

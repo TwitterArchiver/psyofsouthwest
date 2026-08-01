@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2034615399363526848",
+    "created_at": "2026-03-19T13:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034626617478438988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "96453272",
+          "start": 0,
+          "username": "oakvale5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034626617478438988",
+    "in_reply_to_user_id": "96453272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034615399363526848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oakvale5 回复最后一句：是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2034615399363526848",
+        "created_at": "2026-03-19T13:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034626617478438988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "96453272",
+              "start": 0,
+              "username": "oakvale5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034626617478438988",
+        "in_reply_to_user_id": "96453272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034615399363526848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oakvale5 回复最后一句：是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96453272",
+        "conversation_id": "2034615399363526848",
+        "created_at": "2026-03-19T12:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034615399363526848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034615399363526848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1146,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "打开微信发现杨天真在直播上英语课。。。\n这个英语水平也能上课？\n初中英语吗？\n为啥这人可以这么不要脸啊？\n我赚不到钱的主要原因是道德标准太高了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 4740,
+          "like_count": 96564,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 14037
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16703,
+          "following_count": 2999,
+          "like_count": 5251,
+          "listed_count": 127,
+          "media_count": 3247,
+          "tweet_count": 92477
+        },
+        "username": "oakvale5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2055437024019280364",
+    "created_at": "2026-05-16T01:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055463106059342054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963434136145989634",
+          "start": 0,
+          "username": "biantaishabi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055463106059342054",
+    "in_reply_to_user_id": "1963434136145989634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055437024019280364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishabi5 水肺潜水，如果上浮时不做减压，在45米水深只能停留5分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2055437024019280364",
+        "created_at": "2026-05-16T01:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055463106059342054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963434136145989634",
+              "start": 0,
+              "username": "biantaishabi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055463106059342054",
+        "in_reply_to_user_id": "1963434136145989634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055437024019280364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishabi5 水肺潜水，如果上浮时不做减压，在45米水深只能停留5分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963434136145989634",
+        "conversation_id": "2055437024019280364",
+        "created_at": "2026-05-15T23:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055437024019280364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055437024019280364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5770,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "马尔代夫发生史上最严重单次潜水事故：5名游客身亡，包括海洋生物学家、前潜水教练等；遗体在约50米深水下洞穴被发现，疑因“氧气中毒”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4753,
+          "like_count": 118230,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 15272
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T02:49:28.000Z",
+        "description": "人如其名",
+        "id": "1963434136145989634",
+        "location": "改则县",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6079,
+          "following_count": 1057,
+          "like_count": 41858,
+          "listed_count": 51,
+          "media_count": 4284,
+          "tweet_count": 81872
+        },
+        "username": "biantaishabi5",
+        "verified": false
+      }
+    ]
+  }
+}

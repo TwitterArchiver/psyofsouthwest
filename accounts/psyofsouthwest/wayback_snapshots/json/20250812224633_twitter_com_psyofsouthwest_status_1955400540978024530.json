@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338342919460200449",
+          "name": "G.E.M."
+        }
+      }
+    ],
+    "conversation_id": "1955070474830090667",
+    "created_at": "2025-08-12T22:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T23:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955400540978024530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "907066561860534274",
+          "start": 0,
+          "username": "lijie87771823"
+        },
+        {
+          "end": 27,
+          "id": "387147664",
+          "start": 15,
+          "username": "caizhenghai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955400540978024530",
+    "in_reply_to_user_id": "907066561860534274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955074836562317758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijie87771823 @caizhenghai 邓紫棋也投了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "1955070474830090667",
+        "created_at": "2025-08-12T22:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T23:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955400540978024530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "907066561860534274",
+              "start": 0,
+              "username": "lijie87771823"
+            },
+            {
+              "end": 27,
+              "id": "387147664",
+              "start": 15,
+              "username": "caizhenghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955400540978024530",
+        "in_reply_to_user_id": "907066561860534274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955074836562317758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijie87771823 @caizhenghai 邓紫棋也投了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "907066561860534274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "1955070474830090667",
+        "created_at": "2025-08-12T01:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T02:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955074836562317758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "387147664",
+              "start": 0,
+              "username": "caizhenghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955074836562317758",
+        "in_reply_to_user_id": "387147664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955070474830090667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caizhenghai 邓紫棋:全都是泡沫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 3920,
+          "like_count": 45395,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 11605
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-11T02:21:35.000Z",
+        "description": "",
+        "id": "907066561860534274",
+        "name": "snake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791969885771415552/f26MuGBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1012,
+          "like_count": 1293,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 1454
+        },
+        "username": "lijie87771823",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-08T15:09:19.000Z",
+        "description": "8 年美股投资者，13 年程序开发。 - 联系我：https://t.co/TpEhIUOWf4   - 美股社区 https://t.co/4O2QdkEkMf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/forecho",
+                "end": 48,
+                "expanded_url": "http://t.me/forecho",
+                "start": 25,
+                "url": "https://t.co/TpEhIUOWf4"
+              },
+              {
+                "display_url": "link.3li3.com/richcalls",
+                "end": 81,
+                "expanded_url": "https://link.3li3.com/richcalls",
+                "start": 58,
+                "url": "https://t.co/4O2QdkEkMf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forecho.com",
+                "end": 23,
+                "expanded_url": "https://forecho.com",
+                "start": 0,
+                "url": "https://t.co/DT5QtW82cM"
+              }
+            ]
+          }
+        },
+        "id": "387147664",
+        "location": "China",
+        "name": "forecho📈",
+        "pinned_tweet_id": "1955101297117458706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33660,
+          "following_count": 3730,
+          "like_count": 42725,
+          "listed_count": 386,
+          "media_count": 2581,
+          "tweet_count": 11424
+        },
+        "url": "https://t.co/DT5QtW82cM",
+        "username": "caizhenghai",
+        "verified": true
+      }
+    ]
+  }
+}

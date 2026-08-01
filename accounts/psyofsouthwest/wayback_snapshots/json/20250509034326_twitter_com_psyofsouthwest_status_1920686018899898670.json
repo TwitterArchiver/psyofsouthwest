@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1920643576998080591",
+    "created_at": "2025-05-09T03:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T04:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920686018899898670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "5709522",
+          "start": 0,
+          "username": "mranti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920686018899898670",
+    "in_reply_to_user_id": "5709522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920643576998080591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mranti 印度也赢麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1920643576998080591",
+        "created_at": "2025-05-09T03:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T04:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920686018899898670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "5709522",
+              "start": 0,
+              "username": "mranti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920686018899898670",
+        "in_reply_to_user_id": "5709522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920643576998080591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mranti 印度也赢麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "conversation_id": "1920643576998080591",
+        "created_at": "2025-05-09T00:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T01:52:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920643038931791919",
+          "1920643576998080591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920643576998080591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 41167,
+          "like_count": 270,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "印度这场仗打得抽象：自称完胜，但要求推特屏蔽报道自己飞机被打下来的国际媒体账户被公然拒绝，任何提及相关事情的推文下面都有印度人在说假新闻，本国删除所有提到飞机被打下来的媒体报道，但是还是被美国、法国官方证实巴基斯坦的确打下飞机，印度国防部只好说适当时间会公布。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 3809,
+          "like_count": 35597,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 10810
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "1920643576998080591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375611,
+          "following_count": 11354,
+          "like_count": 411,
+          "listed_count": 3352,
+          "media_count": 2985,
+          "tweet_count": 217726
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

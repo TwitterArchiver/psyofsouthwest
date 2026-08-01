@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2030537820448993280"
+      ],
+      "media_source_tweet_id": [
+        "2030537833145151524"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2030623405482111440",
+    "created_at": "2026-03-08T12:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030623405482111440"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "doro"
+        },
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "니케"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "Doro"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "메가니케"
+        },
+        {
+          "end": 58,
+          "start": 47,
+          "tag": "doronation"
+        },
+        {
+          "end": 69,
+          "start": 59,
+          "tag": "doromemes"
+        },
+        {
+          "end": 76,
+          "start": 70,
+          "tag": "니케바이오"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977919621253779456",
+          "start": 3,
+          "username": "dorojiaidoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8iwnLALBv",
+          "end": 100,
+          "expanded_url": "https://x.com/dorojiaidoro/status/2030537833145151524/photo/1",
+          "media_key": "16_2030537820448993280",
+          "start": 77,
+          "url": "https://t.co/D8iwnLALBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030623405482111440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030537833145151524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dorojiaidoro: #doro #NIKKE #니케 #Doro #메가니케 #doronation #doromemes #니케바이오 https://t.co/D8iwnLALBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2030537820448993280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HC3rY7LbsAA6w6E.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HC3rY7LbsAA6w6E.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030537820448993280"
+          ],
+          "media_source_tweet_id": [
+            "2030537833145151524"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2030623405482111440",
+        "created_at": "2026-03-08T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030623405482111440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "doro"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "니케"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "Doro"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "메가니케"
+            },
+            {
+              "end": 58,
+              "start": 47,
+              "tag": "doronation"
+            },
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "doromemes"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "니케바이오"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977919621253779456",
+              "start": 3,
+              "username": "dorojiaidoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8iwnLALBv",
+              "end": 100,
+              "expanded_url": "https://x.com/dorojiaidoro/status/2030537833145151524/photo/1",
+              "media_key": "16_2030537820448993280",
+              "start": 77,
+              "url": "https://t.co/D8iwnLALBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030623405482111440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030537833145151524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dorojiaidoro: #doro #NIKKE #니케 #Doro #메가니케 #doronation #doromemes #니케바이오 https://t.co/D8iwnLALBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2030537820448993280"
+          ]
+        },
+        "author_id": "1977919621253779456",
+        "conversation_id": "2030537833145151524",
+        "created_at": "2026-03-08T06:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030537833145151524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "doro"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "니케"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "Doro"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "메가니케"
+            },
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "doronation"
+            },
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "doromemes"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "니케바이오"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8iwnLALBv",
+              "end": 82,
+              "expanded_url": "https://x.com/dorojiaidoro/status/2030537833145151524/photo/1",
+              "media_key": "16_2030537820448993280",
+              "start": 59,
+              "url": "https://t.co/D8iwnLALBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030537833145151524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 431,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#doro #NIKKE #니케 #Doro #메가니케 #doronation #doromemes #니케바이오 https://t.co/D8iwnLALBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4746,
+          "like_count": 90980,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13783
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T02:10:33.000Z",
+        "description": "Doro Ji here – a top prolific creator in the Chinese Doro community.\nAll content is self-made with online materials.\nFor any infringement issues, please contact",
+        "id": "1977919621253779456",
+        "name": "doro姬",
+        "pinned_tweet_id": "1989545583237886409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006165320223137792/TCfR_9u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 12,
+          "media_count": 222,
+          "tweet_count": 232
+        },
+        "username": "dorojiaidoro",
+        "verified": false
+      }
+    ]
+  }
+}

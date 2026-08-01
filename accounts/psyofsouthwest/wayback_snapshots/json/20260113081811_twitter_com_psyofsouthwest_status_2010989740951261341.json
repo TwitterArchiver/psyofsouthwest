@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2010989740951261341",
+    "created_at": "2026-01-13T08:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010989740951261341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3151608288",
+          "start": 3,
+          "username": "AppSaildotDEV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "icloud.com/shortcuts/3e91…",
+          "end": 138,
+          "expanded_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+          "images": [
+            {
+              "height": 450,
+              "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=orig",
+              "width": 450
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 115,
+          "status": 200,
+          "title": "Automation 7E572818-FC69-40EA-87BA-E738911416FC",
+          "unwound_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+          "url": "https://t.co/3M2ehjC9M9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010989740951261341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010913705941496074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AppSaildotDEV: giffgaff 最佳保号策略来了\n\n群友做了一个快捷指令：使用蜂窝数据自动访问一个很小流量的网站，费用大概在0.02，一年0.05，充值的10英镑能用200年，人走了号还在，能用几代人了\n\nhttps://t.co/3M2ehjC9M9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2010989740951261341",
+        "created_at": "2026-01-13T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010989740951261341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3151608288",
+              "start": 3,
+              "username": "AppSaildotDEV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "icloud.com/shortcuts/3e91…",
+              "end": 138,
+              "expanded_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=orig",
+                  "width": 450
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "Automation 7E572818-FC69-40EA-87BA-E738911416FC",
+              "unwound_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+              "url": "https://t.co/3M2ehjC9M9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010989740951261341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010913705941496074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AppSaildotDEV: giffgaff 最佳保号策略来了\n\n群友做了一个快捷指令：使用蜂窝数据自动访问一个很小流量的网站，费用大概在0.02，一年0.05，充值的10英镑能用200年，人走了号还在，能用几代人了\n\nhttps://t.co/3M2ehjC9M9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3151608288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2010913705941496074",
+        "created_at": "2026-01-13T03:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010913705941496074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "icloud.com/shortcuts/3e91…",
+              "end": 119,
+              "expanded_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=orig",
+                  "width": 450
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010888620144803844/4ewX-EiD?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "Automation 7E572818-FC69-40EA-87BA-E738911416FC",
+              "unwound_url": "https://www.icloud.com/shortcuts/3e912196fdd648f397649d0b4be5eb61",
+              "url": "https://t.co/3M2ehjC9M9"
+            },
+            {
+              "display_url": "x.com/seazon000/stat…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/seazon000/status/2010887324163588261",
+              "start": 120,
+              "url": "https://t.co/5oojwqjvTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010913705941496074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 15784,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010887324163588261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "giffgaff 最佳保号策略来了\n\n群友做了一个快捷指令：使用蜂窝数据自动访问一个很小流量的网站，费用大概在0.02，一年0.05，充值的10英镑能用200年，人走了号还在，能用几代人了\n\nhttps://t.co/3M2ehjC9M9 https://t.co/5oojwqjvTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 4403,
+          "like_count": 67858,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 12593
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-12T15:43:33.000Z",
+        "description": "Build  https://t.co/DHyfA0YqIu\nX BoostClub 400w+ 社区  #XBC Partner\n#独立开发者 #Payments #汇丰卓越\nDiscord：https://t.co/YqiLcnJofW\n🏂 🏄 🛹 Lover of boards & freedom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 53,
+                "tag": "XBC"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "独立开发者"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "Payments"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "汇丰卓越"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "3min.top",
+                "end": 30,
+                "expanded_url": "https://3min.top",
+                "start": 7,
+                "url": "https://t.co/DHyfA0YqIu"
+              },
+              {
+                "display_url": "discord.gg/8FnCgMvD6e",
+                "end": 120,
+                "expanded_url": "https://discord.gg/8FnCgMvD6e",
+                "start": 97,
+                "url": "https://t.co/YqiLcnJofW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x-boostclub.notion.site",
+                "end": 23,
+                "expanded_url": "https://x-boostclub.notion.site/",
+                "start": 0,
+                "url": "https://t.co/ADhVYv1I0Z"
+              }
+            ]
+          }
+        },
+        "id": "3151608288",
+        "name": "AppSail.dev",
+        "pinned_tweet_id": "2010152176149000664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004066300289753088/5qO6kRP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15613,
+          "following_count": 1445,
+          "like_count": 8607,
+          "listed_count": 128,
+          "media_count": 368,
+          "tweet_count": 6697
+        },
+        "url": "https://t.co/ADhVYv1I0Z",
+        "username": "AppSaildotDEV",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1793968341956337787",
+    "created_at": "2024-05-24T13:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T14:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794004837849292943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "884699431152476161",
+          "start": 0,
+          "username": "bbbubblecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794004837849292943",
+    "in_reply_to_user_id": "884699431152476161",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793968341956337787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@bbbubblecat 自如没准和强东一样脸盲……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1793968341956337787",
+        "created_at": "2024-05-24T13:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T14:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794004837849292943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "884699431152476161",
+              "start": 0,
+              "username": "bbbubblecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794004837849292943",
+        "in_reply_to_user_id": "884699431152476161",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793968341956337787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@bbbubblecat 自如没准和强东一样脸盲……"
+      },
+      {
+        "attachments": {},
+        "author_id": "884699431152476161",
+        "conversation_id": "1793968341956337787",
+        "created_at": "2024-05-24T11:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T12:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793968341956337787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liboy262103400…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/liboy2621034007/status/1793823601482932655",
+              "start": 23,
+              "url": "https://t.co/shCSQP5VbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793968341956337787",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793823601482932655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "黑山老妖，这这 自如啊是怎么把持住不呕吐的？ https://t.co/shCSQP5VbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 2128,
+          "like_count": 10891,
+          "listed_count": 4,
+          "tweet_count": 5676
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-11T09:02:36.000Z",
+        "description": "爱看黄推 大直男",
+        "id": "884699431152476161",
+        "name": "气泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673153912994660353/VhT7p5oK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 892,
+          "like_count": 15763,
+          "listed_count": 5,
+          "tweet_count": 8209
+        },
+        "username": "bbbubblecat",
+        "verified": false
+      }
+    ]
+  }
+}

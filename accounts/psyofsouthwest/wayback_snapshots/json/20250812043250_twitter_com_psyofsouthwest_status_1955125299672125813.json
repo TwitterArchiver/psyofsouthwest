@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1955113894671946145",
+    "created_at": "2025-08-12T04:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955125299672125813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677149250919239680",
+          "start": 0,
+          "username": "goodloveskt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955125299672125813",
+    "in_reply_to_user_id": "1677149250919239680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955113894671946145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goodloveskt 吃人不吐骨头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_1955113891652046849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyH1uc9aEAEVKFh.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1955113894671946145",
+        "created_at": "2025-08-12T04:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955125299672125813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677149250919239680",
+              "start": 0,
+              "username": "goodloveskt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955125299672125813",
+        "in_reply_to_user_id": "1677149250919239680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955113894671946145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goodloveskt 吃人不吐骨头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955113891652046849"
+          ]
+        },
+        "author_id": "1677149250919239680",
+        "conversation_id": "1955113894671946145",
+        "created_at": "2025-08-12T03:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955113894671946145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbk1rRgaJm",
+              "end": 29,
+              "expanded_url": "https://x.com/goodloveskt/status/1955113894671946145/photo/1",
+              "media_key": "3_1955113891652046849",
+              "start": 6,
+              "url": "https://t.co/qbk1rRgaJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955113894671946145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4919,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂饭局的来 https://t.co/qbk1rRgaJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 3917,
+          "like_count": 45283,
+          "listed_count": 6,
+          "media_count": 362,
+          "tweet_count": 11590
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T02:55:29.000Z",
+        "description": "我是yukee，推文仅供娱乐，每日分享有趣、有料的故事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yoonayukee",
+                "end": 23,
+                "expanded_url": "https://t.me/yoonayukee",
+                "start": 0,
+                "url": "https://t.co/g42dWXYyVc"
+              }
+            ]
+          }
+        },
+        "id": "1677149250919239680",
+        "name": "yoonayukee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677150644225052672/jm3SLzkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 20,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/g42dWXYyVc",
+        "username": "goodloveskt",
+        "verified": true
+      }
+    ]
+  }
+}

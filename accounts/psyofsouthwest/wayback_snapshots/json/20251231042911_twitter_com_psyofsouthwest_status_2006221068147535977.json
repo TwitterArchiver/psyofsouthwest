@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2006180958114840762",
+    "created_at": "2025-12-31T04:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006221068147535977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2556086216",
+          "start": 0,
+          "username": "shequcaoliu"
+        },
+        {
+          "end": 22,
+          "id": "254151116",
+          "start": 13,
+          "username": "baoshu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006221068147535977",
+    "in_reply_to_user_id": "2556086216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006191004802846947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shequcaoliu @baoshu88 老头拜年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2006180958114840762",
+        "created_at": "2025-12-31T04:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006221068147535977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2556086216",
+              "start": 0,
+              "username": "shequcaoliu"
+            },
+            {
+              "end": 22,
+              "id": "254151116",
+              "start": 13,
+              "username": "baoshu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006221068147535977",
+        "in_reply_to_user_id": "2556086216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006191004802846947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shequcaoliu @baoshu88 老头拜年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2556086216",
+        "conversation_id": "2006180958114840762",
+        "created_at": "2025-12-31T02:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006191004802846947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "254151116",
+              "start": 0,
+              "username": "baoshu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006191004802846947",
+        "in_reply_to_user_id": "254151116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29948,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006180958114840762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoshu88 难道是，今晚中央有活动么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 4182,
+          "like_count": 62396,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 12362
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-09T04:27:41.000Z",
+        "description": "官方社区频道｜十年游客草民｜注册上岸回家｜1024永不迷路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t64y.com",
+                "end": 23,
+                "expanded_url": "https://www.t64y.com",
+                "start": 0,
+                "url": "https://t.co/auBdfQLyDu"
+              }
+            ]
+          }
+        },
+        "id": "2556086216",
+        "location": "草榴地址",
+        "name": "草榴社区",
+        "pinned_tweet_id": "1679849389555322881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676416005579636736/pj5ooMMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32713,
+          "following_count": 18,
+          "like_count": 274,
+          "listed_count": 31,
+          "media_count": 156,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/auBdfQLyDu",
+        "username": "shequcaoliu",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-18T18:17:22.000Z",
+        "description": "华尔街煎饼摊负责人",
+        "id": "254151116",
+        "location": "Financial District, New York",
+        "name": "包叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758595257392861184/glA3sBF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93306,
+          "following_count": 256,
+          "like_count": 41,
+          "listed_count": 925,
+          "media_count": 619,
+          "tweet_count": 1088
+        },
+        "username": "baoshu88",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2049104508119076874",
+    "created_at": "2026-04-28T12:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049104508119076874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531375166411907073",
+          "start": 3,
+          "username": "biantaishayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049104508119076874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049048170324545561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biantaishayu: 这不是我们牙科用的隔离膜嘛，30块钱1200片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2049104508119076874",
+        "created_at": "2026-04-28T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049104508119076874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531375166411907073",
+              "start": 3,
+              "username": "biantaishayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049104508119076874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049048170324545561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biantaishayu: 这不是我们牙科用的隔离膜嘛，30块钱1200片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531375166411907073",
+        "conversation_id": "2049048170324545561",
+        "created_at": "2026-04-28T08:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049048170324545561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ronsean117/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ronsean117/status/2049022976474095960",
+              "start": 24,
+              "url": "https://t.co/cP0EuO2kHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049048170324545561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8254,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049022976474095960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是我们牙科用的隔离膜嘛，30块钱1200片 https://t.co/cP0EuO2kHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 4789,
+          "like_count": 111270,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14849
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T20:41:06.000Z",
+        "description": "这个人很懒什么，也没有留下。",
+        "id": "1531375166411907073",
+        "name": "徐小樱🌸重生版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027716886478393348/pDrIvgZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 419,
+          "like_count": 194,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 650
+        },
+        "username": "biantaishayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1905562425207795883",
+    "created_at": "2025-03-28T10:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T11:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905562425207795883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609456562443268097",
+          "start": 3,
+          "username": "snowfairy011026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905562425207795883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905556678885392772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowfairy011026: 补充教义：\n1.并非只有这几位神可以是神，宇宙里的一切都拥有神性，都可以成为神。唯一的条件就是具备崇敬者。\n2.信徒有不信神的自由，有选择/创造自己崇敬神的神庙的自由。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1905562425207795883",
+        "created_at": "2025-03-28T10:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T11:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905562425207795883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609456562443268097",
+              "start": 3,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905562425207795883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905556678885392772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowfairy011026: 补充教义：\n1.并非只有这几位神可以是神，宇宙里的一切都拥有神性，都可以成为神。唯一的条件就是具备崇敬者。\n2.信徒有不信神的自由，有选择/创造自己崇敬神的神庙的自由。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609456562443268097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1905556678885392772",
+        "created_at": "2025-03-28T09:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905556678885392772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snowfairy01102…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/snowfairy011026/status/1905183111987773562",
+              "start": 85,
+              "url": "https://t.co/656r31ukzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905556678885392772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905183111987773562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充教义：\n1.并非只有这几位神可以是神，宇宙里的一切都拥有神性，都可以成为神。唯一的条件就是具备崇敬者。\n2.信徒有不信神的自由，有选择/创造自己崇敬神的神庙的自由。 https://t.co/656r31ukzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 3300,
+          "like_count": 27977,
+          "listed_count": 7,
+          "media_count": 315,
+          "tweet_count": 10123
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "星空文明是一个大型互助群体，由微国家玩家、架空与科幻作家、应急救助干预团队等不同群体团结而成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/dPMkmSazCQ3439…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/dPMkmSazCQ3439CJ9",
+                "start": 0,
+                "url": "https://t.co/U7TGiqdo2O"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "location": "NGC 4755 珠宝盒星团",
+        "name": "星空文明 Starry Sky Civilization",
+        "pinned_tweet_id": "1905556678885392772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869504691375349760/A5kIMk_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 1855,
+          "like_count": 11557,
+          "listed_count": 8,
+          "media_count": 660,
+          "tweet_count": 8880
+        },
+        "url": "https://t.co/U7TGiqdo2O",
+        "username": "snowfairy011026",
+        "verified": true
+      }
+    ]
+  }
+}

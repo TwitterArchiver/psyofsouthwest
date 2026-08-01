@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040811305293213696"
+      ],
+      "media_source_tweet_id": [
+        "2041314009102606685"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2041364075779654112",
+    "created_at": "2026-04-07T03:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041364075779654112"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 32,
+          "tag": "seedance2"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238039266057261062",
+          "start": 3,
+          "username": "ZocLucis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhWvyOE965",
+          "end": 72,
+          "expanded_url": "https://x.com/ZocLucis/status/2041314009102606685/video/1",
+          "media_key": "13_2040811305293213696",
+          "start": 49,
+          "url": "https://t.co/dhWvyOE965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041364075779654112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041314009102606685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZocLucis: give me your hand #seedance2 #doro https://t.co/dhWvyOE965"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15092,
+        "height": 1280,
+        "media_key": "13_2040811305293213696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040811305293213696/img/ioCBAxtl9Ol6_rsO.jpg",
+        "public_metrics": {
+          "view_count": 1340
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040811305293213696/vid/avc1/320x568/zoUtaxjd_VkzagkB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040811305293213696/vid/avc1/480x852/nHHR17CuJAYL_sT5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040811305293213696/vid/avc1/720x1280/ybsD7Hgc6rkcs-3j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040811305293213696/pl/Lbhs0gKec2hiAEmV.m3u8?v=a3f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040811305293213696"
+          ],
+          "media_source_tweet_id": [
+            "2041314009102606685"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2041364075779654112",
+        "created_at": "2026-04-07T03:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041364075779654112"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "seedance2"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238039266057261062",
+              "start": 3,
+              "username": "ZocLucis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhWvyOE965",
+              "end": 72,
+              "expanded_url": "https://x.com/ZocLucis/status/2041314009102606685/video/1",
+              "media_key": "13_2040811305293213696",
+              "start": 49,
+              "url": "https://t.co/dhWvyOE965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041364075779654112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041314009102606685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZocLucis: give me your hand #seedance2 #doro https://t.co/dhWvyOE965"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040811305293213696"
+          ]
+        },
+        "author_id": "1238039266057261062",
+        "conversation_id": "2041314009102606685",
+        "created_at": "2026-04-07T00:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041314009102606685"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "seedance2"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhWvyOE965",
+              "end": 58,
+              "expanded_url": "https://x.com/ZocLucis/status/2041314009102606685/video/1",
+              "media_key": "13_2040811305293213696",
+              "start": 35,
+              "url": "https://t.co/dhWvyOE965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041314009102606685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 3229,
+          "like_count": 197,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "give me your hand #seedance2 #doro https://t.co/dhWvyOE965"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 4751,
+          "like_count": 102131,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14274
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T09:49:07.000Z",
+        "description": "nothing is permanent",
+        "id": "1238039266057261062",
+        "name": "Lucis",
+        "pinned_tweet_id": "1722807135372005701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757695084206993408/U6mEZUmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3328,
+          "following_count": 511,
+          "like_count": 111881,
+          "listed_count": 11,
+          "media_count": 562,
+          "tweet_count": 1555
+        },
+        "username": "ZocLucis",
+        "verified": true
+      }
+    ]
+  }
+}

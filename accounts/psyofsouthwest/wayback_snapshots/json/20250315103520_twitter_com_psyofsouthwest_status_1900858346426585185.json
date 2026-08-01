@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1900824934424998324",
+    "created_at": "2025-03-15T10:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T11:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900858346426585185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345437084",
+          "start": 0,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900858346426585185",
+    "in_reply_to_user_id": "345437084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900824934424998324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamcheyan 中国人普遍连俄期都过不去，谈这些也没多大意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1900824934424998324",
+        "created_at": "2025-03-15T10:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900858346426585185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900858346426585185",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900824934424998324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan 中国人普遍连俄期都过不去，谈这些也没多大意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "345437084",
+        "conversation_id": "1900824934424998324",
+        "created_at": "2025-03-15T08:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900824934424998324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/askerlee/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/askerlee/status/1900800160340603060",
+              "start": 61,
+              "url": "https://t.co/khP0YEV1ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900824934424998324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22180,
+          "like_count": 47,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900800160340603060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对家庭伴侣踢桌子、打自己，暗藏的含义是：\n我有能力把愤怒发泄到你身上，但目前还留了点余地。别逼我真把这些劲儿使在你身上。 https://t.co/khP0YEV1ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 3241,
+          "like_count": 26874,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 10028
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "作家 · 编剧 · 程序员 / 東京都在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPngzUE"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "Katsushika-ku, Tokyo",
+        "name": "徹言",
+        "pinned_tweet_id": "1779190836405924114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37249,
+          "following_count": 7418,
+          "like_count": 65095,
+          "listed_count": 173,
+          "media_count": 1468,
+          "tweet_count": 8704
+        },
+        "url": "https://t.co/IoKuPngzUE",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1955479676811718989",
+    "created_at": "2025-08-13T04:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955491947680067809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955491947680067809",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955479676811718989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 还是骨传导好，挂着丢不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1955479676811718989",
+        "created_at": "2025-08-13T04:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955491947680067809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955491947680067809",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955479676811718989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 还是骨传导好，挂着丢不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1955479676811718989",
+        "created_at": "2025-08-13T04:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955479676811718989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955479676811718989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天坐车把800块的耳机丢了，同款要好几天才送到，就订南京去了\n昨晚买了个20元的小米耳机，感觉耳朵在被强健\n今天到了一个京东买的120的耳机，然后发现没有转接头听不了，又赶紧定转接头\n出门在外丢耳机真的太麻烦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 3920,
+          "like_count": 45449,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 11614
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（校园悬疑推理小说《西土城中学疑案》完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1954027792611549679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909918613721088/UDNsEOYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36386,
+          "following_count": 165,
+          "like_count": 2397,
+          "listed_count": 101,
+          "media_count": 1766,
+          "tweet_count": 9963
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

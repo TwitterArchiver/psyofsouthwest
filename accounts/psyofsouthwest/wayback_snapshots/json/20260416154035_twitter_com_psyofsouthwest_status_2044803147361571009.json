@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2044803147361571009",
+    "created_at": "2026-04-16T15:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044803147361571009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1456872541952229379",
+          "start": 3,
+          "username": "txqv3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2044…",
+          "end": 34,
+          "expanded_url": "http://x.com/i/article/2044481407297458176",
+          "start": 11,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2044481407297458176",
+          "url": "https://t.co/kqSlLaSrGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044803147361571009",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044507018082533758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @txqv3: https://t.co/kqSlLaSrGM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2044803147361571009",
+        "created_at": "2026-04-16T15:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044803147361571009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1456872541952229379",
+              "start": 3,
+              "username": "txqv3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2044…",
+              "end": 34,
+              "expanded_url": "http://x.com/i/article/2044481407297458176",
+              "start": 11,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2044481407297458176",
+              "url": "https://t.co/kqSlLaSrGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044803147361571009",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044507018082533758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @txqv3: https://t.co/kqSlLaSrGM"
+      },
+      {
+        "article": {
+          "title": "我以前在戒网瘾学校里两个月的经历"
+        },
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "2044507018082533758",
+        "created_at": "2026-04-15T20:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044507018082533758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2044…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2044481407297458176",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2044481407297458176",
+              "url": "https://t.co/kqSlLaSrGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044507018082533758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2049,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kqSlLaSrGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 4753,
+          "like_count": 106459,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14573
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "蓝v互关，底层农村人，初中辍学并非做题家，在家梦游多年不知所谓，基本每天长时间推特在线，会分享一些自己的魔改手办收藏，可以进群玩，对各种卡牌也很有兴趣，有所收藏，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2041902245084852236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 813,
+          "like_count": 63020,
+          "listed_count": 4,
+          "media_count": 1164,
+          "tweet_count": 16682
+        },
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

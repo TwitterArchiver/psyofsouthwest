@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1919057992248402002",
+    "created_at": "2025-05-05T03:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T04:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919228870714151069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733016836552437761",
+          "start": 0,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919228870714151069",
+    "in_reply_to_user_id": "733016836552437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919057992248402002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starlightcaesar 一句近代为什么被按在地上摩擦就能让他们哑口无言了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1919057992248402002",
+        "created_at": "2025-05-05T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919228870714151069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733016836552437761",
+              "start": 0,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919228870714151069",
+        "in_reply_to_user_id": "733016836552437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919057992248402002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starlightcaesar 一句近代为什么被按在地上摩擦就能让他们哑口无言了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733016836552437761",
+        "conversation_id": "1919057992248402002",
+        "created_at": "2025-05-04T15:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T16:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919057992248402002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919057992248402002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 131811,
+          "like_count": 716,
+          "quote_count": 9,
+          "reply_count": 156,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我真的感觉“西方伪史论”已经逐渐变成老中的基本盘了……极端民族主义历史叙事的吸引力还真是强大得超乎想象，我身边从小学生到大学教授无一漏网……😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 3760,
+          "like_count": 34675,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 10712
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless.\n\nYouTube:安争鸣/小鸣说",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690345340229341184/ghEkUsA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20104,
+          "following_count": 219,
+          "like_count": 15709,
+          "listed_count": 74,
+          "media_count": 661,
+          "tweet_count": 1920
+        },
+        "username": "starlightcaesar",
+        "verified": false
+      }
+    ]
+  }
+}

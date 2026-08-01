@@ -1,0 +1,346 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1797139407121592375",
+    "created_at": "2024-06-02T05:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T06:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797139407121592375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1153085275",
+          "start": 3,
+          "username": "street20232023"
+        },
+        {
+          "end": 28,
+          "id": "1575767611165798403",
+          "start": 20,
+          "username": "xzzzjpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797139407121592375",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796513957806776400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @street20232023: @xzzzjpl 资料图片来自一篇非常厉害的学术论文，（台湾）国立政治大学的施漢陽的硕士论文《「金融幫」的形成：中共金融官員的人事調動與關係網絡》。用前沿的数理量化研究方法研究梳理了以朱镕基为奠基人中央财经金融体系，大家可google搜索…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1797139407121592375",
+        "created_at": "2024-06-02T05:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T06:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797139407121592375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1153085275",
+              "start": 3,
+              "username": "street20232023"
+            },
+            {
+              "end": 28,
+              "id": "1575767611165798403",
+              "start": 20,
+              "username": "xzzzjpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797139407121592375",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796513957806776400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @street20232023: @xzzzjpl 资料图片来自一篇非常厉害的学术论文，（台湾）国立政治大学的施漢陽的硕士论文《「金融幫」的形成：中共金融官員的人事調動與關係網絡》。用前沿的数理量化研究方法研究梳理了以朱镕基为奠基人中央财经金融体系，大家可google搜索…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796513949233655808",
+            "3_1796513949250363392",
+            "3_1796513949237788674"
+          ]
+        },
+        "author_id": "1153085275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1796462188934426780",
+        "created_at": "2024-05-31T12:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T13:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796513957806776400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1575767611165798403",
+              "start": 0,
+              "username": "xzzzjpl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xt95CNep4L",
+              "end": 161,
+              "expanded_url": "https://twitter.com/street20232023/status/1796513957806776400/photo/1",
+              "media_key": "3_1796513949233655808",
+              "start": 138,
+              "url": "https://t.co/xt95CNep4L"
+            },
+            {
+              "display_url": "pic.twitter.com/xt95CNep4L",
+              "end": 161,
+              "expanded_url": "https://twitter.com/street20232023/status/1796513957806776400/photo/1",
+              "media_key": "3_1796513949250363392",
+              "start": 138,
+              "url": "https://t.co/xt95CNep4L"
+            },
+            {
+              "display_url": "pic.twitter.com/xt95CNep4L",
+              "end": 161,
+              "expanded_url": "https://twitter.com/street20232023/status/1796513957806776400/photo/1",
+              "media_key": "3_1796513949237788674",
+              "start": 138,
+              "url": "https://t.co/xt95CNep4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796513957806776400",
+        "in_reply_to_user_id": "1153085275",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 16942,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796467291011604738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzzzjpl 资料图片来自一篇非常厉害的学术论文，（台湾）国立政治大学的施漢陽的硕士论文《「金融幫」的形成：中共金融官員的人事調動與關係網絡》。用前沿的数理量化研究方法研究梳理了以朱镕基为奠基人中央财经金融体系，大家可google搜索下载阅读。科学听床，科学键政，共勉！ https://t.co/xt95CNep4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 2165,
+          "like_count": 11437,
+          "listed_count": 4,
+          "tweet_count": 5989
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-06T06:06:01.000Z",
+        "description": "中国政经时事探讨｜“金融帮”最新动态分享｜上海帮（江曾派系）消息分享｜京圈儿逸事，中南海“秘闻”分享｜渐进改良主义者｜改革开放支持者｜贤能政治-精英主义者｜陈吉宁/袁家军接班之路纪实｜",
+        "id": "1153085275",
+        "location": "锦绣山太阳宫，平壤市，朝鲜人民民主主义共和国",
+        "name": "天涯政经学院",
+        "pinned_tweet_id": "1793938040924369187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763529411029319680/Rf-e2GCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6570,
+          "following_count": 260,
+          "like_count": 1325,
+          "listed_count": 42,
+          "tweet_count": 954
+        },
+        "username": "street20232023",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:41:01.000Z",
+        "description": "大阪鲁社长，走遍半个地球，最后落地日本。专业的政治评论者和日本房地产投资者。",
+        "id": "1575767611165798403",
+        "name": "中日政经评论",
+        "pinned_tweet_id": "1587016243646967808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575768131406303232/UCoTPU2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350014,
+          "following_count": 229,
+          "like_count": 2560,
+          "listed_count": 1163,
+          "tweet_count": 12115
+        },
+        "username": "xzzzjpl",
+        "verified": true
+      }
+    ]
+  }
+}

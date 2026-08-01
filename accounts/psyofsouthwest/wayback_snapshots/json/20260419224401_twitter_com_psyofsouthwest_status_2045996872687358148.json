@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2045996872687358148",
+    "created_at": "2026-04-19T22:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045996872687358148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "100399047",
+          "start": 3,
+          "username": "Tz_2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2045…",
+          "end": 36,
+          "expanded_url": "http://x.com/i/article/2045504646928617472",
+          "start": 13,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2045504646928617472",
+          "url": "https://t.co/Cf8CgyDUD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045996872687358148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045520082843938862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tz_2022: https://t.co/Cf8CgyDUD7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2045996872687358148",
+        "created_at": "2026-04-19T22:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045996872687358148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "100399047",
+              "start": 3,
+              "username": "Tz_2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2045…",
+              "end": 36,
+              "expanded_url": "http://x.com/i/article/2045504646928617472",
+              "start": 13,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2045504646928617472",
+              "url": "https://t.co/Cf8CgyDUD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045996872687358148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045520082843938862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tz_2022: https://t.co/Cf8CgyDUD7"
+      },
+      {
+        "article": {
+          "title": "“有弟弟线下吗？” —— X 中文圈的一场工业化诈骗"
+        },
+        "attachments": {},
+        "author_id": "100399047",
+        "conversation_id": "2045520082843938862",
+        "created_at": "2026-04-18T15:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045520082843938862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2045…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2045504646928617472",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2045504646928617472",
+              "url": "https://t.co/Cf8CgyDUD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045520082843938862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3393,
+          "impression_count": 1715519,
+          "like_count": 6657,
+          "quote_count": 352,
+          "reply_count": 460,
+          "retweet_count": 1365
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Cf8CgyDUD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 4758,
+          "like_count": 107086,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 14605
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "2039485765193801819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21452,
+          "following_count": 1540,
+          "like_count": 11008,
+          "listed_count": 258,
+          "media_count": 1689,
+          "tweet_count": 8528
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

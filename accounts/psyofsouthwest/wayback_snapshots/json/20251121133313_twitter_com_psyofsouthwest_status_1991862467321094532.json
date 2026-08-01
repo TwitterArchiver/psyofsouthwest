@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1991862467321094532",
+    "created_at": "2025-11-21T13:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991862467321094532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+          "display_url": "Free-for.dev",
+          "end": 103,
+          "expanded_url": "http://Free-for.dev",
+          "start": 80,
+          "status": 200,
+          "title": "Free for Developers",
+          "unwound_url": "https://free-for.dev/",
+          "url": "https://t.co/oTtkoLWQTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991862467321094532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991684535642407370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 服务器要钱，数据库要钱，发邮件要钱……在赚到第一块钱之前，独立开发者的每一分成本都是血汗。\n\n穷鬼开发者的“白嫖清单”——https://t.co/oTtkoLWQTU是 GitHub 上最著名的“免费层（Free Tier）”资源聚合列表…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2786,
+        "media_key": "3_1991684269564104704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6PiSnAaEAA-U7I.jpg",
+        "width": 2734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1991862467321094532",
+        "created_at": "2025-11-21T13:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991862467321094532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+              "display_url": "Free-for.dev",
+              "end": 103,
+              "expanded_url": "http://Free-for.dev",
+              "start": 80,
+              "status": 200,
+              "title": "Free for Developers",
+              "unwound_url": "https://free-for.dev/",
+              "url": "https://t.co/oTtkoLWQTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991862467321094532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991684535642407370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 服务器要钱，数据库要钱，发邮件要钱……在赚到第一块钱之前，独立开发者的每一分成本都是血汗。\n\n穷鬼开发者的“白嫖清单”——https://t.co/oTtkoLWQTU是 GitHub 上最著名的“免费层（Free Tier）”资源聚合列表…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991684269564104704"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1480944078392999937",
+              "name": "Oracle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Databases",
+              "id": "848921866995613696",
+              "name": "Databases"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Databases",
+              "id": "848921866995613696",
+              "name": "Databases"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480944078392999937",
+              "name": "Oracle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202048",
+              "name": "Oracle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202048",
+              "name": "Oracle"
+            }
+          }
+        ],
+        "conversation_id": "1991684535642407370",
+        "created_at": "2025-11-21T01:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991684535642407370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+              "display_url": "Free-for.dev",
+              "end": 84,
+              "expanded_url": "http://Free-for.dev",
+              "start": 61,
+              "status": 200,
+              "title": "Free for Developers",
+              "unwound_url": "https://free-for.dev/",
+              "url": "https://t.co/oTtkoLWQTU"
+            },
+            {
+              "display_url": "pic.x.com/IECM3G4AB3",
+              "end": 183,
+              "expanded_url": "https://x.com/immersivetran/status/1991684535642407370/photo/1",
+              "media_key": "3_1991684269564104704",
+              "start": 160,
+              "url": "https://t.co/IECM3G4AB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991684535642407370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Free-for.dev",
+                "end": 84,
+                "expanded_url": "http://Free-for.dev",
+                "start": 61,
+                "url": "https://t.co/e1qIhg0hKL"
+              },
+              {
+                "display_url": "free-for.dev/#/",
+                "end": 367,
+                "expanded_url": "https://free-for.dev/#/",
+                "start": 344,
+                "url": "https://t.co/Gu5Qb5imhf"
+              }
+            ]
+          },
+          "text": "服务器要钱，数据库要钱，发邮件要钱……在赚到第一块钱之前，独立开发者的每一分成本都是血汗。\n\n穷鬼开发者的“白嫖清单”——https://t.co/e1qIhg0hKL是 GitHub 上最著名的“免费层（Free Tier）”资源聚合列表，拥有 8.5 万 Star。\n\n全栈免费：从云主机（Oracle Cloud 永久免费层）、数据库（Supabase/MongoDB 免费额度）、到邮件发送（Resend）、代码托管，它列出了所有能让你“白嫖”起步的服务。\n\n这个列表由全球开发者共同维护，筛选出的都是真正良心、可用的“真免费”资源。\n\n当你不知道选什么服务时，来这里看看谁的免费额度最大，通常就是最适合初创期的选择。\n\n在这个列表里，你完全可以 0 成本上线一个商业级应用。\n\nhttps://t.co/Gu5Qb5imhf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 928,
+          "impression_count": 57322,
+          "like_count": 701,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "服务器要钱，数据库要钱，发邮件要钱……在赚到第一块钱之前，独立开发者的每一分成本都是血汗。\n\n穷鬼开发者的“白嫖清单”——https://t.co/oTtkoLWQTU是 GitHub 上最著名的“免费层（Free Tier）”资源聚合列表，拥有 8.5 万 Star。\n\n全栈免费：从云主机（Oracle Cloud https://t.co/IECM3G4AB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 4035,
+          "like_count": 55107,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12116
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21235,
+          "following_count": 102,
+          "like_count": 390,
+          "listed_count": 113,
+          "media_count": 393,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": false
+      }
+    ]
+  }
+}

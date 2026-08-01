@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079594071266627585"
+      ],
+      "media_source_tweet_id": [
+        "2079594082041823465"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2079929763729166535",
+    "created_at": "2026-07-22T14:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079929763729166535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1704469304077611008",
+          "start": 3,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17Y8afpEqK",
+          "end": 48,
+          "expanded_url": "https://x.com/jiaoyanboluooo/status/2079594082041823465/photo/1",
+          "media_key": "3_2079594071266627585",
+          "start": 25,
+          "url": "https://t.co/17Y8afpEqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079929763729166535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079594082041823465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiaoyanboluooo: 挂个牲口 https://t.co/17Y8afpEqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3575,
+        "media_key": "3_2079594071266627585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwzyibbEAEBGKh.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594071266627585"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2079594082041823465",
+        "created_at": "2026-07-21T15:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079594082041823465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17Y8afpEqK",
+              "end": 28,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2079594082041823465/photo/1",
+              "media_key": "3_2079594071266627585",
+              "start": 5,
+              "url": "https://t.co/17Y8afpEqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079594082041823465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 57562,
+          "like_count": 251,
+          "quote_count": 3,
+          "reply_count": 53,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "挂个牲口 https://t.co/17Y8afpEqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594071266627585"
+          ],
+          "media_source_tweet_id": [
+            "2079594082041823465"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2079929763729166535",
+        "created_at": "2026-07-22T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079929763729166535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1704469304077611008",
+              "start": 3,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17Y8afpEqK",
+              "end": 48,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2079594082041823465/photo/1",
+              "media_key": "3_2079594071266627585",
+              "start": 25,
+              "url": "https://t.co/17Y8afpEqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079929763729166535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079594082041823465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiaoyanboluooo: 挂个牲口 https://t.co/17Y8afpEqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4832,
+          "like_count": 133785,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15576
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 4382,
+          "like_count": 30899,
+          "listed_count": 13,
+          "media_count": 1564,
+          "tweet_count": 6688
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

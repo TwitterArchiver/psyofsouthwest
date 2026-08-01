@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044432732126957569"
+      ],
+      "media_source_tweet_id": [
+        "2044432779551936750"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2044515887265329293",
+    "created_at": "2026-04-15T20:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044515887265329293"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "Doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919761076264304641",
+          "start": 3,
+          "username": "newxiaoshaye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujJS7xzXE6",
+          "end": 47,
+          "expanded_url": "https://x.com/newxiaoshaye/status/2044432779551936750/photo/1",
+          "media_key": "3_2044432732126957569",
+          "start": 24,
+          "url": "https://t.co/ujJS7xzXE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044515887265329293",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044432779551936750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @newxiaoshaye: #Doro https://t.co/ujJS7xzXE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2044432732126957569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9IvO2b0AEziqo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044432732126957569"
+          ],
+          "media_source_tweet_id": [
+            "2044432779551936750"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2044515887265329293",
+        "created_at": "2026-04-15T20:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044515887265329293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "Doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919761076264304641",
+              "start": 3,
+              "username": "newxiaoshaye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujJS7xzXE6",
+              "end": 47,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2044432779551936750/photo/1",
+              "media_key": "3_2044432732126957569",
+              "start": 24,
+              "url": "https://t.co/ujJS7xzXE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044515887265329293",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044432779551936750",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @newxiaoshaye: #Doro https://t.co/ujJS7xzXE6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044432732126957569"
+          ]
+        },
+        "author_id": "1919761076264304641",
+        "conversation_id": "2044432779551936750",
+        "created_at": "2026-04-15T15:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044432779551936750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "Doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujJS7xzXE6",
+              "end": 29,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2044432779551936750/photo/1",
+              "media_key": "3_2044432732126957569",
+              "start": 6,
+              "url": "https://t.co/ujJS7xzXE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044432779551936750",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 623,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#Doro https://t.co/ujJS7xzXE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 4748,
+          "like_count": 105650,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14530
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T14:28:37.000Z",
+        "description": "以前中推的少弟弟/P5X玩家/doro/猫推/互fo",
+        "id": "1919761076264304641",
+        "location": "Melbourne, Victoria",
+        "name": "Newxiaoshaoye🇦🇺🇨🇳",
+        "pinned_tweet_id": "2025528175124766908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027370593960730624/uLa3xQeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 2197,
+          "like_count": 91867,
+          "listed_count": 4,
+          "media_count": 1179,
+          "tweet_count": 5143
+        },
+        "username": "newxiaoshaye",
+        "verified": true
+      }
+    ]
+  }
+}

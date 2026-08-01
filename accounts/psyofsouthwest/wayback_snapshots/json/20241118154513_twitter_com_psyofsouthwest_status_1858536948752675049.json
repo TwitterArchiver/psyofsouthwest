@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1858522975575658834",
+    "created_at": "2024-11-18T15:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T16:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858536948752675049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625279082865852416",
+          "start": 0,
+          "username": "cpurplestarrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858536948752675049",
+    "in_reply_to_user_id": "1625279082865852416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858522975575658834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpurplestarrain 熊喷制服捆起来送去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1858522975575658834",
+        "created_at": "2024-11-18T15:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T16:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858536948752675049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625279082865852416",
+              "start": 0,
+              "username": "cpurplestarrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858536948752675049",
+        "in_reply_to_user_id": "1625279082865852416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858522975575658834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpurplestarrain 熊喷制服捆起来送去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625279082865852416",
+        "conversation_id": "1858522975575658834",
+        "created_at": "2024-11-18T14:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T15:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858522975575658834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858522975575658834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考虑带我爹去医大一院搞个酒精成瘾诊断证明。\n\n估计他不去，还是天天喝，🌿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 2766,
+          "like_count": 19419,
+          "listed_count": 4,
+          "tweet_count": 8430
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T23:41:53.000Z",
+        "description": "A little Snake\n\nMy forever wife Xiaoyu",
+        "id": "1625279082865852416",
+        "location": "snake",
+        "name": "CoolSnake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846001229178003456/asQEm5Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 310,
+          "like_count": 8713,
+          "listed_count": 0,
+          "tweet_count": 11081
+        },
+        "username": "cpurplestarrain",
+        "verified": false
+      }
+    ]
+  }
+}

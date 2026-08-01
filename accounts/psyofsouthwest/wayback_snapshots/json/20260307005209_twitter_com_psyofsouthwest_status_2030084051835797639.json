@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953943281940709376"
+      ],
+      "media_source_tweet_id": [
+        "1953943857714147377"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2030084051835797639",
+    "created_at": "2026-03-07T00:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T01:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030084051835797639"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "Doro"
+        },
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "ウマ娘"
+        },
+        {
+          "end": 86,
+          "start": 76,
+          "tag": "umamusume"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1332818364943757312",
+          "start": 3,
+          "username": "JeantfyDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOFNqO1ZqW",
+          "end": 110,
+          "expanded_url": "https://x.com/JeantfyDraw/status/1953943857714147377/photo/1",
+          "media_key": "3_1953943281940709376",
+          "start": 87,
+          "url": "https://t.co/LOFNqO1ZqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030084051835797639",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953943857714147377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JeantfyDraw: Matikane Tannhauser 🥕🥕🥕\n\nDoro Mambo 🍊🍊\n\n#Doro #NIKKE \n#ウマ娘 #umamusume https://t.co/LOFNqO1ZqW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1953943281940709376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx3ND_9WQAAYRVQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953943281940709376"
+          ],
+          "media_source_tweet_id": [
+            "1953943857714147377"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2030084051835797639",
+        "created_at": "2026-03-07T00:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T01:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030084051835797639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "Doro"
+            },
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 86,
+              "start": 76,
+              "tag": "umamusume"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1332818364943757312",
+              "start": 3,
+              "username": "JeantfyDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOFNqO1ZqW",
+              "end": 110,
+              "expanded_url": "https://x.com/JeantfyDraw/status/1953943857714147377/photo/1",
+              "media_key": "3_1953943281940709376",
+              "start": 87,
+              "url": "https://t.co/LOFNqO1ZqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030084051835797639",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953943857714147377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JeantfyDraw: Matikane Tannhauser 🥕🥕🥕\n\nDoro Mambo 🍊🍊\n\n#Doro #NIKKE \n#ウマ娘 #umamusume https://t.co/LOFNqO1ZqW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953943281940709376"
+          ]
+        },
+        "author_id": "1332818364943757312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1953943857714147377",
+        "created_at": "2025-08-08T22:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T23:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953943857714147377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "Doro"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "umamusume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOFNqO1ZqW",
+              "end": 93,
+              "expanded_url": "https://x.com/JeantfyDraw/status/1953943857714147377/photo/1",
+              "media_key": "3_1953943281940709376",
+              "start": 70,
+              "url": "https://t.co/LOFNqO1ZqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953943857714147377",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2513,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Matikane Tannhauser 🥕🥕🥕\n\nDoro Mambo 🍊🍊\n\n#Doro #NIKKE \n#ウマ娘 #umamusume https://t.co/LOFNqO1ZqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4730,
+          "like_count": 90501,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13740
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T22:47:34.000Z",
+        "description": "SFW and NSFW 🔞    \n\nPATRE0N:\nhttps://t.co/VXKhdvPghd \nPIXIV: \n-\n\n|ENG / SPA|\n💖🇵🇪🎨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/JeanTFYDraw",
+                "end": 52,
+                "expanded_url": "https://www.patreon.com/JeanTFYDraw",
+                "start": 29,
+                "url": "https://t.co/VXKhdvPghd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/jeantfy?countr…",
+                "end": 23,
+                "expanded_url": "https://paypal.me/jeantfy?country.x=PE&locale.x=es_XC",
+                "start": 0,
+                "url": "https://t.co/tGlPnepekI"
+              }
+            ]
+          }
+        },
+        "id": "1332818364943757312",
+        "name": "JeantfyDraw",
+        "pinned_tweet_id": "1933714672386977944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743481243713302528/EZs4CuSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 576,
+          "like_count": 50576,
+          "listed_count": 19,
+          "media_count": 505,
+          "tweet_count": 14859
+        },
+        "url": "https://t.co/tGlPnepekI",
+        "username": "JeantfyDraw",
+        "verified": false
+      }
+    ]
+  }
+}

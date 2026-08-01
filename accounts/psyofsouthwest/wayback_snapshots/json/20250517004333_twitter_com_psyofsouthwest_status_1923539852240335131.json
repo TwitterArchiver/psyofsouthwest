@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1923432226156388756",
+    "created_at": "2025-05-17T00:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T01:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923539852240335131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "826639262988718080",
+          "start": 0,
+          "username": "0xdeusyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923539852240335131",
+    "in_reply_to_user_id": "826639262988718080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923432226156388756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xdeusyu 豆包也喜欢看黄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1923432222843076609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrFnangaAAEtkb2.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1923432226156388756",
+        "created_at": "2025-05-17T00:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T01:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923539852240335131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "826639262988718080",
+              "start": 0,
+              "username": "0xdeusyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923539852240335131",
+        "in_reply_to_user_id": "826639262988718080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923432226156388756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xdeusyu 豆包也喜欢看黄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923432222843076609"
+          ]
+        },
+        "author_id": "826639262988718080",
+        "conversation_id": "1923432226156388756",
+        "created_at": "2025-05-16T17:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923432226156388756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9TdiVmCpu",
+              "end": 26,
+              "expanded_url": "https://x.com/0xdeusyu/status/1923432226156388756/photo/1",
+              "media_key": "3_1923432222843076609",
+              "start": 3,
+              "url": "https://t.co/L9TdiVmCpu"
+            },
+            {
+              "display_url": "x.com/tuziapi/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/tuziapi/status/1923405833242562883",
+              "start": 27,
+              "url": "https://t.co/tfJBFZBMPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923432226156388756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9035,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923405833242562883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼 https://t.co/L9TdiVmCpu https://t.co/tfJBFZBMPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 3843,
+          "like_count": 37650,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 10997
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-01T03:52:13.000Z",
+        "description": "读万卷书行万里路｜软件工程师｜AI用进废退｜连接一切｜不争论，只拉黑 | @Baidu_Inc\nRead ten thousand books, travel ten thousand miles. | AI: Evolve by Doing | Nexus Thinker | Cloud Computing | RD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "Baidu_Inc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deusyu.app",
+                "end": 23,
+                "expanded_url": "http://deusyu.app",
+                "start": 0,
+                "url": "https://t.co/9JYLqWuG52"
+              }
+            ]
+          }
+        },
+        "id": "826639262988718080",
+        "location": "Beijing",
+        "name": "Rainman",
+        "pinned_tweet_id": "1910735865049211373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907035075587518465/D1m1Qo6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 492,
+          "like_count": 15726,
+          "listed_count": 27,
+          "media_count": 1690,
+          "tweet_count": 12938
+        },
+        "url": "https://t.co/9JYLqWuG52",
+        "username": "0xdeusyu",
+        "verified": true
+      }
+    ]
+  }
+}

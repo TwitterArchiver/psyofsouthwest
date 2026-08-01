@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1797827446898905468",
+    "created_at": "2024-06-04T06:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T07:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797882078324990379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "31083308",
+          "start": 0,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797882078324990379",
+    "in_reply_to_user_id": "31083308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797827446898905468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwatchworld 商业也需要资源。北大屠户，如果他只是个屠户，会怎么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1797827446898905468",
+        "created_at": "2024-06-04T06:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T07:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797882078324990379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797882078324990379",
+        "in_reply_to_user_id": "31083308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797827446898905468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 商业也需要资源。北大屠户，如果他只是个屠户，会怎么样"
+      },
+      {
+        "attachments": {},
+        "author_id": "31083308",
+        "conversation_id": "1797827446898905468",
+        "created_at": "2024-06-04T03:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T04:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797827446898905468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797827446898905468",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 32429,
+          "like_count": 168,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "早晨，我在劝小朋友不要读大学，哈哈哈。\n不过我只是提供一个视角，并非建议。\n\"大学不会教会你如何从商，它只是张打工的门票.\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2167,
+          "like_count": 11512,
+          "listed_count": 4,
+          "tweet_count": 6045
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "父亲，安达曼海的钓鱼人，半退休分析师。\nFinance Analyst\n套利与对冲\nhttps://t.co/20gEmbFstl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unclewaanginphuket.blogspot.com",
+                "end": 65,
+                "expanded_url": "http://unclewaanginphuket.blogspot.com",
+                "start": 42,
+                "url": "https://t.co/20gEmbFstl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ottfinance.com",
+                "end": 23,
+                "expanded_url": "http://www.ottfinance.com",
+                "start": 0,
+                "url": "https://t.co/ns4TvwZCkP"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "Phuket",
+        "name": "王海滨的财经闲谈",
+        "pinned_tweet_id": "1781708078607663360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738212656706985984/W4AxJX3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182628,
+          "following_count": 950,
+          "like_count": 2827,
+          "listed_count": 1285,
+          "tweet_count": 40206
+        },
+        "url": "https://t.co/ns4TvwZCkP",
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

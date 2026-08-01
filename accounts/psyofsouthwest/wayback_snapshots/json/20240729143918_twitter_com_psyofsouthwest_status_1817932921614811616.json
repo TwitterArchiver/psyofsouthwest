@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1817881179703661052",
+    "created_at": "2024-07-29T14:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T15:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817932921614811616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454319718257479680",
+          "start": 0,
+          "username": "BrunAyumiAJ"
+        },
+        {
+          "end": 23,
+          "id": "1507723638249713664",
+          "start": 13,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817932921614811616",
+    "in_reply_to_user_id": "1454319718257479680",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817887886982947017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrunAyumiAJ @yuebanzhu 辛亥革命军还图了满城"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1817881179703661052",
+        "created_at": "2024-07-29T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817932921614811616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454319718257479680",
+              "start": 0,
+              "username": "BrunAyumiAJ"
+            },
+            {
+              "end": 23,
+              "id": "1507723638249713664",
+              "start": 13,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817932921614811616",
+        "in_reply_to_user_id": "1454319718257479680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817887886982947017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrunAyumiAJ @yuebanzhu 辛亥革命军还图了满城"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454319718257479680",
+        "conversation_id": "1817881179703661052",
+        "created_at": "2024-07-29T11:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T12:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817887886982947017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817887886982947017",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817881179703661052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu 哪7次啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 2369,
+          "like_count": 13405,
+          "listed_count": 4,
+          "tweet_count": 6939
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T05:30:31.000Z",
+        "description": "",
+        "id": "1454319718257479680",
+        "location": "Japan",
+        "name": "freeloader",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640517032503558145/q-e2leub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 156,
+          "like_count": 234,
+          "listed_count": 1,
+          "tweet_count": 699
+        },
+        "username": "BrunAyumiAJ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "pinned_tweet_id": "1759587368640667866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11503,
+          "following_count": 4011,
+          "like_count": 175923,
+          "listed_count": 71,
+          "tweet_count": 34358
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2041055562906091573",
+    "created_at": "2026-04-06T16:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041191258303942783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        },
+        {
+          "end": 20,
+          "id": "11765952",
+          "start": 12,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041191258303942783",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041100647089705255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger @interjc 我看鳞足蜗牛在80℃的海底热泉里也活得好得很😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2041055562906091573",
+        "created_at": "2026-04-06T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041191258303942783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            },
+            {
+              "end": 20,
+              "id": "11765952",
+              "start": 12,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041191258303942783",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041100647089705255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger @interjc 我看鳞足蜗牛在80℃的海底热泉里也活得好得很😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7755562",
+        "conversation_id": "2041055562906091573",
+        "created_at": "2026-04-06T10:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041100647089705255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041100647089705255",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041055562906091573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 沙漠：你看看人家仙人掌活得不是好好的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 4749,
+          "like_count": 101487,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14244
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\nStudy in Public, Building in Public.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "China",
+        "name": "AlexZ 🦀",
+        "pinned_tweet_id": "2040792536420368719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18076,
+          "following_count": 1528,
+          "like_count": 30057,
+          "listed_count": 302,
+          "media_count": 2791,
+          "tweet_count": 25669
+        },
+        "username": "blackanger",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员｜大阪在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 23,
+                "expanded_url": "http://justincourse.com",
+                "start": 0,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30368,
+          "following_count": 2310,
+          "like_count": 79266,
+          "listed_count": 270,
+          "media_count": 3914,
+          "tweet_count": 32363
+        },
+        "url": "https://t.co/MNSqx9ncpS",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

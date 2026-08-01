@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078065387938418688"
+      ],
+      "media_source_tweet_id": [
+        "2078065393558856162"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2078457399824826788",
+    "created_at": "2026-07-18T12:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078457399824826788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1164004665027022849",
+          "start": 3,
+          "username": "hkguy1988"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4PWhka9vt5",
+          "end": 66,
+          "expanded_url": "https://x.com/hkguy1988/status/2078065393558856162/photo/1",
+          "media_key": "3_2078065387938418688",
+          "start": 43,
+          "url": "https://t.co/4PWhka9vt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078457399824826788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078065393558856162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hkguy1988: 原來對於國家來說，一間小書店是遠比黑社會具威脅和危險。 https://t.co/4PWhka9vt5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2078065387938418688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbFddQakAAhSzj.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078065387938418688"
+          ]
+        },
+        "author_id": "1164004665027022849",
+        "conversation_id": "2078065393558856162",
+        "created_at": "2026-07-17T10:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078065393558856162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PWhka9vt5",
+              "end": 51,
+              "expanded_url": "https://x.com/hkguy1988/status/2078065393558856162/photo/1",
+              "media_key": "3_2078065387938418688",
+              "start": 28,
+              "url": "https://t.co/4PWhka9vt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078065393558856162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10580,
+          "like_count": 760,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "原來對於國家來說，一間小書店是遠比黑社會具威脅和危險。 https://t.co/4PWhka9vt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078065387938418688"
+          ],
+          "media_source_tweet_id": [
+            "2078065393558856162"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2078457399824826788",
+        "created_at": "2026-07-18T12:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078457399824826788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1164004665027022849",
+              "start": 3,
+              "username": "hkguy1988"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PWhka9vt5",
+              "end": 66,
+              "expanded_url": "https://x.com/hkguy1988/status/2078065393558856162/photo/1",
+              "media_key": "3_2078065387938418688",
+              "start": 43,
+              "url": "https://t.co/4PWhka9vt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078457399824826788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078065393558856162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hkguy1988: 原來對於國家來說，一間小書店是遠比黑社會具威脅和危險。 https://t.co/4PWhka9vt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4821,
+          "like_count": 132594,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15574
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T02:42:05.000Z",
+        "description": "香港網絡漫畫家\n典型買唔到樓嘅廢青，唔甘心就咁樣被社會埋沒，努力於用火柴人發聲！我係2021年開始了全職創作漫畫，目標是讓更多人包括外國關注香港發生緊嘅事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/oneaguy",
+                "end": 23,
+                "expanded_url": "http://patreon.com/oneaguy",
+                "start": 0,
+                "url": "https://t.co/UUTsgmoqvv"
+              }
+            ]
+          }
+        },
+        "id": "1164004665027022849",
+        "location": "Hong Kong",
+        "name": "一個人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405384274056937474/c2HEsXU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16769,
+          "following_count": 454,
+          "like_count": 903,
+          "listed_count": 78,
+          "media_count": 1068,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/UUTsgmoqvv",
+        "username": "hkguy1988",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1969977868177551726",
+    "created_at": "2025-09-23T21:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T22:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970605178933125402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1484881942512226304",
+          "start": 0,
+          "username": "nannanlan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970605178933125402",
+    "in_reply_to_user_id": "1484881942512226304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969977868177551726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannanlan1 给你加一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1969977868177551726",
+        "created_at": "2025-09-23T21:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T22:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970605178933125402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1484881942512226304",
+              "start": 0,
+              "username": "nannanlan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970605178933125402",
+        "in_reply_to_user_id": "1484881942512226304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969977868177551726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannanlan1 给你加一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484881942512226304",
+        "conversation_id": "1969977868177551726",
+        "created_at": "2025-09-22T04:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969977868177551726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969977868177551726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7841,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再掉粉了呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 3965,
+          "like_count": 48783,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 11766
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T13:35:10.000Z",
+        "description": "我好伤心",
+        "id": "1484881942512226304",
+        "location": "外星",
+        "name": "lanlanlong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935171859735252992/nRKwGGSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 333,
+          "like_count": 1182,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 631
+        },
+        "username": "nannanlan1",
+        "verified": false
+      }
+    ]
+  }
+}

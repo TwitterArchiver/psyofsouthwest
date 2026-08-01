@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2031925706364727725",
+    "created_at": "2026-03-12T02:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T03:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031925706364727725"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Dorocord",
+          "probability": 0.9,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1540305025771118594",
+          "start": 3,
+          "username": "Darkyoshi0007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031925706364727725",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031919495371989497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Darkyoshi0007: I made a story for a user on the Dorocord server, and I'm seriously considering uploading it here to my account as well,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "16_2031919488837541888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDLUAnBa4AAUa62.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDLUAnBa4AAUa62.mp4"
+          }
+        ],
+        "width": 128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2031925706364727725",
+        "created_at": "2026-03-12T02:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031925706364727725"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Dorocord",
+              "probability": 0.9,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1540305025771118594",
+              "start": 3,
+              "username": "Darkyoshi0007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031925706364727725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031919495371989497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Darkyoshi0007: I made a story for a user on the Dorocord server, and I'm seriously considering uploading it here to my account as well,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2031919488837541888"
+          ]
+        },
+        "author_id": "1540305025771118594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2031919495371989497",
+        "created_at": "2026-03-12T02:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031919495371989497"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Dorocord",
+              "probability": 0.9087,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1YppIlkZh",
+              "end": 303,
+              "expanded_url": "https://x.com/Darkyoshi0007/status/2031919495371989497/photo/1",
+              "media_key": "16_2031919488837541888",
+              "start": 280,
+              "url": "https://t.co/x1YppIlkZh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031919495371989497",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I made a story for a user on the Dorocord server, and I'm seriously considering uploading it here to my account as well, since I've noticed a lot of people are hesitant to upload AI-generated drawings. Honestly, if I knew how to draw and had a lot of free time, I'd do it myself. https://t.co/x1YppIlkZh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4744,
+          "like_count": 92977,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 13876
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:05:33.000Z",
+        "description": "Intento de streamer y maestro en psicología y orientación escolar l tengo 25 años l me encanta los videojuegos retro\nhttps://t.co/uwavt5KuHJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@darkyoshi007",
+                "end": 140,
+                "expanded_url": "http://tiktok.com/@darkyoshi007",
+                "start": 117,
+                "url": "https://t.co/uwavt5KuHJ"
+              }
+            ]
+          }
+        },
+        "id": "1540305025771118594",
+        "name": "Darkyoshi007",
+        "pinned_tweet_id": "2017407270590554479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017406585383927808/0RP2gvtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 30,
+          "like_count": 2115,
+          "listed_count": 7,
+          "media_count": 421,
+          "tweet_count": 728
+        },
+        "username": "Darkyoshi0007",
+        "verified": false
+      }
+    ]
+  }
+}

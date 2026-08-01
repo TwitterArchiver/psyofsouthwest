@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2058905638575419675",
+    "created_at": "2026-05-25T23:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059050878733070799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1524662385554132992",
+          "start": 0,
+          "username": "IngWeilai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059050878733070799",
+    "in_reply_to_user_id": "1524662385554132992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058905638575419675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IngWeilai 食人族"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2058905633445818368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKzw9uWsAAZm0p.jpg",
+        "width": 388
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2058905633454219264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKzw9wW4AAVLIn.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058905633454206976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKzw9wWsAA03TC.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2058905638575419675",
+        "created_at": "2026-05-25T23:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059050878733070799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1524662385554132992",
+              "start": 0,
+              "username": "IngWeilai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059050878733070799",
+        "in_reply_to_user_id": "1524662385554132992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058905638575419675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IngWeilai 食人族"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058905633445818368",
+            "3_2058905633454219264",
+            "3_2058905633454206976"
+          ]
+        },
+        "author_id": "1524662385554132992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2058905638575419675",
+        "created_at": "2026-05-25T13:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058905638575419675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udWlE5txaI",
+              "end": 111,
+              "expanded_url": "https://x.com/IngWeilai/status/2058905638575419675/photo/1",
+              "media_key": "3_2058905633445818368",
+              "start": 88,
+              "url": "https://t.co/udWlE5txaI"
+            },
+            {
+              "display_url": "pic.x.com/udWlE5txaI",
+              "end": 111,
+              "expanded_url": "https://x.com/IngWeilai/status/2058905638575419675/photo/1",
+              "media_key": "3_2058905633454219264",
+              "start": 88,
+              "url": "https://t.co/udWlE5txaI"
+            },
+            {
+              "display_url": "pic.x.com/udWlE5txaI",
+              "end": 111,
+              "expanded_url": "https://x.com/IngWeilai/status/2058905638575419675/photo/1",
+              "media_key": "3_2058905633454206976",
+              "start": 88,
+              "url": "https://t.co/udWlE5txaI"
+            },
+            {
+              "display_url": "x.com/ingweilai/stat…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/ingweilai/status/2058884280781074821",
+              "start": 112,
+              "url": "https://t.co/p0kb8n8lS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058905638575419675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4790,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058884280781074821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友找到山西沁源县县委书记，赵永进以前接受采访的照片，一脸赘肉。评论区：这伙食真好。评论区都是阴阳怪气\n长治新闻，已经把该视频的评论区控评。该视频发布于2025年12月28日 https://t.co/udWlE5txaI https://t.co/p0kb8n8lS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4725,
+          "like_count": 120267,
+          "listed_count": 2,
+          "media_count": 452,
+          "tweet_count": 15378
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T08:07:02.000Z",
+        "description": "youtube频道https://t.co/7yh73wgYTu tiktok https:https://t.co/j8rWpxzb4n 更新中国政治以及一切社会事件新闻，欢迎关注。 欢迎投稿 ，中国大部分人只是恨自己和家人不是权贵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ziyousuiwo",
+                "end": 32,
+                "expanded_url": "https://youtube.com/@ziyousuiwo",
+                "start": 9,
+                "url": "https://t.co/7yh73wgYTu"
+              },
+              {
+                "display_url": "tiktok.com/@ziyousuiwo?_t…",
+                "end": 69,
+                "expanded_url": "http://www.tiktok.com/@ziyousuiwo?_t=8qCvY7jTekx&_r=1",
+                "start": 46,
+                "url": "https://t.co/j8rWpxzb4n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ziyousuiwo?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ziyousuiwo?si=qJSY2ixEdCKt95LY",
+                "start": 0,
+                "url": "https://t.co/LrTK4v7YZo"
+              }
+            ]
+          }
+        },
+        "id": "1524662385554132992",
+        "name": "ziyousuiwo（随时更新中国新闻评论）",
+        "pinned_tweet_id": "2058333445789528330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597759406800015362/aLRPPSoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38282,
+          "following_count": 805,
+          "like_count": 2380,
+          "listed_count": 173,
+          "media_count": 9720,
+          "tweet_count": 40298
+        },
+        "url": "https://t.co/LrTK4v7YZo",
+        "username": "IngWeilai",
+        "verified": true
+      }
+    ]
+  }
+}

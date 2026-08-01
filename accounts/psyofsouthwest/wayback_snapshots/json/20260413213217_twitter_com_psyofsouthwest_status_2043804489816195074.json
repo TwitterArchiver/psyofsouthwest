@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2043665808820515041",
+    "created_at": "2026-04-13T21:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043804489816195074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043804489816195074",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043665808820515041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 泉，你还好吗😳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72305,
+        "height": 1280,
+        "media_key": "13_2043665510219554816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043665510219554816/img/xtuQUheMrt2LL8cU.jpg",
+        "public_metrics": {
+          "view_count": 66154
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/320x568/oSBxxK5XUw1XTS-8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/480x852/VsvvcXZOIwvIsnLN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/vid/avc1/720x1280/VuWwNCnZkvAiiSYE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043665510219554816/pl/BhQ8bD5jwkgJRDwi.m3u8?v=c16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2043665808820515041",
+        "created_at": "2026-04-13T21:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043804489816195074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043804489816195074",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043665808820515041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 泉，你还好吗😳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043665510219554816"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2043665808820515041",
+        "created_at": "2026-04-13T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043665808820515041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjfhwFCqPy",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/2043665808820515041/video/1",
+              "media_key": "13_2043665510219554816",
+              "start": 0,
+              "url": "https://t.co/BjfhwFCqPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665808820515041",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 69035,
+          "like_count": 1953,
+          "quote_count": 12,
+          "reply_count": 53,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BjfhwFCqPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4747,
+          "like_count": 105243,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14483
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7614,
+          "following_count": 598,
+          "like_count": 6374,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 2846
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

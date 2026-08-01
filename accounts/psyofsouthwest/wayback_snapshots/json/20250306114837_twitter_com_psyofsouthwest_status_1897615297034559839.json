@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1897614663623266721",
+    "created_at": "2025-03-06T11:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897615297034559839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800747848293613568",
+          "start": 0,
+          "username": "naichaxianren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897615297034559839",
+    "in_reply_to_user_id": "1800747848293613568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897614663623266721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naichaxianren 助力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1897614663623266721",
+        "created_at": "2025-03-06T11:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897615297034559839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800747848293613568",
+              "start": 0,
+              "username": "naichaxianren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897615297034559839",
+        "in_reply_to_user_id": "1800747848293613568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897614663623266721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naichaxianren 助力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800747848293613568",
+        "conversation_id": "1897614663623266721",
+        "created_at": "2025-03-06T11:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897614663623266721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897614663623266721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊我快1400粉了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 3194,
+          "like_count": 26103,
+          "listed_count": 7,
+          "media_count": 312,
+          "tweet_count": 9970
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T04:32:07.000Z",
+        "description": "希望我的某个瞬间、某点碎片、某条语言能触动到你，而不是只有发身体照片会被记住",
+        "id": "1800747848293613568",
+        "location": "一万光年外",
+        "name": "奶茶仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861991846853099520/JPLbZ03J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 36,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 486
+        },
+        "username": "naichaxianren",
+        "verified": false
+      }
+    ]
+  }
+}

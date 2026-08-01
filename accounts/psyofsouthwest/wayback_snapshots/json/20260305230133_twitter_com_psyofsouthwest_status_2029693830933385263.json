@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Popular Memes and Trends",
+          "id": "1046574503331909633",
+          "name": "Memes"
+        }
+      }
+    ],
+    "conversation_id": "2029693830933385263",
+    "created_at": "2026-03-05T23:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T00:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029693830933385263"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "DORO",
+          "probability": 0.5819,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "doro",
+          "probability": 0.5998,
+          "start": 47,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "doro"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "ドロ"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "cute"
+        },
+        {
+          "end": 69,
+          "start": 62,
+          "tag": "shorts"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "meme"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018102394001768448",
+          "start": 3,
+          "username": "doro_forgexmimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029693830933385263",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029578517873037788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_forgexmimi: DORO imitates a real ace #doro #ドロ #cute #shorts #meme  No one  doro was injured or in danger during the filming of th…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25774,
+        "height": 2560,
+        "media_key": "13_2029578299278516224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029578299278516224/img/gUhGtNzzlRGwhKnL.jpg",
+        "public_metrics": {
+          "view_count": 1208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029578299278516224/vid/avc1/320x568/0ngY5EuVbvvDIwAM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029578299278516224/vid/avc1/480x852/gV0d5sw6q80yFPGG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029578299278516224/vid/avc1/720x1280/H79oX2I66sJuWTiZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029578299278516224/pl/BPTR7CF_fC3WOne-.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2029693830933385263",
+        "created_at": "2026-03-05T23:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029693830933385263"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "DORO",
+              "probability": 0.5819,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "doro",
+              "probability": 0.5998,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "doro"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "ドロ"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "cute"
+            },
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "shorts"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "meme"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018102394001768448",
+              "start": 3,
+              "username": "doro_forgexmimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029693830933385263",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029578517873037788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_forgexmimi: DORO imitates a real ace #doro #ドロ #cute #shorts #meme  No one  doro was injured or in danger during the filming of th…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029578299278516224"
+          ]
+        },
+        "author_id": "2018102394001768448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2029578517873037788",
+        "created_at": "2026-03-05T15:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029578517873037788"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "DORO",
+              "probability": 0.5882,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "doro",
+              "probability": 0.6474,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "doro"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "ドロ"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "cute"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "shorts"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "meme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqILzALwV5",
+              "end": 151,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2029578517873037788/video/1",
+              "media_key": "13_2029578299278516224",
+              "start": 128,
+              "url": "https://t.co/fqILzALwV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029578517873037788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 2952,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "DORO imitates a real ace #doro #ドロ #cute #shorts #meme  No one  doro was injured or in danger during the filming of this scene. https://t.co/fqILzALwV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4725,
+          "like_count": 90093,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13681
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:21:35.000Z",
+        "description": "need make doro happy",
+        "id": "2018102394001768448",
+        "name": "DORO FORGE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026136259349897216/ZG-bYpA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 19,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 31
+        },
+        "username": "doro_forgexmimi",
+        "verified": false
+      }
+    ]
+  }
+}

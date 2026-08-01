@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946381929504288768"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1946264243751272632",
+    "created_at": "2025-07-19T01:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T02:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946381932117311768"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 109,
+          "normalized_text": "Congress",
+          "probability": 0.7003,
+          "start": 102,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513410916473192450",
+          "start": 0,
+          "username": "PamphletsY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTjOp6BA04",
+          "end": 149,
+          "expanded_url": "https://x.com/psyofsouthwest/status/1946381932117311768/photo/1",
+          "media_key": "3_1946381929504288768",
+          "start": 126,
+          "url": "https://t.co/vTjOp6BA04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946381932117311768",
+    "in_reply_to_user_id": "1513410916473192450",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946264243751272632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PamphletsY An election with only one candidate, no one opposed, no one abstained, and all members of Congress voted in favor https://t.co/vTjOp6BA04"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1946381929504288768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwLwDXFXsAAWT5B.jpg",
+        "width": 634
+      },
+      {
+        "height": 360,
+        "media_key": "3_1946264241729589248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKFBB9WUAA4g3_.jpg",
+        "width": 265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946381929504288768"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1946264243751272632",
+        "created_at": "2025-07-19T01:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T02:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946381932117311768"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 109,
+              "normalized_text": "Congress",
+              "probability": 0.7003,
+              "start": 102,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTjOp6BA04",
+              "end": 149,
+              "expanded_url": "https://x.com/psyofsouthwest/status/1946381932117311768/photo/1",
+              "media_key": "3_1946381929504288768",
+              "start": 126,
+              "url": "https://t.co/vTjOp6BA04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946381932117311768",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946264243751272632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY An election with only one candidate, no one opposed, no one abstained, and all members of Congress voted in favor https://t.co/vTjOp6BA04"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946264241729589248"
+          ]
+        },
+        "author_id": "1513410916473192450",
+        "conversation_id": "1946264243751272632",
+        "created_at": "2025-07-18T17:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T18:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946264243751272632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICpPENl1OV",
+              "end": 23,
+              "expanded_url": "https://x.com/PamphletsY/status/1946264243751272632/photo/1",
+              "media_key": "3_1946264241729589248",
+              "start": 0,
+              "url": "https://t.co/ICpPENl1OV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946264243751272632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 76120,
+          "like_count": 2948,
+          "quote_count": 12,
+          "reply_count": 112,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ICpPENl1OV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 3875,
+          "like_count": 41679,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11360
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "⚠️ USSR State-Affiliated Media\n\n.\n\nIndependent Regime Journalism",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog",
+                "start": 0,
+                "url": "https://t.co/dZ1ZdZjOlw"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Province of Leningrad, Russia",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "1945698190411362466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911658010159570944/eoYynHI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92494,
+          "following_count": 8254,
+          "like_count": 70419,
+          "listed_count": 826,
+          "media_count": 21665,
+          "tweet_count": 49441
+        },
+        "url": "https://t.co/dZ1ZdZjOlw",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

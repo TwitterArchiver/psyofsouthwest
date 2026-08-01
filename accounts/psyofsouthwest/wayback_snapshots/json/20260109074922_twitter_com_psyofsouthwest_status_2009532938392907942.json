@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2009448050713059696",
+    "created_at": "2026-01-09T07:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009532938392907942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1080476780991963137",
+          "start": 0,
+          "username": "bitfool1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009532938392907942",
+    "in_reply_to_user_id": "1080476780991963137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009448050713059696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitfool1 烟草方面的收入能养好解放军，吸烟等于支持对内镇压对外战争，这明显是针对老共的认知战"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2009448050713059696",
+        "created_at": "2026-01-09T07:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009532938392907942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1080476780991963137",
+              "start": 0,
+              "username": "bitfool1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009532938392907942",
+        "in_reply_to_user_id": "1080476780991963137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009448050713059696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitfool1 烟草方面的收入能养好解放军，吸烟等于支持对内镇压对外战争，这明显是针对老共的认知战"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080476780991963137",
+        "conversation_id": "2009448050713059696",
+        "created_at": "2026-01-09T02:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009448050713059696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009448050713059696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 64145,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内4700万网民呼应戒烟运动，咋突然这么多人开始戒烟了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008850628722974720/i8U-Mww2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 4347,
+          "like_count": 66246,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 12504
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T14:51:53.000Z",
+        "description": "Crypto职业投资人、脚本小子、Meme玩家。 自诩为傻，独立观点。",
+        "id": "1080476780991963137",
+        "location": "全球走",
+        "name": "比特傻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934977318348578816/fVgEaK65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127038,
+          "following_count": 1587,
+          "like_count": 180,
+          "listed_count": 1993,
+          "media_count": 3343,
+          "tweet_count": 15108
+        },
+        "username": "bitfool1",
+        "verified": true
+      }
+    ]
+  }
+}

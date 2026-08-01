@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+          "id": "1142154424866856960",
+          "name": "JP - National Pension"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "1984624123713028339",
+    "created_at": "2025-11-02T01:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T02:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984792324870980084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "977247415089672194",
+          "start": 0,
+          "username": "RickyYu6612"
+        },
+        {
+          "end": 24,
+          "id": "1146347527345590273",
+          "start": 13,
+          "username": "Haiyang331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984792324870980084",
+    "in_reply_to_user_id": "977247415089672194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984788879250256033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RickyYu6612 @Haiyang331 双轨制转换成了各单位各部门隐藏的年金和不同阶层缴纳的差异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "1984624123713028339",
+        "created_at": "2025-11-02T01:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984792324870980084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "977247415089672194",
+              "start": 0,
+              "username": "RickyYu6612"
+            },
+            {
+              "end": 24,
+              "id": "1146347527345590273",
+              "start": 13,
+              "username": "Haiyang331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984792324870980084",
+        "in_reply_to_user_id": "977247415089672194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984788879250256033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RickyYu6612 @Haiyang331 双轨制转换成了各单位各部门隐藏的年金和不同阶层缴纳的差异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "977247415089672194",
+        "conversation_id": "1984624123713028339",
+        "created_at": "2025-11-02T01:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984788879250256033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1146347527345590273",
+              "start": 0,
+              "username": "Haiyang331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984788879250256033",
+        "in_reply_to_user_id": "1146347527345590273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984761240552702405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haiyang331 你就拿出其中的一项来说？那城乡的养老金不双轨吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 4024,
+          "like_count": 53081,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 12046
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-23T18:15:14.000Z",
+        "description": "Just a guy",
+        "id": "977247415089672194",
+        "location": "Westworld",
+        "name": "卖火柴的阿甘",
+        "pinned_tweet_id": "1683699103275028480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688798887140839424/sD6YrKIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48292,
+          "following_count": 3255,
+          "like_count": 261526,
+          "listed_count": 248,
+          "media_count": 2607,
+          "tweet_count": 50476
+        },
+        "username": "RickyYu6612",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-03T09:18:43.000Z",
+        "description": "以前你总是说一餐要吃七顿饭，现在超标了吧😀",
+        "id": "1146347527345590273",
+        "location": "Fujian",
+        "name": "大风车",
+        "pinned_tweet_id": "1956722006646538478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933791517992423424/JpMH2DFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 171,
+          "like_count": 4541,
+          "listed_count": 12,
+          "media_count": 990,
+          "tweet_count": 31873
+        },
+        "username": "Haiyang331",
+        "verified": false
+      }
+    ]
+  }
+}

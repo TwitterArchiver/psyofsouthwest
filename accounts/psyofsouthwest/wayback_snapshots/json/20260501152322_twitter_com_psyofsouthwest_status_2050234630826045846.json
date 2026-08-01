@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2050052477572259971",
+    "created_at": "2026-05-01T15:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050234630826045846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580767946179194882",
+          "start": 0,
+          "username": "ibrewcookie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050234630826045846",
+    "in_reply_to_user_id": "1580767946179194882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050052477572259971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ibrewcookie 35岁门槛是从年轻干部任用发展出来的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2050052477572259971",
+        "created_at": "2026-05-01T15:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050234630826045846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580767946179194882",
+              "start": 0,
+              "username": "ibrewcookie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050234630826045846",
+        "in_reply_to_user_id": "1580767946179194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050052477572259971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibrewcookie 35岁门槛是从年轻干部任用发展出来的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "conversation_id": "2050052477572259971",
+        "created_at": "2026-05-01T03:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050052477572259971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050052477572259971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12942,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从知道996 以及 35岁失业是某品牌搞出来的风气，再也不买它的手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 4795,
+          "like_count": 113638,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 14965
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻CS 读完 码也敲过\n🌊 深度大于速度\n🧠 想清楚大于做得快\n🌱 记录从 0 开始做自媒体\n✨ 在找下一件让我兴奋的事",
+        "id": "1580767946179194882",
+        "location": "Los Angeles, CA",
+        "name": "brewcookie",
+        "pinned_tweet_id": "2049387214535368948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 85,
+          "like_count": 473,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 361
+        },
+        "username": "ibrewcookie",
+        "verified": true
+      }
+    ]
+  }
+}

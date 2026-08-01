@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1924640217937674741",
+    "created_at": "2025-05-20T15:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924857497413619974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "331474801",
+          "start": 0,
+          "username": "caoqingbo"
+        },
+        {
+          "end": 19,
+          "id": "18896395",
+          "start": 11,
+          "username": "ezshine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924857497413619974",
+    "in_reply_to_user_id": "331474801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924644054702424192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caoqingbo @ezshine 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1924640217937674741",
+        "created_at": "2025-05-20T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924857497413619974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "331474801",
+              "start": 0,
+              "username": "caoqingbo"
+            },
+            {
+              "end": 19,
+              "id": "18896395",
+              "start": 11,
+              "username": "ezshine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924857497413619974",
+        "in_reply_to_user_id": "331474801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924644054702424192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caoqingbo @ezshine 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331474801",
+        "conversation_id": "1924640217937674741",
+        "created_at": "2025-05-20T01:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924644054702424192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "18896395",
+              "start": 0,
+              "username": "ezshine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924644054702424192",
+        "in_reply_to_user_id": "18896395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22388,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924640217937674741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezshine 这个不可复制，因为就是去看他老婆的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 3865,
+          "like_count": 38722,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 11111
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T07:03:20.000Z",
+        "description": "",
+        "id": "331474801",
+        "name": "maike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684802789191581696/5w5gzy_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 399,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 506
+        },
+        "username": "caoqingbo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-12T09:29:14.000Z",
+        "description": "退休程序员，个人站长，目前移居泰国做出海，关注编程，AI，SEO，营销和增长黑客。🔍全网同名，个人微信@itdashuai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "itdashuai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dashu.ai",
+                "end": 23,
+                "expanded_url": "https://dashu.ai/",
+                "start": 0,
+                "url": "https://t.co/hsDIuOtwEC"
+              }
+            ]
+          }
+        },
+        "id": "18896395",
+        "location": "Blog ➡️",
+        "name": "大帅老猿",
+        "pinned_tweet_id": "1763538685159465250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42470,
+          "following_count": 618,
+          "like_count": 2434,
+          "listed_count": 252,
+          "media_count": 1835,
+          "tweet_count": 11101
+        },
+        "url": "https://t.co/hsDIuOtwEC",
+        "username": "ezshine",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1952327633401958907",
+    "created_at": "2025-08-04T23:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T00:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952510624459870382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3316656829",
+          "start": 0,
+          "username": "magicianplum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952510624459870382",
+    "in_reply_to_user_id": "3316656829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952327633401958907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magicianplum 你爸爸吃不消你精力旺盛😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1952327633401958907",
+        "created_at": "2025-08-04T23:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T00:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952510624459870382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3316656829",
+              "start": 0,
+              "username": "magicianplum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952510624459870382",
+        "in_reply_to_user_id": "3316656829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952327633401958907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magicianplum 你爸爸吃不消你精力旺盛😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3316656829",
+        "conversation_id": "1952327633401958907",
+        "created_at": "2025-08-04T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952327633401958907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952327633401958907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醫生特別交代物理治療師要注意我的腳\n因為我好像有點骨裂\n太貼心了😭😭😭😭\n但我爸是說骨裂不會這樣一天就活蹦亂跳的啦\n我也沒有活蹦亂跳我是痛啦但能走路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 3907,
+          "like_count": 43635,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11479
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-16T07:09:02.000Z",
+        "description": "我喜歡動畫K-pop 喜歡聊天常開音間",
+        "id": "3316656829",
+        "location": "第三新東京市",
+        "name": "李子",
+        "pinned_tweet_id": "1873343028708196811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771389112546983936/f9Jva4LL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 411,
+          "like_count": 262420,
+          "listed_count": 7,
+          "media_count": 2960,
+          "tweet_count": 51805
+        },
+        "username": "magicianplum",
+        "verified": false
+      }
+    ]
+  }
+}

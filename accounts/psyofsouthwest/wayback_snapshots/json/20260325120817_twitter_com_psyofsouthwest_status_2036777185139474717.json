@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035244047926009857"
+      ],
+      "media_source_tweet_id": [
+        "2036472607902744938"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2036777185139474717",
+    "created_at": "2026-03-25T12:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036777185139474717"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "gugugaga"
+        },
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "seedance2"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238039266057261062",
+          "start": 3,
+          "username": "ZocLucis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WaOw0zyUnB",
+          "end": 85,
+          "expanded_url": "https://x.com/ZocLucis/status/2036472607902744938/video/1",
+          "media_key": "13_2035244047926009857",
+          "start": 62,
+          "url": "https://t.co/WaOw0zyUnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036777185139474717",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036472607902744938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZocLucis: shhh...no snore time #gugugaga #seedance2 #doro https://t.co/WaOw0zyUnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_2035244047926009857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035244047926009857/img/rpC8NRC-FTXIIwC9.jpg",
+        "public_metrics": {
+          "view_count": 1570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035244047926009857/vid/avc1/320x568/QNHX_20hDq-_vkMx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035244047926009857/vid/avc1/480x852/2vXb-67PZCoMQv_p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035244047926009857/vid/avc1/720x1280/w2uP4baRbzQMWZ4d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035244047926009857/pl/Jg9D2paYIXOQuRH8.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035244047926009857"
+          ],
+          "media_source_tweet_id": [
+            "2036472607902744938"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2036777185139474717",
+        "created_at": "2026-03-25T12:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036777185139474717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "seedance2"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238039266057261062",
+              "start": 3,
+              "username": "ZocLucis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaOw0zyUnB",
+              "end": 85,
+              "expanded_url": "https://x.com/ZocLucis/status/2036472607902744938/video/1",
+              "media_key": "13_2035244047926009857",
+              "start": 62,
+              "url": "https://t.co/WaOw0zyUnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036777185139474717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036472607902744938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZocLucis: shhh...no snore time #gugugaga #seedance2 #doro https://t.co/WaOw0zyUnB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035244047926009857"
+          ]
+        },
+        "author_id": "1238039266057261062",
+        "conversation_id": "2036472607902744938",
+        "created_at": "2026-03-24T15:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036472607902744938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "gugugaga"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "seedance2"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaOw0zyUnB",
+              "end": 71,
+              "expanded_url": "https://x.com/ZocLucis/status/2036472607902744938/video/1",
+              "media_key": "13_2035244047926009857",
+              "start": 48,
+              "url": "https://t.co/WaOw0zyUnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036472607902744938",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4072,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "shhh...no snore time #gugugaga #seedance2 #doro https://t.co/WaOw0zyUnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 4753,
+          "like_count": 99096,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14143
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T09:49:07.000Z",
+        "description": "nothing is permanent",
+        "id": "1238039266057261062",
+        "name": "Lucis",
+        "pinned_tweet_id": "1722807135372005701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757695084206993408/U6mEZUmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 515,
+          "like_count": 108962,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 1293
+        },
+        "username": "ZocLucis",
+        "verified": true
+      }
+    ]
+  }
+}

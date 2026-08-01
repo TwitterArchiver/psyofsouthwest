@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1979952269882802198",
+    "created_at": "2025-10-19T16:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979952269882802198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "972104594",
+          "start": 3,
+          "username": "lidongyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979952269882802198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979376829703295258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidongyx: 学编程、写代码的时候，最重要的是始终记住这三大核心概念：过程（Process）、数据（Data）、抽象（Abstraction）。这三个词，几乎贯穿了整个计算机科学。\n\n过程代表程序的逻辑与行动，它体现在循环、判断、函数、算法等中。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1979952269882802198",
+        "created_at": "2025-10-19T16:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979952269882802198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "972104594",
+              "start": 3,
+              "username": "lidongyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979952269882802198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979376829703295258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidongyx: 学编程、写代码的时候，最重要的是始终记住这三大核心概念：过程（Process）、数据（Data）、抽象（Abstraction）。这三个词，几乎贯穿了整个计算机科学。\n\n过程代表程序的逻辑与行动，它体现在循环、判断、函数、算法等中。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972104594",
+        "conversation_id": "1979376829703295258",
+        "created_at": "2025-10-18T02:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979376829703295258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979376829703295258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "学编程、写代码的时候，最重要的是始终记住这三大核心概念：过程（Process）、数据（Data）、抽象（Abstraction）。这三个词，几乎贯穿了整个计算机科学。\n\n过程代表程序的逻辑与行动，它体现在循环、判断、函数、算法等中。\n\n而一切程序都围绕“数据”展开，程序的状态、输入、输出、存储、传输都属于数据的流动。一个好程序员，永远从数据结构思考问题。\n\n抽象就是屏蔽细节、暴露本质、简化复杂性的方法，也是程序员编程能力的上限：\n1️⃣ 函数是对行为的抽象；\n2️⃣ 类是对对象的抽象；\n3️⃣ 模块是对功能的抽象；\n4️⃣ API 是对系统交互的抽象；\n5️⃣ 框架，是对常见模式的抽象。\n\n《How to Design Programs》提出的设计方法是：先定义数据，再设计操作数据的函数，最后建立抽象层。这是程序设计的黄金路线。\nSICP也明确分 “用过程构建抽象”与“用数据构建抽象”两大篇章。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 61809,
+          "like_count": 730,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "学编程、写代码的时候，最重要的是始终记住这三大核心概念：过程（Process）、数据（Data）、抽象（Abstraction）。这三个词，几乎贯穿了整个计算机科学。\n\n过程代表程序的逻辑与行动，它体现在循环、判断、函数、算法等中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 3986,
+          "like_count": 50932,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11905
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-26T14:51:27.000Z",
+        "description": "致力于互联网技术技能的普及。CS名校课程：https://t.co/Ox83bq0MOC；编程、全栈快速入门：https://t.co/Q6pzjgIyIX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hackway.org",
+                "end": 44,
+                "expanded_url": "http://hackway.org",
+                "start": 21,
+                "url": "https://t.co/Ox83bq0MOC"
+              },
+              {
+                "display_url": "hackwork.org",
+                "end": 78,
+                "expanded_url": "http://hackwork.org",
+                "start": 55,
+                "url": "https://t.co/Q6pzjgIyIX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hackway.org",
+                "end": 23,
+                "expanded_url": "https://hackway.org",
+                "start": 0,
+                "url": "https://t.co/YnMnoPWoub"
+              }
+            ]
+          }
+        },
+        "id": "972104594",
+        "location": "United States",
+        "name": "李东bbsky",
+        "pinned_tweet_id": "1979376829703295258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905209872356118528/_oZZ4Sjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 1031,
+          "like_count": 803,
+          "listed_count": 21,
+          "media_count": 113,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/YnMnoPWoub",
+        "username": "lidongyx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1802970971294572808",
+    "created_at": "2024-06-18T07:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T08:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802971921044168983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465358432769560576",
+          "start": 0,
+          "username": "haiyan_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802971921044168983",
+    "in_reply_to_user_id": "1465358432769560576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802970971294572808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiyan_626 这是什么判官医生？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1802970971294572808",
+        "created_at": "2024-06-18T07:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802971921044168983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465358432769560576",
+              "start": 0,
+              "username": "haiyan_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802971921044168983",
+        "in_reply_to_user_id": "1465358432769560576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802970971294572808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiyan_626 这是什么判官医生？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1465358432769560576",
+        "conversation_id": "1802970971294572808",
+        "created_at": "2024-06-18T07:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802970971294572808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802970971294572808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我醫生覺得我沒資格「發脾氣」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2253,
+          "like_count": 12364,
+          "listed_count": 4,
+          "tweet_count": 6515
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T16:34:29.000Z",
+        "description": "🩹",
+        "id": "1465358432769560576",
+        "location": "🏥x19 Bipolar/ASD",
+        "name": "海菌",
+        "pinned_tweet_id": "1800936135159595205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802025763287494656/tawLlyai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 332,
+          "like_count": 39897,
+          "listed_count": 7,
+          "tweet_count": 7626
+        },
+        "username": "haiyan_626",
+        "verified": false
+      }
+    ]
+  }
+}

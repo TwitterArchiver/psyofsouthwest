@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1859205963909120440",
+    "created_at": "2024-11-20T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859208428544995698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1726280028931964928",
+          "start": 0,
+          "username": "adora0703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859208428544995698",
+    "in_reply_to_user_id": "1726280028931964928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859205963909120440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adora0703 相关系数的范围是在-1到1之间，-1为负相关，1为正相关，相关系数绝对值越大，相关性越强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1859205963909120440",
+        "created_at": "2024-11-20T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859208428544995698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1726280028931964928",
+              "start": 0,
+              "username": "adora0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859208428544995698",
+        "in_reply_to_user_id": "1726280028931964928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859205963909120440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adora0703 相关系数的范围是在-1到1之间，-1为负相关，1为正相关，相关系数绝对值越大，相关性越强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859205951695314944"
+          ]
+        },
+        "author_id": "1726280028931964928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1859205963909120440",
+        "created_at": "2024-11-20T12:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859205963909120440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rXgwGm3oF",
+              "end": 139,
+              "expanded_url": "https://x.com/adora0703/status/1859205963909120440/photo/1",
+              "media_key": "3_1859205951695314944",
+              "start": 116,
+              "url": "https://t.co/8rXgwGm3oF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859205963909120440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里有一个相关性的问题。 \n问题是：心理学问题\n以下哪个相关系数表明变量之间存在更强的线性关系？ \n一）0.77\nB）0.55\nC）0.23\nD）-0.82\n注：我知道答案，但我总是在这类问题上犯错误，因为我不知道解决它们的逻辑。 https://t.co/8rXgwGm3oF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 2775,
+          "like_count": 19675,
+          "listed_count": 4,
+          "tweet_count": 8533
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T16:43:41.000Z",
+        "description": "穆斯林/土耳其语 / Ülkücü",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Dilektut",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Dilektut",
+                "start": 0,
+                "url": "https://t.co/eL7YD97QsE"
+              }
+            ]
+          }
+        },
+        "id": "1726280028931964928",
+        "location": "https://www.youtube.com/@Dilek",
+        "name": "🇹🇷ADORA🇹🇷",
+        "pinned_tweet_id": "1805833648945431000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849347288251944960/SeQH5mtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 290,
+          "like_count": 7445,
+          "listed_count": 2,
+          "tweet_count": 11120
+        },
+        "url": "https://t.co/eL7YD97QsE",
+        "username": "adora0703",
+        "verified": false
+      }
+    ]
+  }
+}

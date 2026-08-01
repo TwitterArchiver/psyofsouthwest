@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2006921868545302852",
+    "created_at": "2026-01-02T23:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T00:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007233848229433606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "350649380",
+          "start": 0,
+          "username": "kalasoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007233848229433606",
+    "in_reply_to_user_id": "350649380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006921868545302852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kalasoo 我就是了，我要注意一下言辞😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2006921868545302852",
+        "created_at": "2026-01-02T23:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T00:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007233848229433606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "350649380",
+              "start": 0,
+              "username": "kalasoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007233848229433606",
+        "in_reply_to_user_id": "350649380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006921868545302852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kalasoo 我就是了，我要注意一下言辞😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "350649380",
+        "conversation_id": "2006921868545302852",
+        "created_at": "2026-01-02T02:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T03:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006921868545302852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006921868545302852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 89837,
+          "like_count": 703,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "最近在避雷一类人\n\n中年\n无所成，缺少作品，不太有钱\n有一大堆观点\n以及和一堆名人的故事\n喜欢评价\n爹登合璧\n\n怕了 😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 4230,
+          "like_count": 63578,
+          "listed_count": 5,
+          "media_count": 377,
+          "tweet_count": 12401
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-08T03:13:50.000Z",
+        "description": "🌈 Crazy Monster!\nBuilding a vibe lifestyle https://t.co/xbi2doVkeQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vibecafe.ai",
+                "end": 66,
+                "expanded_url": "http://vibecafe.ai",
+                "start": 43,
+                "url": "https://t.co/xbi2doVkeQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yinming.me",
+                "end": 23,
+                "expanded_url": "https://yinming.me",
+                "start": 0,
+                "url": "https://t.co/LmJv6RiHXw"
+              }
+            ]
+          }
+        },
+        "id": "350649380",
+        "location": "Beijing",
+        "name": "Ming Yin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218534066842042368/In5G1777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3237,
+          "following_count": 947,
+          "like_count": 2007,
+          "listed_count": 47,
+          "media_count": 270,
+          "tweet_count": 2886
+        },
+        "url": "https://t.co/LmJv6RiHXw",
+        "username": "kalasoo",
+        "verified": true
+      }
+    ]
+  }
+}

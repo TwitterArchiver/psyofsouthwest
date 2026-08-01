@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1983987492484419642",
+    "created_at": "2025-10-30T20:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T21:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983987492484419642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1352188646766436352",
+          "start": 3,
+          "username": "techeconomyana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983987492484419642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983887943476678843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @techeconomyana: 比亚迪披露2025年三季报：营收1949.85亿元，同比下降3.05%；归母净利润78.23亿元，同比下降32.6%。今年前三季度，经营活动产生的现金流量净额为408.45亿元，同比下降27.42%。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1983987492484419642",
+        "created_at": "2025-10-30T20:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983987492484419642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1352188646766436352",
+              "start": 3,
+              "username": "techeconomyana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983987492484419642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983887943476678843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @techeconomyana: 比亚迪披露2025年三季报：营收1949.85亿元，同比下降3.05%；归母净利润78.23亿元，同比下降32.6%。今年前三季度，经营活动产生的现金流量净额为408.45亿元，同比下降27.42%。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352188646766436352",
+        "conversation_id": "1983887943476678843",
+        "created_at": "2025-10-30T13:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983887943476678843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/techeconomyana…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/techeconomyana/status/1962513772821803396",
+              "start": 101,
+              "url": "https://t.co/5ULtBpeo9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983887943476678843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 32045,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962513772821803396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比亚迪披露2025年三季报：营收1949.85亿元，同比下降3.05%；归母净利润78.23亿元，同比下降32.6%。今年前三季度，经营活动产生的现金流量净额为408.45亿元，同比下降27.42%。 https://t.co/5ULtBpeo9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 4017,
+          "like_count": 52271,
+          "listed_count": 7,
+          "media_count": 371,
+          "tweet_count": 11994
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T09:37:58.000Z",
+        "description": "经济数据分析，科技行业动态追踪。",
+        "id": "1352188646766436352",
+        "location": "China",
+        "name": "高级分析师",
+        "pinned_tweet_id": "1975496626639937952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751245194069188608/ToFwo_l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39129,
+          "following_count": 554,
+          "like_count": 26782,
+          "listed_count": 452,
+          "media_count": 743,
+          "tweet_count": 6541
+        },
+        "username": "techeconomyana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1872200857053512071",
+    "created_at": "2024-12-26T11:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872248339464667383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1408728834799673351",
+          "start": 0,
+          "username": "KELMAND1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872248339464667383",
+    "in_reply_to_user_id": "1408728834799673351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872200857053512071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KELMAND1 看上去采用了腹部进气道和背部进气道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1872200857053512071",
+        "created_at": "2024-12-26T11:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872248339464667383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1408728834799673351",
+              "start": 0,
+              "username": "KELMAND1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872248339464667383",
+        "in_reply_to_user_id": "1408728834799673351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872200857053512071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KELMAND1 看上去采用了腹部进气道和背部进气道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872200823394164736"
+          ]
+        },
+        "author_id": "1408728834799673351",
+        "conversation_id": "1872200857053512071",
+        "created_at": "2024-12-26T08:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T09:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872200857053512071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dh9Go5N9En",
+              "end": 39,
+              "expanded_url": "https://x.com/KELMAND1/status/1872200857053512071/photo/1",
+              "media_key": "3_1872200823394164736",
+              "start": 16,
+              "url": "https://t.co/Dh9Go5N9En"
+            },
+            {
+              "display_url": "x.com/Rational314159…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Rational314159/status/1872198848455815332",
+              "start": 40,
+              "url": "https://t.co/1URzZ9uG7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872200857053512071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 65642,
+          "like_count": 241,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872198848455815332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来个特写，难道是传说中的六代机 https://t.co/Dh9Go5N9En https://t.co/1URzZ9uG7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 2923,
+          "like_count": 22261,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 9272
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:08:30.000Z",
+        "description": "人生何促 忽如朝露",
+        "id": "1408728834799673351",
+        "location": "Abgrund",
+        "name": "Eason Mao☢",
+        "pinned_tweet_id": "1439835269469859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220889623990272/A8hgYeUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81202,
+          "following_count": 4181,
+          "like_count": 170795,
+          "listed_count": 422,
+          "media_count": 21714,
+          "tweet_count": 130451
+        },
+        "username": "KELMAND1",
+        "verified": false
+      }
+    ]
+  }
+}

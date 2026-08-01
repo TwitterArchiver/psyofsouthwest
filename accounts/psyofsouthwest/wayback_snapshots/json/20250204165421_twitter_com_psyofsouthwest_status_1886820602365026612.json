@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1886813741423132896",
+    "created_at": "2025-02-04T16:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T17:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886820602365026612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625279082865852416",
+          "start": 0,
+          "username": "cpurplestarrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886820602365026612",
+    "in_reply_to_user_id": "1625279082865852416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886813741423132896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpurplestarrain 你他妈是不是傻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1886813741423132896",
+        "created_at": "2025-02-04T16:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886820602365026612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625279082865852416",
+              "start": 0,
+              "username": "cpurplestarrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886820602365026612",
+        "in_reply_to_user_id": "1625279082865852416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886813741423132896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpurplestarrain 你他妈是不是傻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625279082865852416",
+        "conversation_id": "1886813741423132896",
+        "created_at": "2025-02-04T16:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886813741423132896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886813741423132896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买两盒亚甲基蓝，我亲自试试亚硝酸钠有没有毒。\n\nmb，我爹尝了说发苦和盐不一样，以此断定猫不吃。结果猫还是吃了，不仅吃了还屁事没有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 3065,
+          "like_count": 23981,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 9626
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T23:41:53.000Z",
+        "description": "Have a nice day!\n\nThe little clever boy who failed in English.\n\n🚪USD$122",
+        "id": "1625279082865852416",
+        "location": "piano_or_guitar",
+        "name": "Spring",
+        "pinned_tweet_id": "1865749302934458413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861058898960023552/cuQpGEoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 320,
+          "like_count": 8878,
+          "listed_count": 0,
+          "media_count": 1627,
+          "tweet_count": 12171
+        },
+        "username": "cpurplestarrain",
+        "verified": false
+      }
+    ]
+  }
+}

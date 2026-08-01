@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016251877264945154"
+      ],
+      "media_source_tweet_id": [
+        "2016251883237572749"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2016899996315160883",
+    "created_at": "2026-01-29T15:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016899996315160883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1824032216789467136",
+          "start": 3,
+          "username": "PiagetianPeater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G0kNrnhaMB",
+          "end": 44,
+          "expanded_url": "https://x.com/PiagetianPeater/status/2016251883237572749/photo/1",
+          "media_key": "3_2016251877264945154",
+          "start": 21,
+          "url": "https://t.co/G0kNrnhaMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016899996315160883",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2780
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016251883237572749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PiagetianPeater: https://t.co/G0kNrnhaMB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2016251877264945154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sqZloXcAIUsuV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016251877264945154"
+          ],
+          "media_source_tweet_id": [
+            "2016251883237572749"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2016899996315160883",
+        "created_at": "2026-01-29T15:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016899996315160883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1824032216789467136",
+              "start": 3,
+              "username": "PiagetianPeater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0kNrnhaMB",
+              "end": 44,
+              "expanded_url": "https://x.com/PiagetianPeater/status/2016251883237572749/photo/1",
+              "media_key": "3_2016251877264945154",
+              "start": 21,
+              "url": "https://t.co/G0kNrnhaMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016899996315160883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2780
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016251883237572749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PiagetianPeater: https://t.co/G0kNrnhaMB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016251877264945154"
+          ]
+        },
+        "author_id": "1824032216789467136",
+        "conversation_id": "2016251883237572749",
+        "created_at": "2026-01-27T20:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016251883237572749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0kNrnhaMB",
+              "end": 23,
+              "expanded_url": "https://x.com/PiagetianPeater/status/2016251883237572749/photo/1",
+              "media_key": "3_2016251877264945154",
+              "start": 0,
+              "url": "https://t.co/G0kNrnhaMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016251883237572749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4070,
+          "impression_count": 342210,
+          "like_count": 29456,
+          "quote_count": 119,
+          "reply_count": 114,
+          "retweet_count": 2780
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G0kNrnhaMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 4475,
+          "like_count": 73139,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 12771
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:35:57.000Z",
+        "description": "a very insulin sensitive young man",
+        "id": "1824032216789467136",
+        "name": "PiagetianPeater",
+        "pinned_tweet_id": "2009358486082044180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997812651339001856/Llx1U4my_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 768,
+          "like_count": 14865,
+          "listed_count": 10,
+          "media_count": 2281,
+          "tweet_count": 8486
+        },
+        "username": "PiagetianPeater",
+        "verified": false
+      }
+    ]
+  }
+}

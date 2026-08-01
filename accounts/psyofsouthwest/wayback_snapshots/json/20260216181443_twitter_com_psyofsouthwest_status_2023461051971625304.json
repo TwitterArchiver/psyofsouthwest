@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2023203848542920716",
+    "created_at": "2026-02-16T18:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023461051971625304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "10065202",
+          "start": 0,
+          "username": "LeaskH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023461051971625304",
+    "in_reply_to_user_id": "10065202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023203848542920716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeaskH 皈依狂热"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2023203848542920716",
+        "created_at": "2026-02-16T18:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023461051971625304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "10065202",
+              "start": 0,
+              "username": "LeaskH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023461051971625304",
+        "in_reply_to_user_id": "10065202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023203848542920716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeaskH 皈依狂热"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "10065202",
+        "conversation_id": "2023203848542920716",
+        "created_at": "2026-02-16T01:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023203848542920716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/zaobaosg/status/2023019884808929440",
+              "start": 28,
+              "url": "https://t.co/Ynn51M6rrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023203848542920716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11441,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023019884808929440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以香港的執行效率，作惡起來的速度將會比大陸快很多很多。 https://t.co/Ynn51M6rrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4536,
+          "like_count": 79442,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 13022
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-08T13:07:19.000Z",
+        "description": "break the wall or bring the war",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leaskh.com",
+                "end": 23,
+                "expanded_url": "https://leaskh.com",
+                "start": 0,
+                "url": "https://t.co/JR8qOnNtYn"
+              }
+            ]
+          }
+        },
+        "id": "10065202",
+        "location": "Ottawa, Ontario",
+        "name": "Sixia \"Leask\" Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905074285066002432/Si2NthqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20042,
+          "following_count": 1835,
+          "like_count": 1489,
+          "listed_count": 249,
+          "media_count": 7449,
+          "tweet_count": 105257
+        },
+        "url": "https://t.co/JR8qOnNtYn",
+        "username": "LeaskH",
+        "verified": false
+      }
+    ]
+  }
+}

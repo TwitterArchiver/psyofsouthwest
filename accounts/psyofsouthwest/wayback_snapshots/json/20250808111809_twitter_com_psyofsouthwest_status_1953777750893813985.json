@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1953611024764219764",
+    "created_at": "2025-08-08T11:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953777750893813985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661366915653160962",
+          "start": 0,
+          "username": "JamesLt196801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953777750893813985",
+    "in_reply_to_user_id": "1661366915653160962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953611024764219764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesLt196801 你这是与虎谋皮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1953611024764219764",
+        "created_at": "2025-08-08T11:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953777750893813985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661366915653160962",
+              "start": 0,
+              "username": "JamesLt196801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953777750893813985",
+        "in_reply_to_user_id": "1661366915653160962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953611024764219764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesLt196801 你这是与虎谋皮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661366915653160962",
+        "conversation_id": "1953611024764219764",
+        "created_at": "2025-08-08T00:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953611024764219764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953611024764219764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6083,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "很多人觉得企业替员工缴的社保部分，不应该算。基本常识，企业如果不用缴那部分社保，则企业会多利润，那么会流向的地方无非三种：1. 计提利润分给股东 2. 扩大投资更多招工 3. 反馈员工增加其收入。请问这其中哪项不是增加消费、就业？而今这部分钱干嘛去了？收上来给体制内发了福利了，这就好了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 3912,
+          "like_count": 44725,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11557
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T13:42:13.000Z",
+        "description": "投资者，主要投资对象：外汇、美股、虚拟币。生产项目：超短线量化模型，中长线美股价值模型。开发项目：情绪-市场反馈模型",
+        "id": "1661366915653160962",
+        "name": "James Lt",
+        "pinned_tweet_id": "1910220663333523889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673998823218380806/kTgoyi2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24890,
+          "following_count": 95,
+          "like_count": 267,
+          "listed_count": 311,
+          "media_count": 102,
+          "tweet_count": 3556
+        },
+        "username": "JamesLt196801",
+        "verified": false
+      }
+    ]
+  }
+}

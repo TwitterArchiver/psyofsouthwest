@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017630172355432451"
+      ],
+      "media_source_tweet_id": [
+        "2017630546818687189"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2017791879228895689",
+    "created_at": "2026-02-01T02:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T03:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017791879228895689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "15339596",
+          "start": 3,
+          "username": "nihui"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ncnn implementation of Z-Image image generater. Contribute to nihui/zimage-ncnn-vulkan development by creating an account on GitHub.",
+          "display_url": "github.com/nihui/zimage-n…",
+          "end": 45,
+          "expanded_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 22,
+          "status": 200,
+          "title": "GitHub - nihui/zimage-ncnn-vulkan: ncnn implementation of Z-Image image generater",
+          "unwound_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+          "url": "https://t.co/JBwvNmg6RD"
+        },
+        {
+          "display_url": "pic.x.com/dYAj4yStpC",
+          "end": 72,
+          "expanded_url": "https://x.com/nihui/status/2017630546818687189/photo/1",
+          "media_key": "3_2017630172355432451",
+          "start": 49,
+          "url": "https://t.co/dYAj4yStpC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017791879228895689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017630546818687189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nihui: 装修了下readme https://t.co/JBwvNmg6RD \n😀 https://t.co/dYAj4yStpC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2017630172355432451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAP869bEAMplXY.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017630172355432451"
+          ],
+          "media_source_tweet_id": [
+            "2017630546818687189"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2017791879228895689",
+        "created_at": "2026-02-01T02:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T03:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017791879228895689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "15339596",
+              "start": 3,
+              "username": "nihui"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ncnn implementation of Z-Image image generater. Contribute to nihui/zimage-ncnn-vulkan development by creating an account on GitHub.",
+              "display_url": "github.com/nihui/zimage-n…",
+              "end": 45,
+              "expanded_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "GitHub - nihui/zimage-ncnn-vulkan: ncnn implementation of Z-Image image generater",
+              "unwound_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "url": "https://t.co/JBwvNmg6RD"
+            },
+            {
+              "display_url": "pic.x.com/dYAj4yStpC",
+              "end": 72,
+              "expanded_url": "https://x.com/nihui/status/2017630546818687189/photo/1",
+              "media_key": "3_2017630172355432451",
+              "start": 49,
+              "url": "https://t.co/dYAj4yStpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017791879228895689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017630546818687189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nihui: 装修了下readme https://t.co/JBwvNmg6RD \n😀 https://t.co/dYAj4yStpC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017630172355432451"
+          ]
+        },
+        "author_id": "15339596",
+        "conversation_id": "2017630546818687189",
+        "created_at": "2026-01-31T16:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017630546818687189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ncnn implementation of Z-Image image generater. Contribute to nihui/zimage-ncnn-vulkan development by creating an account on GitHub.",
+              "display_url": "github.com/nihui/zimage-n…",
+              "end": 34,
+              "expanded_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017630551419895809/xg0-7Bla?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "GitHub - nihui/zimage-ncnn-vulkan: ncnn implementation of Z-Image image generater",
+              "unwound_url": "https://github.com/nihui/zimage-ncnn-vulkan",
+              "url": "https://t.co/JBwvNmg6RD"
+            },
+            {
+              "display_url": "pic.x.com/dYAj4yStpC",
+              "end": 61,
+              "expanded_url": "https://x.com/nihui/status/2017630546818687189/photo/1",
+              "media_key": "3_2017630172355432451",
+              "start": 38,
+              "url": "https://t.co/dYAj4yStpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017630546818687189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6645,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "装修了下readme https://t.co/JBwvNmg6RD \n😀 https://t.co/dYAj4yStpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 4483,
+          "like_count": 73743,
+          "listed_count": 5,
+          "media_count": 390,
+          "tweet_count": 12798
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-07T06:56:13.000Z",
+        "description": "春雨为观，香月为邻 | 喜欢玩游戏时看风景 | 想成为优秀的程序员 | 看上去是女装大佬实际并不是（ | 上海老阿姨 | qwqwqwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nihui",
+                "end": 23,
+                "expanded_url": "https://github.com/nihui",
+                "start": 0,
+                "url": "https://t.co/iyObHraRrK"
+              }
+            ]
+          }
+        },
+        "id": "15339596",
+        "location": "Shanghai",
+        "name": "nihui",
+        "pinned_tweet_id": "1298862529750249472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081943284312727557/uQup2iDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43448,
+          "following_count": 928,
+          "like_count": 12186,
+          "listed_count": 131,
+          "media_count": 1151,
+          "tweet_count": 6062
+        },
+        "url": "https://t.co/iyObHraRrK",
+        "username": "nihui",
+        "verified": false
+      }
+    ]
+  }
+}

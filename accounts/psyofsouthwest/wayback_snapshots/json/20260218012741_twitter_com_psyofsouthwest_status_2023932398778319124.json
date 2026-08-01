@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2023571961331544562",
+    "created_at": "2026-02-18T01:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023932398778319124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1592727309563355137",
+          "start": 0,
+          "username": "tim_yaris"
+        },
+        {
+          "end": 21,
+          "id": "1620328547847110656",
+          "start": 11,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023932398778319124",
+    "in_reply_to_user_id": "1592727309563355137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023927442948096502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tim_yaris @NPC888666 无法追究她的责任实在是太可惜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2023571961331544562",
+        "created_at": "2026-02-18T01:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023932398778319124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1592727309563355137",
+              "start": 0,
+              "username": "tim_yaris"
+            },
+            {
+              "end": 21,
+              "id": "1620328547847110656",
+              "start": 11,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023932398778319124",
+        "in_reply_to_user_id": "1592727309563355137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023927442948096502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tim_yaris @NPC888666 无法追究她的责任实在是太可惜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592727309563355137",
+        "conversation_id": "2023571961331544562",
+        "created_at": "2026-02-18T01:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023927442948096502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            },
+            {
+              "end": 26,
+              "id": "1620328547847110656",
+              "start": 16,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023927442948096502",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023913598829863262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest @NPC888666 具体的不记得了，你上网应该能查到。当时觉得那个孩子太可怜了，本来以为有家了，结果又被抛弃了，网上骂声一片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 4547,
+          "like_count": 80308,
+          "listed_count": 5,
+          "media_count": 402,
+          "tweet_count": 13077
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:53:13.000Z",
+        "description": "",
+        "id": "1592727309563355137",
+        "name": "Yaris Tim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592727464421335042/-NvCS04T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 51,
+          "like_count": 45181,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 12125
+        },
+        "username": "tim_yaris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38360,
+          "following_count": 1319,
+          "like_count": 7247,
+          "listed_count": 236,
+          "media_count": 641,
+          "tweet_count": 6928
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

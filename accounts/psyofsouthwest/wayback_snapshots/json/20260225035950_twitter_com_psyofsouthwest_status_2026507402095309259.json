@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2026182068053606725",
+    "created_at": "2026-02-25T03:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026507402095309259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026507402095309259",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026182068053606725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 安拉板载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2026182068053606725",
+        "created_at": "2026-02-25T03:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026507402095309259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026507402095309259",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026182068053606725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 安拉板载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491568506898649088",
+        "conversation_id": "2026182068053606725",
+        "created_at": "2026-02-24T06:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026182068053606725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026182068053606725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 688,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在和豆包学习伊斯兰教法，成为完全之郭楠，审判集美。😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 4616,
+          "like_count": 84412,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 13296
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "“以物配主的人群及其崇拜的偶像，都是火狱的燃料，他们将永居其中。”（21:98-99）\n“惟有……拜偶像的……他们的份就在烧着硫磺的火湖里。”启示录 21:8",
+        "id": "1491568506898649088",
+        "location": "😋",
+        "name": "委内瑞拉总督卢比奥🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020410978526187520/2Ih7mxPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1419,
+          "like_count": 18289,
+          "listed_count": 5,
+          "media_count": 1843,
+          "tweet_count": 26075
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

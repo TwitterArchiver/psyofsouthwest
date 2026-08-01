@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1922271860710113670",
+    "created_at": "2025-05-14T03:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922499433016516802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2786701",
+          "start": 0,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922499433016516802",
+    "in_reply_to_user_id": "2786701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922271860710113670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlong 不踩人还能是老中吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1922271860710113670",
+        "created_at": "2025-05-14T03:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922499433016516802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922499433016516802",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922271860710113670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 不踩人还能是老中吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "1922271860710113670",
+        "created_at": "2025-05-13T12:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T13:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922271860710113670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922271860710113670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7571,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，女权主义的核心是平权，反对基于性别的歧视和不公，强调所有人无论性别都应享有平等的权利和自由。真正的女权并不是要抬高女性去压迫男性，而是在男女性别之间建立平等、尊重与自由的关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 3836,
+          "like_count": 37255,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 10959
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383911,
+          "following_count": 303,
+          "like_count": 0,
+          "listed_count": 2689,
+          "media_count": 3063,
+          "tweet_count": 29281
+        },
+        "username": "williamlong",
+        "verified": false
+      }
+    ]
+  }
+}

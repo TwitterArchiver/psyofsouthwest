@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1884397555934716131",
+    "created_at": "2025-01-29T00:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T01:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884397860117950499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "143383314",
+          "start": 0,
+          "username": "jijicom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884397860117950499",
+    "in_reply_to_user_id": "143383314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884397555934716131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jijicom とらと皮をむく"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1884397555934716131",
+        "created_at": "2025-01-29T00:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T01:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884397860117950499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "143383314",
+              "start": 0,
+              "username": "jijicom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884397860117950499",
+        "in_reply_to_user_id": "143383314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884397555934716131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jijicom とらと皮をむく"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "143383314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "（15日18時更新）韓国軍合同参謀本部は15日、北朝鮮が午後0時34分と39分に中部平安南道陽徳郡周辺から短距離弾道ミサイルを計2発発射したことを明らかにしました。約800キロ飛行し、最高高度は約60キロだったとのことです。このモーメントの「人気の解説」は自動でツイートを掲載しています。",
+              "id": "1437988563274977283",
+              "name": "更新：北朝鮮が弾道ミサイル2発発射 韓国軍"
+            }
+          }
+        ],
+        "conversation_id": "1884397555934716131",
+        "created_at": "2025-01-29T00:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T01:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884397555934716131"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "米",
+              "probability": 0.6604,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 4,
+              "normalized_text": "北朝鮮",
+              "probability": 0.6713,
+              "start": 2,
+              "type": "Place"
+            },
+            {
+              "end": 16,
+              "normalized_text": "トランプ氏",
+              "probability": 0.436,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【ワシントン時事】米国家安全保障会議（ＮＳＣ）報道官は２８日、北朝鮮の核・ミサイル問題について、「１期目のように、トランプ大統領は北朝鮮の完全な非核化を追求する」と表明した。",
+              "display_url": "jiji.com/jc/article?k=2…",
+              "end": 50,
+              "expanded_url": "https://www.jiji.com/jc/article?k=2025012900324&g=int",
+              "images": [
+                {
+                  "height": 700,
+                  "url": "https://pbs.twimg.com/news_img/1884387276458962944/Ikliexvq?format=jpg&name=orig",
+                  "width": 700
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1884387276458962944/Ikliexvq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "北朝鮮の非核化追求　トランプ米政権：時事ドットコム",
+              "unwound_url": "https://www.jiji.com/jc/article?k=2025012900324&g=int",
+              "url": "https://t.co/ORDdwpNIPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884397555934716131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "米、北朝鮮の非核化追求　トランプ氏、トップ会談意欲か https://t.co/ORDdwpNIPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 2991,
+          "like_count": 23264,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 9523
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-13T09:38:27.000Z",
+        "description": "時事通信社が運営する公式ニュースアカウントです。厳選したニュースや旬の話題を迅速に配信。社会的な関心が高い事象については特集も掲載します。 配信ニュースは新事実を加えて差し替えています。最新記事は時事ドットコムでご確認をお願いします。#ニュース LINEニュースは⇒https://t.co/RmcrZy535X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "ニュース"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/lWvo50IHrZX",
+                "end": 156,
+                "expanded_url": "http://ow.ly/lWvo50IHrZX",
+                "start": 133,
+                "url": "https://t.co/RmcrZy535X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jiji.com",
+                "end": 23,
+                "expanded_url": "https://www.jiji.com",
+                "start": 0,
+                "url": "https://t.co/a8S8glSwTt"
+              }
+            ]
+          }
+        },
+        "id": "143383314",
+        "location": "東京都中央区",
+        "name": "時事ドットコム（時事通信ニュース）",
+        "pinned_tweet_id": "1883092451230994439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721814065230864384/G7dZ_l2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408097,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 9191,
+          "media_count": 23988,
+          "tweet_count": 787689
+        },
+        "url": "https://t.co/a8S8glSwTt",
+        "username": "jijicom",
+        "verified": true
+      }
+    ]
+  }
+}

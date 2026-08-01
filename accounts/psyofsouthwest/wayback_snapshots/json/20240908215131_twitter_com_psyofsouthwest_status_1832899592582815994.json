@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1832751089554461049",
+    "created_at": "2024-09-08T21:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T22:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832899592582815994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698141367762051072",
+          "start": 0,
+          "username": "ShiShengRui2023"
+        },
+        {
+          "end": 29,
+          "id": "1660708799374843905",
+          "start": 17,
+          "username": "ggininder64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832899592582815994",
+    "in_reply_to_user_id": "1698141367762051072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832773439922577574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiShengRui2023 @ggininder64 把一零后、二零后培养成新一代红卫兵红小兵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1832751089554461049",
+        "created_at": "2024-09-08T21:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T22:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832899592582815994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698141367762051072",
+              "start": 0,
+              "username": "ShiShengRui2023"
+            },
+            {
+              "end": 29,
+              "id": "1660708799374843905",
+              "start": 17,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832899592582815994",
+        "in_reply_to_user_id": "1698141367762051072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832773439922577574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiShengRui2023 @ggininder64 把一零后、二零后培养成新一代红卫兵红小兵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698141367762051072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1832751089554461049",
+        "created_at": "2024-09-08T13:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T14:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832773439922577574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660708799374843905",
+              "start": 0,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832773439922577574",
+        "in_reply_to_user_id": "1660708799374843905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5845,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832751089554461049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggininder64 我特地买了习近平思想，小学版到大学版的\n\n内容远比你现在看到的抽象多！\n\n书的内容槽点太多，都不知道从哪里吐槽了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 2421,
+          "like_count": 14210,
+          "listed_count": 4,
+          "tweet_count": 7169
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T01:10:47.000Z",
+        "description": "歧视、冒犯、为中共洗地等言论会被拉黑。",
+        "id": "1698141367762051072",
+        "name": "施晟睿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787402813443903488/PPTMqSFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 706,
+          "like_count": 989,
+          "listed_count": 1,
+          "tweet_count": 1157
+        },
+        "username": "ShiShengRui2023",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "支持中華民國 反中共 \n\n 東亞漢文化圈團結\n\n反穆斯林\n\nSupport the Republic of China  \n\nAnti the CCP\n\nUnity of East Asian Chinese Culture Circle\n\nAnti-Muslim",
+        "id": "1660708799374843905",
+        "name": "史密斯🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808395387277049856/26Is5tUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 5366,
+          "like_count": 49975,
+          "listed_count": 17,
+          "tweet_count": 23007
+        },
+        "username": "ggininder64",
+        "verified": false
+      }
+    ]
+  }
+}

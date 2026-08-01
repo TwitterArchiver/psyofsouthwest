@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1917117170288656414",
+    "created_at": "2025-04-29T14:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917231200910926199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786667739752599552",
+          "start": 0,
+          "username": "loveworldow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917231200910926199",
+    "in_reply_to_user_id": "1786667739752599552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917117170288656414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveworldow 不如练习信仰射击（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42075,
+        "height": 300,
+        "media_key": "13_1916074054487851008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916074054487851008/img/ezKhAHcMHKsuxL2z.jpg",
+        "public_metrics": {
+          "view_count": 988129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916074054487851008/vid/avc1/360x270/814DzKLD9g5o1D_2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916074054487851008/vid/avc1/400x300/01X0iZ28qrJIryWs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916074054487851008/pl/gC3qZDuKTj957flT.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1917117170288656414",
+        "created_at": "2025-04-29T14:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917231200910926199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786667739752599552",
+              "start": 0,
+              "username": "loveworldow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917231200910926199",
+        "in_reply_to_user_id": "1786667739752599552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917117170288656414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveworldow 不如练习信仰射击（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916074054487851008"
+          ],
+          "media_source_tweet_id": [
+            "1916074146162675985"
+          ]
+        },
+        "author_id": "1786667739752599552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917117170288656414",
+        "created_at": "2025-04-29T07:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917117170288656414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OMsRfdOmi9",
+              "end": 52,
+              "expanded_url": "https://x.com/Dave_Gaur/status/1916074146162675985/video/1",
+              "media_key": "13_1916074054487851008",
+              "start": 29,
+              "url": "https://t.co/OMsRfdOmi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917117170288656414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 201321,
+          "like_count": 588,
+          "quote_count": 13,
+          "reply_count": 79,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "【纪实直击】被维吾尔父母带来并加入伊斯兰国的维吾尔儿童\n https://t.co/OMsRfdOmi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 3693,
+          "like_count": 32983,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 10567
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T08:03:17.000Z",
+        "description": "业余研究西域历史丨Love Western Region history丨反对伊斯兰恐怖主义| Love peace 🇦🇲 🇺🇦 丨接受投稿",
+        "id": "1786667739752599552",
+        "name": "突恐研所助理 Muchas Gracias🇦🇲",
+        "pinned_tweet_id": "1896365442874343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786673833120026624/27upIvBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6455,
+          "following_count": 197,
+          "like_count": 3365,
+          "listed_count": 13,
+          "media_count": 399,
+          "tweet_count": 2087
+        },
+        "username": "loveworldow",
+        "verified": false
+      }
+    ]
+  }
+}

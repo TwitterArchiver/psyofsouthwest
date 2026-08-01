@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1887074691866656894",
+    "created_at": "2025-02-05T09:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T10:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887074691866656894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "14096763",
+          "start": 3,
+          "username": "TheStalwart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887074691866656894",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886358682386002283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheStalwart: Wrote a program that scrapes the r/runningshoegeeks page for mentions of Chinese brands, and see what % of posts mention t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1887074691866656894",
+        "created_at": "2025-02-05T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887074691866656894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "14096763",
+              "start": 3,
+              "username": "TheStalwart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887074691866656894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886358682386002283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheStalwart: Wrote a program that scrapes the r/runningshoegeeks page for mentions of Chinese brands, and see what % of posts mention t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886358203811663874",
+            "3_1886358321512202241"
+          ]
+        },
+        "author_id": "14096763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1886358682386002283",
+        "created_at": "2025-02-03T10:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T11:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886358682386002283"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 187,
+              "normalized_text": "Reddit",
+              "probability": 0.8004,
+              "start": 182,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NqpVM2Gta",
+              "end": 303,
+              "expanded_url": "https://x.com/TheStalwart/status/1886358682386002283/photo/1",
+              "media_key": "3_1886358203811663874",
+              "start": 280,
+              "url": "https://t.co/0NqpVM2Gta"
+            },
+            {
+              "display_url": "pic.x.com/0NqpVM2Gta",
+              "end": 303,
+              "expanded_url": "https://x.com/TheStalwart/status/1886358682386002283/photo/1",
+              "media_key": "3_1886358321512202241",
+              "start": 280,
+              "url": "https://t.co/0NqpVM2Gta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886358682386002283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 153790,
+          "like_count": 362,
+          "quote_count": 8,
+          "reply_count": 34,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Wrote a program that scrapes the r/runningshoegeeks page for mentions of Chinese brands, and see what % of posts mention them. Currently trying figure out the best way to circumvent Reddit's limits on going back over 1000 posts. But outside a spike in September, steadily rising. https://t.co/0NqpVM2Gta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 3071,
+          "like_count": 24080,
+          "listed_count": 5,
+          "media_count": 293,
+          "tweet_count": 9645
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-03-07T19:37:09.000Z",
+        "description": "One half of Bloomberg's Odd Lots Podcast. One quarter of Light Sweet Crude.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloomberg.com/OddLots",
+                "end": 23,
+                "expanded_url": "https://www.bloomberg.com/OddLots",
+                "start": 0,
+                "url": "https://t.co/kV51Er8w3T"
+              }
+            ]
+          }
+        },
+        "id": "14096763",
+        "location": "New York City",
+        "name": "Joe Weisenthal",
+        "pinned_tweet_id": "1886494932635934782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729294932181921792/lI2kq2Ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373225,
+          "following_count": 5796,
+          "like_count": 286648,
+          "listed_count": 9116,
+          "media_count": 31799,
+          "tweet_count": 437174
+        },
+        "url": "https://t.co/kV51Er8w3T",
+        "username": "TheStalwart",
+        "verified": true
+      }
+    ]
+  }
+}

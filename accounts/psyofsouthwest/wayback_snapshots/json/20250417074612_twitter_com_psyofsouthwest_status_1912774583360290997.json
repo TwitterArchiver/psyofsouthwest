@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1912608723073425554",
+    "created_at": "2025-04-17T07:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912774583360290997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1128171981214343170",
+          "start": 0,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912774583360290997",
+    "in_reply_to_user_id": "1128171981214343170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912608723073425554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phosphas 生的伟大，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1912608723073425554",
+        "created_at": "2025-04-17T07:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912774583360290997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1128171981214343170",
+              "start": 0,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912774583360290997",
+        "in_reply_to_user_id": "1128171981214343170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912608723073425554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phosphas 生的伟大，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128171981214343170",
+        "conversation_id": "1912608723073425554",
+        "created_at": "2025-04-16T20:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T21:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912608723073425554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phosphas/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/phosphas/status/1911664222922039561",
+              "start": 9,
+              "url": "https://t.co/2CHlc5tHqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912608723073425554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8024,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911664222922039561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然被投去清蒸了 https://t.co/2CHlc5tHqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 3489,
+          "like_count": 29947,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 10307
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "塗塗狐🏳️‍⚧️",
+        "pinned_tweet_id": "1841493494889611483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893195300241620992/4zAIvidK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 581,
+          "like_count": 13811,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 2279
+        },
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2028120509658136722",
+    "created_at": "2026-03-02T01:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028277061945827388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "177907979",
+          "start": 0,
+          "username": "lee91741"
+        },
+        {
+          "end": 25,
+          "id": "1639381530",
+          "start": 10,
+          "username": "franklinHaHaHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028277061945827388",
+    "in_reply_to_user_id": "177907979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028121508200210516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lee91741 @franklinHaHaHa 以色列都是打电话通知几分钟之后轰炸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2028120509658136722",
+        "created_at": "2026-03-02T01:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028277061945827388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "177907979",
+              "start": 0,
+              "username": "lee91741"
+            },
+            {
+              "end": 25,
+              "id": "1639381530",
+              "start": 10,
+              "username": "franklinHaHaHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028277061945827388",
+        "in_reply_to_user_id": "177907979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028121508200210516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lee91741 @franklinHaHaHa 以色列都是打电话通知几分钟之后轰炸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "177907979",
+        "conversation_id": "2028120509658136722",
+        "created_at": "2026-03-01T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028121508200210516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639381530",
+              "start": 0,
+              "username": "franklinHaHaHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028121508200210516",
+        "in_reply_to_user_id": "1639381530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028120509658136722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@franklinHaHaHa 我住中南海旁边呀，我怕误伤。😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 4685,
+          "like_count": 87520,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 13445
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-13T10:59:05.000Z",
+        "description": "习惯性捣乱，让您贱笑了。",
+        "id": "177907979",
+        "location": "中国北京",
+        "name": "小姨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/472319795397152768/SJZSgOXo_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18655,
+          "following_count": 1027,
+          "like_count": 4260,
+          "listed_count": 82,
+          "media_count": 2134,
+          "tweet_count": 35738
+        },
+        "username": "lee91741",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-02T02:48:28.000Z",
+        "description": "he/her/it 费拉右 皇鹅粉 俄孝子 军盲",
+        "id": "1639381530",
+        "name": "Franklin🇮🇷🇵🇸🇺🇦🇷🇺🇮🇱🇹🇼 🇨🇳",
+        "pinned_tweet_id": "1660930059333451776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867351126959697923/pup3Xn17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 3264,
+          "like_count": 69717,
+          "listed_count": 62,
+          "media_count": 5777,
+          "tweet_count": 63835
+        },
+        "username": "franklinHaHaHa",
+        "verified": true
+      }
+    ]
+  }
+}

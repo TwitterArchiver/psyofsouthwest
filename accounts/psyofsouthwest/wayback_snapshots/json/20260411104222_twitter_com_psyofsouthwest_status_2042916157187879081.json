@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042916154511867904"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2042473219106750845",
+    "created_at": "2026-04-11T10:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042916157187879081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576102262581080065",
+          "start": 0,
+          "username": "Amelia181672271"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JKlNnI7ZTm",
+          "end": 54,
+          "expanded_url": "https://x.com/psyofsouthwest/status/2042916157187879081/photo/1",
+          "media_key": "3_2042916154511867904",
+          "start": 31,
+          "url": "https://t.co/JKlNnI7ZTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042916157187879081",
+    "in_reply_to_user_id": "1576102262581080065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042473219106750845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amelia181672271 中央军委正缺人，你快去补上 https://t.co/JKlNnI7ZTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2042916154511867904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnlay-WQAA6sK4.jpg",
+        "width": 680
+      },
+      {
+        "duration_ms": 43033,
+        "height": 720,
+        "media_key": "13_2042472620269191173",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042472620269191173/img/dsawYe9E-MwAZ_hN.jpg",
+        "public_metrics": {
+          "view_count": 197834
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042472620269191173/vid/avc1/478x270/-TgYPOUmmRsFFEpj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042472620269191173/vid/avc1/638x360/KJUpIbnfb8hf2yi4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042472620269191173/vid/avc1/1276x720/Ium0QiQqRsVG6Vi0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042472620269191173/pl/xWIXcNkN0slG9H40.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042916154511867904"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2042473219106750845",
+        "created_at": "2026-04-11T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042916157187879081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576102262581080065",
+              "start": 0,
+              "username": "Amelia181672271"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKlNnI7ZTm",
+              "end": 54,
+              "expanded_url": "https://x.com/psyofsouthwest/status/2042916157187879081/photo/1",
+              "media_key": "3_2042916154511867904",
+              "start": 31,
+              "url": "https://t.co/JKlNnI7ZTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042916157187879081",
+        "in_reply_to_user_id": "1576102262581080065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042473219106750845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amelia181672271 中央军委正缺人，你快去补上 https://t.co/JKlNnI7ZTm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042472620269191173"
+          ]
+        },
+        "author_id": "1576102262581080065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2042473219106750845",
+        "created_at": "2026-04-10T05:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042473219106750845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtGP1Uw0Pp",
+              "end": 60,
+              "expanded_url": "https://x.com/Amelia181672271/status/2042473219106750845/video/1",
+              "media_key": "13_2042472620269191173",
+              "start": 37,
+              "url": "https://t.co/OtGP1Uw0Pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042473219106750845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 375307,
+          "like_count": 1266,
+          "quote_count": 10,
+          "reply_count": 174,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "習近平主席很和諧和親，還和台灣記者打招呼，難怪大陸老百姓都喜歡習近平主席 https://t.co/OtGP1Uw0Pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4733,
+          "like_count": 103965,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 14380
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:51:12.000Z",
+        "description": "Taiwanese journalist, this is a commentary account.\n\n追蹤我，每天了解台灣新資訊。",
+        "id": "1576102262581080065",
+        "location": "台灣台北市大安區仁愛路",
+        "name": "Amelia",
+        "pinned_tweet_id": "1894658424778232081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042179446833401856/G4eBPwpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32902,
+          "following_count": 107,
+          "like_count": 15246,
+          "listed_count": 126,
+          "media_count": 5160,
+          "tweet_count": 15000
+        },
+        "username": "Amelia181672271",
+        "verified": false
+      }
+    ]
+  }
+}

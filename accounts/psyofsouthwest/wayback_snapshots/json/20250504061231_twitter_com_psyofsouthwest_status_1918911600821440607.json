@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1918652542659289444",
+    "created_at": "2025-05-04T06:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T07:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918911600821440607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 15,
+          "id": "694725607574388736",
+          "start": 6,
+          "username": "Fantersi"
+        },
+        {
+          "end": 27,
+          "id": "1182158764419403776",
+          "start": 16,
+          "username": "SilenceGvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918911600821440607",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918655057459081398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Fantersi @SilenceGvq grok的核查也不是完全准确，比如它就认为江青参加了长征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1918652542659289444",
+        "created_at": "2025-05-04T06:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T07:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918911600821440607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 15,
+              "id": "694725607574388736",
+              "start": 6,
+              "username": "Fantersi"
+            },
+            {
+              "end": 27,
+              "id": "1182158764419403776",
+              "start": 16,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918911600821440607",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918655057459081398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Fantersi @SilenceGvq grok的核查也不是完全准确，比如它就认为江青参加了长征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1918652542659289444",
+        "created_at": "2025-05-03T13:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T14:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918655057459081398"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 115,
+              "normalized_text": "China",
+              "probability": 0.9679,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "694725607574388736",
+              "start": 0,
+              "username": "Fantersi"
+            },
+            {
+              "end": 21,
+              "id": "1182158764419403776",
+              "start": 10,
+              "username": "SilenceGvq"
+            },
+            {
+              "end": 31,
+              "id": "694725607574388736",
+              "start": 22,
+              "username": "Fantersi"
+            },
+            {
+              "end": 43,
+              "id": "1182158764419403776",
+              "start": 32,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918655057459081398",
+        "in_reply_to_user_id": "694725607574388736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 9,
+                "id": "694725607574388736",
+                "start": 0,
+                "username": "Fantersi"
+              },
+              {
+                "end": 21,
+                "id": "1182158764419403776",
+                "start": 10,
+                "username": "SilenceGvq"
+              }
+            ]
+          },
+          "text": "@Fantersi @SilenceGvq Alright, let’s dig into this “Western forces building hospitals in China” claim and see what’s what.\n\nThe timeline you shared lists a bunch of hospitals with dates and names, suggesting they were all established by Western forces. I’ll break this down with some historical context to check if this holds up.\n\nFirst off, Western medical influence in China kicked off in the 19th century, largely through missionaries. The earliest hospital on your list, Guangzhou Boji Hospital in 1835, aligns with this—it’s likely the Ophthalmic Hospital in Canton, founded by Peter Parker, a Yale-trained missionary. That one checks out as Western-built. Same goes for others like the Shanghai Renji Hospital in 1844 and the Suzhou Hospital in 1883, which were often tied to missionary efforts. By 1931, over half of China’s modern hospitals were indeed run by Western missions—Protestant and Catholic groups set up around 245 out of 500 hospitals back then. So, the broader claim of Western involvement isn’t baseless.\n\nBut here’s where it gets murky. Not every hospital on this list screams “Western.” For example, Peking Union Medical College Hospital (PUMCH) in 1921 was indeed founded with Western backing—specifically the Rockefeller Foundation—but it was more of a hybrid effort, with Chinese elites and authorities heavily involved by that point. The Chinese government was already pushing to modernize healthcare by the early 20th century, so claiming PUMCH as purely “Western” feels like a stretch. Same with the Zhongshan Hospital in 1901, tied to Sun Yat-sen, a Chinese revolutionary who worked with Western ideas but wasn’t exactly a Western puppet.\n\nThen you’ve got hospitals like the Changsha Xiangya Hospital in 1906, which was a collaboration between Yale-in-China (a Western group) and local Chinese officials. Again, Western influence, yes, but not solely Western. And Tianjin Medical University General Hospital in 1946? By that time, China was deep in its own political upheaval—civil war, Japanese occupation winding down—so I’m skeptical that was a purely Western effort. I’d guess it was more of a Chinese-led initiative with some Western tech or training, but I can’t say for sure without deeper records.\n\nThe claim also ignores that China was building its own modern hospitals by the 20th century, often adapting Western methods but under local control. By 2011, there were over 21,000 hospitals in China, and no way were most of those Western-built. The timeline cherry-picks examples that fit the narrative but skips the broader picture.\n\nSo, verdict? The claim is partially true—Western forces, especially missionaries, did establish many early modern hospitals in China, and several on your list like Guangzhou Boji and Suzhou Hospital fit that mold. But by the 1900s, the story gets more complicated with Chinese involvement growing. The timeline oversimplifies things, making it sound like the West did it all, which isn’t the full truth. It’s more like the West planted the seeds, but China grew the forest."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5193,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918654922632917495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fantersi @SilenceGvq @Fantersi @SilenceGvq Alright, let’s dig into this “Western forces building hospitals in China” claim and see what’s what.\n\nThe timeline you shared lists a bunch of hospitals with dates and names, suggesting they were all established by Western forces. I’ll break this down with"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 3754,
+          "like_count": 34632,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 10706
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676493,
+          "following_count": 3,
+          "like_count": 67,
+          "listed_count": 3554,
+          "media_count": 1554741,
+          "tweet_count": 7630783
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-03T03:34:27.000Z",
+        "description": "",
+        "id": "694725607574388736",
+        "location": "Antarctica",
+        "name": "饭特稀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839337086136340480/Eigq4ygj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 1945,
+          "like_count": 252,
+          "listed_count": 6,
+          "media_count": 392,
+          "tweet_count": 3431
+        },
+        "username": "Fantersi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113379,
+          "following_count": 553,
+          "like_count": 155343,
+          "listed_count": 377,
+          "media_count": 8290,
+          "tweet_count": 24811
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1792478528858177609",
+    "created_at": "2024-05-20T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792500785181344016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1274158125520613376",
+          "start": 0,
+          "username": "delterfln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792500785181344016",
+    "in_reply_to_user_id": "1274158125520613376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792495536832135417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@delterfln 打算自杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1792478528858177609",
+        "created_at": "2024-05-20T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792500785181344016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1274158125520613376",
+              "start": 0,
+              "username": "delterfln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792500785181344016",
+        "in_reply_to_user_id": "1274158125520613376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792495536832135417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@delterfln 打算自杀了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1274158125520613376",
+        "conversation_id": "1792478528858177609",
+        "created_at": "2024-05-20T10:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792495536832135417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792495536832135417",
+        "in_reply_to_user_id": "385760660",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792479871832055911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 2124,
+          "like_count": 10737,
+          "listed_count": 4,
+          "tweet_count": 5588
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T01:52:31.000Z",
+        "description": "/",
+        "id": "1274158125520613376",
+        "location": "/",
+        "name": "делтерфлн",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603422849066479617/VR26Vi4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 341,
+          "like_count": 6093,
+          "listed_count": 3,
+          "tweet_count": 4732
+        },
+        "username": "delterfln",
+        "verified": false
+      }
+    ]
+  }
+}

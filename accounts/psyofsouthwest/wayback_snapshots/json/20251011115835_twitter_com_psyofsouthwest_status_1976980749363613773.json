@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1976901258146725966",
+    "created_at": "2025-10-11T11:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T12:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976980749363613773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733016836552437761",
+          "start": 0,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976980749363613773",
+    "in_reply_to_user_id": "733016836552437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976901258146725966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starlightcaesar 安娜档案馆上面就有补全版，其实分析起来也不复杂，习近平 常委 委员 各级人民代表 等等"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2076,
+        "media_key": "3_1976901254455738372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29dN4PbwAQkD-p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1976901258146725966",
+        "created_at": "2025-10-11T11:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976980749363613773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733016836552437761",
+              "start": 0,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976980749363613773",
+        "in_reply_to_user_id": "733016836552437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976901258146725966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starlightcaesar 安娜档案馆上面就有补全版，其实分析起来也不复杂，习近平 常委 委员 各级人民代表 等等"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976901254455738372"
+          ]
+        },
+        "author_id": "733016836552437761",
+        "conversation_id": "1976901258146725966",
+        "created_at": "2025-10-11T06:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976901258146725966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7P6H0MvE0",
+              "end": 62,
+              "expanded_url": "https://x.com/starlightcaesar/status/1976901258146725966/photo/1",
+              "media_key": "3_1976901254455738372",
+              "start": 39,
+              "url": "https://t.co/e7P6H0MvE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976901258146725966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 44624,
+          "like_count": 305,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "微信读书上《独裁者手册》的评论区怎么没了？还有我之前做的笔记也全都没了……😓 https://t.co/e7P6H0MvE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 3967,
+          "like_count": 49804,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11829
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless.\n\nYouTube:安争鸣/小鸣说",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690345340229341184/ghEkUsA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23707,
+          "following_count": 258,
+          "like_count": 21800,
+          "listed_count": 76,
+          "media_count": 821,
+          "tweet_count": 2359
+        },
+        "username": "starlightcaesar",
+        "verified": false
+      }
+    ]
+  }
+}

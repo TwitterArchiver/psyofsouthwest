@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1842061146364510501",
+    "created_at": "2024-10-05T03:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T04:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842403980812419286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "8512802",
+          "start": 0,
+          "username": "jeff_liz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842403980812419286",
+    "in_reply_to_user_id": "8512802",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842100748785746359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeff_liz 妈了个鸡的，买个电器还要懂得投资分析"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1842061146364510501",
+        "created_at": "2024-10-05T03:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T04:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842403980812419286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "8512802",
+              "start": 0,
+              "username": "jeff_liz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842403980812419286",
+        "in_reply_to_user_id": "8512802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842100748785746359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeff_liz 妈了个鸡的，买个电器还要懂得投资分析"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8512802",
+        "conversation_id": "1842061146364510501",
+        "created_at": "2024-10-04T07:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T08:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842100748785746359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842100748785746359",
+        "in_reply_to_user_id": "8512802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8790,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842061146364510501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又挖了挖\n\n1. \n这个“长虹”商标是202020年10月注册成功，所有人是江苏长虹智能装备股份有限公司。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 2497,
+          "like_count": 15019,
+          "listed_count": 4,
+          "tweet_count": 7362
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-29T15:11:09.000Z",
+        "description": "Simple and Steady",
+        "id": "8512802",
+        "location": "ÜT: 36.152216,-97.083846",
+        "name": "Li Zhen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793915406371233792/luhHmI6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 337,
+          "like_count": 1532,
+          "listed_count": 3,
+          "tweet_count": 2238
+        },
+        "username": "jeff_liz",
+        "verified": true
+      }
+    ]
+  }
+}

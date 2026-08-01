@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1875827248118579690",
+    "created_at": "2025-01-05T09:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T10:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875841539022487866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "31083308",
+          "start": 0,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875841539022487866",
+    "in_reply_to_user_id": "31083308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875827248118579690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwatchworld 谢国忠喊房价更早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1875827248118579690",
+        "created_at": "2025-01-05T09:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875841539022487866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875841539022487866",
+        "in_reply_to_user_id": "31083308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875827248118579690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 谢国忠喊房价更早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875827233052659712"
+          ]
+        },
+        "author_id": "31083308",
+        "conversation_id": "1875827248118579690",
+        "created_at": "2025-01-05T08:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T09:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875827248118579690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPT8XP3QYR",
+              "end": 50,
+              "expanded_url": "https://x.com/wangwatchworld/status/1875827248118579690/photo/1",
+              "media_key": "3_1875827233052659712",
+              "start": 27,
+              "url": "https://t.co/aPT8XP3QYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875827248118579690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5726,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实是我2012年写的，症状完全对，只是写的太早了。 https://t.co/aPT8XP3QYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 2941,
+          "like_count": 22724,
+          "listed_count": 6,
+          "media_count": 274,
+          "tweet_count": 9376
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "废话连篇\nhttps://t.co/20gEmbFstl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unclewaanginphuket.blogspot.com",
+                "end": 28,
+                "expanded_url": "http://unclewaanginphuket.blogspot.com",
+                "start": 5,
+                "url": "https://t.co/20gEmbFstl"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "泰国",
+        "name": "王海滨的财经闲谈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864664881687117824/EdfvNBcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204481,
+          "following_count": 966,
+          "like_count": 3135,
+          "listed_count": 1405,
+          "media_count": 5018,
+          "tweet_count": 41463
+        },
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

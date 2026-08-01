@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028782290462220288"
+      ],
+      "media_source_tweet_id": [
+        "2028847878454575537"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2029024803705819435",
+    "created_at": "2026-03-04T02:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029024803705819435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1478544768020127744",
+          "start": 3,
+          "username": "etji_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxU2A9ipoo",
+          "end": 50,
+          "expanded_url": "https://x.com/etji_n/status/2028847878454575537/photo/1",
+          "media_key": "3_2028782290462220288",
+          "start": 27,
+          "url": "https://t.co/rxU2A9ipoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029024803705819435",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028847878454575537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @etji_n: 노래하는 도로롱 과 홍북이 https://t.co/rxU2A9ipoo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2028782290462220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeuvoWaoAA-ziB.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028782290462220288"
+          ],
+          "media_source_tweet_id": [
+            "2028847878454575537"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2029024803705819435",
+        "created_at": "2026-03-04T02:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029024803705819435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1478544768020127744",
+              "start": 3,
+              "username": "etji_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxU2A9ipoo",
+              "end": 50,
+              "expanded_url": "https://x.com/etji_n/status/2028847878454575537/photo/1",
+              "media_key": "3_2028782290462220288",
+              "start": 27,
+              "url": "https://t.co/rxU2A9ipoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029024803705819435",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028847878454575537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @etji_n: 노래하는 도로롱 과 홍북이 https://t.co/rxU2A9ipoo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028782290462220288"
+          ]
+        },
+        "author_id": "1478544768020127744",
+        "conversation_id": "2028847878454575537",
+        "created_at": "2026-03-03T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028847878454575537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxU2A9ipoo",
+              "end": 38,
+              "expanded_url": "https://x.com/etji_n/status/2028847878454575537/photo/1",
+              "media_key": "3_2028782290462220288",
+              "start": 15,
+              "url": "https://t.co/rxU2A9ipoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028847878454575537",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2059,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "노래하는 도로롱 과 홍북이 https://t.co/rxU2A9ipoo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4718,
+          "like_count": 89065,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 13560
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T01:52:26.000Z",
+        "description": "시련은 있으나 실패란 없다. 그림으로 성공하고싶은 남자 ..\n(* 퍼가실땐 댓글 남겨주세요 )상업용도X  및 no Ai art(정치X)\nhttps://t.co/ne6A1Vw00h \n커미션 항시요청 받아요",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "crepe.cm/@RtVCXqQj/2e16…",
+                "end": 99,
+                "expanded_url": "https://crepe.cm/@RtVCXqQj/2e160ij1",
+                "start": 76,
+                "url": "https://t.co/ne6A1Vw00h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2538510",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/2538510",
+                "start": 0,
+                "url": "https://t.co/OI7zWf5wvO"
+              }
+            ]
+          }
+        },
+        "id": "1478544768020127744",
+        "name": "netji",
+        "pinned_tweet_id": "1821126287609753924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915771344173854720/eAK75fE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 80,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 848,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/OI7zWf5wvO",
+        "username": "etji_n",
+        "verified": false
+      }
+    ]
+  }
+}

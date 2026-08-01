@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2043916173704593588",
+    "created_at": "2026-04-14T04:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043916173704593588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2786701",
+          "start": 3,
+          "username": "williamlong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/qVlvGTZ",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/qVlvGTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043916173704593588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043907834396717274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @williamlong: 反截图的方法是，在电脑端群聊，用手机对着电脑屏幕拍照，不会被人发现截图。保存图片要将图片保存为低质量的JPG格式（质量设为 30%），保存后，重新打开，再一次保存低质量的JPG格式，这样可以去除暗水印。 https://t.co/qVlvGTZ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2043904857497841666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1oo4nasAIe793.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2043916173704593588",
+        "created_at": "2026-04-14T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043916173704593588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2786701",
+              "start": 3,
+              "username": "williamlong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/qVlvGTZ",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/qVlvGTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043916173704593588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043907834396717274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @williamlong: 反截图的方法是，在电脑端群聊，用手机对着电脑屏幕拍照，不会被人发现截图。保存图片要将图片保存为低质量的JPG格式（质量设为 30%），保存后，重新打开，再一次保存低质量的JPG格式，这样可以去除暗水印。 https://t.co/qVlvGTZ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043904857497841666"
+          ]
+        },
+        "author_id": "2786701",
+        "conversation_id": "2043907834396717274",
+        "created_at": "2026-04-14T04:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:12:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043905213074157653",
+          "2043907475049722357",
+          "2043907834396717274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVlvGTZIxS",
+              "end": 125,
+              "expanded_url": "https://x.com/williamlong/status/2043907834396717274/photo/1",
+              "media_key": "3_2043904857497841666",
+              "start": 102,
+              "url": "https://t.co/qVlvGTZIxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043907834396717274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2821,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "反截图的方法是，在电脑端群聊，用手机对着电脑屏幕拍照，不会被人发现截图。保存图片要将图片保存为低质量的JPG格式（质量设为 30%），保存后，重新打开，再一次保存低质量的JPG格式，这样可以去除暗水印。 https://t.co/qVlvGTZIxS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 4750,
+          "like_count": 105303,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 14489
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367095,
+          "following_count": 403,
+          "like_count": 0,
+          "listed_count": 2736,
+          "media_count": 3808,
+          "tweet_count": 31837
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

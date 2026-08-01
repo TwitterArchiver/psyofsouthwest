@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030375635366092800"
+      ],
+      "media_source_tweet_id": [
+        "2030375638218272903"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2030446105687998811",
+    "created_at": "2026-03-08T00:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T01:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030446105687998811"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Federal Doro Credit Union",
+          "probability": 0.4617,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 87,
+          "normalized_text": "DORO",
+          "probability": 0.337,
+          "start": 84,
+          "type": "Other"
+        },
+        {
+          "end": 98,
+          "normalized_text": "NIKKEdoro",
+          "probability": 0.4002,
+          "start": 90,
+          "type": "Organization"
+        }
+      ],
+      "cashtags": [
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "DORO"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 89,
+          "tag": "NIKKEdoro"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1933241017186312192",
+          "start": 3,
+          "username": "Doro_on_sol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsskacEywI",
+          "end": 129,
+          "expanded_url": "https://x.com/Doro_on_sol/status/2030375638218272903/photo/1",
+          "media_key": "3_2030375635366092800",
+          "start": 106,
+          "url": "https://t.co/fsskacEywI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030446105687998811",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030375638218272903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doro_on_sol: I'm here with the Federal Doro Credit Union. Show me your wallet! $DORO #NIKKEdoro #doro https://t.co/fsskacEywI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2030375635366092800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1X4gqaoAAOVDn.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030375635366092800"
+          ],
+          "media_source_tweet_id": [
+            "2030375638218272903"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2030446105687998811",
+        "created_at": "2026-03-08T00:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030446105687998811"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Federal Doro Credit Union",
+              "probability": 0.4617,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "DORO",
+              "probability": 0.337,
+              "start": 84,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "NIKKEdoro",
+              "probability": 0.4002,
+              "start": 90,
+              "type": "Organization"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "NIKKEdoro"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933241017186312192",
+              "start": 3,
+              "username": "Doro_on_sol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsskacEywI",
+              "end": 129,
+              "expanded_url": "https://x.com/Doro_on_sol/status/2030375638218272903/photo/1",
+              "media_key": "3_2030375635366092800",
+              "start": 106,
+              "url": "https://t.co/fsskacEywI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030446105687998811",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030375638218272903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doro_on_sol: I'm here with the Federal Doro Credit Union. Show me your wallet! $DORO #NIKKEdoro #doro https://t.co/fsskacEywI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030375635366092800"
+          ]
+        },
+        "author_id": "1933241017186312192",
+        "conversation_id": "2030375638218272903",
+        "created_at": "2026-03-07T20:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T21:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030375638218272903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Doro Credit Union",
+              "probability": 0.4629,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "DORO",
+              "probability": 0.3509,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "NIKKEdoro",
+              "probability": 0.3736,
+              "start": 73,
+              "type": "Organization"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "NIKKEdoro"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsskacEywI",
+              "end": 112,
+              "expanded_url": "https://x.com/Doro_on_sol/status/2030375638218272903/photo/1",
+              "media_key": "3_2030375635366092800",
+              "start": 89,
+              "url": "https://t.co/fsskacEywI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030375638218272903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1054,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "I'm here with the Federal Doro Credit Union. Show me your wallet! $DORO #NIKKEdoro #doro https://t.co/fsskacEywI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4737,
+          "like_count": 90760,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13760
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T19:12:49.000Z",
+        "description": "The original Doro meme on Solana! $DORO\n\nH4iUsC9rLNsXQ1GAfv8Bs53dZnBn9rqSxhE388YRpump\n\nhttps://t.co/4fKqeBuhBG",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "DORO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TheDoroChannel",
+                "end": 110,
+                "expanded_url": "https://t.me/TheDoroChannel",
+                "start": 87,
+                "url": "https://t.co/4fKqeBuhBG"
+              }
+            ]
+          }
+        },
+        "id": "1933241017186312192",
+        "name": "Doro on Solana",
+        "pinned_tweet_id": "2010764116164821051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933241500613423104/qIfw4kT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 23,
+          "like_count": 1652,
+          "listed_count": 12,
+          "media_count": 469,
+          "tweet_count": 493
+        },
+        "username": "Doro_on_sol",
+        "verified": true
+      }
+    ]
+  }
+}

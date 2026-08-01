@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2027746969058476234",
+    "created_at": "2026-03-01T01:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T02:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027913297484484726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1501502506538438657",
+          "start": 0,
+          "username": "UnicornBitcoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027913297484484726",
+    "in_reply_to_user_id": "1501502506538438657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027746969058476234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnicornBitcoin 习近平：73岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2027746969058476234",
+        "created_at": "2026-03-01T01:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027913297484484726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1501502506538438657",
+              "start": 0,
+              "username": "UnicornBitcoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027913297484484726",
+        "in_reply_to_user_id": "1501502506538438657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027746969058476234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnicornBitcoin 习近平：73岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501502506538438657",
+        "conversation_id": "2027746969058476234",
+        "created_at": "2026-02-28T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027746969058476234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027746969058476234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 203790,
+          "like_count": 840,
+          "quote_count": 8,
+          "reply_count": 149,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "普京：73岁\n特朗普：79岁\n内塔尼亚胡：76岁\n纳伦德拉·莫迪：75岁\n哈梅内伊：86岁\n\n他们都已走过绝大多数人生旅程\n见证了各自的巅峰时刻\n下一代人渴望和平与发展\n\n世界现在需要年轻的领导者\n而不是被这些老头们拖入第三次世界大战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 4658,
+          "like_count": 86193,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 13368
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T10:18:02.000Z",
+        "description": "$BTC #XClub \n\nWEB3入口就在OKX https://t.co/pZCFItmdrD \n\n3亿用户选择币安 https://t.co/KoDvNU04iq\n\n交易美股用麦通 https://t.co/owpGNKUXmG",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "XClub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/zh-hans/join/U…",
+                "end": 49,
+                "expanded_url": "https://okx.com/zh-hans/join/UNICORN",
+                "start": 26,
+                "url": "https://t.co/pZCFItmdrD"
+              },
+              {
+                "display_url": "binance.com/join?ref=OMIVH…",
+                "end": 84,
+                "expanded_url": "http://binance.com/join?ref=OMIVH05R",
+                "start": 61,
+                "url": "https://t.co/KoDvNU04iq"
+              },
+              {
+                "display_url": "msx.com/?code=Hl6B41",
+                "end": 117,
+                "expanded_url": "https://msx.com/?code=Hl6B41",
+                "start": 94,
+                "url": "https://t.co/owpGNKUXmG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Bitcoin.com",
+                "end": 23,
+                "expanded_url": "http://Bitcoin.com",
+                "start": 0,
+                "url": "https://t.co/gP4Dud2LAO"
+              }
+            ]
+          }
+        },
+        "id": "1501502506538438657",
+        "location": "UnicornBitcoin",
+        "name": "UNICORN⚡️🦄",
+        "pinned_tweet_id": "1829904102001950862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027419208678834176/2rXyDMIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134658,
+          "following_count": 3504,
+          "like_count": 40546,
+          "listed_count": 1343,
+          "media_count": 3812,
+          "tweet_count": 20038
+        },
+        "url": "https://t.co/gP4Dud2LAO",
+        "username": "UnicornBitcoin",
+        "verified": true
+      }
+    ]
+  }
+}

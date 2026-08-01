@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020308345866055680"
+      ],
+      "media_source_tweet_id": [
+        "2020308415713800607"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2020572436849479709",
+    "created_at": "2026-02-08T18:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020572436849479709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1302118861995536387",
+          "start": 3,
+          "username": "Jiaxi_Cui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mydmr7FNGt",
+          "end": 68,
+          "expanded_url": "https://x.com/Jiaxi_Cui/status/2020308415713800607/photo/1",
+          "media_key": "3_2020308345866055680",
+          "start": 45,
+          "url": "https://t.co/mydmr7FNGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020572436849479709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020308415713800607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiaxi_Cui: 现在做学术简单多了，普通工程师都可以迅速搞出CUDA的代码 https://t.co/mydmr7FNGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2020308345866055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmTvIwacAAv_6w.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020308345866055680"
+          ],
+          "media_source_tweet_id": [
+            "2020308415713800607"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2020572436849479709",
+        "created_at": "2026-02-08T18:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020572436849479709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1302118861995536387",
+              "start": 3,
+              "username": "Jiaxi_Cui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mydmr7FNGt",
+              "end": 68,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2020308415713800607/photo/1",
+              "media_key": "3_2020308345866055680",
+              "start": 45,
+              "url": "https://t.co/mydmr7FNGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020572436849479709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020308415713800607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiaxi_Cui: 现在做学术简单多了，普通工程师都可以迅速搞出CUDA的代码 https://t.co/mydmr7FNGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020308345866055680"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "conversation_id": "2020308415713800607",
+        "created_at": "2026-02-08T01:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020308415713800607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mydmr7FNGt",
+              "end": 53,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2020308415713800607/photo/1",
+              "media_key": "3_2020308345866055680",
+              "start": 30,
+              "url": "https://t.co/mydmr7FNGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020308415713800607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 72388,
+          "like_count": 187,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "现在做学术简单多了，普通工程师都可以迅速搞出CUDA的代码 https://t.co/mydmr7FNGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 4508,
+          "like_count": 76938,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12940
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Video AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=QRV7CjgAAAAJ",
+                "start": 0,
+                "url": "https://t.co/HnAKMxn4aS"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17286,
+          "following_count": 865,
+          "like_count": 2905,
+          "listed_count": 165,
+          "media_count": 451,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/HnAKMxn4aS",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

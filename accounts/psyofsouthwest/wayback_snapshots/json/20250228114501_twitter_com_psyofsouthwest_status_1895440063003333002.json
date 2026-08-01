@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1895326952464228844",
+    "created_at": "2025-02-28T11:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T12:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895440063003333002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800047166003826688",
+          "start": 0,
+          "username": "Pomb0ring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895440063003333002",
+    "in_reply_to_user_id": "1800047166003826688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895326952464228844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pomb0ring 并不完全是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1895326952464228844",
+        "created_at": "2025-02-28T11:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895440063003333002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800047166003826688",
+              "start": 0,
+              "username": "Pomb0ring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895440063003333002",
+        "in_reply_to_user_id": "1800047166003826688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895326952464228844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pomb0ring 并不完全是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800047166003826688",
+        "conversation_id": "1895326952464228844",
+        "created_at": "2025-02-28T04:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T05:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895326952464228844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895326952464228844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3284,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真正想要自杀的人是不会告诉别人自己要自杀的呀。。。。告诉别人要自杀其实是索取缺失的关注和爱呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 3159,
+          "like_count": 25670,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 9905
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T06:07:52.000Z",
+        "description": "迷信现实，虚构远方",
+        "id": "1800047166003826688",
+        "location": "河流，湖泊，和海洋",
+        "name": "猫在雷",
+        "pinned_tweet_id": "1839169950440964257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810050983441158144/ffDk_Lqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 186,
+          "like_count": 22314,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 3682
+        },
+        "username": "Pomb0ring",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031173106887254016"
+      ],
+      "media_source_tweet_id": [
+        "2031173109869334985"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2031180594957398099",
+    "created_at": "2026-03-10T01:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T02:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031180594957398099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jl93FrCz1S",
+          "end": 47,
+          "expanded_url": "https://x.com/DoroStar5522/status/2031173109869334985/photo/1",
+          "media_key": "3_2031173106887254016",
+          "start": 24,
+          "url": "https://t.co/Jl93FrCz1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031180594957398099",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031173109869334985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: Doro! https://t.co/Jl93FrCz1S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2031173106887254016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDAtLdlXYAAxu97.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031173106887254016"
+          ],
+          "media_source_tweet_id": [
+            "2031173109869334985"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2031180594957398099",
+        "created_at": "2026-03-10T01:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031180594957398099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jl93FrCz1S",
+              "end": 47,
+              "expanded_url": "https://x.com/DoroStar5522/status/2031173109869334985/photo/1",
+              "media_key": "3_2031173106887254016",
+              "start": 24,
+              "url": "https://t.co/Jl93FrCz1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031180594957398099",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031173109869334985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: Doro! https://t.co/Jl93FrCz1S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031173106887254016"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2031173109869334985",
+        "created_at": "2026-03-10T00:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031173109869334985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jl93FrCz1S",
+              "end": 29,
+              "expanded_url": "https://x.com/DoroStar5522/status/2031173109869334985/photo/1",
+              "media_key": "3_2031173106887254016",
+              "start": 6,
+              "url": "https://t.co/Jl93FrCz1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031173109869334985",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 76,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Doro! https://t.co/Jl93FrCz1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4747,
+          "like_count": 91762,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13808
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "pinned_tweet_id": "2027240093748977883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 53,
+          "like_count": 1841,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 974
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

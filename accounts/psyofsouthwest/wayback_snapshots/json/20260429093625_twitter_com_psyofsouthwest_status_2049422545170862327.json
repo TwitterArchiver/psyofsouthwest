@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2049422545170862327",
+    "created_at": "2026-04-29T09:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049422545170862327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "902483821811056640",
+          "start": 3,
+          "username": "mafang71"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2047…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2047558279958818816",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2047558279958818816",
+          "url": "https://t.co/aoveUKCLIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049422545170862327",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049416335088824607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mafang71: https://t.co/aoveUKCLIG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2049422545170862327",
+        "created_at": "2026-04-29T09:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049422545170862327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "902483821811056640",
+              "start": 3,
+              "username": "mafang71"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2047…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2047558279958818816",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2047558279958818816",
+              "url": "https://t.co/aoveUKCLIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049422545170862327",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049416335088824607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mafang71: https://t.co/aoveUKCLIG"
+      },
+      {
+        "article": {
+          "title": "可以谈谈学校的未来了吗?"
+        },
+        "attachments": {},
+        "author_id": "902483821811056640",
+        "conversation_id": "2049416335088824607",
+        "created_at": "2026-04-29T09:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049416335088824607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2047…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2047558279958818816",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2047558279958818816",
+              "url": "https://t.co/aoveUKCLIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049416335088824607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 484,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aoveUKCLIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 4796,
+          "like_count": 111885,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14888
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-29T10:51:25.000Z",
+        "description": "马方，股权战略专家，知识博主，前泰山管理学院院长、荣誉院长，中国管理科学学会理事，中国企业管理研究会理事，赢在中国创业导师，多家公司董事、顾问，主要著作《股权战略》。\n目前在美创办纽约政经学院，常年在纽约开办《短视频运营与企业转型》《合伙人股权设计》等课程，报名请私信或Email：deanma969@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leefang.org/kecheng",
+                "end": 23,
+                "expanded_url": "https://www.leefang.org/kecheng",
+                "start": 0,
+                "url": "https://t.co/wiIp8KS2PB"
+              }
+            ]
+          }
+        },
+        "id": "902483821811056640",
+        "location": "美国",
+        "name": "马方说管理",
+        "pinned_tweet_id": "1702674201843290126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/917543693564837888/1Mcmoy5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75051,
+          "following_count": 97,
+          "like_count": 65,
+          "listed_count": 197,
+          "media_count": 426,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/wiIp8KS2PB",
+        "username": "mafang71",
+        "verified": true
+      }
+    ]
+  }
+}

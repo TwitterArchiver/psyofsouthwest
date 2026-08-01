@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2002554268344332302",
+    "created_at": "2025-12-21T01:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T02:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002554268344332302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "17552210",
+          "start": 3,
+          "username": "evilcos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002554268344332302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 238
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001962114219749822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evilcos: 我写《区块链黑暗森林自救手册》时还没出现这些优秀的 LLM AI，Markdown 纯敲，一个个字…我觉得我以后的作品输出会容易很多，但可能再也没这么纯粹的感觉了。\n\n感谢时代，感谢黑手册的贡献者与读者们，这本手册的使命会告一段落：\nhttps://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001962108205117441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hl7jlbsAEaLNl.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2002554268344332302",
+        "created_at": "2025-12-21T01:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002554268344332302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "17552210",
+              "start": 3,
+              "username": "evilcos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002554268344332302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001962114219749822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evilcos: 我写《区块链黑暗森林自救手册》时还没出现这些优秀的 LLM AI，Markdown 纯敲，一个个字…我觉得我以后的作品输出会容易很多，但可能再也没这么纯粹的感觉了。\n\n感谢时代，感谢黑手册的贡献者与读者们，这本手册的使命会告一段落：\nhttps://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001962108205117441"
+          ]
+        },
+        "author_id": "17552210",
+        "conversation_id": "2001962114219749822",
+        "created_at": "2025-12-19T10:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001962114219749822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency. - slowmist/Blockchain-dark-forest-selfguard-handbook",
+              "display_url": "github.com/slowmist/Block…",
+              "end": 140,
+              "expanded_url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2001962120876003328/HctGi2yk?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001962120876003328/HctGi2yk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "GitHub - slowmist/Blockchain-dark-forest-selfguard-handbook: Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.",
+              "unwound_url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook",
+              "url": "https://t.co/zQXOurnV4c"
+            },
+            {
+              "display_url": "pic.x.com/WjlP6cNF0B",
+              "end": 164,
+              "expanded_url": "https://x.com/evilcos/status/2001962114219749822/photo/1",
+              "media_key": "3_2001962108205117441",
+              "start": 141,
+              "url": "https://t.co/WjlP6cNF0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001962114219749822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/slowmist/Block…",
+                "end": 140,
+                "expanded_url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook",
+                "start": 117,
+                "url": "https://t.co/IM9qCsas2J"
+              },
+              {
+                "display_url": "github.com/evilcos/darkha…",
+                "end": 189,
+                "expanded_url": "https://github.com/evilcos/darkhandbook",
+                "start": 166,
+                "url": "https://t.co/dH2C9h9Nfp"
+              }
+            ]
+          },
+          "text": "我写《区块链黑暗森林自救手册》时还没出现这些优秀的 LLM AI，Markdown 纯敲，一个个字…我觉得我以后的作品输出会容易很多，但可能再也没这么纯粹的感觉了。\n\n感谢时代，感谢黑手册的贡献者与读者们，这本手册的使命会告一段落：\nhttps://t.co/IM9qCsas2J\n\n后续我只会更新黑手册扩展知识，纯当自己的记录：\nhttps://t.co/dH2C9h9Nfp\n\n2025 快结束了，给自己一个转折点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 838,
+          "impression_count": 91324,
+          "like_count": 1015,
+          "quote_count": 13,
+          "reply_count": 58,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "我写《区块链黑暗森林自救手册》时还没出现这些优秀的 LLM AI，Markdown 纯敲，一个个字…我觉得我以后的作品输出会容易很多，但可能再也没这么纯粹的感觉了。\n\n感谢时代，感谢黑手册的贡献者与读者们，这本手册的使命会告一段落：\nhttps://t.co/zQXOurnV4c https://t.co/WjlP6cNF0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 4094,
+          "like_count": 59602,
+          "listed_count": 5,
+          "media_count": 374,
+          "tweet_count": 12292
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-22T03:40:47.000Z",
+        "description": "Founder of @SlowMist_Team. Creator of https://t.co/tFCQExs2wd // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "SlowMist_Team"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "DarkHandBook.io",
+                "end": 61,
+                "expanded_url": "https://DarkHandBook.io",
+                "start": 38,
+                "url": "https://t.co/tFCQExs2wd"
+              },
+              {
+                "display_url": "t.me/greyhatcos",
+                "end": 113,
+                "expanded_url": "https://t.me/greyhatcos",
+                "start": 90,
+                "url": "https://t.co/bMGdsBkYwM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/evilcos",
+                "end": 23,
+                "expanded_url": "https://github.com/evilcos",
+                "start": 0,
+                "url": "https://t.co/kVIk8p7y4G"
+              }
+            ]
+          }
+        },
+        "id": "17552210",
+        "location": "HACKING",
+        "name": "Cos(余弦)😶‍🌫️",
+        "pinned_tweet_id": "1943275102990405704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118211,
+          "following_count": 1434,
+          "like_count": 23329,
+          "listed_count": 1723,
+          "media_count": 894,
+          "tweet_count": 8414
+        },
+        "url": "https://t.co/kVIk8p7y4G",
+        "username": "evilcos",
+        "verified": true
+      }
+    ]
+  }
+}

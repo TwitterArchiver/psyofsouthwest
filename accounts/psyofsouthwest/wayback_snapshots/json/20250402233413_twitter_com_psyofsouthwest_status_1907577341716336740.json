@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1907365733757022431",
+    "created_at": "2025-04-02T23:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T00:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907577341716336740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "143810986",
+          "start": 0,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907577341716336740",
+    "in_reply_to_user_id": "143810986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907365733757022431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dw_chinese 一定是可以顶着墙的男人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1907364753883754496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhSI1RXcAAMeAi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1907365733757022431",
+        "created_at": "2025-04-02T23:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T00:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907577341716336740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "143810986",
+              "start": 0,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907577341716336740",
+        "in_reply_to_user_id": "143810986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907365733757022431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dw_chinese 一定是可以顶着墙的男人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907364753883754496"
+          ]
+        },
+        "author_id": "143810986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Cory Booker (NJ)",
+              "id": "877695885718601728",
+              "name": "Cory Booker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Cory Booker (NJ)",
+              "id": "877695885718601728",
+              "name": "Cory Booker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Cory Booker (NJ)",
+              "id": "877695885718601728",
+              "name": "Cory Booker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1907365733757022431",
+        "created_at": "2025-04-02T09:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:32:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907365574243451343",
+          "1907365733757022431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GChU1IdvWZ",
+              "end": 115,
+              "expanded_url": "https://x.com/dw_chinese/status/1907365733757022431/photo/1",
+              "media_key": "3_1907364753883754496",
+              "start": 92,
+              "url": "https://t.co/GChU1IdvWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907365733757022431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "55岁的美国民主党参议员布克（Cory Booker）当地周一晚上7时开始“马拉松式”演讲，一直坚持至隔天晚上8时05分结束，发言长达25小时5分钟，期间未曾间断，吃东西或离席如厕。\n\n在演讲中，布克广泛批评了特朗普的施政，指责其一系列政策“违宪”，包括削减医疗保健等等。他质疑川普或危及美国民主，也指出川普让美国与传统盟友的关系急剧恶化。\n白宫回应指，布克的行为是“政治秀”。\n\n此前，参院发言时间最长的是1957年时任参议员Strom Thurmond，他当时针对《民权法案》发表了长达24小时18分钟的冗长演说。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47381,
+          "like_count": 531,
+          "quote_count": 13,
+          "reply_count": 96,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "55岁的美国民主党参议员布克（Cory Booker）当地周一晚上7时开始“马拉松式”演讲，一直坚持至隔天晚上8时05分结束，发言长达25小时5分钟，期间未曾间断，吃东西或离席如厕。 https://t.co/GChU1IdvWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 3324,
+          "like_count": 28373,
+          "listed_count": 6,
+          "media_count": 315,
+          "tweet_count": 10151
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309715,
+          "following_count": 24,
+          "like_count": 149,
+          "listed_count": 5222,
+          "media_count": 11845,
+          "tweet_count": 79231
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

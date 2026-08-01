@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1667826933298765837",
+    "created_at": "2023-06-11T17:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-11T18:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1667949932840615936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "8933372",
+          "start": 0,
+          "username": "donglu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1667949932840615936",
+    "in_reply_to_user_id": "8933372",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1667826933298765837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donglu 在早期依恋期形成的应激自动化反应根本无法改变，只有提高元认知水平，减慢反应速度，加入新的反应来对冲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1667826933298765837",
+        "created_at": "2023-06-11T17:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-11T18:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1667949932840615936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "8933372",
+              "start": 0,
+              "username": "donglu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1667949932840615936",
+        "in_reply_to_user_id": "8933372",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1667826933298765837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donglu 在早期依恋期形成的应激自动化反应根本无法改变，只有提高元认知水平，减慢反应速度，加入新的反应来对冲"
+      },
+      {
+        "attachments": {},
+        "author_id": "8933372",
+        "conversation_id": "1667826933298765837",
+        "created_at": "2023-06-11T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-11T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1667826933298765837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1667826933298765837",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19044,
+          "like_count": 30,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还有那些天天说童年阴影原生家庭影响的，你们长大点儿吧，都多大岁数了，跟父母一起有多大的阴影，长大这么多年，你也应该有能力和方法消除掉了吧？如果还没有消除掉，那只能证明你差劲啊，总拿这个作为借口真的好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "心理健康教育，信奉家庭心理治疗。\n认为家长问题＞子女问题，家长解决能力＞子女解决能力。\n强调充分觉察、边界稳定、干涉适度。\nStand With Ukraine🇺🇦；Let trans kids bloom🏳️‍⚧️；改名字住址不会变。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1667429881947516929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665535205044789248/XE4NJ8PT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 2757,
+          "listed_count": 2,
+          "tweet_count": 1422
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-17T16:24:09.000Z",
+        "description": "不要试图搞懂我，我都不懂。",
+        "id": "8933372",
+        "location": "Beijing China",
+        "name": "donglu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654235423647080448/RvNig2Kb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 289,
+          "listed_count": 133,
+          "tweet_count": 17280
+        },
+        "username": "donglu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044296736416686080"
+      ],
+      "media_source_tweet_id": [
+        "2044662573740785813"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045123180793094331",
+    "created_at": "2026-04-17T12:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045123180793094331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "seedance2"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1238039266057261062",
+          "start": 3,
+          "username": "ZocLucis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRCukrUDam",
+          "end": 65,
+          "expanded_url": "https://x.com/ZocLucis/status/2044662573740785813/video/1",
+          "media_key": "13_2044296736416686080",
+          "start": 42,
+          "url": "https://t.co/BRCukrUDam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045123180793094331",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044662573740785813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZocLucis: go with me #seedance2 #doro https://t.co/BRCukrUDam"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45209,
+        "height": 1280,
+        "media_key": "13_2044296736416686080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044296736416686080/img/8cffiE8MUvDYlHhP.jpg",
+        "public_metrics": {
+          "view_count": 5635
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044296736416686080/vid/avc1/320x568/yoHg4IR_-_590oWB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044296736416686080/vid/avc1/480x852/bWJGX7y45CvKRT5A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044296736416686080/vid/avc1/720x1280/X7PGsqYdbUV3W9ch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044296736416686080/pl/Ea41udkcGooErGmb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044296736416686080"
+          ],
+          "media_source_tweet_id": [
+            "2044662573740785813"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045123180793094331",
+        "created_at": "2026-04-17T12:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045123180793094331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "seedance2"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1238039266057261062",
+              "start": 3,
+              "username": "ZocLucis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRCukrUDam",
+              "end": 65,
+              "expanded_url": "https://x.com/ZocLucis/status/2044662573740785813/video/1",
+              "media_key": "13_2044296736416686080",
+              "start": 42,
+              "url": "https://t.co/BRCukrUDam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045123180793094331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044662573740785813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZocLucis: go with me #seedance2 #doro https://t.co/BRCukrUDam"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044296736416686080"
+          ]
+        },
+        "author_id": "1238039266057261062",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044662573740785813",
+        "created_at": "2026-04-16T06:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044662573740785813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "seedance2"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRCukrUDam",
+              "end": 51,
+              "expanded_url": "https://x.com/ZocLucis/status/2044662573740785813/video/1",
+              "media_key": "13_2044296736416686080",
+              "start": 28,
+              "url": "https://t.co/BRCukrUDam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044662573740785813",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 14299,
+          "like_count": 988,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "go with me #seedance2 #doro https://t.co/BRCukrUDam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 4752,
+          "like_count": 106763,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 14589
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T09:49:07.000Z",
+        "description": "nothing is permanent",
+        "id": "1238039266057261062",
+        "name": "Lucis",
+        "pinned_tweet_id": "1722807135372005701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757695084206993408/U6mEZUmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 493,
+          "like_count": 114387,
+          "listed_count": 12,
+          "media_count": 767,
+          "tweet_count": 1786
+        },
+        "username": "ZocLucis",
+        "verified": true
+      }
+    ]
+  }
+}

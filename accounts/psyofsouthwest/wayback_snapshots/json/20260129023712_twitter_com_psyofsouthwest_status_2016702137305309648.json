@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2016684544473403797",
+    "created_at": "2026-01-29T02:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938963008",
+          "start": 0,
+          "username": "HotmailfromSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016702137305309648",
+    "in_reply_to_user_id": "1938963008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016684544473403797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HotmailfromSH 白高兴一场，还以为得胰腺癌了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938963008",
+        "conversation_id": "2016684544473403797",
+        "created_at": "2026-01-29T01:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T02:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016684544473403797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「烧伤超人阿宝」（宁方刚）昨晚公众号正式发文“这次，阿宝真的要和大家告别了！”\n\n这已不是他第一次“告别”了,但看标题属实还真吓了我一跳.......\n\n宁方刚因税务风波被实名举报，补缴了 84 万的税款。另外与艾芬医生的长期法律纠纷也是其退出的主要原因。\n\n他声称要回归医疗本业，回归北京积水潭医院的诊室与手术台......"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1765,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「烧伤超人阿宝」（宁方刚）昨晚公众号正式发文“这次，阿宝真的要和大家告别了！”\n\n这已不是他第一次“告别”了,但看标题属实还真吓了我一跳.......\n\n宁方刚因税务风波被实名举报，补缴了 84 万的税款。另外与艾芬医生的长期法律纠纷也是其退出的主要原因。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 4472,
+          "like_count": 73021,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 12770
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-05T22:00:24.000Z",
+        "description": "荣格信徒；医学科普&原研药专业解决方案~",
+        "id": "1938963008",
+        "location": "Thailand",
+        "name": "Dr.Wang",
+        "pinned_tweet_id": "2007699904907620849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150795,
+          "following_count": 835,
+          "like_count": 169318,
+          "listed_count": 840,
+          "media_count": 5386,
+          "tweet_count": 58900
+        },
+        "username": "HotmailfromSH",
+        "verified": true
+      }
+    ]
+  }
+}

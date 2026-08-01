@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1867193371883917513",
+    "created_at": "2024-12-12T13:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T14:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867196300380217655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552883567168221184",
+          "start": 0,
+          "username": "yufufuwolf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867196300380217655",
+    "in_reply_to_user_id": "1552883567168221184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867195512220475603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufufuwolf 我要是能让你感觉好一点就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1867193371883917513",
+        "created_at": "2024-12-12T13:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T14:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867196300380217655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552883567168221184",
+              "start": 0,
+              "username": "yufufuwolf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867196300380217655",
+        "in_reply_to_user_id": "1552883567168221184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867195512220475603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufufuwolf 我要是能让你感觉好一点就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552883567168221184",
+        "conversation_id": "1867193371883917513",
+        "created_at": "2024-12-12T13:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T14:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867195512220475603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867195512220475603",
+        "in_reply_to_user_id": "1552883567168221184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867194923344359713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉很是对不起一直帮助我的人，那么多努力都白费了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2861,
+          "like_count": 21267,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 8956
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T05:08:09.000Z",
+        "description": "罪人",
+        "id": "1552883567168221184",
+        "name": "悠芙芙三号机",
+        "pinned_tweet_id": "1860287495935787042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622095169008070657/jBp1-7--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 347,
+          "like_count": 18542,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 3277
+        },
+        "username": "yufufuwolf",
+        "verified": false
+      }
+    ]
+  }
+}

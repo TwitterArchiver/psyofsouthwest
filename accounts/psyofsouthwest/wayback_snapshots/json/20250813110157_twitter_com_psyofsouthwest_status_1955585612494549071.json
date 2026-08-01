@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1955585612494549071",
+    "created_at": "2025-08-13T11:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955585612494549071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1550763948118458368",
+          "start": 3,
+          "username": "charming_midori"
+        },
+        {
+          "end": 36,
+          "id": "1631131566813618177",
+          "start": 21,
+          "username": "charming_momoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955585612494549071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955145318695309449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @charming_midori: @charming_momoi 毛泽东 四人帮\n毛泽东 华国锋\n华国锋 拿下 四人帮\n华国锋 邓小平 叶剑英\n邓小平 赵紫阳\n邓小平 江泽民\n江泽民 胡锦涛\n习近平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955585612494549071",
+        "created_at": "2025-08-13T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955585612494549071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1550763948118458368",
+              "start": 3,
+              "username": "charming_midori"
+            },
+            {
+              "end": 36,
+              "id": "1631131566813618177",
+              "start": 21,
+              "username": "charming_momoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955585612494549071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955145318695309449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @charming_midori: @charming_momoi 毛泽东 四人帮\n毛泽东 华国锋\n华国锋 拿下 四人帮\n华国锋 邓小平 叶剑英\n邓小平 赵紫阳\n邓小平 江泽民\n江泽民 胡锦涛\n习近平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550763948118458368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955141299264426079",
+        "created_at": "2025-08-12T05:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955145318695309449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1631131566813618177",
+              "start": 0,
+              "username": "charming_momoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955145318695309449",
+        "in_reply_to_user_id": "1631131566813618177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 21115,
+          "like_count": 618,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955141299264426079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_momoi 毛泽东 四人帮\n毛泽东 华国锋\n华国锋 拿下 四人帮\n华国锋 邓小平 叶剑英\n邓小平 赵紫阳\n邓小平 江泽民\n江泽民 胡锦涛\n习近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 3921,
+          "like_count": 45596,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 11625
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T08:45:21.000Z",
+        "description": "Midori is love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.nexon.com",
+                "end": 23,
+                "expanded_url": "https://bluearchive.nexon.com/",
+                "start": 0,
+                "url": "https://t.co/5xGoZUiS4m"
+              }
+            ]
+          }
+        },
+        "id": "1550763948118458368",
+        "location": "游戏开发部",
+        "name": "綠🍏",
+        "pinned_tweet_id": "1755533650257760404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949075422106578944/VOvTiOqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3285,
+          "following_count": 3391,
+          "like_count": 141936,
+          "listed_count": 12,
+          "media_count": 2252,
+          "tweet_count": 23669
+        },
+        "url": "https://t.co/5xGoZUiS4m",
+        "username": "charming_midori",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:17:33.000Z",
+        "description": "二次元 / 共产主义 / 原神",
+        "id": "1631131566813618177",
+        "location": "山海经",
+        "name": "枫糖小桃",
+        "pinned_tweet_id": "1755533592216863152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949076001541271553/OYJ4GtJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 2400,
+          "like_count": 38462,
+          "listed_count": 10,
+          "media_count": 586,
+          "tweet_count": 6853
+        },
+        "username": "charming_momoi",
+        "verified": true
+      }
+    ]
+  }
+}

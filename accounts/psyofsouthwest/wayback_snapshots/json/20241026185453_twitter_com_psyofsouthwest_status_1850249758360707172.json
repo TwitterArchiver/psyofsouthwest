@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1850241064025915444",
+    "created_at": "2024-10-26T18:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T19:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850249758360707172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850249758360707172",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850241064025915444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 看来十元老师账还完了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1850241064025915444].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1850241064025915444",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1850241064025915444"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1850241064025915444",
+        "created_at": "2024-10-26T18:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T19:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850249758360707172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850249758360707172",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850241064025915444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 看来十元老师账还完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 2661,
+          "like_count": 17516,
+          "listed_count": 4,
+          "tweet_count": 7889
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "长风长风飘在山海间\n白鸟白鸟展翅入苍天\n\n*注: 请不要当面问我的性别，问性别一律视为性骚扰; 实在好奇请自行探究/打听",
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "💙🌘 藍朔",
+        "pinned_tweet_id": "1849290966819291350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822660399034163200/Wndwgn1V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 742,
+          "like_count": 32719,
+          "listed_count": 2,
+          "tweet_count": 29705
+        },
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

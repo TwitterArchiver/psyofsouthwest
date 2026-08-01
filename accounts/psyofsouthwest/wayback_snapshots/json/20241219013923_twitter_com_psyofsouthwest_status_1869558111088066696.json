@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1869539930952867900",
+    "created_at": "2024-12-19T01:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T02:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869558111088066696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869558111088066696",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869539930952867900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen04 你也可以发猫币￡CAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1869539930952867900",
+        "created_at": "2024-12-19T01:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T02:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869558111088066696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869558111088066696",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869539930952867900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen04 你也可以发猫币￡CAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869539927744028672"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1869539930952867900",
+        "created_at": "2024-12-19T00:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T01:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869539930952867900"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "LI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC56XxPx93",
+              "end": 58,
+              "expanded_url": "https://x.com/maoshen04/status/1869539930952867900/photo/1",
+              "media_key": "3_1869539927744028672",
+              "start": 35,
+              "url": "https://t.co/xC56XxPx93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869539930952867900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4118,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位科普一下：李老师发行迷因币 $LI 是什么意思？为什么可以发币？ https://t.co/xC56XxPx93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 2897,
+          "like_count": 21760,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 9130
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "美籍華人，未來國會議員，YouTube【貓神看天下】博主，獨立民主人士，不站隊、不結盟，拒絕加入任何組織，電報群：https://t.co/tBMbXQEknm，請貓神喝咖啡：https://t.co/ZliWzy3buM，投稿郵箱：maoshenusa@gmail.com，聯繫電報：maoshen01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maoshen950404",
+                "end": 80,
+                "expanded_url": "https://t.me/maoshen950404",
+                "start": 57,
+                "url": "https://t.co/tBMbXQEknm"
+              },
+              {
+                "display_url": "paypal.me/maoshen2020",
+                "end": 111,
+                "expanded_url": "http://paypal.me/maoshen2020",
+                "start": 88,
+                "url": "https://t.co/ZliWzy3buM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/maoshen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/maoshen",
+                "start": 0,
+                "url": "https://t.co/WbubXJ2HyM"
+              }
+            ]
+          }
+        },
+        "id": "1154174763918606339",
+        "location": "Tampa, FL",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723795100520591360/4SQLTGFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153875,
+          "following_count": 72,
+          "like_count": 3625,
+          "listed_count": 455,
+          "media_count": 1143,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/WbubXJ2HyM",
+        "username": "maoshen04",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2017971271149961235",
+    "created_at": "2026-02-02T10:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018275714366427514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen"
+        },
+        {
+          "end": 16,
+          "id": "1148809412879851520",
+          "start": 9,
+          "username": "0xIanW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018275714366427514",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017971271149961235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen @0xIanW 我的斗鸡眼要好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2017971266754367488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFGLOnW0AAxD0m.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2017971271149961235",
+        "created_at": "2026-02-02T10:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018275714366427514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            },
+            {
+              "end": 16,
+              "id": "1148809412879851520",
+              "start": 9,
+              "username": "0xIanW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018275714366427514",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017971271149961235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen @0xIanW 我的斗鸡眼要好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017971266754367488"
+          ]
+        },
+        "author_id": "1154174763918606339",
+        "conversation_id": "2017971271149961235",
+        "created_at": "2026-02-01T14:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017971271149961235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1148809412879851520",
+              "start": 10,
+              "username": "0xIanW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQefSoCH1w",
+              "end": 66,
+              "expanded_url": "https://x.com/maoshen/status/2017971271149961235/photo/1",
+              "media_key": "3_2017971266754367488",
+              "start": 43,
+              "url": "https://t.co/LQefSoCH1w"
+            },
+            {
+              "display_url": "x.com/maoshen/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/maoshen/status/2017966896356684120",
+              "start": 67,
+              "url": "https://t.co/hxLwYbh18K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017971271149961235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29239,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017966896356684120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好👍，这个可以，感谢@0xIanW P图\n\n这个必须是亲姐妹👍\n\n就是把猫神P变了😂 https://t.co/LQefSoCH1w https://t.co/hxLwYbh18K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 4488,
+          "like_count": 74406,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 12819
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语世界独立观察者｜猫神官方账号｜YouTube《猫神漫谈》分享思考感悟人生坚持清醒表达，尊重多元观点，守住内心那束光｜愿在网络世界里，与有温度、有力量的您同行｜",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "1860128945636536594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195737,
+          "following_count": 3846,
+          "like_count": 3882,
+          "listed_count": 517,
+          "media_count": 2578,
+          "tweet_count": 5011
+        },
+        "username": "maoshen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-10T04:21:22.000Z",
+        "description": "探索AI中 ｜Vibe Coding \n佛系互  关了会回 【仅限蓝V】\n黄/政 除外",
+        "id": "1148809412879851520",
+        "location": "小于 500m",
+        "name": "𝙸𝚊𝚗 𝚆.",
+        "pinned_tweet_id": "2017881482703028348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016495342309777408/iHc-erka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1148,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1107
+        },
+        "username": "0xIanW",
+        "verified": true
+      }
+    ]
+  }
+}

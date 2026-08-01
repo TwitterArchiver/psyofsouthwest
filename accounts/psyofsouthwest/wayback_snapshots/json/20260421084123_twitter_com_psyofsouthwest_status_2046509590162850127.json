@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046394039298310144"
+      ],
+      "media_source_tweet_id": [
+        "2046394053105942591"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2046509590162850127",
+    "created_at": "2026-04-21T08:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046509590162850127"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "DORO"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "doro"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "doromemes"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611337527486455808",
+          "start": 3,
+          "username": "cryptoouo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2I7vM3den",
+          "end": 70,
+          "expanded_url": "https://x.com/cryptoouo/status/2046394053105942591/photo/1",
+          "media_key": "3_2046394039298310144",
+          "start": 47,
+          "url": "https://t.co/M2I7vM3den"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046509590162850127",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046394053105942591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptoouo: FBI Doro\n$DORO #doro #doromemes https://t.co/M2I7vM3den"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046394039298310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZAiVbaQAAcueI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046394039298310144"
+          ],
+          "media_source_tweet_id": [
+            "2046394053105942591"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2046509590162850127",
+        "created_at": "2026-04-21T08:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046509590162850127"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "doro"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "doromemes"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611337527486455808",
+              "start": 3,
+              "username": "cryptoouo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2I7vM3den",
+              "end": 70,
+              "expanded_url": "https://x.com/cryptoouo/status/2046394053105942591/photo/1",
+              "media_key": "3_2046394039298310144",
+              "start": 47,
+              "url": "https://t.co/M2I7vM3den"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046509590162850127",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046394053105942591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptoouo: FBI Doro\n$DORO #doro #doromemes https://t.co/M2I7vM3den"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046394039298310144"
+          ]
+        },
+        "author_id": "1611337527486455808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2046394053105942591",
+        "created_at": "2026-04-21T01:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046394053105942591"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "doro"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "doromemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2I7vM3den",
+              "end": 55,
+              "expanded_url": "https://x.com/cryptoouo/status/2046394053105942591/photo/1",
+              "media_key": "3_2046394039298310144",
+              "start": 32,
+              "url": "https://t.co/M2I7vM3den"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046394053105942591",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3629,
+          "like_count": 388,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "FBI Doro\n$DORO #doro #doromemes https://t.co/M2I7vM3den"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 4767,
+          "like_count": 108181,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 14649
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T12:23:07.000Z",
+        "description": "$DORO",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "DORO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dorocoin.org",
+                "end": 23,
+                "expanded_url": "http://dorocoin.org",
+                "start": 0,
+                "url": "https://t.co/F9vjSlbxOG"
+              }
+            ]
+          }
+        },
+        "id": "1611337527486455808",
+        "name": "ouo",
+        "pinned_tweet_id": "2046071055312371968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041887025092292608/q7i-HaGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 162,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/F9vjSlbxOG",
+        "username": "cryptoouo",
+        "verified": false
+      }
+    ]
+  }
+}

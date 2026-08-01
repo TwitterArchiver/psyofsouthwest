@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1867324597680713827",
+    "created_at": "2024-12-12T23:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T00:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867348053671428502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781159756289417216",
+          "start": 0,
+          "username": "AbbieOyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867348053671428502",
+    "in_reply_to_user_id": "1781159756289417216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867324597680713827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AbbieOyama 亚甲蓝是染料 尿液也会变蓝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1867324597680713827",
+        "created_at": "2024-12-12T23:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T00:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867348053671428502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781159756289417216",
+              "start": 0,
+              "username": "AbbieOyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867348053671428502",
+        "in_reply_to_user_id": "1781159756289417216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867324597680713827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AbbieOyama 亚甲蓝是染料 尿液也会变蓝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781159756289417216",
+        "conversation_id": "1867324597680713827",
+        "created_at": "2024-12-12T21:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T22:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867324597680713827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867324597680713827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才发现指甲变蓝色了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2860,
+          "like_count": 21287,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 8963
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T03:16:13.000Z",
+        "description": "障害者，車椅子。女の子になりたい。日本の東京で暮らしたい！私は中国人で、日本語ができないので、間違った日本語があるかもしれません。",
+        "id": "1781159756289417216",
+        "location": "日本 東京",
+        "name": "緒山潮汐",
+        "pinned_tweet_id": "1865106071142174757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781319510714404864/U-o-jh_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 145,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 258
+        },
+        "username": "AbbieOyama",
+        "verified": true
+      }
+    ]
+  }
+}

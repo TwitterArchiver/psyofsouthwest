@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1862121112341197297",
+    "created_at": "2024-11-29T22:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T23:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862618969095451125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1672848804352237568",
+          "start": 0,
+          "username": "nanking19371213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862618969095451125",
+    "in_reply_to_user_id": "1672848804352237568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862121112341197297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanking19371213 是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1862121112341197297",
+        "created_at": "2024-11-29T22:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T23:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862618969095451125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1672848804352237568",
+              "start": 0,
+              "username": "nanking19371213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862618969095451125",
+        "in_reply_to_user_id": "1672848804352237568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862121112341197297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanking19371213 是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672848804352237568",
+        "conversation_id": "1862121112341197297",
+        "created_at": "2024-11-28T13:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T14:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862121112341197297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862121112341197297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23786,
+          "like_count": 238,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "目前收到过的私信里骂的最脏的一条：你是东北人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 2818,
+          "like_count": 20411,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 8701
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T06:06:58.000Z",
+        "description": "人民教师兼中国共产党员",
+        "id": "1672848804352237568",
+        "location": "习近平思想研究中心",
+        "name": "柚",
+        "pinned_tweet_id": "1835235145399603234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862485086915948544/0rF6FBdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 248,
+          "like_count": 6083,
+          "listed_count": 16,
+          "media_count": 136,
+          "tweet_count": 5661
+        },
+        "username": "nanking19371213",
+        "verified": false
+      }
+    ]
+  }
+}

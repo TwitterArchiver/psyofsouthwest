@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853711164758528000"
+      ],
+      "media_source_tweet_id": [
+        "1853711175420363205"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1854134425518293038",
+    "created_at": "2024-11-06T12:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T13:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854134425518293038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "6782882",
+          "start": 3,
+          "username": "oran_ge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e79PKph4PA",
+          "end": 108,
+          "expanded_url": "https://x.com/oran_ge/status/1853711175420363205/photo/1",
+          "media_key": "3_1853711164758528000",
+          "start": 85,
+          "url": "https://t.co/e79PKph4PA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854134425518293038",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853711175420363205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oran_ge: 腾讯牛逼了\n发布了开源的3D生成模型\n这是第一个同时支持文生3D、图生3D的开源模型\n上传一张照片，生成3D模型，3D打印\n未来实现玩具自由… https://t.co/e79PKph4PA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1853711164758528000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbm0e6ObkAAd3IP.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853711164758528000"
+          ],
+          "media_source_tweet_id": [
+            "1853711175420363205"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1854134425518293038",
+        "created_at": "2024-11-06T12:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854134425518293038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "6782882",
+              "start": 3,
+              "username": "oran_ge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e79PKph4PA",
+              "end": 108,
+              "expanded_url": "https://x.com/oran_ge/status/1853711175420363205/photo/1",
+              "media_key": "3_1853711164758528000",
+              "start": 85,
+              "url": "https://t.co/e79PKph4PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854134425518293038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853711175420363205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oran_ge: 腾讯牛逼了\n发布了开源的3D生成模型\n这是第一个同时支持文生3D、图生3D的开源模型\n上传一张照片，生成3D模型，3D打印\n未来实现玩具自由… https://t.co/e79PKph4PA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853711164758528000"
+          ]
+        },
+        "author_id": "6782882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1853711175420363205",
+        "created_at": "2024-11-05T08:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T09:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853711175420363205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e79PKph4PA",
+              "end": 95,
+              "expanded_url": "https://x.com/oran_ge/status/1853711175420363205/photo/1",
+              "media_key": "3_1853711164758528000",
+              "start": 72,
+              "url": "https://t.co/e79PKph4PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853711175420363205",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 79899,
+          "like_count": 432,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "腾讯牛逼了\n发布了开源的3D生成模型\n这是第一个同时支持文生3D、图生3D的开源模型\n上传一张照片，生成3D模型，3D打印\n未来实现玩具自由… https://t.co/e79PKph4PA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 2693,
+          "like_count": 18224,
+          "listed_count": 4,
+          "tweet_count": 8095
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "🍊 AI 工具与内容社区产品专家 ｜\n🛠️ APP 作品：MiniMax 海螺AI、BOSS 直聘 ｜\n✍️ 写作：橘子汽水铺（Notion/公众号） ｜\n📍 北京，朝阳｜\nMake things happen~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangesai.com",
+                "end": 23,
+                "expanded_url": "https://orangesai.com/",
+                "start": 0,
+                "url": "https://t.co/QgQe2ek9n2"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "北京",
+        "name": "orange.ai",
+        "pinned_tweet_id": "1853704604573430053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105521,
+          "following_count": 769,
+          "like_count": 1388,
+          "listed_count": 1306,
+          "tweet_count": 129539
+        },
+        "url": "https://t.co/QgQe2ek9n2",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1918571193205948854",
+    "created_at": "2025-05-04T02:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T03:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918862105597321564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835916332447199232",
+          "start": 0,
+          "username": "C173F263Y084"
+        },
+        {
+          "end": 27,
+          "id": "1689161721741819904",
+          "start": 14,
+          "username": "RacRay228151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918862105597321564",
+    "in_reply_to_user_id": "1835916332447199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918739547740835933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C173F263Y084 @RacRay228151 至少他们有个针对目标特性的标准化流程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1918571193205948854",
+        "created_at": "2025-05-04T02:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T03:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918862105597321564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835916332447199232",
+              "start": 0,
+              "username": "C173F263Y084"
+            },
+            {
+              "end": 27,
+              "id": "1689161721741819904",
+              "start": 14,
+              "username": "RacRay228151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918862105597321564",
+        "in_reply_to_user_id": "1835916332447199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918739547740835933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C173F263Y084 @RacRay228151 至少他们有个针对目标特性的标准化流程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835916332447199232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1918571193205948854",
+        "created_at": "2025-05-03T18:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T19:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918739547740835933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            },
+            {
+              "end": 29,
+              "id": "1689161721741819904",
+              "start": 16,
+              "username": "RacRay228151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918739547740835933",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918647620198658471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest @RacRay228151 至少美军暂时没有被DOGE买断工龄🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 3748,
+          "like_count": 34474,
+          "listed_count": 6,
+          "media_count": 336,
+          "tweet_count": 10691
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T05:39:45.000Z",
+        "description": "喜欢拍照片的没学上的退役大学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/jnfFGD9Tf1"
+              }
+            ]
+          }
+        },
+        "id": "1835916332447199232",
+        "location": "成都市青羊区快活村 Tel:12339",
+        "name": "崔奉壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836261422113890305/8OkSLq-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 669,
+          "like_count": 1197,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/jnfFGD9Tf1",
+        "username": "C173F263Y084",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T06:28:49.000Z",
+        "description": "Live life, make life.",
+        "id": "1689161721741819904",
+        "name": "RacRay🌈🦝🌳🌞",
+        "pinned_tweet_id": "1693580613448860011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689528599429419008/SCGbnzrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 140,
+          "like_count": 4113,
+          "listed_count": 8,
+          "media_count": 621,
+          "tweet_count": 2475
+        },
+        "username": "RacRay228151",
+        "verified": false
+      }
+    ]
+  }
+}

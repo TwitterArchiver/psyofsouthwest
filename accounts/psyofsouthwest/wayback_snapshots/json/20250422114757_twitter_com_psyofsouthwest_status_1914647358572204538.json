@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914490840652607488"
+      ],
+      "media_source_tweet_id": [
+        "1914490844373004603"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+          "id": "1840858535829057537",
+          "name": "CBS News 2024 Vice Presidential Debate"
+        }
+      }
+    ],
+    "conversation_id": "1914647358572204538",
+    "created_at": "2025-04-22T11:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914647358572204538"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "REAPER VANCE",
+          "probability": 0.6937,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "105852422",
+          "start": 3,
+          "username": "alifarhat79"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qa8PHVsRPa",
+          "end": 67,
+          "expanded_url": "https://x.com/alifarhat79/status/1914490844373004603/photo/1",
+          "media_key": "3_1914490840652607488",
+          "start": 44,
+          "url": "https://t.co/qa8PHVsRPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914647358572204538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 495
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914490844373004603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alifarhat79: REAPER VANCE ACTION FIGURE https://t.co/qa8PHVsRPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1914490840652607488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGjRrLWcAAddaN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914490840652607488"
+          ],
+          "media_source_tweet_id": [
+            "1914490844373004603"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1914647358572204538",
+        "created_at": "2025-04-22T11:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914647358572204538"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "REAPER VANCE",
+              "probability": 0.6937,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "105852422",
+              "start": 3,
+              "username": "alifarhat79"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qa8PHVsRPa",
+              "end": 67,
+              "expanded_url": "https://x.com/alifarhat79/status/1914490844373004603/photo/1",
+              "media_key": "3_1914490840652607488",
+              "start": 44,
+              "url": "https://t.co/qa8PHVsRPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914647358572204538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 495
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914490844373004603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alifarhat79: REAPER VANCE ACTION FIGURE https://t.co/qa8PHVsRPa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914490840652607488"
+          ]
+        },
+        "author_id": "105852422",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1914490844373004603",
+        "created_at": "2025-04-22T01:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T02:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914490844373004603"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "REAPER VANCE",
+              "probability": 0.7088,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qa8PHVsRPa",
+              "end": 50,
+              "expanded_url": "https://x.com/alifarhat79/status/1914490844373004603/photo/1",
+              "media_key": "3_1914490840652607488",
+              "start": 27,
+              "url": "https://t.co/qa8PHVsRPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914490844373004603",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 141064,
+          "like_count": 3802,
+          "quote_count": 45,
+          "reply_count": 105,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "REAPER VANCE ACTION FIGURE https://t.co/qa8PHVsRPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 3599,
+          "like_count": 31211,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 10406
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-17T18:19:36.000Z",
+        "description": "Not associated with the Federal Reserve. Financial Parody and sarcasm. Not investment advice. Buy Crypto in IRA: https://t.co/hMrLOBiGzY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "itrustcapital.com/njp",
+                "end": 136,
+                "expanded_url": "https://www.itrustcapital.com/njp",
+                "start": 113,
+                "url": "https://t.co/hMrLOBiGzY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/notjeromepowell",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/notjeromepowell",
+                "start": 0,
+                "url": "https://t.co/ZjrUfFR87N"
+              }
+            ]
+          }
+        },
+        "id": "105852422",
+        "name": "Not Jerome Powell",
+        "pinned_tweet_id": "1913263252408070236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469441193209733127/Iuv1R7sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627987,
+          "following_count": 789,
+          "like_count": 146721,
+          "listed_count": 2916,
+          "media_count": 24583,
+          "tweet_count": 99525
+        },
+        "url": "https://t.co/ZjrUfFR87N",
+        "username": "alifarhat79",
+        "verified": true
+      }
+    ]
+  }
+}

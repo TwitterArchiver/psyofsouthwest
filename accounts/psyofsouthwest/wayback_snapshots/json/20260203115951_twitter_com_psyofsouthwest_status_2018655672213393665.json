@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2018629424535445626",
+    "created_at": "2026-02-03T11:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018655672213393665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1367943697279705090",
+          "start": 0,
+          "username": "BingLiu34173809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018655672213393665",
+    "in_reply_to_user_id": "1367943697279705090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018629424535445626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BingLiu34173809 习近平新时代中国特色社会主义理论思想不是狗皮膏药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018629418424356865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOcwspWUAE7ZLA.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018629418416021504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOcwsnXIAAnBy8.jpg",
+        "width": 1096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018629418529226752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOcwtCWgAAD7wN.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1697,
+        "media_key": "3_2018629418424356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOcwspWUAAinY-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2018629424535445626",
+        "created_at": "2026-02-03T11:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018655672213393665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367943697279705090",
+              "start": 0,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018655672213393665",
+        "in_reply_to_user_id": "1367943697279705090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018629424535445626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BingLiu34173809 习近平新时代中国特色社会主义理论思想不是狗皮膏药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018629418424356865",
+            "3_2018629418416021504",
+            "3_2018629418529226752",
+            "3_2018629418424356864"
+          ]
+        },
+        "author_id": "1367943697279705090",
+        "conversation_id": "2018629424535445626",
+        "created_at": "2026-02-03T10:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018629424535445626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L2pDJICNr",
+              "end": 102,
+              "expanded_url": "https://x.com/BingLiu34173809/status/2018629424535445626/photo/1",
+              "media_key": "3_2018629418424356865",
+              "start": 79,
+              "url": "https://t.co/0L2pDJICNr"
+            },
+            {
+              "display_url": "pic.x.com/0L2pDJICNr",
+              "end": 102,
+              "expanded_url": "https://x.com/BingLiu34173809/status/2018629424535445626/photo/1",
+              "media_key": "3_2018629418416021504",
+              "start": 79,
+              "url": "https://t.co/0L2pDJICNr"
+            },
+            {
+              "display_url": "pic.x.com/0L2pDJICNr",
+              "end": 102,
+              "expanded_url": "https://x.com/BingLiu34173809/status/2018629424535445626/photo/1",
+              "media_key": "3_2018629418529226752",
+              "start": 79,
+              "url": "https://t.co/0L2pDJICNr"
+            },
+            {
+              "display_url": "pic.x.com/0L2pDJICNr",
+              "end": 102,
+              "expanded_url": "https://x.com/BingLiu34173809/status/2018629424535445626/photo/1",
+              "media_key": "3_2018629418424356864",
+              "start": 79,
+              "url": "https://t.co/0L2pDJICNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018629424535445626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2013年，中国就有50万航天人，那时候的马斯克在哪里？\n\n现在他的公司价值1.2万亿美元，而中国火箭回收技术至今都不过关，2025年两次火箭回收均告失败。\n\n2026年伊始，航天科技集团开会进行年度工作总结，经过讨论终于找到原因了，看来核心问题还是“新时代特色社会主义思想”没有贯彻好、没有领悟透，没有“入脑入心入魂”，大家在会议上一致表示要“坚决打赢……全力突破……”，提出了九个“坚持”，一个“深化”，一个“明确”…….\n\n中国航天科技集团有限公司（CASC）为特大型高科技央企，目前员工总数约为 17.4万，总资产6300亿，负债3000亿，2024年净利润130亿人民币，马斯克的SpaceX太空探索公司1.4万人，2025年净利润80亿美元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4922,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "2013年，中国就有50万航天人，那时候的马斯克在哪里？\n\n现在他的公司价值1.2万亿美元，而中国火箭回收技术至今都不过关，2025年两次火箭回收均告失败。 https://t.co/0L2pDJICNr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 4492,
+          "like_count": 74941,
+          "listed_count": 5,
+          "media_count": 393,
+          "tweet_count": 12844
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T21:03:18.000Z",
+        "description": "",
+        "id": "1367943697279705090",
+        "location": "England, United Kingdom",
+        "name": "Leva",
+        "pinned_tweet_id": "2004253583102169308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732745778785910785/htQSwPuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52780,
+          "following_count": 1406,
+          "like_count": 8664,
+          "listed_count": 430,
+          "media_count": 12293,
+          "tweet_count": 34004
+        },
+        "username": "BingLiu34173809",
+        "verified": true
+      }
+    ]
+  }
+}

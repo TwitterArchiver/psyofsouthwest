@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1919956790676263027",
+    "created_at": "2025-05-07T13:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T14:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920112522083926221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "23292190",
+          "start": 0,
+          "username": "nkce"
+        },
+        {
+          "end": 16,
+          "id": "1220290277056897025",
+          "start": 6,
+          "username": "pangyusio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920112522083926221",
+    "in_reply_to_user_id": "23292190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919972333617610832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkce @pangyusio 运动也要分类，寡练有氧也不管用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1919956790676263027",
+        "created_at": "2025-05-07T13:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920112522083926221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "23292190",
+              "start": 0,
+              "username": "nkce"
+            },
+            {
+              "end": 16,
+              "id": "1220290277056897025",
+              "start": 6,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920112522083926221",
+        "in_reply_to_user_id": "23292190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919972333617610832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkce @pangyusio 运动也要分类，寡练有氧也不管用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "23292190",
+        "conversation_id": "1919956790676263027",
+        "created_at": "2025-05-07T04:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919972333617610832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1220290277056897025",
+              "start": 0,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919972333617610832",
+        "in_reply_to_user_id": "1220290277056897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919956790676263027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangyusio 不抽烟，不喝酒，不熬夜，坚持每天运动，活到80岁问题不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 3777,
+          "like_count": 35142,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 10759
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-08T09:19:54.000Z",
+        "description": "拥抱大模型，拥抱 Web3，等待奇点。",
+        "id": "23292190",
+        "location": "us",
+        "name": "OliverSimon",
+        "pinned_tweet_id": "5758910450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875928235197997056/kUb7b2vm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 1811,
+          "like_count": 1628,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 874
+        },
+        "username": "nkce",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "🎓 CS/AI PhD，🤖 Machine Learning/NLP Researcher，📍Singapore｜\n🔍 关注 AI、科技、财经、社会、心理学，📚 爱知求真 ｜\n🌟 ENTJ，热爱思考，热爱生活，💪 坚持运动和阅读 ｜\n👨‍💻 提供科研指导、学术咨询服务 ｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pangyus",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pangyus",
+                "start": 0,
+                "url": "https://t.co/QV3hT8PpI6"
+              }
+            ]
+          }
+        },
+        "id": "1220290277056897025",
+        "location": "Singapore",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22263,
+          "following_count": 1161,
+          "like_count": 35423,
+          "listed_count": 112,
+          "media_count": 334,
+          "tweet_count": 7293
+        },
+        "url": "https://t.co/QV3hT8PpI6",
+        "username": "pangyusio",
+        "verified": true
+      }
+    ]
+  }
+}

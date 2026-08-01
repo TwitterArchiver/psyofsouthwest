@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2054553523665215546",
+    "created_at": "2026-05-13T13:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054553523665215546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "33853845",
+          "start": 3,
+          "username": "luoyonghao"
+        },
+        {
+          "end": 27,
+          "id": "147929555",
+          "start": 16,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054553523665215546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054485625731207255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luoyonghao: @leige88888 为了工作...... 顺便也方便日你妈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2054553523665215546",
+        "created_at": "2026-05-13T13:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054553523665215546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "33853845",
+              "start": 3,
+              "username": "luoyonghao"
+            },
+            {
+              "end": 27,
+              "id": "147929555",
+              "start": 16,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054553523665215546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054485625731207255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luoyonghao: @leige88888 为了工作...... 顺便也方便日你妈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "33853845",
+        "conversation_id": "2054237660009615616",
+        "created_at": "2026-05-13T08:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054485625731207255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054485625731207255",
+        "in_reply_to_user_id": "147929555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 120981,
+          "like_count": 1473,
+          "quote_count": 30,
+          "reply_count": 217,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054483687102918830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 为了工作...... 顺便也方便日你妈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 4753,
+          "like_count": 117608,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 15246
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T08:46:14.000Z",
+        "description": "",
+        "id": "33853845",
+        "name": "罗永浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054323238222893056/07lhgw6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171206,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 1194,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "luoyonghao",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41093,
+          "following_count": 407,
+          "like_count": 345,
+          "listed_count": 126,
+          "media_count": 3460,
+          "tweet_count": 5917
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

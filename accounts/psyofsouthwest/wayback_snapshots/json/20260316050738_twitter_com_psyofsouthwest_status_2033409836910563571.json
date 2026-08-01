@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2033393903802646866",
+    "created_at": "2026-03-16T05:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033409836910563571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2786701",
+          "start": 0,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033409836910563571",
+    "in_reply_to_user_id": "2786701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033393903802646866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlong 大麻软糖不是毒品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2033393903802646866",
+        "created_at": "2026-03-16T05:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033409836910563571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033409836910563571",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033393903802646866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 大麻软糖不是毒品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "2033393903802646866",
+        "created_at": "2026-03-16T04:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:02:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033393502827237377",
+          "2033393903802646866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": ",2007-05-08",
+              "display_url": "spp.gov.cn/llyj/200705/t2…",
+              "end": 154,
+              "expanded_url": "https://www.spp.gov.cn/llyj/200705/t20070508_50520.shtml",
+              "start": 131,
+              "status": 200,
+              "title": "“毒品”定义应否包含违法性_中华人民共和国最高人民检察院",
+              "unwound_url": "https://www.spp.gov.cn/llyj/200705/t20070508_50520.shtml",
+              "url": "https://t.co/dX6IgGlxOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033393903802646866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1916,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京市顺义区检察院副检察长于志刚在2007年5月8日检察日报里的文章《“毒品”定义应否包含违法性》中建议，修改《禁毒法》中对毒品的定义，增加一个条款，“用于医疗、科学和食品等用途的麻醉药品、精神药品，不是毒品”，经过这种修改，就能避免奶茶喝咖啡被误认为是准毒品。https://t.co/dX6IgGlxOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 4724,
+          "like_count": 94430,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 13902
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367795,
+          "following_count": 380,
+          "like_count": 0,
+          "listed_count": 2754,
+          "media_count": 3736,
+          "tweet_count": 31591
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

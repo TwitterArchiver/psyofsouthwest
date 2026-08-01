@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2071814457546678317",
+    "created_at": "2026-06-30T04:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071814457546678317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3515592372",
+          "start": 3,
+          "username": "cvx1125"
+        },
+        {
+          "end": 20,
+          "id": "222316578",
+          "start": 13,
+          "username": "iam678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071814457546678317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071809072790401365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cvx1125: @iam678 要给客户介绍韩红了吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2071814457546678317",
+        "created_at": "2026-06-30T04:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071814457546678317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3515592372",
+              "start": 3,
+              "username": "cvx1125"
+            },
+            {
+              "end": 20,
+              "id": "222316578",
+              "start": 13,
+              "username": "iam678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071814457546678317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071809072790401365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cvx1125: @iam678 要给客户介绍韩红了吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3515592372",
+        "conversation_id": "2071800069742034954",
+        "created_at": "2026-06-30T04:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071809072790401365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "222316578",
+              "start": 0,
+              "username": "iam678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071809072790401365",
+        "in_reply_to_user_id": "222316578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071800069742034954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam678 要给客户介绍韩红了吗😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 4775,
+          "like_count": 128206,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15551
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-10T13:02:40.000Z",
+        "description": "ねばねばしてあげます",
+        "id": "3515592372",
+        "name": "Wet Magician",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744192999205318656/TXsrS48e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 419,
+          "like_count": 1259,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1828
+        },
+        "url": "",
+        "username": "cvx1125",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-03T02:06:39.000Z",
+        "description": "夜遊びチャネル運営🇯🇵🇨🇳成人系SNS企画| 培训 | 备用号：@skus678 |日本艺人资料在会员TG频道，X私信仅回复入会咨询|TG咨询专用频道：https://t.co/ipBJVY7okM |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "skus678"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/injp777",
+                "end": 99,
+                "expanded_url": "https://t.me/injp777",
+                "start": 76,
+                "url": "https://t.co/ipBJVY7okM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/taoo777",
+                "end": 23,
+                "expanded_url": "https://lit.link/taoo777",
+                "start": 0,
+                "url": "https://t.co/8Cr5NcQa7o"
+              }
+            ]
+          }
+        },
+        "id": "222316578",
+        "location": "入会咨询及两个平台区别参考置顶推链接",
+        "name": "梁",
+        "pinned_tweet_id": "1927190568909598844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772826334999502848/ZdX2uBog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201226,
+          "following_count": 170,
+          "like_count": 1485,
+          "listed_count": 517,
+          "media_count": 1300,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/8Cr5NcQa7o",
+        "username": "iam678",
+        "verified": true
+      }
+    ]
+  }
+}

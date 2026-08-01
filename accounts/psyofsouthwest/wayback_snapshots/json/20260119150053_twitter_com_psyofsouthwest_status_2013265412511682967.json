@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2013265412511682967",
+    "created_at": "2026-01-19T15:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013265412511682967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1764182789732347904",
+          "start": 3,
+          "username": "V_brigade_Eric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013265412511682967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013144541654909357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @V_brigade_Eric: 回来了。\n\n有些额外因素介入，谢了。\n\n刚解冻，账号权重还比较低，慢慢恢复。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2013265412511682967",
+        "created_at": "2026-01-19T15:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013265412511682967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1764182789732347904",
+              "start": 3,
+              "username": "V_brigade_Eric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013265412511682967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013144541654909357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @V_brigade_Eric: 回来了。\n\n有些额外因素介入，谢了。\n\n刚解冻，账号权重还比较低，慢慢恢复。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764182789732347904",
+        "conversation_id": "2013144541654909357",
+        "created_at": "2026-01-19T07:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T08:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013144541654909357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013144541654909357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6117,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "回来了。\n\n有些额外因素介入，谢了。\n\n刚解冻，账号权重还比较低，慢慢恢复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 4427,
+          "like_count": 70324,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 12665
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T06:58:54.000Z",
+        "description": "V，Eric.V。前中美双面特工，V字旅创建者。V字旅X账号：@v_brigade",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "v_brigade"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@V-Brigade-Eric",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@V-Brigade-Eric",
+                "start": 0,
+                "url": "https://t.co/xdQij8mvUM"
+              }
+            ]
+          }
+        },
+        "id": "1764182789732347904",
+        "name": "Eric.V 前特工/V字旅创建者",
+        "pinned_tweet_id": "1917050044609663331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792870675167985664/YVBnv2vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15265,
+          "following_count": 1197,
+          "like_count": 9213,
+          "listed_count": 64,
+          "media_count": 359,
+          "tweet_count": 3918
+        },
+        "url": "https://t.co/xdQij8mvUM",
+        "username": "V_brigade_Eric",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035341840329895936"
+      ],
+      "media_source_tweet_id": [
+        "2035341874224050489"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2035344630259322918",
+    "created_at": "2026-03-21T13:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035344630259322918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "939870716391854082",
+          "start": 3,
+          "username": "yyyole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mzgf7B92lv",
+          "end": 69,
+          "expanded_url": "https://x.com/yyyole/status/2035341874224050489/photo/1",
+          "media_key": "3_2035341840329895936",
+          "start": 46,
+          "url": "https://t.co/Mzgf7B92lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035344630259322918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035341874224050489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyyole: 换个思路，搜“英国  信封”之类的关键词，\n还能在咸鱼上找得到！！ https://t.co/Mzgf7B92lv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1990,
+        "media_key": "3_2035341840329895936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD78nr1acAAIgAG.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035341840329895936"
+          ],
+          "media_source_tweet_id": [
+            "2035341874224050489"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2035344630259322918",
+        "created_at": "2026-03-21T13:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035344630259322918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "939870716391854082",
+              "start": 3,
+              "username": "yyyole"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mzgf7B92lv",
+              "end": 69,
+              "expanded_url": "https://x.com/yyyole/status/2035341874224050489/photo/1",
+              "media_key": "3_2035341840329895936",
+              "start": 46,
+              "url": "https://t.co/Mzgf7B92lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035344630259322918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035341874224050489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyyole: 换个思路，搜“英国  信封”之类的关键词，\n还能在咸鱼上找得到！！ https://t.co/Mzgf7B92lv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035341840329895936"
+          ]
+        },
+        "author_id": "939870716391854082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2035341874224050489",
+        "created_at": "2026-03-21T13:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035341874224050489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mzgf7B92lv",
+              "end": 57,
+              "expanded_url": "https://x.com/yyyole/status/2035341874224050489/photo/1",
+              "media_key": "3_2035341840329895936",
+              "start": 34,
+              "url": "https://t.co/Mzgf7B92lv"
+            },
+            {
+              "display_url": "x.com/mrgafish/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/mrgafish/status/2034909002883342599",
+              "start": 58,
+              "url": "https://t.co/lgHi6EKT9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035341874224050489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034909002883342599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换个思路，搜“英国  信封”之类的关键词，\n还能在咸鱼上找得到！！ https://t.co/Mzgf7B92lv https://t.co/lgHi6EKT9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 4742,
+          "like_count": 97585,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14080
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-10T14:53:35.000Z",
+        "description": "10年资深自媒体｜多平台认证/签约作者｜AI变现玩家｜终身学习｜长期主义｜赚钱是第一要义｜效率控｜副业拉满",
+        "id": "939870716391854082",
+        "location": "中国",
+        "name": "沐阳",
+        "pinned_tweet_id": "2003351337925595555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986002260447707136/lf3UN9Xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17040,
+          "following_count": 765,
+          "like_count": 1356,
+          "listed_count": 188,
+          "media_count": 494,
+          "tweet_count": 2840
+        },
+        "username": "yyyole",
+        "verified": true
+      }
+    ]
+  }
+}

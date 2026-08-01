@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2036787318993105035",
+    "created_at": "2026-03-25T14:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036809234588049891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036809234588049891",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036787318993105035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 洗脑机"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43400,
+        "height": 1358,
+        "media_key": "13_2036787202823520256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036787202823520256/img/W5NLhNFONB9VRBln.jpg",
+        "public_metrics": {
+          "view_count": 12014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036787202823520256/vid/avc1/320x490/nV6R0EVy3zMl_ebn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036787202823520256/vid/avc1/720x1102/9C36xKFlw_YQxy65.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036787202823520256/pl/8_i1VZJWQFyY6Zyg.m3u8?v=3d6"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036787202823520256/vid/avc1/886x1358/MR6YN4wOvCaHT_3S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036787202823520256/vid/avc1/480x734/trXNd9pH519r6QRU.mp4"
+          }
+        ],
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036787202798272512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQfK2naQAA2MVd.jpg",
+        "width": 1138
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036787202802536448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQfK2obUAAgjmS.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2036787318993105035",
+        "created_at": "2026-03-25T14:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036809234588049891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036809234588049891",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036787318993105035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 洗脑机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036787202823520256",
+            "3_2036787202798272512",
+            "3_2036787202802536448"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2036787318993105035",
+        "created_at": "2026-03-25T12:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036787318993105035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsUFPoYIn0",
+              "end": 73,
+              "expanded_url": "https://x.com/cuichenghao/status/2036787318993105035/video/1",
+              "media_key": "13_2036787202823520256",
+              "start": 50,
+              "url": "https://t.co/CsUFPoYIn0"
+            },
+            {
+              "display_url": "pic.x.com/CsUFPoYIn0",
+              "end": 73,
+              "expanded_url": "https://x.com/cuichenghao/status/2036787318993105035/video/1",
+              "media_key": "3_2036787202798272512",
+              "start": 50,
+              "url": "https://t.co/CsUFPoYIn0"
+            },
+            {
+              "display_url": "pic.x.com/CsUFPoYIn0",
+              "end": 73,
+              "expanded_url": "https://x.com/cuichenghao/status/2036787318993105035/video/1",
+              "media_key": "3_2036787202802536448",
+              "start": 50,
+              "url": "https://t.co/CsUFPoYIn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036787318993105035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 22713,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这军衔是师长级别吧？专业讲雷锋的故事，讲了57年，每次声泪俱下极富感染力。网友称：到底是老艺术家。 https://t.co/CsUFPoYIn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 4753,
+          "like_count": 99245,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14146
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89979,
+          "following_count": 698,
+          "like_count": 6074,
+          "listed_count": 315,
+          "media_count": 3183,
+          "tweet_count": 3363
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

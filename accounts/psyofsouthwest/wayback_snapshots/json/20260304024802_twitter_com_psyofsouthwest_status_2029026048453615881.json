@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028986897528438785"
+      ],
+      "media_source_tweet_id": [
+        "2028986907162525818"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2029026048453615881",
+    "created_at": "2026-03-04T02:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029026048453615881"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Doro",
+          "probability": 0.4621,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pEUJ87TFly",
+          "end": 70,
+          "expanded_url": "https://x.com/DoroStar5522/status/2028986907162525818/photo/1",
+          "media_key": "3_2028986897528438785",
+          "start": 47,
+          "url": "https://t.co/pEUJ87TFly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029026048453615881",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028986907162525818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: Doro, la verdad no se que es https://t.co/pEUJ87TFly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028986897528438785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCho1VEawAEGy5o.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028986897528438785"
+          ],
+          "media_source_tweet_id": [
+            "2028986907162525818"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2029026048453615881",
+        "created_at": "2026-03-04T02:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029026048453615881"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Doro",
+              "probability": 0.4621,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEUJ87TFly",
+              "end": 70,
+              "expanded_url": "https://x.com/DoroStar5522/status/2028986907162525818/photo/1",
+              "media_key": "3_2028986897528438785",
+              "start": 47,
+              "url": "https://t.co/pEUJ87TFly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029026048453615881",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028986907162525818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: Doro, la verdad no se que es https://t.co/pEUJ87TFly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028986897528438785"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2028986907162525818",
+        "created_at": "2026-03-04T00:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028986907162525818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEUJ87TFly",
+              "end": 52,
+              "expanded_url": "https://x.com/DoroStar5522/status/2028986907162525818/photo/1",
+              "media_key": "3_2028986897528438785",
+              "start": 29,
+              "url": "https://t.co/pEUJ87TFly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028986907162525818",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 300,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Doro, la verdad no se que es https://t.co/pEUJ87TFly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4719,
+          "like_count": 89091,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 13570
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "pinned_tweet_id": "2027240093748977883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 49,
+          "like_count": 1481,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 777
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

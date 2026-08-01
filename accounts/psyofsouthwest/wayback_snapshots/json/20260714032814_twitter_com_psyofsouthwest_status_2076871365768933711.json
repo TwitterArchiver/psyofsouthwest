@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076555640936529920"
+      ],
+      "media_source_tweet_id": [
+        "2076555653813076447"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2076871365768933711",
+    "created_at": "2026-07-14T03:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076871365768933711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2032516808951902208",
+          "start": 3,
+          "username": "Jeffrey20011221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCW3M36IIb",
+          "end": 68,
+          "expanded_url": "https://x.com/Jeffrey20011221/status/2076555653813076447/photo/1",
+          "media_key": "3_2076555640936529920",
+          "start": 45,
+          "url": "https://t.co/qCW3M36IIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076871365768933711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076555653813076447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jeffrey20011221: 宝子们，我有个疑问。这个是大证还是小证啊😳😳😳 https://t.co/qCW3M36IIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076555640936529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFoWnZbAAAm3BC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076555640936529920"
+          ],
+          "media_source_tweet_id": [
+            "2076555653813076447"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2076871365768933711",
+        "created_at": "2026-07-14T03:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076871365768933711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2032516808951902208",
+              "start": 3,
+              "username": "Jeffrey20011221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCW3M36IIb",
+              "end": 68,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2076555653813076447/photo/1",
+              "media_key": "3_2076555640936529920",
+              "start": 45,
+              "url": "https://t.co/qCW3M36IIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076871365768933711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076555653813076447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jeffrey20011221: 宝子们，我有个疑问。这个是大证还是小证啊😳😳😳 https://t.co/qCW3M36IIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076555640936529920"
+          ]
+        },
+        "author_id": "2032516808951902208",
+        "conversation_id": "2076555653813076447",
+        "created_at": "2026-07-13T06:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076555653813076447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCW3M36IIb",
+              "end": 47,
+              "expanded_url": "https://x.com/Jeffrey20011221/status/2076555653813076447/photo/1",
+              "media_key": "3_2076555640936529920",
+              "start": 24,
+              "url": "https://t.co/qCW3M36IIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076555653813076447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 25614,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝子们，我有个疑问。这个是大证还是小证啊😳😳😳 https://t.co/qCW3M36IIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4819,
+          "like_count": 131830,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15576
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "location": "Birmingham, England",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 625,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false
+      }
+    ]
+  }
+}

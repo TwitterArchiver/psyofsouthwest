@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2043323100817752375",
+    "created_at": "2026-04-12T16:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043368178286313587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043368178286313587",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043323100817752375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 随着新增人口减少，校园用地可能都会用来干这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2043323097353519104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtXh_MbgAAixWE.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1943,
+        "media_key": "3_2043323097366073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtXh_PbEAAZoFG.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2043323100817752375",
+        "created_at": "2026-04-12T16:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043368178286313587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043368178286313587",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043323100817752375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 随着新增人口减少，校园用地可能都会用来干这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043323097353519104",
+            "3_2043323097366073344"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2043323100817752375",
+        "created_at": "2026-04-12T13:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043323100817752375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S61WMZ8tTn",
+              "end": 64,
+              "expanded_url": "https://x.com/amber_toffee/status/2043323100817752375/photo/1",
+              "media_key": "3_2043323097353519104",
+              "start": 41,
+              "url": "https://t.co/S61WMZ8tTn"
+            },
+            {
+              "display_url": "pic.x.com/S61WMZ8tTn",
+              "end": 64,
+              "expanded_url": "https://x.com/amber_toffee/status/2043323100817752375/photo/1",
+              "media_key": "3_2043323097366073344",
+              "start": 41,
+              "url": "https://t.co/S61WMZ8tTn"
+            },
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2043304400928768414",
+              "start": 65,
+              "url": "https://t.co/gJpgElajeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043323100817752375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8396,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043304400928768414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被报道了自然是好事，但为什么这个「早该管管了」的口径，总是让人有一种不祥的预感… https://t.co/S61WMZ8tTn https://t.co/gJpgElajeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 4744,
+          "like_count": 104520,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 14437
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24228,
+          "following_count": 2715,
+          "like_count": 40379,
+          "listed_count": 11,
+          "media_count": 577,
+          "tweet_count": 21568
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

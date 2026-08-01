@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1802363169354191011",
+    "created_at": "2024-06-16T16:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T17:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802379191104786586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370966967444643842",
+          "start": 0,
+          "username": "CCCola13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802379191104786586",
+    "in_reply_to_user_id": "1370966967444643842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802363169354191011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCCola13 想起某个乐队的主唱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1802363169354191011",
+        "created_at": "2024-06-16T16:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802379191104786586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370966967444643842",
+              "start": 0,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802379191104786586",
+        "in_reply_to_user_id": "1370966967444643842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802363169354191011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCola13 想起某个乐队的主唱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802363150702182400"
+          ]
+        },
+        "author_id": "1370966967444643842",
+        "conversation_id": "1802363169354191011",
+        "created_at": "2024-06-16T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802363169354191011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/67Fyq4wGF1",
+              "end": 30,
+              "expanded_url": "https://twitter.com/CCCola13/status/1802363169354191011/video/1",
+              "media_key": "7_1802363150702182400",
+              "start": 7,
+              "url": "https://t.co/67Fyq4wGF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802363169354191011",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好黑啊啊啊啊 https://t.co/67Fyq4wGF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 2237,
+          "like_count": 12266,
+          "listed_count": 4,
+          "tweet_count": 6472
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1769306324020662645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 223,
+          "like_count": 10365,
+          "listed_count": 2,
+          "tweet_count": 3454
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

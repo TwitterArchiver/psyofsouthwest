@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1913549926782435816",
+    "created_at": "2025-04-19T22:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T23:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913727870670688399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760705336540057600",
+          "start": 0,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913727870670688399",
+    "in_reply_to_user_id": "1760705336540057600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913549926782435816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiakuno 中邪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1913549926782435816",
+        "created_at": "2025-04-19T22:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T23:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913727870670688399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760705336540057600",
+              "start": 0,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913727870670688399",
+        "in_reply_to_user_id": "1760705336540057600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913549926782435816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiakuno 中邪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760705336540057600",
+        "conversation_id": "1913549926782435816",
+        "created_at": "2025-04-19T11:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913549926782435816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913549926782435816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "精神病这个概念诞生之前，我们一般把你这种情况叫做命苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 3536,
+          "like_count": 30566,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 10362
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "Life changes,why stay still.",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1870572257711697979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 152,
+          "like_count": 12475,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 5713
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2031190534950473898",
+    "created_at": "2026-03-10T02:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T03:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031190534950473898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "19838082",
+          "start": 3,
+          "username": "huihoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031190534950473898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031179595446444103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huihoo: SageMath 是一个非常 Cool 的开源数学软件，可用它帮助更好的数学学习，并构建一个统一的计算平台\n\nSage中包含的数学软件包有：代数，代数几何，任意精度计算，算术几何，微积分，组合数学，线性代数，图论，群论，数值计算，数论，统计计算\n\n$ s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2031178963440066560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDAygW8XYAA9Zdt.png",
+        "width": 436
+      },
+      {
+        "height": 749,
+        "media_key": "3_2031179003286138880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDAyirYaMAAROLn.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2031190534950473898",
+        "created_at": "2026-03-10T02:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031190534950473898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "19838082",
+              "start": 3,
+              "username": "huihoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031190534950473898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031179595446444103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huihoo: SageMath 是一个非常 Cool 的开源数学软件，可用它帮助更好的数学学习，并构建一个统一的计算平台\n\nSage中包含的数学软件包有：代数，代数几何，任意精度计算，算术几何，微积分，组合数学，线性代数，图论，群论，数值计算，数论，统计计算\n\n$ s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031178963440066560",
+            "3_2031179003286138880"
+          ]
+        },
+        "author_id": "19838082",
+        "conversation_id": "2031179595446444103",
+        "created_at": "2026-03-10T01:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031179595446444103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrrC2lyzyY",
+              "end": 195,
+              "expanded_url": "https://x.com/huihoo/status/2031179595446444103/photo/1",
+              "media_key": "3_2031178963440066560",
+              "start": 172,
+              "url": "https://t.co/xrrC2lyzyY"
+            },
+            {
+              "display_url": "pic.x.com/xrrC2lyzyY",
+              "end": 195,
+              "expanded_url": "https://x.com/huihoo/status/2031179595446444103/photo/1",
+              "media_key": "3_2031179003286138880",
+              "start": 172,
+              "url": "https://t.co/xrrC2lyzyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031179595446444103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/sagemath",
+                "end": 238,
+                "expanded_url": "https://github.com/sagemath",
+                "start": 215,
+                "url": "https://t.co/XPxyE7dc2C"
+              }
+            ]
+          },
+          "text": "SageMath 是一个非常 Cool 的开源数学软件，可用它帮助更好的数学学习，并构建一个统一的计算平台\n\nSage中包含的数学软件包有：代数，代数几何，任意精度计算，算术几何，微积分，组合数学，线性代数，图论，群论，数值计算，数论，统计计算\n\n$ sudo apt install sagemath\n$ sage\n\nSageMath 使用 Python3 构建，将现有的许多开源软件包整合在一起，构建一个完整、统一的计算平台\nhttps://t.co/XPxyE7dc2C\n\nSageMath 目标：创建一个充满活力的自由开源软件用以替代 Magma、Maple、Mathematica 和 MATLAB\n\nSageMath 非常强大，覆盖许多数学领域，包括代数、数论、几何、组合数学、代数组合、数值计算和微积分等，是学习、教育数学的极佳载体和工具\n\nSageMath 支持 Windows、macOS、Linux 主流操作系统\n\n这是在 Ubuntu 18.04 上的 SageMath，你可以它为核心辅助学习相关数学知识，学以致用的方式"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 451,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "SageMath 是一个非常 Cool 的开源数学软件，可用它帮助更好的数学学习，并构建一个统一的计算平台\n\nSage中包含的数学软件包有：代数，代数几何，任意精度计算，算术几何，微积分，组合数学，线性代数，图论，群论，数值计算，数论，统计计算\n\n$ sudo apt install sagemath\n$ sage\n\nSageMath 使用 https://t.co/xrrC2lyzyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4747,
+          "like_count": 91790,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13811
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-31T23:47:35.000Z",
+        "description": "透过简单与美丽认识真理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huihoo.com",
+                "end": 23,
+                "expanded_url": "https://huihoo.com",
+                "start": 0,
+                "url": "https://t.co/R3EMK5rMj9"
+              }
+            ]
+          }
+        },
+        "id": "19838082",
+        "location": "Chengdu, China",
+        "name": "灰狐",
+        "pinned_tweet_id": "2029108979746652187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233132661608071169/_PRc7chX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21846,
+          "following_count": 1852,
+          "like_count": 4326,
+          "listed_count": 188,
+          "media_count": 997,
+          "tweet_count": 6909
+        },
+        "url": "https://t.co/R3EMK5rMj9",
+        "username": "huihoo",
+        "verified": true
+      }
+    ]
+  }
+}

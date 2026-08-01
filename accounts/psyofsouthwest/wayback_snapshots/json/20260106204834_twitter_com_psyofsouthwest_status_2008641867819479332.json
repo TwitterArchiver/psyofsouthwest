@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2008562053846626810",
+    "created_at": "2026-01-06T20:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T21:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008641867819479332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1715945427013668864",
+          "start": 0,
+          "username": "nkng35781"
+        },
+        {
+          "end": 27,
+          "id": "3188575777",
+          "start": 11,
+          "username": "LIGHTSEEKER1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008641867819479332",
+    "in_reply_to_user_id": "1715945427013668864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008581373842624845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkng35781 @LIGHTSEEKER1984 风大到石碑上的雪都能吹成旗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2008562053846626810",
+        "created_at": "2026-01-06T20:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T21:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008641867819479332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1715945427013668864",
+              "start": 0,
+              "username": "nkng35781"
+            },
+            {
+              "end": 27,
+              "id": "3188575777",
+              "start": 11,
+              "username": "LIGHTSEEKER1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008641867819479332",
+        "in_reply_to_user_id": "1715945427013668864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008581373842624845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkng35781 @LIGHTSEEKER1984 风大到石碑上的雪都能吹成旗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715945427013668864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Adventure travel",
+              "id": "849076092111536128",
+              "name": "Adventure travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2008562053846626810",
+        "created_at": "2026-01-06T16:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008581373842624845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3188575777",
+              "start": 0,
+              "username": "LIGHTSEEKER1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008581373842624845",
+        "in_reply_to_user_id": "3188575777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1380,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008562053846626810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIGHTSEEKER1984 这些登山，没有锻炼过，没有向导也敢去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 4303,
+          "like_count": 65323,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 12462
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T04:17:53.000Z",
+        "description": "",
+        "id": "1715945427013668864",
+        "name": "华哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002620083214888960/MUaNm-nK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 37,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 1535
+        },
+        "username": "nkng35781",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-08T08:40:10.000Z",
+        "description": "Black Pill#\nMan lives matter#\nFeminism is Totalitarianism#\nStrategic Analysis#\nPsychoanalysis#\n女权就是极权#\n男权即人权#\n献忠学家#\n男性面临全方位系统性的女本位压迫，拳国就是一个女权精神病妓院",
+        "id": "3188575777",
+        "location": "Sydney, New South Wales",
+        "name": "The Gulag Bot",
+        "pinned_tweet_id": "1865223958758592677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856377797968834564/o3wfa5ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10297,
+          "following_count": 3035,
+          "like_count": 35341,
+          "listed_count": 43,
+          "media_count": 6614,
+          "tweet_count": 45126
+        },
+        "username": "LIGHTSEEKER1984",
+        "verified": false
+      }
+    ]
+  }
+}

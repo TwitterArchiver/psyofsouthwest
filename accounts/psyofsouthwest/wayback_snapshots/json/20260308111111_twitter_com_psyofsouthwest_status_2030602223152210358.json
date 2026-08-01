@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2030602223152210358",
+    "created_at": "2026-03-08T11:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T12:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030602223152210358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "Luckilyzixaun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030602223152210358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030555268292264254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luckilyzixaun: 小米已经急哭了，在疯狂封包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2030602223152210358",
+        "created_at": "2026-03-08T11:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030602223152210358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "Luckilyzixaun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030602223152210358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030555268292264254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luckilyzixaun: 小米已经急哭了，在疯狂封包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2030555268292264254",
+        "created_at": "2026-03-08T08:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030555268292264254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luckilyzixaun/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Luckilyzixaun/status/2030545716301778997",
+              "start": 14,
+              "url": "https://t.co/mZs5chWLvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030555268292264254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12417,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030545716301778997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小米已经急哭了，在疯狂封包 https://t.co/mZs5chWLvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4746,
+          "like_count": 90933,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13779
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "MTF｜INFP｜09 English/日本語/简繁中文 \nXiaomi Promoter UTC+8\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜\n产品经理、公关部总经理｜数码玩家、乐子人、社会民主主义、自由派",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地:沙特阿拉伯",
+        "name": "夏日重现🍥",
+        "pinned_tweet_id": "2030231432388599814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027376561813594113/GHdKm-Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 923,
+          "like_count": 994,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "Luckilyzixaun",
+        "verified": false
+      }
+    ]
+  }
+}

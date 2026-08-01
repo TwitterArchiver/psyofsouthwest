@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1950328696839217500",
+    "created_at": "2025-07-30T06:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950445567290511764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632413902985383937",
+          "start": 0,
+          "username": "NotLabeledhuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950445567290511764",
+    "in_reply_to_user_id": "1632413902985383937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950328696839217500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotLabeledhuman gpt曾经不认识艾跃进，grok曾经认为江青参加过长征"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1209,
+        "media_key": "3_1950328691046961158",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxD1nHkbUAY-JAV.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1950328696839217500",
+        "created_at": "2025-07-30T06:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950445567290511764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632413902985383937",
+              "start": 0,
+              "username": "NotLabeledhuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950445567290511764",
+        "in_reply_to_user_id": "1632413902985383937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950328696839217500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotLabeledhuman gpt曾经不认识艾跃进，grok曾经认为江青参加过长征"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950328691046961158"
+          ]
+        },
+        "author_id": "1632413902985383937",
+        "conversation_id": "1950328696839217500",
+        "created_at": "2025-07-29T22:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950328696839217500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnTiWJjaCh",
+              "end": 54,
+              "expanded_url": "https://x.com/NotLabeledhuman/status/1950328696839217500/photo/1",
+              "media_key": "3_1950328691046961158",
+              "start": 31,
+              "url": "https://t.co/YnTiWJjaCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950328696839217500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 652,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问deepseek范仲淹是谁，居然回答不了😗真是奇妙小发现。 https://t.co/YnTiWJjaCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 3895,
+          "like_count": 42713,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11428
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T16:13:05.000Z",
+        "description": "整块多汁鲜嫩无骨鸡腿排，搭配爽脆青菜， 夹入现烤方包，香气四溢，肉感十足！主要原料：鸡翅，生菜，面包。",
+        "id": "1632413902985383937",
+        "location": "肯德基",
+        "name": "新奥尔良烤鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864357391288168448/Fon2kUMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 315,
+          "like_count": 36989,
+          "listed_count": 4,
+          "media_count": 3728,
+          "tweet_count": 31361
+        },
+        "username": "NotLabeledhuman",
+        "verified": false
+      }
+    ]
+  }
+}

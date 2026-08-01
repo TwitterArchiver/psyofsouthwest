@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033383408181936128"
+      ],
+      "media_source_tweet_id": [
+        "2033383410211971478"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2033491479134720054",
+    "created_at": "2026-03-16T10:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T11:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033491479134720054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "198087727",
+          "start": 3,
+          "username": "SUNZERG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2Sac1tqys",
+          "end": 55,
+          "expanded_url": "https://x.com/SUNZERG/status/2033383410211971478/photo/1",
+          "media_key": "3_2033383408181936128",
+          "start": 32,
+          "url": "https://t.co/K2Sac1tqys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033491479134720054",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033383410211971478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUNZERG: 나를 기다리는 Angry Doro https://t.co/K2Sac1tqys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2033383408181936128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgHb7jbgAAQK98.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033383408181936128"
+          ],
+          "media_source_tweet_id": [
+            "2033383410211971478"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2033491479134720054",
+        "created_at": "2026-03-16T10:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033491479134720054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "198087727",
+              "start": 3,
+              "username": "SUNZERG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2Sac1tqys",
+              "end": 55,
+              "expanded_url": "https://x.com/SUNZERG/status/2033383410211971478/photo/1",
+              "media_key": "3_2033383408181936128",
+              "start": 32,
+              "url": "https://t.co/K2Sac1tqys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033491479134720054",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033383410211971478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUNZERG: 나를 기다리는 Angry Doro https://t.co/K2Sac1tqys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033383408181936128"
+          ]
+        },
+        "author_id": "198087727",
+        "conversation_id": "2033383410211971478",
+        "created_at": "2026-03-16T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033383410211971478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2Sac1tqys",
+              "end": 42,
+              "expanded_url": "https://x.com/SUNZERG/status/2033383410211971478/photo/1",
+              "media_key": "3_2033383408181936128",
+              "start": 19,
+              "url": "https://t.co/K2Sac1tqys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033383410211971478",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 889,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "나를 기다리는 Angry Doro https://t.co/K2Sac1tqys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 4724,
+          "like_count": 94715,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 13917
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T09:35:00.000Z",
+        "description": "May anger be with you~💢💢💢",
+        "id": "198087727",
+        "location": " south korea",
+        "name": "link",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025632898720858112/vmO8L3DF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 752,
+          "like_count": 844,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 550
+        },
+        "username": "SUNZERG",
+        "verified": false
+      }
+    ]
+  }
+}

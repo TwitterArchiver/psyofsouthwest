@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2024057757008318810",
+    "created_at": "2026-02-19T00:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024282424599859444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1488516703063584783",
+          "start": 0,
+          "username": "lilili_yezhier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024282424599859444",
+    "in_reply_to_user_id": "1488516703063584783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024057757008318810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilili_yezhier 活着下来也改成罚款一万了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2024057757008318810",
+        "created_at": "2026-02-19T00:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024282424599859444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1488516703063584783",
+              "start": 0,
+              "username": "lilili_yezhier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024282424599859444",
+        "in_reply_to_user_id": "1488516703063584783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024057757008318810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilili_yezhier 活着下来也改成罚款一万了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488516703063584783",
+        "conversation_id": "2024057757008318810",
+        "created_at": "2026-02-18T09:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024057757008318810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024057757008318810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 67037,
+          "like_count": 381,
+          "quote_count": 1,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的室友和我爬雪山的时候爱上了大她10岁的藏族向导 到这里我一切都理解  直到她今天告诉我她要放弃省考和他去穿越鳌太线 ！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4555,
+          "like_count": 80860,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 13107
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T14:17:12.000Z",
+        "description": "infj/照片纯享版/不约不闲聊/推止推/谁也看不上",
+        "id": "1488516703063584783",
+        "name": "yezhier_lii",
+        "pinned_tweet_id": "1931936802774138978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488517831817928704/-3TUWguO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 22,
+          "like_count": 439,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 308
+        },
+        "username": "lilili_yezhier",
+        "verified": false
+      }
+    ]
+  }
+}

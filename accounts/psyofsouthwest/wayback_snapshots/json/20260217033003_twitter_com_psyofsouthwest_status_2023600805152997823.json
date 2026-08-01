@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023377945495318529"
+      ],
+      "media_source_tweet_id": [
+        "2023377954450137558"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2023600805152997823",
+    "created_at": "2026-02-17T03:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023600805152997823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162579258591461377",
+          "start": 3,
+          "username": "Samhon852"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pMiUI3pIlk",
+          "end": 42,
+          "expanded_url": "https://x.com/Samhon852/status/2023377954450137558/photo/1",
+          "media_key": "3_2023377945495318529",
+          "start": 19,
+          "url": "https://t.co/pMiUI3pIlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023600805152997823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023377954450137558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Samhon852: 英雄！ https://t.co/pMiUI3pIlk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2023377945495318529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR7hWebsAEw_Kh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023377945495318529"
+          ],
+          "media_source_tweet_id": [
+            "2023377954450137558"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2023600805152997823",
+        "created_at": "2026-02-17T03:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023600805152997823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162579258591461377",
+              "start": 3,
+              "username": "Samhon852"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMiUI3pIlk",
+              "end": 42,
+              "expanded_url": "https://x.com/Samhon852/status/2023377954450137558/photo/1",
+              "media_key": "3_2023377945495318529",
+              "start": 19,
+              "url": "https://t.co/pMiUI3pIlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023600805152997823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023377954450137558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Samhon852: 英雄！ https://t.co/pMiUI3pIlk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023377945495318529"
+          ]
+        },
+        "author_id": "1162579258591461377",
+        "conversation_id": "2023377954450137558",
+        "created_at": "2026-02-16T12:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023377954450137558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMiUI3pIlk",
+              "end": 27,
+              "expanded_url": "https://x.com/Samhon852/status/2023377954450137558/photo/1",
+              "media_key": "3_2023377945495318529",
+              "start": 4,
+              "url": "https://t.co/pMiUI3pIlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023377954450137558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3274,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "英雄！ https://t.co/pMiUI3pIlk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4539,
+          "like_count": 79996,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 13055
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T04:18:08.000Z",
+        "description": "#光時#Fight for freedom",
+        "id": "1162579258591461377",
+        "name": "心寒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356779413380104192/rBeVCunO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47818,
+          "following_count": 847,
+          "like_count": 36096,
+          "listed_count": 127,
+          "media_count": 33494,
+          "tweet_count": 57551
+        },
+        "username": "Samhon852",
+        "verified": false
+      }
+    ]
+  }
+}

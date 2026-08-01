@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2052005712566665312",
+    "created_at": "2026-05-06T14:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052039631512674510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029891270861299712",
+          "start": 0,
+          "username": "JoelQinmetme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052039631512674510",
+    "in_reply_to_user_id": "2029891270861299712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052005712566665312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@JoelQinmetme 爸爸也要有爸爸的样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2052005712566665312",
+        "created_at": "2026-05-06T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052039631512674510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029891270861299712",
+              "start": 0,
+              "username": "JoelQinmetme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052039631512674510",
+        "in_reply_to_user_id": "2029891270861299712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052005712566665312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@JoelQinmetme 爸爸也要有爸爸的样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029891270861299712",
+        "conversation_id": "2052005712566665312",
+        "created_at": "2026-05-06T12:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052005712566665312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052005712566665312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1713,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "今天有点不顺利呜呜\n医生已经同意了说要当女孩纸这个想法不能说对错\n然后出来爸比就在那里不停的骂男孩子就该有男孩子的样\n呜哇\n好讨厌呜呜呜呜呜\n为什么要这样呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 4816,
+          "like_count": 115690,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 15102
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:06:37.000Z",
+        "description": "09｜mtf｜坐标上海｜生竞中｜爱捣鼓各种技术｜生产日期2009.05.26｜姐姐@ElysiumFengxuan\nMTF ｜Bio Student | Shanghai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "ElysiumFengxuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dashcf.metc.uk",
+                "end": 23,
+                "expanded_url": "http://dashcf.metc.uk",
+                "start": 0,
+                "url": "https://t.co/A1eZJWxYST"
+              }
+            ]
+          }
+        },
+        "id": "2029891270861299712",
+        "location": "255.255.255.0",
+        "name": "EspaKoala🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2044197409304260836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 1504,
+          "like_count": 3086,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/A1eZJWxYST",
+        "username": "JoelQinmetme",
+        "verified": true
+      }
+    ]
+  }
+}

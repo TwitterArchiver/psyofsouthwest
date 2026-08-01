@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044990215123795968",
+        "3_2044990215119568896"
+      ],
+      "media_source_tweet_id": [
+        "2044990224632369656",
+        "2044990224632369656"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2045098804689445094",
+    "created_at": "2026-04-17T11:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045098804689445094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013251360901287936",
+          "start": 3,
+          "username": "knk0223ff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eqlh33bunS",
+          "end": 120,
+          "expanded_url": "https://x.com/knk0223ff/status/2044990224632369656/photo/1",
+          "media_key": "3_2044990215123795968",
+          "start": 97,
+          "url": "https://t.co/Eqlh33bunS"
+        },
+        {
+          "display_url": "pic.x.com/Eqlh33bunS",
+          "end": 120,
+          "expanded_url": "https://x.com/knk0223ff/status/2044990224632369656/photo/1",
+          "media_key": "3_2044990215119568896",
+          "start": 97,
+          "url": "https://t.co/Eqlh33bunS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045098804689445094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044990224632369656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knk0223ff: 警号163975的警察给我出示的不予立案通知书 他的意思是现在这事他们不管了 然后我来到丢包的商场说需要派出所出事协查领 但派出所不出示 我真的没招了 我又犯病了 https://t.co/Eqlh33bunS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045098804689445094].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045098804689445094",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045098804689445094"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044990215123795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFDxA2agAA7x8_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044990215119568896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGFDxA1aAAAgK8_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044990215123795968",
+            "3_2044990215119568896"
+          ]
+        },
+        "author_id": "2013251360901287936",
+        "conversation_id": "2044990224632369656",
+        "created_at": "2026-04-17T04:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044990224632369656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eqlh33bunS",
+              "end": 105,
+              "expanded_url": "https://x.com/knk0223ff/status/2044990224632369656/photo/1",
+              "media_key": "3_2044990215123795968",
+              "start": 82,
+              "url": "https://t.co/Eqlh33bunS"
+            },
+            {
+              "display_url": "pic.x.com/Eqlh33bunS",
+              "end": 105,
+              "expanded_url": "https://x.com/knk0223ff/status/2044990224632369656/photo/1",
+              "media_key": "3_2044990215119568896",
+              "start": 82,
+              "url": "https://t.co/Eqlh33bunS"
+            },
+            {
+              "display_url": "x.com/knk0223ff/stat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/knk0223ff/status/2044202847684964384",
+              "start": 106,
+              "url": "https://t.co/XTDovwQW8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044990224632369656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7432,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044202847684964384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警号163975的警察给我出示的不予立案通知书 他的意思是现在这事他们不管了 然后我来到丢包的商场说需要派出所出事协查领 但派出所不出示 我真的没招了 我又犯病了 https://t.co/Eqlh33bunS https://t.co/XTDovwQW8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 4751,
+          "like_count": 106662,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 14581
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T14:05:09.000Z",
+        "description": "新号 大号炸了！\n我有精神病/07/intp/🚪288\n我推：@Uni_btt\n闺蜜：@Xiaozhaisama🪼@iuu_0_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "Uni_btt"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Xiaozhaisama"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "iuu_0_o"
+              }
+            ]
+          }
+        },
+        "id": "2013251360901287936",
+        "location": "地狱",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2041043502302441782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041960841009119232/p3cn5mKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 46,
+          "like_count": 618,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 411
+        },
+        "username": "knk0223ff",
+        "verified": false
+      }
+    ]
+  }
+}

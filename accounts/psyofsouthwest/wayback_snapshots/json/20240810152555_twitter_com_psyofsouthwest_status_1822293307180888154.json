@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1822279592440467768",
+    "created_at": "2024-08-10T15:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T16:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822293307180888154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "105972619",
+          "start": 0,
+          "username": "ChuTrieuViet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822293307180888154",
+    "in_reply_to_user_id": "105972619",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822279592440467768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuTrieuViet 还可以扣篮吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1822279592440467768",
+        "created_at": "2024-08-10T15:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822293307180888154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "105972619",
+              "start": 0,
+              "username": "ChuTrieuViet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822293307180888154",
+        "in_reply_to_user_id": "105972619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822279592440467768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuTrieuViet 还可以扣篮吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822279582239580160"
+          ]
+        },
+        "author_id": "105972619",
+        "conversation_id": "1822279592440467768",
+        "created_at": "2024-08-10T14:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T15:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822279592440467768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cty6pkydsl",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ChuTrieuViet/status/1822279592440467768/photo/1",
+              "media_key": "3_1822279582239580160",
+              "start": 18,
+              "url": "https://t.co/cTy6PkYDsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822279592440467768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2236,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "200斤的潘玮柏\n当初的偶像膨胀了 https://t.co/cTy6PkYDsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 2376,
+          "like_count": 13521,
+          "listed_count": 4,
+          "tweet_count": 6978
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T03:07:53.000Z",
+        "description": "Everything about Vietnam ^ - ^ 美食美女和重机，生活在越南最大乡村部落，主推基调乡村重金属，心有猛虎，细嗅蔷薇，换个角度看问题专家 Việt Nam - Trung Hoa núi liền núi, sông liền sông.",
+        "id": "105972619",
+        "location": "大农村",
+        "name": "越南大叔",
+        "pinned_tweet_id": "1630463597934702592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608286093002297344/zl9zyNJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45934,
+          "following_count": 1203,
+          "like_count": 23635,
+          "listed_count": 146,
+          "tweet_count": 20683
+        },
+        "username": "ChuTrieuViet",
+        "verified": true
+      }
+    ]
+  }
+}

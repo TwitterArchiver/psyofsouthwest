@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2028784925265256547",
+    "created_at": "2026-03-03T10:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028784925265256547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009488009180401667",
+          "start": 3,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028784925265256547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028758336636874869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asabakasaiko: 被家里赶出来没钱交房租所以下海了！\n我需要钱治精神病(╯﹏╰）求你们过我门…\n🚪58 88 138 聊天会积极回复！随机掉落日常  可约线下（纯绿半绿非绿  1314你就是我最爱的老公！坐标江浙沪 纯绿800 半绿1000非绿包夜2000 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028784925265256547].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028784925265256547",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028784925265256547"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028758327019401216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeY8xkbcAArVIN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028758327019401216"
+          ]
+        },
+        "author_id": "2009488009180401667",
+        "conversation_id": "2028758336636874869",
+        "created_at": "2026-03-03T09:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028758336636874869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdVlTbS8yA",
+              "end": 153,
+              "expanded_url": "https://x.com/asabakasaiko/status/2028758336636874869/photo/1",
+              "media_key": "3_2028758327019401216",
+              "start": 130,
+              "url": "https://t.co/BdVlTbS8yA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028758336636874869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被家里赶出来没钱交房租所以下海了！\n我需要钱治精神病(╯﹏╰）求你们过我门…\n🚪58 88 138 聊天会积极回复！随机掉落日常  可约线下（纯绿半绿非绿  1314你就是我最爱的老公！坐标江浙沪 纯绿800 半绿1000非绿包夜2000 #爸爸活  #男娘 https://t.co/BdVlTbS8yA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4716,
+          "like_count": 88555,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 13522
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看，🚪58，88，什么事都可以来私我，可出各种💊👙包括自己等任何东西，主营美白和致幻剂，大麻素，兴奋剂，原味内衣（？ 再也不爱任何人",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "pinned_tweet_id": "2028758336636874869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 325,
+          "like_count": 4544,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 992
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

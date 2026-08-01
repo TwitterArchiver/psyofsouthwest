@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1988349097212805187",
+    "created_at": "2025-11-12T05:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988486675811434798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "976039025361477632",
+          "start": 0,
+          "username": "CEOBriefing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988486675811434798",
+    "in_reply_to_user_id": "976039025361477632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988349097212805187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CEOBriefing 京中有善口技者王田氏也"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40593,
+        "height": 646,
+        "media_key": "13_1768984324601438208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1768984324601438208/img/7g8I8LR9ew1A0E82.jpg",
+        "public_metrics": {
+          "view_count": 1866855
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1768984324601438208/vid/avc1/370x270/ZBbsXIOw64FGstSJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1768984324601438208/vid/avc1/492x360/muNGrKW-UpH2Y7h3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1768984324601438208/vid/avc1/886x646/PI3Xj-H5D8u5I8y9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1768984324601438208/pl/ztgCTSQcpzUS9bsM.m3u8?tag=14&v=68a"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1988349097212805187",
+        "created_at": "2025-11-12T05:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988486675811434798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "976039025361477632",
+              "start": 0,
+              "username": "CEOBriefing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988486675811434798",
+        "in_reply_to_user_id": "976039025361477632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988349097212805187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CEOBriefing 京中有善口技者王田氏也"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1768984324601438208"
+          ],
+          "media_source_tweet_id": [
+            "1768984391131525423"
+          ]
+        },
+        "author_id": "976039025361477632",
+        "conversation_id": "1988349097212805187",
+        "created_at": "2025-11-11T20:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988349097212805187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7GOfwSuLs",
+              "end": 157,
+              "expanded_url": "https://x.com/AsiaFinance/status/1768984391131525423/video/1",
+              "media_key": "13_1768984324601438208",
+              "start": 134,
+              "url": "https://t.co/d7GOfwSuLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988349097212805187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 379357,
+          "like_count": 515,
+          "quote_count": 8,
+          "reply_count": 70,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "万科创始人王石讲，人活得太久，对下一代没啥益处。网友当即发问：“你64岁再婚，娶34岁娇妻，咋解释呢？”王石笑答：“这不同，前妻管我太严，现任和我兴趣相投，是灵魂伴侣”。王石补充，“和香港李老板、澳门何先生比，他们动辄花几亿买续命药，我日子挺实在，没那么多讲究”。\n https://t.co/d7GOfwSuLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 4026,
+          "like_count": 54097,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12083
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-20T10:13:32.000Z",
+        "description": "总裁简报：企业家和投资者的决策指南。 \nCEO Briefing: Decision Guide for Entrepreneurs and Investors.",
+        "id": "976039025361477632",
+        "location": "Global",
+        "name": "总裁简报 CEO Briefing",
+        "pinned_tweet_id": "1374031825220296705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832641159312674816/PTvfthlq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165072,
+          "following_count": 289,
+          "like_count": 23031,
+          "listed_count": 811,
+          "media_count": 9559,
+          "tweet_count": 11999
+        },
+        "username": "CEOBriefing",
+        "verified": true
+      }
+    ]
+  }
+}

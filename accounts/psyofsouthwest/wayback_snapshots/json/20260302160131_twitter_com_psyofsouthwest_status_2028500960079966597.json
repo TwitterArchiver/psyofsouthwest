@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2028403849325838695",
+    "created_at": "2026-03-02T16:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028500960079966597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541224736214003712",
+          "start": 0,
+          "username": "tenshi_0210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028500960079966597",
+    "in_reply_to_user_id": "1541224736214003712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028403849325838695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenshi_0210 锶90敷贴不知道是否适用大面积的疤痕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2028403849325838695",
+        "created_at": "2026-03-02T16:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028500960079966597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541224736214003712",
+              "start": 0,
+              "username": "tenshi_0210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028500960079966597",
+        "in_reply_to_user_id": "1541224736214003712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028403849325838695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenshi_0210 锶90敷贴不知道是否适用大面积的疤痕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541224736214003712",
+        "conversation_id": "2028403849325838695",
+        "created_at": "2026-03-02T09:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028403849325838695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028403849325838695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算我已經不自殘了這個疤還是會在我的手臂上一輩子誒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4693,
+          "like_count": 88123,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 13488
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T01:00:39.000Z",
+        "description": "割れ物注意|サブ@mizuir0_0210|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "mizuir0_0210"
+              }
+            ]
+          }
+        },
+        "id": "1541224736214003712",
+        "name": "ましろ🦭",
+        "pinned_tweet_id": "1791161920411910619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936848691345678336/62Xn-6g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 4618,
+          "like_count": 156760,
+          "listed_count": 7,
+          "media_count": 134,
+          "tweet_count": 15790
+        },
+        "username": "tenshi_0210",
+        "verified": false
+      }
+    ]
+  }
+}

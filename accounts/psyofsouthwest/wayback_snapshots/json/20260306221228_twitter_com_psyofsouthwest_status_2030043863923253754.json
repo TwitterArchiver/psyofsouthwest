@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2029942943851712513"
+      ],
+      "media_source_tweet_id": [
+        "2029942952550715810"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2030043863923253754",
+    "created_at": "2026-03-06T22:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T23:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030043863923253754"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Doro",
+          "probability": 0.7019,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819426384927678464",
+          "start": 3,
+          "username": "KOGG__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/96ccv9lvn6",
+          "end": 67,
+          "expanded_url": "https://x.com/KOGG__/status/2029942952550715810/photo/1",
+          "media_key": "16_2029942943851712513",
+          "start": 44,
+          "url": "https://t.co/96ccv9lvn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030043863923253754",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029942952550715810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KOGG__: Good morning.\nDoro is training. https://t.co/96ccv9lvn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "16_2029942943851712513",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCvOWjKXkAEK-Cx.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCvOWjKXkAEK-Cx.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029942943851712513"
+          ],
+          "media_source_tweet_id": [
+            "2029942952550715810"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2030043863923253754",
+        "created_at": "2026-03-06T22:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T23:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030043863923253754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Doro",
+              "probability": 0.7019,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819426384927678464",
+              "start": 3,
+              "username": "KOGG__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96ccv9lvn6",
+              "end": 67,
+              "expanded_url": "https://x.com/KOGG__/status/2029942952550715810/photo/1",
+              "media_key": "16_2029942943851712513",
+              "start": 44,
+              "url": "https://t.co/96ccv9lvn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030043863923253754",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029942952550715810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KOGG__: Good morning.\nDoro is training. https://t.co/96ccv9lvn6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029942943851712513"
+          ]
+        },
+        "author_id": "1819426384927678464",
+        "conversation_id": "2029942952550715810",
+        "created_at": "2026-03-06T15:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029942952550715810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Doro",
+              "probability": 0.7526,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96ccv9lvn6",
+              "end": 55,
+              "expanded_url": "https://x.com/KOGG__/status/2029942952550715810/photo/1",
+              "media_key": "16_2029942943851712513",
+              "start": 32,
+              "url": "https://t.co/96ccv9lvn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029942952550715810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 7666,
+          "like_count": 1001,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning.\nDoro is training. https://t.co/96ccv9lvn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4727,
+          "like_count": 90190,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13702
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T17:33:55.000Z",
+        "description": "🦀 Crab tuber | Nikke lover\n🎮 Twitch: https://t.co/98K8jXYEV3\n📺 Youtube: https://t.co/DEhPWZoaP6\n💬 Discord: https://t.co/ZDsYe3s9AU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kogg__",
+                "end": 60,
+                "expanded_url": "https://twitch.tv/kogg__",
+                "start": 37,
+                "url": "https://t.co/98K8jXYEV3"
+              },
+              {
+                "display_url": "youtube.com/@KOGG_en",
+                "end": 95,
+                "expanded_url": "https://www.youtube.com/@KOGG_en",
+                "start": 72,
+                "url": "https://t.co/DEhPWZoaP6"
+              },
+              {
+                "display_url": "discord.gg/kog-cord",
+                "end": 130,
+                "expanded_url": "https://discord.gg/kog-cord",
+                "start": 107,
+                "url": "https://t.co/ZDsYe3s9AU"
+              }
+            ]
+          }
+        },
+        "id": "1819426384927678464",
+        "name": "KOGG",
+        "pinned_tweet_id": "2030019542928265567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819426483623882763/oLsp6Ngv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29647,
+          "following_count": 159,
+          "like_count": 26724,
+          "listed_count": 52,
+          "media_count": 7421,
+          "tweet_count": 11452
+        },
+        "username": "KOGG__",
+        "verified": true
+      }
+    ]
+  }
+}

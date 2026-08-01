@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2009388895687844278",
+    "created_at": "2026-01-08T22:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T23:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009388895687844278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009388895687844278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009118447863816651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 这是一个困扰人类社会几千年的政治哲学难题：当一个独裁政权通过思想控制和暴力，牢牢掌控军队、媒体与经济命脉时，内部改变几乎注定是高风险、低成功率的行为。历史经验反复证明，不存在一种干净、低成本、且可复制的反独裁方案。如果暂时放下情绪，只看历史结果，推…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2009388895687844278",
+        "created_at": "2026-01-08T22:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009388895687844278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009388895687844278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009118447863816651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 这是一个困扰人类社会几千年的政治哲学难题：当一个独裁政权通过思想控制和暴力，牢牢掌控军队、媒体与经济命脉时，内部改变几乎注定是高风险、低成功率的行为。历史经验反复证明，不存在一种干净、低成本、且可复制的反独裁方案。如果暂时放下情绪，只看历史结果，推…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2009118447863816651",
+        "created_at": "2026-01-08T04:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009118447863816651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009118447863816651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是一个困扰人类社会几千年的政治哲学难题：当一个独裁政权通过思想控制和暴力，牢牢掌控军队、媒体与经济命脉时，内部改变几乎注定是高风险、低成功率的行为。历史经验反复证明，不存在一种干净、低成本、且可复制的反独裁方案。如果暂时放下情绪，只看历史结果，推翻独裁的大致路径确实高度集中在少数几种类型之中。它们之所以反复出现，不是因为人们想象力贫乏，而是因为权力只能在特定节点断裂。\n\n第一种，内部精英政变。\n\n这是成功率最高、速度最快，但正义性最弱的一种方式。当外部制裁、外交孤立或战争压力开始威胁统治集团整体利益，或者独裁者本人明显失控时，体制内部往往会启动“自保机制”。政变的本质不是革命，而是止损。\n\n需要补充的是，这种路径之所以成功率高，并不是因为策划者更聪明，而是因为它发生在暴力系统内部。它几乎不触碰社会结构，因此也几乎不解决结构问题。这也是为什么政变后的政权，往往迅速恢复高压，只是换了一张脸。\n\n第二种，非暴力不合作。\n\n这是道德评价最高，但对条件依赖最强、失败成本最容易被低估的一条路。非暴力成功的关键从来不在于人数，而在于能否动摇执行暴力者的服从链条。罢工、游行、经济不合作的作用，是不断抬高治理成本，直到体制内部开始犹豫。\n\n但历史同样清楚地表明：一旦统治者判断“开枪的政治成本低于妥协成本”，非暴力就会迅速失效。此时，继续坚持非暴力，更多是一种道德选择，而不再是现实策略。\n\n第三种，谈判过渡。\n\n这是破坏性最小，但适用范围最狭窄的路径。谈判并不意味着独裁者突然开明，而是意味着继续统治已经不再理性。它几乎只会发生在两个条件同时满足时：一是反对派已经具备实质性威胁；二是统治集团仍然保有退出后的安全预期。\n\n这也解释了为什么高度个人化、清算风险极高的独裁政权，几乎不会通过谈判结束。对他们而言，妥协并不降低风险，反而可能加速毁灭。\n\n第四种，内战与武装冲突。\n\n这是代价最大、不可逆、且最容易失控的一条路。它往往不是被“选择”的，而是在其他路径全部失败后，被结构性地推出来的结果。一旦暴力成为主要博弈工具，政治目标就会被军事逻辑迅速替代，国家能力随之崩解。\n\n历史反复证明，内战更擅长摧毁旧秩序，却极少自动生成新秩序。最终承担代价的，几乎永远是与权力博弈最无关的平民。\n\n第五种，外部军事干预。\n\n这是短期效果最明显，但长期后果最不可控的方式。外部力量可以移除政权，却无法替一个社会生成合法性。当原有国家结构被摧毁，而新的政治共识尚未形成时，权力真空往往会被暴力、代理人政治和长期动荡填补。在国际法与现实政治层面，这条路几乎必然伴随着合法性争议。\n\n第六种，斩首或“外科手术式”行动。\n\n这是第五种路径的技术化变体，试图以最低军事代价，直接移除权力最高节点。它的潜在优势在于降低全面战争风险，但前提是：该政权确实高度依赖个人，而非制度化网络。一旦权力已经去个人化，斩首行动带来的，很可能只是短暂混乱，而非结构性转变。\n\n所以，历史最终给出的答案始终一致： 反独裁不是一道“有没有更聪明办法”的技术题，而是一道“谁来承担成本”的现实题。不同路径的差异，不在于道德排序，而在于：代价由谁承担，集中爆发还是长期消耗，以及社会是否具备承受这种代价的能力。\n\n而最容易被低估的，并不是推翻的难度，而是重建的漫长与脆弱。当那个象征性的敌人消失之后，真正的问题才刚刚开始。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 15411,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个困扰人类社会几千年的政治哲学难题：当一个独裁政权通过思想控制和暴力，牢牢掌控军队、媒体与经济命脉时，内部改变几乎注定是高风险、低成功率的行为。历史经验反复证明，不存在一种干净、低成本、且可复制的反独裁方案。如果暂时放下情绪，只看历史结果，推翻独裁的大致路径确实高度集中在少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008850628722974720/i8U-Mww2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 4336,
+          "like_count": 66061,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 12497
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2005466164672319635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177294,
+          "following_count": 412,
+          "like_count": 52190,
+          "listed_count": 1017,
+          "media_count": 7010,
+          "tweet_count": 70868
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

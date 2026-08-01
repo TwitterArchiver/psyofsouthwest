@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2009960936820580636",
+    "created_at": "2026-01-10T16:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010030018228101620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2247018338",
+          "start": 0,
+          "username": "Khamenei_fa"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010030018228101620",
+    "in_reply_to_user_id": "2247018338",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009960936820580636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Khamenei_fa @grok Read all of this user's tweets and determine what kind of person they are?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2009960929916497920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TQ0QgWMAAoDQY.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2009960936820580636",
+        "created_at": "2026-01-10T16:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010030018228101620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2247018338",
+              "start": 0,
+              "username": "Khamenei_fa"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010030018228101620",
+        "in_reply_to_user_id": "2247018338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009960936820580636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Khamenei_fa @grok Read all of this user's tweets and determine what kind of person they are?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009960929916497920"
+          ]
+        },
+        "author_id": "2247018338",
+        "conversation_id": "2009960936820580636",
+        "created_at": "2026-01-10T12:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009960936820580636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFZ6uNdTbH",
+              "end": 83,
+              "expanded_url": "https://x.com/Khamenei_fa/status/2009960936820580636/photo/1",
+              "media_key": "3_2009960929916497920",
+              "start": 60,
+              "url": "https://t.co/uFZ6uNdTbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009960936820580636",
+        "lang": "fa",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 475914,
+          "like_count": 2624,
+          "quote_count": 127,
+          "reply_count": 2566,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "رئیس‌جمهور آمریکا دستش به خون بیش از هزار ایرانی آلوده است. https://t.co/uFZ6uNdTbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 4388,
+          "like_count": 66953,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 12541
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-15T10:43:01.000Z",
+        "description": "اخبار رویدادها و بیانات حضرت آیت‌الله سیدعلی خامنه‌ای رهبر انقلاب اسلامی",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "farsi.Khamenei.ir",
+                "end": 23,
+                "expanded_url": "http://farsi.Khamenei.ir",
+                "start": 0,
+                "url": "https://t.co/Nk59PlUtgS"
+              }
+            ]
+          }
+        },
+        "id": "2247018338",
+        "location": "Islamic Republic of Iran",
+        "name": "KHAMENEI.IR | فارسی",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009737615923183616/XUJSxCVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139807,
+          "following_count": 21,
+          "like_count": 4283,
+          "listed_count": 1736,
+          "media_count": 1252,
+          "tweet_count": 6582
+        },
+        "url": "https://t.co/Nk59PlUtgS",
+        "username": "Khamenei_fa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443804,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5780,
+          "media_count": 7625646,
+          "tweet_count": 88662890
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

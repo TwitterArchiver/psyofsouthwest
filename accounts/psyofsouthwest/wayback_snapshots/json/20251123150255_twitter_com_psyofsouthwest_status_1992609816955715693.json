@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1992609816955715693",
+    "created_at": "2025-11-23T15:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992609816955715693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2786701",
+          "start": 3,
+          "username": "williamlong"
+        }
+      ],
+      "urls": [
+        {
+          "description": "共享黑名单, 一键拉黑所有黄推诈骗犯",
+          "display_url": "greasyfork.org/zh-CN/scripts/…",
+          "end": 98,
+          "expanded_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+          "images": [
+            {
+              "height": 451,
+              "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=orig",
+              "width": 563
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 75,
+          "status": 200,
+          "title": "Twitter Block Porn",
+          "unwound_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+          "url": "https://t.co/sdhvmf9sqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992609816955715693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992596243034554624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @williamlong: 【Twitter-Bock-Porn 一键屏蔽黄推诈骗犯】可以自己建立一个列表，打开列表即可看到一键屏蔽的按钮。  https://t.co/sdhvmf9sqA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1992609816955715693",
+        "created_at": "2025-11-23T15:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992609816955715693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2786701",
+              "start": 3,
+              "username": "williamlong"
+            }
+          ],
+          "urls": [
+            {
+              "description": "共享黑名单, 一键拉黑所有黄推诈骗犯",
+              "display_url": "greasyfork.org/zh-CN/scripts/…",
+              "end": 98,
+              "expanded_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+              "images": [
+                {
+                  "height": 451,
+                  "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=orig",
+                  "width": 563
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "Twitter Block Porn",
+              "unwound_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+              "url": "https://t.co/sdhvmf9sqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992609816955715693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992596243034554624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @williamlong: 【Twitter-Bock-Porn 一键屏蔽黄推诈骗犯】可以自己建立一个列表，打开列表即可看到一键屏蔽的按钮。  https://t.co/sdhvmf9sqA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "1992596243034554624",
+        "created_at": "2025-11-23T14:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992596243034554624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "共享黑名单, 一键拉黑所有黄推诈骗犯",
+              "display_url": "greasyfork.org/zh-CN/scripts/…",
+              "end": 81,
+              "expanded_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+              "images": [
+                {
+                  "height": 451,
+                  "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=orig",
+                  "width": 563
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992550610990780416/bHb2megn?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "Twitter Block Porn",
+              "unwound_url": "https://greasyfork.org/zh-CN/scripts/470359-twitter-block-porn",
+              "url": "https://t.co/sdhvmf9sqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992596243034554624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4620,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "【Twitter-Bock-Porn 一键屏蔽黄推诈骗犯】可以自己建立一个列表，打开列表即可看到一键屏蔽的按钮。  https://t.co/sdhvmf9sqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 4037,
+          "like_count": 55722,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12148
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376869,
+          "following_count": 338,
+          "like_count": 0,
+          "listed_count": 2719,
+          "media_count": 3417,
+          "tweet_count": 30418
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

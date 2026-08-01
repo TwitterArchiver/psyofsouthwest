@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1975386498003575148",
+    "created_at": "2025-10-07T02:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T03:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975386498003575148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660598418409127937",
+          "start": 3,
+          "username": "GitHub_Daily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975386498003575148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975350357825138846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GitHub_Daily: 大学软件专业，学习 C 语言是初入编程必修课，但面对动辄几百页的教材，往往让大家还未开始就望而却步。\n\n恰巧，找到了 The Little Book of C 这份精心整理的学习手册，为我们提供了一条清晰的 C 语言学习路径。\n\n这本小册主要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1975112167210012672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kCDS4a0AA8R38.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1975386498003575148",
+        "created_at": "2025-10-07T02:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T03:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975386498003575148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660598418409127937",
+              "start": 3,
+              "username": "GitHub_Daily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975386498003575148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975350357825138846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GitHub_Daily: 大学软件专业，学习 C 语言是初入编程必修课，但面对动辄几百页的教材，往往让大家还未开始就望而却步。\n\n恰巧，找到了 The Little Book of C 这份精心整理的学习手册，为我们提供了一条清晰的 C 语言学习路径。\n\n这本小册主要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975112167210012672"
+          ]
+        },
+        "author_id": "1660598418409127937",
+        "conversation_id": "1975350357825138846",
+        "created_at": "2025-10-07T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975350357825138846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YatYEuQFBT",
+              "end": 177,
+              "expanded_url": "https://x.com/GitHub_Daily/status/1975350357825138846/photo/1",
+              "media_key": "3_1975112167210012672",
+              "start": 154,
+              "url": "https://t.co/YatYEuQFBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975350357825138846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/little-book-of…",
+                "end": 185,
+                "expanded_url": "http://github.com/little-book-of/c",
+                "start": 162,
+                "url": "https://t.co/Wzk7MH2kfg"
+              }
+            ]
+          },
+          "text": "大学软件专业，学习 C 语言是初入编程必修课，但面对动辄几百页的教材，往往让大家还未开始就望而却步。\n\n恰巧，找到了 The Little Book of C 这份精心整理的学习手册，为我们提供了一条清晰的 C 语言学习路径。\n\n这本小册主要专注于 C 语言的基础语法、核心概念和实用技巧，内容简洁且全面。\n\nGitHub：https://t.co/Wzk7MH2kfg\n\n同时还贴心地提供了 PDF、EPUB、在线网页等多种格式，满足不同场景的学习需求。\n\n另外还提供 LaTeX 源码，可以根据需要自定义内容，并且所有示例代码均已开源。\n\n非常适合编程初学者以及想要系统学习 C 语言的开发者，值得收藏学习。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 4798,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "大学软件专业，学习 C 语言是初入编程必修课，但面对动辄几百页的教材，往往让大家还未开始就望而却步。\n\n恰巧，找到了 The Little Book of C 这份精心整理的学习手册，为我们提供了一条清晰的 C 语言学习路径。\n\n这本小册主要专注于 C 语言的基础语法、核心概念和实用技巧，内容简洁且全面。 https://t.co/YatYEuQFBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 3967,
+          "like_count": 49496,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11804
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T10:48:49.000Z",
+        "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitHubDaily/Gi…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+                "start": 0,
+                "url": "https://t.co/Ij83s4tlm9"
+              }
+            ]
+          }
+        },
+        "id": "1660598418409127937",
+        "name": "GitHubDaily",
+        "pinned_tweet_id": "1874830144826995036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45805,
+          "following_count": 138,
+          "like_count": 32,
+          "listed_count": 443,
+          "media_count": 1315,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/Ij83s4tlm9",
+        "username": "GitHub_Daily",
+        "verified": true
+      }
+    ]
+  }
+}

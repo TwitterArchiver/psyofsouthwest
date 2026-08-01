@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2049328642233340000",
+    "created_at": "2026-04-29T07:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049386646919909780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049386646919909780",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049328642233340000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne 后续还要保持一定周期的关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2049328642233340000",
+        "created_at": "2026-04-29T07:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049386646919909780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049386646919909780",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049328642233340000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne 后续还要保持一定周期的关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "2049328642233340000",
+        "created_at": "2026-04-29T03:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049328642233340000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LibailuOne/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/LibailuOne/status/2049132894019551609",
+              "start": 18,
+              "url": "https://t.co/IWqyXzljgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049328642233340000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049132894019551609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她已经没事了，谢谢大家，谢谢你们。 https://t.co/IWqyXzljgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 4791,
+          "like_count": 111628,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14874
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "原諒我吧，我這個罪人。Forgive me, a sinner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/libailu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/libailu",
+                "start": 0,
+                "url": "https://t.co/QnEdZGJvUw"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049090787191992320/M7ZR9HqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 368,
+          "like_count": 8932,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/QnEdZGJvUw",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1904011941640593425",
+    "created_at": "2025-03-24T07:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T08:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904067743223017522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        },
+        {
+          "end": 23,
+          "id": "1222199363847327744",
+          "start": 12,
+          "username": "Mikuma1936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904067743223017522",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904011941640593425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 @Mikuma1936 肉身冲塔肯定被拘了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Mikuma1936].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Mikuma1936",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Mikuma1936"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1904011941640593425",
+        "created_at": "2025-03-24T07:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T08:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904067743223017522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            },
+            {
+              "end": 23,
+              "id": "1222199363847327744",
+              "start": 12,
+              "username": "Mikuma1936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904067743223017522",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904011941640593425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 @Mikuma1936 肉身冲塔肯定被拘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1904011941640593425",
+        "created_at": "2025-03-24T03:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904011941640593425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1222199363847327744",
+              "start": 16,
+              "username": "Mikuma1936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904011941640593425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2287,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3月21日失联的跨性别女性三隈 @mikuma1936 推特账号已注销"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 3296,
+          "like_count": 27887,
+          "listed_count": 7,
+          "media_count": 315,
+          "tweet_count": 10115
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MtF转发bot（TG那个是冒充的）",
+        "pinned_tweet_id": "1903736859572007367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902681191255597056/DdaFHevU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 330,
+          "like_count": 1776,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 2953
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

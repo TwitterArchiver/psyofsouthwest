@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040262837373718528"
+      ],
+      "media_source_tweet_id": [
+        "2040262839538012332"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2040626497367507147",
+    "created_at": "2026-04-05T03:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040626497367507147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019583269692469248",
+          "start": 3,
+          "username": "DoroStar5522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSR8ivSuJZ",
+          "end": 58,
+          "expanded_url": "https://x.com/DoroStar5522/status/2040262839538012332/photo/1",
+          "media_key": "3_2040262837373718528",
+          "start": 35,
+          "url": "https://t.co/nSR8ivSuJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040626497367507147",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040262839538012332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoroStar5522: Doro hamburgesas https://t.co/nSR8ivSuJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040262837373718528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFB4PaYXUAASd8O.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040262837373718528"
+          ],
+          "media_source_tweet_id": [
+            "2040262839538012332"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2040626497367507147",
+        "created_at": "2026-04-05T03:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040626497367507147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019583269692469248",
+              "start": 3,
+              "username": "DoroStar5522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSR8ivSuJZ",
+              "end": 58,
+              "expanded_url": "https://x.com/DoroStar5522/status/2040262839538012332/photo/1",
+              "media_key": "3_2040262837373718528",
+              "start": 35,
+              "url": "https://t.co/nSR8ivSuJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040626497367507147",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040262839538012332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoroStar5522: Doro hamburgesas https://t.co/nSR8ivSuJZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040262837373718528"
+          ]
+        },
+        "author_id": "2019583269692469248",
+        "conversation_id": "2040262839538012332",
+        "created_at": "2026-04-04T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040262839538012332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSR8ivSuJZ",
+              "end": 40,
+              "expanded_url": "https://x.com/DoroStar5522/status/2040262839538012332/photo/1",
+              "media_key": "3_2040262837373718528",
+              "start": 17,
+              "url": "https://t.co/nSR8ivSuJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040262839538012332",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 7215,
+          "like_count": 1109,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "Doro hamburgesas https://t.co/nSR8ivSuJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 4752,
+          "like_count": 101149,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14227
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T01:28:12.000Z",
+        "description": "",
+        "id": "2019583269692469248",
+        "name": "Dororong Español",
+        "pinned_tweet_id": "2027240093748977883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584273909432320/UNhefjyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 61,
+          "like_count": 3513,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 2063
+        },
+        "username": "DoroStar5522",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2046590923531018571",
+    "created_at": "2026-04-21T14:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046598771455262815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644249241957588992",
+          "start": 0,
+          "username": "KiraKiraxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046598771455262815",
+    "in_reply_to_user_id": "1644249241957588992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046597776516296772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraKiraxk 猝死比较接近，很快，就几分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2046590923531018571",
+        "created_at": "2026-04-21T14:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046598771455262815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644249241957588992",
+              "start": 0,
+              "username": "KiraKiraxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046598771455262815",
+        "in_reply_to_user_id": "1644249241957588992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046597776516296772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraKiraxk 猝死比较接近，很快，就几分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644249241957588992",
+        "conversation_id": "2046590923531018571",
+        "created_at": "2026-04-21T14:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046597776516296772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046597776516296772",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046597219998925089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 大概是没什么负担地离开，但是不可能的吧，就算身体能承受，还有很多事情在脑海中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 4770,
+          "like_count": 108505,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14692
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T08:02:32.000Z",
+        "description": "另一个我@wyzzk8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "wyzzk8964"
+              }
+            ]
+          }
+        },
+        "id": "1644249241957588992",
+        "name": "如果我死了你会哭吗",
+        "pinned_tweet_id": "2040473444056199239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043225535308865536/fBwPlvtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 519,
+          "like_count": 8837,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 2484
+        },
+        "username": "KiraKiraxk",
+        "verified": false
+      }
+    ]
+  }
+}

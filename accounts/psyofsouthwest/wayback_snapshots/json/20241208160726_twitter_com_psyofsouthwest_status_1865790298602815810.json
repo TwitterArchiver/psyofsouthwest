@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1865759192474329533",
+    "created_at": "2024-12-08T16:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T17:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865790298602815810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        },
+        {
+          "end": 21,
+          "id": "1167792264795394048",
+          "start": 13,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865790298602815810",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865759192474329533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii @leetfs1 财产归习近平？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1865759192474329533",
+        "created_at": "2024-12-08T16:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T17:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865790298602815810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            },
+            {
+              "end": 21,
+              "id": "1167792264795394048",
+              "start": 13,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865790298602815810",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865759192474329533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii @leetfs1 财产归习近平？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865759185818030080",
+            "3_1865759185822191616"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1865759192474329533",
+        "created_at": "2024-12-08T14:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865759192474329533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1167792264795394048",
+              "start": 38,
+              "username": "leetfs1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sqHk2U4Ut",
+              "end": 78,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1865759192474329533/photo/1",
+              "media_key": "3_1865759185818030080",
+              "start": 55,
+              "url": "https://t.co/6sqHk2U4Ut"
+            },
+            {
+              "display_url": "pic.x.com/6sqHk2U4Ut",
+              "end": 78,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1865759192474329533/photo/1",
+              "media_key": "3_1865759185822191616",
+              "start": 55,
+              "url": "https://t.co/6sqHk2U4Ut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865759192474329533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1745,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈 就你让我去玩一下遗嘱宝，我注册了一下现在天天催我立遗嘱，操你妈啊啊\n@leetfs1 啊啊啊啊啊啊啊 https://t.co/6sqHk2U4Ut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 2846,
+          "like_count": 20810,
+          "listed_count": 4,
+          "media_count": 246,
+          "tweet_count": 8806
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9921,
+          "following_count": 521,
+          "like_count": 3066,
+          "listed_count": 16,
+          "media_count": 1012,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "重新开始",
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "pinned_tweet_id": "1841920877417689129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600006556661125120/q-YVWHwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4061,
+          "following_count": 2574,
+          "like_count": 1296,
+          "listed_count": 36,
+          "media_count": 674,
+          "tweet_count": 5306
+        },
+        "username": "leetfs1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2023133972247744739",
+    "created_at": "2026-02-15T20:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T21:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023133972247744739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "709787332254117888",
+          "start": 3,
+          "username": "howie_serious"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023133972247744739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022955475999105065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @howie_serious: 说出来不怕丢人：第一次用大名鼎鼎的 yt-dlp，接近 1900 个视频的 youtube playlist，一次性整理成 csv，包含视频名称、频道和 url。\n\n大受震撼。太强大了！🤣\n\n当然，我知道这对很多人是基操。我是第一次用，所以…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2023133972247744739",
+        "created_at": "2026-02-15T20:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T21:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023133972247744739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "709787332254117888",
+              "start": 3,
+              "username": "howie_serious"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023133972247744739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022955475999105065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @howie_serious: 说出来不怕丢人：第一次用大名鼎鼎的 yt-dlp，接近 1900 个视频的 youtube playlist，一次性整理成 csv，包含视频名称、频道和 url。\n\n大受震撼。太强大了！🤣\n\n当然，我知道这对很多人是基操。我是第一次用，所以…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "709787332254117888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2022955475999105065",
+        "created_at": "2026-02-15T08:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022955475999105065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022955475999105065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/yt-dlp/yt-dlp",
+                "end": 239,
+                "expanded_url": "https://github.com/yt-dlp/yt-dlp",
+                "start": 216,
+                "url": "https://t.co/N3xb6mdy3S"
+              }
+            ]
+          },
+          "text": "说出来不怕丢人：第一次用大名鼎鼎的 yt-dlp，接近 1900 个视频的 youtube playlist，一次性整理成 csv，包含视频名称、频道和 url。\n\n大受震撼。太强大了！🤣\n\n当然，我知道这对很多人是基操。我是第一次用，所以“大惊小怪”一下。\n\n我后续还想批量下载视频的 thumbnail、transcript。不知道能不能实现？\n\n大家还有什么 yt-dlp 的压箱底用法？在评论区分享一下？集思广益，哈哈。\n\nhttps://t.co/N3xb6mdy3S"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 23162,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "说出来不怕丢人：第一次用大名鼎鼎的 yt-dlp，接近 1900 个视频的 youtube playlist，一次性整理成 csv，包含视频名称、频道和 url。\n\n大受震撼。太强大了！🤣\n\n当然，我知道这对很多人是基操。我是第一次用，所以“大惊小怪”一下。\n\n我后续还想批量下载视频的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 4533,
+          "like_count": 79113,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 13017
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-15T17:04:22.000Z",
+        "description": "purity of thought. be exactly who you are : just a serious man. 思想纯净，做好自己：严肃对待自己的兴趣，不要浮皮潦草。\n\n公众号：howie和小能熊\nyoutube：https://t.co/J1aSMKnUFo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@howieserious",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@howieserious",
+                "start": 115,
+                "url": "https://t.co/J1aSMKnUFo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt.candobear.com",
+                "end": 23,
+                "expanded_url": "https://gpt.candobear.com",
+                "start": 0,
+                "url": "https://t.co/CpwBqd0mg1"
+              }
+            ]
+          }
+        },
+        "id": "709787332254117888",
+        "location": "beijing",
+        "name": "howie.serious",
+        "pinned_tweet_id": "2009058742776848520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/738174666309652480/UgeKnQOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53430,
+          "following_count": 357,
+          "like_count": 4781,
+          "listed_count": 718,
+          "media_count": 2396,
+          "tweet_count": 7537
+        },
+        "url": "https://t.co/CpwBqd0mg1",
+        "username": "howie_serious",
+        "verified": true
+      }
+    ]
+  }
+}

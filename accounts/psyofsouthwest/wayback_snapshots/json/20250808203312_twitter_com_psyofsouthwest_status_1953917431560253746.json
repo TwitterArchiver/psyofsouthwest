@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1953705208179036525",
+    "created_at": "2025-08-08T20:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T21:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953917431560253746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2786701",
+          "start": 0,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953917431560253746",
+    "in_reply_to_user_id": "2786701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953705208179036525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlong 社保现在是税务局代收的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1953705208179036525",
+        "created_at": "2025-08-08T20:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953917431560253746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953917431560253746",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953705208179036525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 社保现在是税务局代收的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "1953705208179036525",
+        "created_at": "2025-08-08T06:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953705208179036525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953705208179036525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 71578,
+          "like_count": 265,
+          "quote_count": 4,
+          "reply_count": 103,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止员工举报老板不交社保，老板可以放弃代扣社保的权利，老板和员工签订协议，将工资分为2份，1份是工资，另1份是员工社保，把交社保的权利交给员工，让员工自己决定是否缴纳社保，如果员工举报，则通过协议要求员工先退还之前发给员工的社保。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 3915,
+          "like_count": 44793,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11564
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387180,
+          "following_count": 334,
+          "like_count": 0,
+          "listed_count": 2709,
+          "media_count": 3207,
+          "tweet_count": 29864
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

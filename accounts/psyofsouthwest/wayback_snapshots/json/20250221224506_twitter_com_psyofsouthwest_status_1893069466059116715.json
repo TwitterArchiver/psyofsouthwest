@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1892348430451622177",
+    "created_at": "2025-02-21T22:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T23:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893069466059116715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        },
+        {
+          "end": 27,
+          "id": "222793635",
+          "start": 16,
+          "username": "ABCChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893069466059116715",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892591952119648596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo @ABCChinese 模糊到有谭咏麟的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_1892591944385392640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPWWJXbcAAe0or.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1892348430451622177",
+        "created_at": "2025-02-21T22:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T23:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893069466059116715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 27,
+              "id": "222793635",
+              "start": 16,
+              "username": "ABCChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893069466059116715",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892591952119648596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo @ABCChinese 模糊到有谭咏麟的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892591944385392640"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "conversation_id": "1892348430451622177",
+        "created_at": "2025-02-20T15:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T16:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892591952119648596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "222793635",
+              "start": 0,
+              "username": "ABCChinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHxKQpdfxQ",
+              "end": 35,
+              "expanded_url": "https://x.com/sugihara_tatuo/status/1892591952119648596/photo/1",
+              "media_key": "3_1892591944385392640",
+              "start": 12,
+              "url": "https://t.co/cHxKQpdfxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892591952119648596",
+        "in_reply_to_user_id": "222793635",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6507,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892348430451622177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABCChinese https://t.co/cHxKQpdfxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 3136,
+          "like_count": 25217,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 9844
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。反動頭子，川黑惡棍，依然右派。\n語言：漢/英/日/阿/西/葡/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 79,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 56,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "name": "杉原 辰雄 🌸⛩️ （淡推中）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798307751610957824/XzojFb4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 776,
+          "like_count": 110695,
+          "listed_count": 21,
+          "media_count": 995,
+          "tweet_count": 10679
+        },
+        "username": "sugihara_tatuo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-04T13:33:59.000Z",
+        "description": "坐居澳洲，看懂世界。ABC中文是澳大利亚广播公司旗下的中文新闻服务。订阅ABC中文周报 https://t.co/jUJk22qxTA｜An official @abcaustralia account.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "abcaustralia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ab.co/3X8G1AT",
+                "end": 67,
+                "expanded_url": "http://ab.co/3X8G1AT",
+                "start": 44,
+                "url": "https://t.co/jUJk22qxTA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abc.net.au/news/chinese",
+                "end": 23,
+                "expanded_url": "http://www.abc.net.au/news/chinese",
+                "start": 0,
+                "url": "https://t.co/wZd2nCe4K7"
+              }
+            ]
+          }
+        },
+        "id": "222793635",
+        "location": "Australia",
+        "name": "ABC中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861234823156899842/5O5jCkuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484641,
+          "following_count": 90,
+          "like_count": 6,
+          "listed_count": 2408,
+          "media_count": 2550,
+          "tweet_count": 20542
+        },
+        "url": "https://t.co/wZd2nCe4K7",
+        "username": "ABCChinese",
+        "verified": false
+      }
+    ]
+  }
+}

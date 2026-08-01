@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1952118944489500672",
+    "created_at": "2025-08-03T23:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T00:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952148108932006079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "31083308",
+          "start": 0,
+          "username": "wangwatchworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952148108932006079",
+    "in_reply_to_user_id": "31083308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952118944489500672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwatchworld 透明国际每年都公布清廉指数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1952118944489500672",
+        "created_at": "2025-08-03T23:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T00:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952148108932006079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "31083308",
+              "start": 0,
+              "username": "wangwatchworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952148108932006079",
+        "in_reply_to_user_id": "31083308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952118944489500672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwatchworld 透明国际每年都公布清廉指数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "31083308",
+        "conversation_id": "1952118944489500672",
+        "created_at": "2025-08-03T21:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T22:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952118944489500672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TyraniusPrime/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/TyraniusPrime/status/1952034253312569759",
+              "start": 63,
+              "url": "https://t.co/OaWFf1NAy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952118944489500672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4807,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952034253312569759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，两位都什么理解，这不是说我是先知，而是说乌克兰军购腐败早就暴露了。\n一年半前，同行告诉我，乌克兰腐败资金在海外购房置产。 https://t.co/OaWFf1NAy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 3906,
+          "like_count": 43386,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 11457
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-14T08:11:59.000Z",
+        "description": "废话多于财经 https://t.co/ns4TvwZCkP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ottfinance.com",
+                "end": 30,
+                "expanded_url": "http://www.ottfinance.com",
+                "start": 7,
+                "url": "https://t.co/ns4TvwZCkP"
+              }
+            ]
+          }
+        },
+        "id": "31083308",
+        "location": "泰国",
+        "name": "王海滨的财经闲谈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887190420452769792/wLInj9Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222565,
+          "following_count": 998,
+          "like_count": 3280,
+          "listed_count": 1473,
+          "media_count": 5359,
+          "tweet_count": 44769
+        },
+        "username": "wangwatchworld",
+        "verified": true
+      }
+    ]
+  }
+}

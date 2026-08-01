@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      }
+    ],
+    "conversation_id": "1860108665333907962",
+    "created_at": "2024-11-24T05:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T06:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860563295192699095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1314796983199043586",
+          "start": 0,
+          "username": "WongWon27541819"
+        },
+        {
+          "end": 26,
+          "id": "787945711090278400",
+          "start": 17,
+          "username": "Smdesker"
+        },
+        {
+          "end": 41,
+          "id": "1711278732525367296",
+          "start": 27,
+          "username": "Pyongyang_cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860563295192699095",
+    "in_reply_to_user_id": "1314796983199043586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860543226723336690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WongWon27541819 @Smdesker @Pyongyang_cui 过去singleplayer 现在multiplayer"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "1860108665333907962",
+        "created_at": "2024-11-24T05:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T06:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860563295192699095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1314796983199043586",
+              "start": 0,
+              "username": "WongWon27541819"
+            },
+            {
+              "end": 26,
+              "id": "787945711090278400",
+              "start": 17,
+              "username": "Smdesker"
+            },
+            {
+              "end": 41,
+              "id": "1711278732525367296",
+              "start": 27,
+              "username": "Pyongyang_cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860563295192699095",
+        "in_reply_to_user_id": "1314796983199043586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860543226723336690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WongWon27541819 @Smdesker @Pyongyang_cui 过去singleplayer 现在multiplayer"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314796983199043586",
+        "conversation_id": "1860108665333907962",
+        "created_at": "2024-11-24T04:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T05:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860543226723336690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            },
+            {
+              "end": 25,
+              "id": "787945711090278400",
+              "start": 16,
+              "username": "Smdesker"
+            },
+            {
+              "end": 40,
+              "id": "1711278732525367296",
+              "start": 26,
+              "username": "Pyongyang_cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860543226723336690",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860449138883666049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest @Smdesker @Pyongyang_cui 过去的治安不等于现在的治安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2796,
+          "like_count": 20023,
+          "listed_count": 4,
+          "tweet_count": 8623
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T05:16:58.000Z",
+        "description": "The Christian god is a three headed monster; cruel, vengeful and capricious.",
+        "id": "1314796983199043586",
+        "name": "WongWongWong 🎮",
+        "pinned_tweet_id": "1695039385618808855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482946888860979201/x0-HbvqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 359,
+          "like_count": 5622,
+          "listed_count": 8,
+          "tweet_count": 33328
+        },
+        "username": "WongWon27541819",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T09:17:51.000Z",
+        "description": "喜欢Cyber, 热爱野外生活，喜欢房车，IT。从事投资股票及股权。",
+        "id": "787945711090278400",
+        "name": "Smdesker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860455811845062656/1jU526tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 293,
+          "like_count": 163,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "Smdesker",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T07:14:27.000Z",
+        "description": "朝鲜宣传鼓动部",
+        "id": "1711278732525367296",
+        "location": "North Korea",
+        "name": "平壤崔纽毕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711311890473943040/tL9D_UtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7492,
+          "following_count": 148,
+          "like_count": 5595,
+          "listed_count": 28,
+          "tweet_count": 3939
+        },
+        "username": "Pyongyang_cui",
+        "verified": true
+      }
+    ]
+  }
+}

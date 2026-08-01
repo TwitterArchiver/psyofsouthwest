@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1870425009627537647",
+    "created_at": "2024-12-22T10:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T11:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870785245991010415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1666407332681768963",
+          "start": 0,
+          "username": "biluawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870785245991010415",
+    "in_reply_to_user_id": "1666407332681768963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870425009627537647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biluawa 这都是骗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1870425009627537647",
+        "created_at": "2024-12-22T10:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T11:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870785245991010415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1666407332681768963",
+              "start": 0,
+              "username": "biluawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870785245991010415",
+        "in_reply_to_user_id": "1666407332681768963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870425009627537647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biluawa 这都是骗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666407332681768963",
+        "conversation_id": "1870425009627537647",
+        "created_at": "2024-12-21T11:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T12:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870425009627537647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870425009627537647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 600,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在招聘平台填了简历……\n然后有人打电话说去那里工作，一开始跟着学习几个月没有工资，住宿费自己交钱，学完后工资6000……\n不知道说什么了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 2905,
+          "like_count": 21945,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 9179
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T11:30:52.000Z",
+        "description": "大证mtf/减肥ing｜喜欢百合｜想变可爱｜🎮东方夜雀食堂/音游/MC🎮｜可互fo｜不骂人/不键政/不阴阳怪气等",
+        "id": "1666407332681768963",
+        "name": "彼露阡白🏳️‍⚧️",
+        "pinned_tweet_id": "1854409825196847539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845683312989458432/a0yU_Q3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 163,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 234
+        },
+        "username": "biluawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2038079173760041212",
+    "created_at": "2026-05-11T21:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T22:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053949449131446583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697036587710971904",
+          "start": 0,
+          "username": "Ouroboros_723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053949449131446583",
+    "in_reply_to_user_id": "1697036587710971904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038079173760041212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ouroboros_723 喜欢那种……自恋狂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2038079173760041212",
+        "created_at": "2026-05-11T21:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053949449131446583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697036587710971904",
+              "start": 0,
+              "username": "Ouroboros_723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053949449131446583",
+        "in_reply_to_user_id": "1697036587710971904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038079173760041212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouroboros_723 喜欢那种……自恋狂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697036587710971904",
+        "conversation_id": "2038079173760041212",
+        "created_at": "2026-03-29T02:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038079173760041212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038079173760041212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2179,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我永远都会喜欢那种特别自我的人 自我到某种傲慢的程度 不管是对是错都一直坚定的走 不存在什么因为别人的影响也不存在什么出于善意或者是恶意的概念 只是单纯的想做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 4807,
+          "like_count": 116897,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 15207
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T00:00:43.000Z",
+        "description": "=林情 she/精神病/自伤/od/已成年 直fo=我喜欢你",
+        "id": "1697036587710971904",
+        "name": "林情",
+        "pinned_tweet_id": "1726721552123842970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007729414914670592/GRRcIgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 241,
+          "like_count": 4084,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 278
+        },
+        "username": "Ouroboros_723",
+        "verified": false
+      }
+    ]
+  }
+}

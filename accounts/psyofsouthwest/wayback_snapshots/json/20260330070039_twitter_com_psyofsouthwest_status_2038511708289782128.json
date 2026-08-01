@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038312663277875200"
+      ],
+      "media_source_tweet_id": [
+        "2038375654245224881"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2038511708289782128",
+    "created_at": "2026-03-30T07:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038511708289782128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "Doro"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "ニケ"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "メガニケ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1709501913832820736",
+          "start": 3,
+          "username": "neko_kyo_1030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WhtDtTSiJh",
+          "end": 94,
+          "expanded_url": "https://x.com/neko_kyo_1030/status/2038375654245224881/photo/1",
+          "media_key": "3_2038312663277875200",
+          "start": 71,
+          "url": "https://t.co/WhtDtTSiJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038511708289782128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038375654245224881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_kyo_1030: ちょっとおやつを食べ過ぎちゃってるDoroを描いてみた🍩\n#NIKKE #Doro #ニケ #メガニケ https://t.co/WhtDtTSiJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2038312663277875200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmKkVvbsAAPM2S.jpg",
+        "width": 559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038312663277875200"
+          ],
+          "media_source_tweet_id": [
+            "2038375654245224881"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2038511708289782128",
+        "created_at": "2026-03-30T07:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038511708289782128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "Doro"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "ニケ"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "メガニケ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1709501913832820736",
+              "start": 3,
+              "username": "neko_kyo_1030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhtDtTSiJh",
+              "end": 94,
+              "expanded_url": "https://x.com/neko_kyo_1030/status/2038375654245224881/photo/1",
+              "media_key": "3_2038312663277875200",
+              "start": 71,
+              "url": "https://t.co/WhtDtTSiJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038511708289782128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038375654245224881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_kyo_1030: ちょっとおやつを食べ過ぎちゃってるDoroを描いてみた🍩\n#NIKKE #Doro #ニケ #メガニケ https://t.co/WhtDtTSiJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038312663277875200"
+          ]
+        },
+        "author_id": "1709501913832820736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2038375654245224881",
+        "created_at": "2026-03-29T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038375654245224881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "Doro"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "ニケ"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "メガニケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhtDtTSiJh",
+              "end": 75,
+              "expanded_url": "https://x.com/neko_kyo_1030/status/2038375654245224881/photo/1",
+              "media_key": "3_2038312663277875200",
+              "start": 52,
+              "url": "https://t.co/WhtDtTSiJh"
+            },
+            {
+              "display_url": "x.com/neko_kyo_1030/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/neko_kyo_1030/status/2038013268040520075",
+              "start": 76,
+              "url": "https://t.co/wtDbMIiy0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038375654245224881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6900,
+          "like_count": 629,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038013268040520075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちょっとおやつを食べ過ぎちゃってるDoroを描いてみた🍩\n#NIKKE #Doro #ニケ #メガニケ https://t.co/WhtDtTSiJh https://t.co/wtDbMIiy0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 4760,
+          "like_count": 100225,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14192
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T09:35:03.000Z",
+        "description": "NIKKEが大好きな姉弟指揮官\n保護猫の姿をした猫型ラプチャー4匹にアジトを侵攻されてます。\n\nBOOTH→https://t.co/vNPmqB3Kum\nSkeb→https://t.co/xXXt7jJ7MR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "neko-kyo-1030.booth.pm",
+                "end": 77,
+                "expanded_url": "https://neko-kyo-1030.booth.pm/",
+                "start": 54,
+                "url": "https://t.co/vNPmqB3Kum"
+              },
+              {
+                "display_url": "skeb.jp/@neko_kyo_1030",
+                "end": 106,
+                "expanded_url": "https://skeb.jp/@neko_kyo_1030",
+                "start": 83,
+                "url": "https://t.co/xXXt7jJ7MR"
+              }
+            ]
+          }
+        },
+        "id": "1709501913832820736",
+        "location": "ソルジャーE.Gのゴーグルの中",
+        "name": "ネコーキョー🦖🐋",
+        "pinned_tweet_id": "2008490293885333703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718843006953127936/FFiNlVV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3629,
+          "following_count": 631,
+          "like_count": 37045,
+          "listed_count": 22,
+          "media_count": 599,
+          "tweet_count": 3865
+        },
+        "username": "neko_kyo_1030",
+        "verified": false
+      }
+    ]
+  }
+}

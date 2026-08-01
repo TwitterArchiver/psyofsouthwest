@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1914238489807167804",
+    "created_at": "2025-04-21T08:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914238489807167804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1869440990970556416",
+          "start": 3,
+          "username": "Kaohchuancity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914238489807167804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914229948073853406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaohchuancity: 谁来救命，救命......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1914238489807167804",
+        "created_at": "2025-04-21T08:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914238489807167804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1869440990970556416",
+              "start": 3,
+              "username": "Kaohchuancity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914238489807167804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914229948073853406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaohchuancity: 谁来救命，救命......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "1914229948073853406",
+        "created_at": "2025-04-21T08:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914229948073853406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuo_zi27516/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shuo_zi27516/status/1914211250306978231",
+              "start": 14,
+              "url": "https://t.co/4NNaSx6FFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914229948073853406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914211250306978231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来救命，救命...... https://t.co/4NNaSx6FFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 3576,
+          "like_count": 30978,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 10391
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "我是一颗星，4亿岁了。\n里推：@thelastchaoxinx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "thelastchaoxinx"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空合众国云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（摇光星）",
+        "pinned_tweet_id": "1914192003144823239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909572096617009152/nAwZoSaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 322,
+          "like_count": 711,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 837
+        },
+        "username": "Kaohchuancity",
+        "verified": false
+      }
+    ]
+  }
+}

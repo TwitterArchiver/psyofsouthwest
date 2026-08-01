@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1823774751019687987",
+    "created_at": "2024-08-14T22:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T23:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823847072107520186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "854250925480845312",
+          "start": 0,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823847072107520186",
+    "in_reply_to_user_id": "854250925480845312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823774751019687987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyue 我厌恶他们无休止的宣发软文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1823774751019687987",
+        "created_at": "2024-08-14T22:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T23:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823847072107520186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "854250925480845312",
+              "start": 0,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823847072107520186",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823774751019687987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyue 我厌恶他们无休止的宣发软文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "1823774751019687987",
+        "created_at": "2024-08-14T17:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T18:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823774751019687987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823774751019687987",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于某款即将发售的游戏，群友管它叫黑猩猩，朋友管它叫黑猿神，室友管它叫黑猴子，我管它叫黑吗喽，总之出于各种因素都不想正面提及它的名字……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 2397,
+          "like_count": 13657,
+          "listed_count": 4,
+          "tweet_count": 7010
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794931835518263296/h39GLadf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 1308,
+          "like_count": 15072,
+          "listed_count": 9,
+          "tweet_count": 6584
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

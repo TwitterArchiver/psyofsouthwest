@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2005975185443487766",
+    "created_at": "2025-12-30T20:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T21:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006105882652762622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1367943697279705090",
+          "start": 0,
+          "username": "BingLiu34173809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006105882652762622",
+    "in_reply_to_user_id": "1367943697279705090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005975185443487766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BingLiu34173809 路径依赖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2005975185443487766",
+        "created_at": "2025-12-30T20:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006105882652762622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367943697279705090",
+              "start": 0,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006105882652762622",
+        "in_reply_to_user_id": "1367943697279705090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005975185443487766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BingLiu34173809 路径依赖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1367943697279705090",
+        "conversation_id": "2005975185443487766",
+        "created_at": "2025-12-30T12:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:08:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005974195306651785",
+          "2005975185443487766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bingliu3417380…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bingliu34173809/status/2005965441890455736",
+              "start": 58,
+              "url": "https://t.co/61eYwCOQjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005975185443487766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1550,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005965441890455736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥不补贴服务业？为啥不补贴医疗？例如老百姓买自费原研药给补贴30%。天天补贴制造业，已经产能严重过剩了，还补贴？ https://t.co/61eYwCOQjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 4165,
+          "like_count": 61998,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 12351
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T21:03:18.000Z",
+        "description": "",
+        "id": "1367943697279705090",
+        "location": "England, United Kingdom",
+        "name": "Leva",
+        "pinned_tweet_id": "2004253583102169308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732745778785910785/htQSwPuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50929,
+          "following_count": 1381,
+          "like_count": 8666,
+          "listed_count": 412,
+          "media_count": 11945,
+          "tweet_count": 32868
+        },
+        "username": "BingLiu34173809",
+        "verified": true
+      }
+    ]
+  }
+}

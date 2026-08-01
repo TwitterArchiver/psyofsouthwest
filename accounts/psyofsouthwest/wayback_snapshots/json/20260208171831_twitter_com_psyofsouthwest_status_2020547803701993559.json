@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2020547803701993559",
+    "created_at": "2026-02-08T17:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020547803701993559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "20784367",
+          "start": 3,
+          "username": "hrichina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020547803701993559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020534337163481585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrichina: 【“反向防火墙”正在成型：超过 50% 的中国政府网站已无法从海外访问】​传统的“防火长城”（GFW）旨在限制国内用户访问全球网络，而一种新的“反向防火墙”（Reverse Great Firewall）逻辑正在兴起：通过地理封锁（Geo-block…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2020547803701993559",
+        "created_at": "2026-02-08T17:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020547803701993559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "20784367",
+              "start": 3,
+              "username": "hrichina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020547803701993559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020534337163481585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrichina: 【“反向防火墙”正在成型：超过 50% 的中国政府网站已无法从海外访问】​传统的“防火长城”（GFW）旨在限制国内用户访问全球网络，而一种新的“反向防火墙”（Reverse Great Firewall）逻辑正在兴起：通过地理封锁（Geo-block…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20784367",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2020534337163481585",
+        "created_at": "2026-02-08T16:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020534337163481585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020534337163481585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "academic.oup.com/cybersecurity/…",
+                "end": 739,
+                "expanded_url": "https://academic.oup.com/cybersecurity/article/12/1/tyag005/8465357",
+                "start": 716,
+                "url": "https://t.co/NPtBCrdjXb"
+              }
+            ]
+          },
+          "text": "【“反向防火墙”正在成型：超过 50% 的中国政府网站已无法从海外访问】​传统的“防火长城”（GFW）旨在限制国内用户访问全球网络，而一种新的“反向防火墙”（Reverse Great Firewall）逻辑正在兴起：通过地理封锁（Geo-blocking）限制境外IP访问中国境内的公开数据。  \n​这篇发表于牛津大学出版社《网络安全期刊》（Journal of Cybersecurity, 2026）的最新研究，由莱顿大学的 Vincent Brussee 撰写。文章不仅揭示了技术封锁的现状，更深刻剖析了中国官僚体制下的“网络安全”新逻辑。  \n​核心发现与数据：\n​无法访问常态化： 研究者通过全球 14 个国家的住宅代理测试了 13,508 个中国政府网站，结果显示超过 50% 的网站无法从海外正常访问。  \n​技术手段分层： 约 10% 的网站实施了明确的服务器端或 DNS 封锁（如安徽省政府、最高法网站）；另有约 40% 的访问失败源于“超时”，这反映了基础设施层面的“大瓶颈”（Great Bottleneck）以及对跨境流量的限制。  \n​官僚体制驱动： 这并非中央的一键指令，而是碎片化的。地方官员为应对上级“防范数据聚合”和“反开源情报（OSINT）”的压力，宁可“过度执行”切断外部连接，以规避政治风险。  \n​研究背景：\n作者 Vincent Brussee 隶属于莱顿大学区域研究所（LIAS），长期关注中国数字治理与技术政策。该文发表于网络安全领域的权威刊物，揭示了中国如何将“网络安全”概念泛化为防止外部世界获取中国内部信息，这将对全球研究者、商业尽调及透明度造成深远影响。  \n\n文章链接👇\nhttps://t.co/NPtBCrdjXb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2748,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "【“反向防火墙”正在成型：超过 50% 的中国政府网站已无法从海外访问】​传统的“防火长城”（GFW）旨在限制国内用户访问全球网络，而一种新的“反向防火墙”（Reverse Great Firewall）逻辑正在兴起：通过地理封锁（Geo-blocking）限制境外IP访问中国境内的公开数据。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 4509,
+          "like_count": 76845,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12933
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "2011876497636598266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87917,
+          "following_count": 1108,
+          "like_count": 3365,
+          "listed_count": 790,
+          "media_count": 3305,
+          "tweet_count": 17450
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      }
+    ]
+  }
+}

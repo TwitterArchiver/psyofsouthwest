@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2054468701693616328",
+    "created_at": "2026-05-13T13:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054555661476802884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "5709522",
+          "start": 0,
+          "username": "mranti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054555661476802884",
+    "in_reply_to_user_id": "5709522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054468701693616328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mranti 你已急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2054468701693616328",
+        "created_at": "2026-05-13T13:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054555661476802884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "5709522",
+              "start": 0,
+              "username": "mranti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054555661476802884",
+        "in_reply_to_user_id": "5709522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054468701693616328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mranti 你已急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "conversation_id": "2054468701693616328",
+        "created_at": "2026-05-13T07:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054468701693616328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054468701693616328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 44809,
+          "like_count": 228,
+          "quote_count": 11,
+          "reply_count": 119,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "凯恩和他同学被网络用语影响太严重了，动不动就是“不了一点”、“包的”、“你个老六”，气得我和他妈严禁他在家里说话用网络用语，他回答说，“何意味？”。他妈没听懂说这是什么意思，我懂，就开始揍他屁股了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 4753,
+          "like_count": 117624,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 15249
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "2054413840126009685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355088,
+          "following_count": 11399,
+          "like_count": 404,
+          "listed_count": 3420,
+          "media_count": 3174,
+          "tweet_count": 225583
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

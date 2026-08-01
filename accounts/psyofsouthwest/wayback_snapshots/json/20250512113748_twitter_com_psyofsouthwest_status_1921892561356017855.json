@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1921839175109583200",
+    "created_at": "2025-05-12T11:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T12:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921892561356017855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "620632841",
+          "start": 0,
+          "username": "nytchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921892561356017855",
+    "in_reply_to_user_id": "620632841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921839175109583200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nytchinese 天地会纽约分舵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1921839175109583200",
+        "created_at": "2025-05-12T11:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921892561356017855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "620632841",
+              "start": 0,
+              "username": "nytchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921892561356017855",
+        "in_reply_to_user_id": "620632841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921839175109583200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nytchinese 天地会纽约分舵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1921839175109583200",
+        "created_at": "2025-05-12T08:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921839175109583200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "习近平选择以对抗来扭转对美态势。他推动了出口增长，将供应链作为武器来重新定义中国与世界的关系，并挑战美国的领导地位。但这一战略也让许多中国家庭付出了代价。",
+              "display_url": "cn.nytimes.com/china/20250512…",
+              "end": 149,
+              "expanded_url": "https://cn.nytimes.com/china/20250512/xi-jinping-china-trade-war/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1921839220538130432/BL-NzoBA?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1921839220538130432/BL-NzoBA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "一场习近平等待已久的贸易战",
+              "unwound_url": "https://cn.nytimes.com/china/20250512/xi-jinping-china-trade-war/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/LBQ65oQhzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921839175109583200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 79668,
+          "like_count": 203,
+          "quote_count": 7,
+          "reply_count": 86,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "习近平推动了出口增长，并巩固了中国作为全球制造业基地的地位。他还为本国增加了新的经济战手段：出口管制、反垄断法以及打击美国公司的黑名单。\n当特朗普政府对中国商品征收关税时，中国就可予以反击。在美国，货架空空和物价上涨的紧迫威胁给特朗普政府带来了压力。\nhttps://t.co/LBQ65oQhzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 3826,
+          "like_count": 36925,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 10934
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3777829,
+          "following_count": 370,
+          "like_count": 1109,
+          "listed_count": 8886,
+          "media_count": 12927,
+          "tweet_count": 72091
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

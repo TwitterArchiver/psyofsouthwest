@@ -1,0 +1,288 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284225570268569600",
+          "name": "HIIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Cardio",
+          "id": "920389340571754496",
+          "name": "Cardio"
+        }
+      }
+    ],
+    "conversation_id": "1790033420791242913",
+    "created_at": "2024-05-13T15:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T16:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790036793762435443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我们的主要目标是评估高强度间歇训练（12 周）与中等强度（相同的总工作量）相比对减轻双相情感障碍症状、皮质变化以及 VO2max 的慢性影响。 此外，研究人员将确定增加最大...。临床试验注册。 ICH GCP。",
+          "display_url": "ichgcp.net/zh/clinical-tr…",
+          "end": 64,
+          "expanded_url": "https://ichgcp.net/zh/clinical-trials-registry/NCT02498730",
+          "start": 41,
+          "status": 200,
+          "title": "间歇训练 和 持续培训 和 控制 在 躁郁症-临床试验注册中心-ICH GCP",
+          "unwound_url": "https://ichgcp.net/zh/clinical-trials-registry/NCT02498730",
+          "url": "https://t.co/a1ahZYISik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790036793762435443",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790033420791242913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 语言天赋惊为天人，让我想到了hiit 训练给我带来的濒死感https://t.co/a1ahZYISik"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284225570268569600",
+              "name": "HIIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "1790033420791242913",
+        "created_at": "2024-05-13T15:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T16:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790036793762435443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我们的主要目标是评估高强度间歇训练（12 周）与中等强度（相同的总工作量）相比对减轻双相情感障碍症状、皮质变化以及 VO2max 的慢性影响。 此外，研究人员将确定增加最大...。临床试验注册。 ICH GCP。",
+              "display_url": "ichgcp.net/zh/clinical-tr…",
+              "end": 64,
+              "expanded_url": "https://ichgcp.net/zh/clinical-trials-registry/NCT02498730",
+              "start": 41,
+              "status": 200,
+              "title": "间歇训练 和 持续培训 和 控制 在 躁郁症-临床试验注册中心-ICH GCP",
+              "unwound_url": "https://ichgcp.net/zh/clinical-trials-registry/NCT02498730",
+              "url": "https://t.co/a1ahZYISik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790036793762435443",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790033420791242913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 语言天赋惊为天人，让我想到了hiit 训练给我带来的濒死感https://t.co/a1ahZYISik"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1790033420791242913",
+        "created_at": "2024-05-13T14:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T15:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790033420791242913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790033420791242913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，躁狂发作把所有人吓到了\n我也头疼欲裂\n双相在手术后真的会好吗\n我好像只有被手术和家庭矛盾触发会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 2105,
+          "like_count": 10583,
+          "listed_count": 4,
+          "tweet_count": 5482
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/12年经验的百合推理写手/置顶pixiv链接可搜小说/mtf/持证助理社工师/社工本科/前机构司法社工项目主管/涟漪危机干预小组组长（无限期休假中）",
+        "id": "1596473224711151618",
+        "name": "神乐坂瑞雪（笔名王安黛）",
+        "pinned_tweet_id": "1596477323611541504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786802610001129472/Z2SfWkbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8808,
+          "following_count": 144,
+          "like_count": 1096,
+          "listed_count": 23,
+          "tweet_count": 2725
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

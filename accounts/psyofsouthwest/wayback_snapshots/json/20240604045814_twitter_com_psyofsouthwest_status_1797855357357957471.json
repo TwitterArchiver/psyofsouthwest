@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1797624649557426319",
+    "created_at": "2024-06-04T04:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T05:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797855357357957471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527124153559572480",
+          "start": 0,
+          "username": "Epsilon7708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797855357357957471",
+    "in_reply_to_user_id": "1527124153559572480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797852106705264751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epsilon7708 可惜家长会有各种各样的借口，这种随人类蒙昧期诞生的病，已经占先成了刻在骨子里的文化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1797624649557426319",
+        "created_at": "2024-06-04T04:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797855357357957471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527124153559572480",
+              "start": 0,
+              "username": "Epsilon7708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797855357357957471",
+        "in_reply_to_user_id": "1527124153559572480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797852106705264751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epsilon7708 可惜家长会有各种各样的借口，这种随人类蒙昧期诞生的病，已经占先成了刻在骨子里的文化"
+      },
+      {
+        "attachments": {},
+        "author_id": "1527124153559572480",
+        "conversation_id": "1797624649557426319",
+        "created_at": "2024-06-04T04:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797852106705264751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797852106705264751",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797851834805375372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 而且现在我觉得应该给人选择的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2168,
+          "like_count": 11513,
+          "listed_count": 4,
+          "tweet_count": 6044
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T03:09:12.000Z",
+        "description": "病み垢",
+        "id": "1527124153559572480",
+        "name": "延山",
+        "pinned_tweet_id": "1784148039722234025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797504050235400192/hssDlZ13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 47,
+          "like_count": 22,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "Epsilon7708",
+        "verified": false
+      }
+    ]
+  }
+}

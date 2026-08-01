@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1924074968863912402",
+    "created_at": "2025-05-19T04:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T05:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924316667883995553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924316667883995553",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924074968863912402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 闺蜜去世是在挖闺蜜墙角的第五年？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924316667883995553].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924316667883995553",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924316667883995553"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_1924074953776713728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOv-e0WUAA7zPC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924074953776713728"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1924074968863912402",
+        "created_at": "2025-05-18T12:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924074968863912402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5im16mluM8",
+              "end": 28,
+              "expanded_url": "https://x.com/codyhunk/status/1924074968863912402/photo/1",
+              "media_key": "3_1924074953776713728",
+              "start": 5,
+              "url": "https://t.co/5im16mluM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924074968863912402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3273,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁闺蜜？ https://t.co/5im16mluM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 3861,
+          "like_count": 38545,
+          "listed_count": 6,
+          "media_count": 348,
+          "tweet_count": 11091
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图爱打游戏不红温，互fo私信",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo私",
+        "pinned_tweet_id": "1921977429712650415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 207,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 526,
+          "tweet_count": 607
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

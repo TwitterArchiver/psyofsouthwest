@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2020386261249184239",
+    "created_at": "2026-02-08T10:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020443294732316926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568791831978323969",
+          "start": 0,
+          "username": "maopao_hfqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020443294732316926",
+    "in_reply_to_user_id": "1568791831978323969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020386261249184239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maopao_hfqy 和当年慈禧一样，只要能“赢”，不在乎真假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2020386261249184239",
+        "created_at": "2026-02-08T10:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020443294732316926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568791831978323969",
+              "start": 0,
+              "username": "maopao_hfqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020443294732316926",
+        "in_reply_to_user_id": "1568791831978323969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020386261249184239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maopao_hfqy 和当年慈禧一样，只要能“赢”，不在乎真假"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568791831978323969",
+        "conversation_id": "2020386261249184239",
+        "created_at": "2026-02-08T06:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T07:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020386261249184239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020386261249184239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1670,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会真有人信那个老A吧。。。好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 4506,
+          "like_count": 76666,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12926
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T02:41:43.000Z",
+        "description": "主包死了 上香扣1\n                                                                           (呃，不是我怎么18了 补药啊。。。)",
+        "id": "1568791831978323969",
+        "location": "Toronto, Ontario",
+        "name": "东野奈兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806535551035609088/eDccGaZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10593,
+          "following_count": 1425,
+          "like_count": 43143,
+          "listed_count": 27,
+          "media_count": 1847,
+          "tweet_count": 9998
+        },
+        "username": "maopao_hfqy",
+        "verified": false
+      }
+    ]
+  }
+}

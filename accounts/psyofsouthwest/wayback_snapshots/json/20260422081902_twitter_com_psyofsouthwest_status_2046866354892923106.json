@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046861273225367552"
+      ],
+      "media_source_tweet_id": [
+        "2046861283165974685"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046866354892923106",
+    "created_at": "2026-04-22T08:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046866354892923106"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "DORO"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "doro"
+        },
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "doromemes"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611337527486455808",
+          "start": 3,
+          "username": "cryptoouo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2Re81Rh2N",
+          "end": 84,
+          "expanded_url": "https://x.com/cryptoouo/status/2046861283165974685/photo/1",
+          "media_key": "3_2046861273225367552",
+          "start": 61,
+          "url": "https://t.co/X2Re81Rh2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046866354892923106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046861283165974685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptoouo: 组建一支强大的doro队伍，你可以统治世界。\n$DORO #doro #doromemes https://t.co/X2Re81Rh2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2046861273225367552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfpe7caEAA8PHT.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046861273225367552"
+          ],
+          "media_source_tweet_id": [
+            "2046861283165974685"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046866354892923106",
+        "created_at": "2026-04-22T08:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046866354892923106"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "doro"
+            },
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "doromemes"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611337527486455808",
+              "start": 3,
+              "username": "cryptoouo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2Re81Rh2N",
+              "end": 84,
+              "expanded_url": "https://x.com/cryptoouo/status/2046861283165974685/photo/1",
+              "media_key": "3_2046861273225367552",
+              "start": 61,
+              "url": "https://t.co/X2Re81Rh2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046866354892923106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046861283165974685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptoouo: 组建一支强大的doro队伍，你可以统治世界。\n$DORO #doro #doromemes https://t.co/X2Re81Rh2N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046861273225367552"
+          ]
+        },
+        "author_id": "1611337527486455808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046861283165974685",
+        "created_at": "2026-04-22T07:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046861283165974685"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "DORO"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "doro"
+            },
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "doromemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2Re81Rh2N",
+              "end": 69,
+              "expanded_url": "https://x.com/cryptoouo/status/2046861283165974685/photo/1",
+              "media_key": "3_2046861273225367552",
+              "start": 46,
+              "url": "https://t.co/X2Re81Rh2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046861283165974685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "组建一支强大的doro队伍，你可以统治世界。\n$DORO #doro #doromemes https://t.co/X2Re81Rh2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 4768,
+          "like_count": 108915,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14715
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T12:23:07.000Z",
+        "description": "$DORO",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "DORO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dorocoin.org",
+                "end": 23,
+                "expanded_url": "http://dorocoin.org",
+                "start": 0,
+                "url": "https://t.co/F9vjSlbxOG"
+              }
+            ]
+          }
+        },
+        "id": "1611337527486455808",
+        "name": "ouo",
+        "pinned_tweet_id": "2046071055312371968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041887025092292608/q7i-HaGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 162,
+          "like_count": 2025,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/F9vjSlbxOG",
+        "username": "cryptoouo",
+        "verified": false
+      }
+    ]
+  }
+}

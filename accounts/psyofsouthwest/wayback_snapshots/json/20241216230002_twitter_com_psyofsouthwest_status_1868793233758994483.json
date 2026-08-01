@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1868716651157635320",
+    "created_at": "2024-12-16T23:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T00:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868793233758994483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868793233758994483",
+    "in_reply_to_user_id": "708700717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868716651157635320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 何金银"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1868716651157635320",
+        "created_at": "2024-12-16T23:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868793233758994483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868793233758994483",
+        "in_reply_to_user_id": "708700717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868716651157635320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 何金银"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "1868716651157635320",
+        "created_at": "2024-12-16T17:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868716651157635320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868716651157635320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何老师：你到底有没有身为何家人的自尊啊？\n我：从现在开始我姓刘，叫刘晶谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 2883,
+          "like_count": 21640,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 9086
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "拥有可爱南宁小狗 @pbpp10521715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "pbpp10521715"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/refixxx/",
+                "end": 23,
+                "expanded_url": "https://www.flickr.com/photos/refixxx/",
+                "start": 0,
+                "url": "https://t.co/FFz09g0lB2"
+              }
+            ]
+          }
+        },
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "鸡果",
+        "pinned_tweet_id": "1868552102613754124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848421175073869824/rdTCSlw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 1328,
+          "like_count": 7175,
+          "listed_count": 46,
+          "media_count": 21195,
+          "tweet_count": 339560
+        },
+        "url": "https://t.co/FFz09g0lB2",
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

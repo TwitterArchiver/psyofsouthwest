@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2034215861498847265",
+    "created_at": "2026-03-18T14:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034268993897566502"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "中国",
+          "probability": 0.8814,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1180503482173816833",
+          "start": 0,
+          "username": "honobonochina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034268993897566502",
+    "in_reply_to_user_id": "1180503482173816833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034215861498847265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honobonochina 中国の電子商取引プラットフォームの価格表記メカニズムはまだよく知られていないが、トップページに表示されているのは必ずしも本物の商品の価格ではない"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2034215851424104448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr8igSaQAAm2db.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2034215861498847265",
+        "created_at": "2026-03-18T14:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034268993897566502"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "中国",
+              "probability": 0.8814,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1180503482173816833",
+              "start": 0,
+              "username": "honobonochina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034268993897566502",
+        "in_reply_to_user_id": "1180503482173816833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034215861498847265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honobonochina 中国の電子商取引プラットフォームの価格表記メカニズムはまだよく知られていないが、トップページに表示されているのは必ずしも本物の商品の価格ではない"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034215851424104448"
+          ]
+        },
+        "author_id": "1180503482173816833",
+        "conversation_id": "2034215861498847265",
+        "created_at": "2026-03-18T10:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034215861498847265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUF03oe6oZ",
+              "end": 34,
+              "expanded_url": "https://x.com/honobonochina/status/2034215861498847265/photo/1",
+              "media_key": "3_2034215851424104448",
+              "start": 11,
+              "url": "https://t.co/sUF03oe6oZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034215861498847265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 14569,
+          "like_count": 466,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "共産灯\n22433円 https://t.co/sUF03oe6oZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 4734,
+          "like_count": 95897,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14004
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T15:22:56.000Z",
+        "description": "中国で人气のあるウィットに富んだ乐しい商品をいっぱい介绍。商品名は大山のぶ代で脳内再生してください。好きな色はキャンディーピンク、お寿司は二口で食べます😊",
+        "id": "1180503482173816833",
+        "name": "中国ほのぼの商品館",
+        "pinned_tweet_id": "2027899455224352997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008128652010299393/dRrm3rdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 895,
+          "like_count": 4061,
+          "listed_count": 10,
+          "media_count": 1074,
+          "tweet_count": 1870
+        },
+        "username": "honobonochina",
+        "verified": false
+      }
+    ]
+  }
+}

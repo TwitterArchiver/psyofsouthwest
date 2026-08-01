@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030038474070335488"
+      ],
+      "media_source_tweet_id": [
+        "2030038485004947944"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Popular Memes and Trends",
+          "id": "1046574503331909633",
+          "name": "Memes"
+        }
+      }
+    ],
+    "conversation_id": "2030064512770949242",
+    "created_at": "2026-03-06T23:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030064512770949242"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "doro",
+          "probability": 0.6414,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "nikke ch",
+          "probability": 0.5362,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "doro",
+          "probability": 0.6606,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 70,
+          "normalized_text": "nikke",
+          "probability": 0.5293,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "doro"
+        },
+        {
+          "end": 64,
+          "start": 57,
+          "tag": "speaky"
+        },
+        {
+          "end": 71,
+          "start": 65,
+          "tag": "nikke"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "cute"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "meme"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018102394001768448",
+          "start": 3,
+          "username": "doro_forgexmimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xU8jL0bcLs",
+          "end": 107,
+          "expanded_url": "https://x.com/doro_forgexmimi/status/2030038485004947944/photo/1",
+          "media_key": "3_2030038474070335488",
+          "start": 84,
+          "url": "https://t.co/xU8jL0bcLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030064512770949242",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030038485004947944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_forgexmimi: doro x nikke ch 2 coming soon #doro #speaky #nikke #cute #meme https://t.co/xU8jL0bcLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2030038474070335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwlPI9WoAALyGi.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030038474070335488"
+          ],
+          "media_source_tweet_id": [
+            "2030038485004947944"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2030064512770949242",
+        "created_at": "2026-03-06T23:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030064512770949242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "doro",
+              "probability": 0.6414,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "nikke ch",
+              "probability": 0.5362,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "doro",
+              "probability": 0.6606,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "nikke",
+              "probability": 0.5293,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "doro"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "speaky"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "nikke"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "cute"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "meme"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018102394001768448",
+              "start": 3,
+              "username": "doro_forgexmimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xU8jL0bcLs",
+              "end": 107,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2030038485004947944/photo/1",
+              "media_key": "3_2030038474070335488",
+              "start": 84,
+              "url": "https://t.co/xU8jL0bcLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030064512770949242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030038485004947944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_forgexmimi: doro x nikke ch 2 coming soon #doro #speaky #nikke #cute #meme https://t.co/xU8jL0bcLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030038474070335488"
+          ]
+        },
+        "author_id": "2018102394001768448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Popular Memes and Trends",
+              "id": "1046574503331909633",
+              "name": "Memes"
+            }
+          }
+        ],
+        "conversation_id": "2030038485004947944",
+        "created_at": "2026-03-06T21:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T22:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030038485004947944"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "doro",
+              "probability": 0.6295,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 14,
+              "normalized_text": "nikke ch",
+              "probability": 0.5668,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "doro",
+              "probability": 0.7232,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "nikke",
+              "probability": 0.5304,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "doro"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "speaky"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "nikke"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "cute"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "meme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xU8jL0bcLs",
+              "end": 86,
+              "expanded_url": "https://x.com/doro_forgexmimi/status/2030038485004947944/photo/1",
+              "media_key": "3_2030038474070335488",
+              "start": 63,
+              "url": "https://t.co/xU8jL0bcLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030038485004947944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 297,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "doro x nikke ch 2 coming soon #doro #speaky #nikke #cute #meme https://t.co/xU8jL0bcLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 4728,
+          "like_count": 90370,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13730
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:21:35.000Z",
+        "description": "need make doro happy",
+        "id": "2018102394001768448",
+        "name": "DORO FORGE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026136259349897216/ZG-bYpA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 19,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 34
+        },
+        "username": "doro_forgexmimi",
+        "verified": false
+      }
+    ]
+  }
+}

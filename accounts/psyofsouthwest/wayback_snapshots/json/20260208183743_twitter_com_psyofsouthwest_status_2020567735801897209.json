@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2020567735801897209",
+    "created_at": "2026-02-08T18:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020567735801897209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1717206292505460736",
+          "start": 3,
+          "username": "FLMdongtianfudi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020567735801897209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020477902559547760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FLMdongtianfudi: 油管可能是普通人翻身的最好机会了 \n\n对比国内其他平台的播放量，油管可值钱太多了！同样发视频，在油管每1000播放大概1~10刀，对比某站估计就2毛，具体相差多少倍应该都能算清楚。 \n\n 假设你月播放只有100W，在YouTube能拿到…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2020477622866853888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotsWuawAA4je6.png",
+        "width": 270
+      },
+      {
+        "height": 360,
+        "media_key": "3_2020477632744448000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAots7ha4AA4oth.png",
+        "width": 332
+      },
+      {
+        "height": 360,
+        "media_key": "3_2020477644593299457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAottnqaAAEogU8.png",
+        "width": 283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2020567735801897209",
+        "created_at": "2026-02-08T18:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020567735801897209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1717206292505460736",
+              "start": 3,
+              "username": "FLMdongtianfudi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020567735801897209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020477902559547760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FLMdongtianfudi: 油管可能是普通人翻身的最好机会了 \n\n对比国内其他平台的播放量，油管可值钱太多了！同样发视频，在油管每1000播放大概1~10刀，对比某站估计就2毛，具体相差多少倍应该都能算清楚。 \n\n 假设你月播放只有100W，在YouTube能拿到…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020477622866853888",
+            "3_2020477632744448000",
+            "3_2020477644593299457"
+          ]
+        },
+        "author_id": "1717206292505460736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2020477902559547760",
+        "created_at": "2026-02-08T12:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020477902559547760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syeWL5pT2W",
+              "end": 168,
+              "expanded_url": "https://x.com/FLMdongtianfudi/status/2020477902559547760/photo/1",
+              "media_key": "3_2020477622866853888",
+              "start": 145,
+              "url": "https://t.co/syeWL5pT2W"
+            },
+            {
+              "display_url": "pic.x.com/syeWL5pT2W",
+              "end": 168,
+              "expanded_url": "https://x.com/FLMdongtianfudi/status/2020477902559547760/photo/1",
+              "media_key": "3_2020477632744448000",
+              "start": 145,
+              "url": "https://t.co/syeWL5pT2W"
+            },
+            {
+              "display_url": "pic.x.com/syeWL5pT2W",
+              "end": 168,
+              "expanded_url": "https://x.com/FLMdongtianfudi/status/2020477902559547760/photo/1",
+              "media_key": "3_2020477644593299457",
+              "start": 145,
+              "url": "https://t.co/syeWL5pT2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020477902559547760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 50776,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "油管可能是普通人翻身的最好机会了 \n\n对比国内其他平台的播放量，油管可值钱太多了！同样发视频，在油管每1000播放大概1~10刀，对比某站估计就2毛，具体相差多少倍应该都能算清楚。 \n\n 假设你月播放只有100W，在YouTube能拿到1k~10k刀（相当于7W块），某站估计就200块。 https://t.co/syeWL5pT2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 4509,
+          "like_count": 76897,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12939
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T15:47:52.000Z",
+        "description": "📚十年自媒体从业者\n💴 副业项目运营者\n💻分享项目运营经验与学习资料\n联系我👉https://t.co/q0bB7ifeO0\nTG频道：https://t.co/uFLA61Iz3P \n资源搜索群：https://t.co/O7eEJmKNB7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Fangtiann_bot",
+                "end": 62,
+                "expanded_url": "http://t.me/Fangtiann_bot",
+                "start": 39,
+                "url": "https://t.co/q0bB7ifeO0"
+              },
+              {
+                "display_url": "t.me/FLMdongtianfudi",
+                "end": 91,
+                "expanded_url": "http://t.me/FLMdongtianfudi",
+                "start": 68,
+                "url": "https://t.co/uFLA61Iz3P"
+              },
+              {
+                "display_url": "t.me/FLMziyuansousuo",
+                "end": 122,
+                "expanded_url": "https://t.me/FLMziyuansousuo",
+                "start": 99,
+                "url": "https://t.co/O7eEJmKNB7"
+              }
+            ]
+          }
+        },
+        "id": "1717206292505460736",
+        "name": "Fang知识分享",
+        "pinned_tweet_id": "2020477902559547760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868482286121058305/kTdA4Wis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61315,
+          "following_count": 502,
+          "like_count": 130,
+          "listed_count": 315,
+          "media_count": 2728,
+          "tweet_count": 3597
+        },
+        "username": "FLMdongtianfudi",
+        "verified": true
+      }
+    ]
+  }
+}

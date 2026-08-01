@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029659845419487236"
+      ],
+      "media_source_tweet_id": [
+        "2029659848477147418"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2029698385599402389",
+    "created_at": "2026-03-05T23:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T00:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029698385599402389"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Doro",
+          "probability": 0.5503,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Saturn",
+          "probability": 0.3404,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "Grok",
+          "probability": 0.4559,
+          "start": 50,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "Gemini",
+          "probability": 0.5292,
+          "start": 56,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "doro"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "ドロ"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "도로롱"
+        },
+        {
+          "end": 86,
+          "start": 80,
+          "tag": "NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019285153517105152",
+          "start": 3,
+          "username": "my_doro_s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oicBNfCxMR",
+          "end": 110,
+          "expanded_url": "https://x.com/my_doro_s2/status/2029659848477147418/photo/1",
+          "media_key": "3_2029659845419487236",
+          "start": 87,
+          "url": "https://t.co/oicBNfCxMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029698385599402389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029659848477147418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my_doro_s2: Doro &amp; Saturn (made with GPT, Grok, Gemini)\n\n#doro #ドロ #도로롱 #NIKKE https://t.co/oicBNfCxMR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029659845419487236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrM4DUaUAQOawS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029659845419487236"
+          ],
+          "media_source_tweet_id": [
+            "2029659848477147418"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2029698385599402389",
+        "created_at": "2026-03-05T23:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029698385599402389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Doro",
+              "probability": 0.5503,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Saturn",
+              "probability": 0.3404,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Grok",
+              "probability": 0.4559,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Gemini",
+              "probability": 0.5292,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "doro"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "ドロ"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "도로롱"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "NIKKE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019285153517105152",
+              "start": 3,
+              "username": "my_doro_s2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oicBNfCxMR",
+              "end": 110,
+              "expanded_url": "https://x.com/my_doro_s2/status/2029659848477147418/photo/1",
+              "media_key": "3_2029659845419487236",
+              "start": 87,
+              "url": "https://t.co/oicBNfCxMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029698385599402389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029659848477147418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my_doro_s2: Doro &amp; Saturn (made with GPT, Grok, Gemini)\n\n#doro #ドロ #도로롱 #NIKKE https://t.co/oicBNfCxMR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029659845419487236"
+          ]
+        },
+        "author_id": "2019285153517105152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2029659848477147418",
+        "created_at": "2026-03-05T20:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029659848477147418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Doro",
+              "probability": 0.5649,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 16,
+              "normalized_text": "Saturn",
+              "probability": 0.3641,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Grok",
+              "probability": 0.5229,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Gemini",
+              "probability": 0.5296,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "doro",
+              "probability": 0.3847,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "doro"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "ドロ"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "도로롱"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oicBNfCxMR",
+              "end": 94,
+              "expanded_url": "https://x.com/my_doro_s2/status/2029659848477147418/photo/1",
+              "media_key": "3_2029659845419487236",
+              "start": 71,
+              "url": "https://t.co/oicBNfCxMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029659848477147418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 223,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Doro &amp; Saturn (made with GPT, Grok, Gemini)\n\n#doro #ドロ #도로롱 #NIKKE https://t.co/oicBNfCxMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4725,
+          "like_count": 90105,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13683
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T05:41:28.000Z",
+        "description": "make ai Doro fan art.\n\n🩵🩵LOVE DORO🩵🩵도로롱 좋아🩵🩵\nmisc. account(@Tis_Yu_S2)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Tis_Yu_S2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/my_doro_s2?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/my_doro_s2?igsh=MWllbGIyYXNpcm96bg==",
+                "start": 0,
+                "url": "https://t.co/JlQVibrnBv"
+              }
+            ]
+          }
+        },
+        "id": "2019285153517105152",
+        "location": "msga",
+        "name": "TisYu",
+        "pinned_tweet_id": "2025362256452804840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020345206261051397/vSIJ4SuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 69,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/JlQVibrnBv",
+        "username": "my_doro_s2",
+        "verified": false
+      }
+    ]
+  }
+}

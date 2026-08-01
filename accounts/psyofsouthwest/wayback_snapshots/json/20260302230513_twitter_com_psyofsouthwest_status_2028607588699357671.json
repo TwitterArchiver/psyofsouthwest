@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028344675711799297"
+      ],
+      "media_source_tweet_id": [
+        "2028344744028582342"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2028607588699357671",
+    "created_at": "2026-03-02T23:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T00:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028607588699357671"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597357881636302850",
+          "start": 3,
+          "username": "Red_Rat030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l35oL5s9pO",
+          "end": 52,
+          "expanded_url": "https://x.com/Red_Rat030/status/2028344744028582342/photo/1",
+          "media_key": "3_2028344675711799297",
+          "start": 29,
+          "url": "https://t.co/l35oL5s9pO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028607588699357671",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028344744028582342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Red_Rat030: 화난 도로롱\n#doro https://t.co/l35oL5s9pO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2028344675711799297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYgvGXbUAEyfBm.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028344675711799297"
+          ],
+          "media_source_tweet_id": [
+            "2028344744028582342"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2028607588699357671",
+        "created_at": "2026-03-02T23:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T00:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028607588699357671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597357881636302850",
+              "start": 3,
+              "username": "Red_Rat030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l35oL5s9pO",
+              "end": 52,
+              "expanded_url": "https://x.com/Red_Rat030/status/2028344744028582342/photo/1",
+              "media_key": "3_2028344675711799297",
+              "start": 29,
+              "url": "https://t.co/l35oL5s9pO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028607588699357671",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028344744028582342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Red_Rat030: 화난 도로롱\n#doro https://t.co/l35oL5s9pO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028344675711799297"
+          ]
+        },
+        "author_id": "1597357881636302850",
+        "conversation_id": "2028344744028582342",
+        "created_at": "2026-03-02T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028344744028582342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l35oL5s9pO",
+              "end": 36,
+              "expanded_url": "https://x.com/Red_Rat030/status/2028344744028582342/photo/1",
+              "media_key": "3_2028344675711799297",
+              "start": 13,
+              "url": "https://t.co/l35oL5s9pO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028344744028582342",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 43649,
+          "like_count": 4418,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "화난 도로롱\n#doro https://t.co/l35oL5s9pO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 4710,
+          "like_count": 88403,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 13507
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T22:33:08.000Z",
+        "description": "🇰🇷/MAIN NIKKE /🖌 SD illustrator / 3.8Kfollowers 감사합니다😄\nemail : redrat030@gmail.com\nhttps://t.co/QvUmi7MBAq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/redrat…",
+                "end": 106,
+                "expanded_url": "https://bsky.app/profile/redrat030.bsky.social",
+                "start": 83,
+                "url": "https://t.co/QvUmi7MBAq"
+              }
+            ]
+          }
+        },
+        "id": "1597357881636302850",
+        "name": "레드랫/R_R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929749509846061058/jJwpRx7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915,
+          "following_count": 374,
+          "like_count": 14769,
+          "listed_count": 25,
+          "media_count": 266,
+          "tweet_count": 1162
+        },
+        "username": "Red_Rat030",
+        "verified": true
+      }
+    ]
+  }
+}

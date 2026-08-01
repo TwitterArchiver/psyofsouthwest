@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2029700654457868438",
+    "created_at": "2026-03-05T23:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T00:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029700654457868438"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Doro",
+          "probability": 0.5704,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019285153517105152",
+          "start": 3,
+          "username": "my_doro_s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029700654457868438",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029670216205226288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my_doro_s2: A Bouquet for Doro\n\nI originally planned to post only one piece per day, but I was so happy to receive advice from someone…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2029670213810278400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrWTklaUAA6XEL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2029700654457868438",
+        "created_at": "2026-03-05T23:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029700654457868438"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Doro",
+              "probability": 0.5704,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019285153517105152",
+              "start": 3,
+              "username": "my_doro_s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029700654457868438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029670216205226288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my_doro_s2: A Bouquet for Doro\n\nI originally planned to post only one piece per day, but I was so happy to receive advice from someone…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029670213810278400"
+          ]
+        },
+        "author_id": "2019285153517105152",
+        "conversation_id": "2029670216205226288",
+        "created_at": "2026-03-05T21:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029670216205226288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Doro",
+              "probability": 0.5975,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 210,
+              "start": 205,
+              "tag": "doro"
+            },
+            {
+              "end": 218,
+              "start": 211,
+              "tag": "AIart︎"
+            },
+            {
+              "end": 222,
+              "start": 219,
+              "tag": "ドロ"
+            },
+            {
+              "end": 227,
+              "start": 223,
+              "tag": "도로롱"
+            },
+            {
+              "end": 234,
+              "start": 228,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6bTHP3e78",
+              "end": 258,
+              "expanded_url": "https://x.com/my_doro_s2/status/2029670216205226288/photo/1",
+              "media_key": "3_2029670213810278400",
+              "start": 235,
+              "url": "https://t.co/V6bTHP3e78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029670216205226288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 258,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "A Bouquet for Doro\n\nI originally planned to post only one piece per day, but I was so happy to receive advice from someone I admire that I quickly finished and posted one I had planned to upload later. 😊\n\n#doro #AIart︎ #ドロ #도로롱 #NIKKE https://t.co/V6bTHP3e78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 4726,
+          "like_count": 90114,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13685
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T05:41:28.000Z",
+        "description": "make ai Doro fan art.\n\n🩵🩵LOVE DORO🩵🩵도로롱 좋아🩵🩵\nmisc. account(@Tis_Yu_S2)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Tis_Yu_S2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/my_doro_s2?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/my_doro_s2?igsh=MWllbGIyYXNpcm96bg==",
+                "start": 0,
+                "url": "https://t.co/JlQVibrnBv"
+              }
+            ]
+          }
+        },
+        "id": "2019285153517105152",
+        "location": "msga",
+        "name": "TisYu",
+        "pinned_tweet_id": "2025362256452804840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020345206261051397/vSIJ4SuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 69,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/JlQVibrnBv",
+        "username": "my_doro_s2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1803332024423362812",
+    "created_at": "2024-06-19T08:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T09:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803350253430522027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586665730770366465",
+          "start": 0,
+          "username": "MTF_shushu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803350253430522027",
+    "in_reply_to_user_id": "1586665730770366465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803346319895044537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTF_shushu 国人从不会共情对自己无价值的人和事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1803346319895044537].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1803346319895044537",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1803346319895044537"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1803332024423362812",
+        "created_at": "2024-06-19T08:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T09:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803350253430522027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586665730770366465",
+              "start": 0,
+              "username": "MTF_shushu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803350253430522027",
+        "in_reply_to_user_id": "1586665730770366465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803346319895044537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTF_shushu 国人从不会共情对自己无价值的人和事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 2264,
+          "like_count": 12421,
+          "listed_count": 4,
+          "tweet_count": 6542
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T10:27:18.000Z",
+        "description": "超爱穿连衣裙/超级玻璃心/看不惯请拉黑",
+        "id": "1586665730770366465",
+        "location": "Guangdong",
+        "name": "姝姝🎀",
+        "pinned_tweet_id": "1783652317381927048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799761575773143040/CHiSiKtx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1035,
+          "like_count": 33179,
+          "listed_count": 11,
+          "tweet_count": 9478
+        },
+        "username": "MTF_shushu",
+        "verified": false
+      }
+    ]
+  }
+}

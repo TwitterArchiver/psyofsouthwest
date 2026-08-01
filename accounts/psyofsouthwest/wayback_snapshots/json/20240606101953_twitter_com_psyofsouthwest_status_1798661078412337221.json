@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1798657025108533472",
+    "created_at": "2024-06-06T10:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T11:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798661078412337221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370966967444643842",
+          "start": 0,
+          "username": "CCCola13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798661078412337221",
+    "in_reply_to_user_id": "1370966967444643842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798657025108533472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCCola13 别忍耐啦，明天就去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1798657025108533472",
+        "created_at": "2024-06-06T10:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T11:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798661078412337221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370966967444643842",
+              "start": 0,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798661078412337221",
+        "in_reply_to_user_id": "1370966967444643842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798657025108533472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCola13 别忍耐啦，明天就去"
+      },
+      {
+        "attachments": {},
+        "author_id": "1370966967444643842",
+        "conversation_id": "1798657025108533472",
+        "created_at": "2024-06-06T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798657025108533472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798657025108533472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我發誓，如果我端午結束還一直頭疼軀體化。我就去醫院。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 2174,
+          "like_count": 11616,
+          "listed_count": 4,
+          "tweet_count": 6139
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1769306324020662645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 221,
+          "like_count": 10109,
+          "listed_count": 2,
+          "tweet_count": 3354
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

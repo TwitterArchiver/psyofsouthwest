@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2026350805742440533",
+    "created_at": "2026-02-24T17:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026351364935135414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20257…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2025793361450578183",
+          "start": 14,
+          "url": "https://t.co/eGRmma0xBb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026351364935135414",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025793361450578183",
+        "type": "quoted"
+      },
+      {
+        "id": "2026350805742440533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle https://t.co/eGRmma0xBb 这个不用驾照，先练练手，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2025793355440099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0QUttakAAe-g6.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2026350805742440533",
+        "created_at": "2026-02-24T17:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026351364935135414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20257…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2025793361450578183",
+              "start": 14,
+              "url": "https://t.co/eGRmma0xBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026351364935135414",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025793361450578183",
+            "type": "quoted"
+          },
+          {
+            "id": "2026350805742440533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle https://t.co/eGRmma0xBb 这个不用驾照，先练练手，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025793355440099328"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "2025793361450578183",
+        "created_at": "2026-02-23T04:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025793361450578183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWmGSBgAFT",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2025793361450578183/photo/1",
+              "media_key": "3_2025793355440099328",
+              "start": 0,
+              "url": "https://t.co/wWmGSBgAFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025793361450578183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 59119,
+          "like_count": 904,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wWmGSBgAFT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2026350805742440533",
+        "created_at": "2026-02-24T17:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:33:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026349827009949866",
+          "2026350708321095855",
+          "2026350805742440533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026350805742440533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友与车_(:з」∠)_\n\n男朋友之前说想要一辆剁椒鱼头\n\n我说不可能现在咱俩那么穷，你要开车我就找爸妈要一辆家里不用的车来\n\n然后男票说他不要考驾照，剁椒鱼头可以不上牌不用驾照\n\n笨猫说咋可能那个再小也是汽车…\n\n结果最近看男票已经被逼去看电动老头乐的价格了…\n\n最后发现老头乐也要上牌（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 4606,
+          "like_count": 84059,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 13285
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33589,
+          "following_count": 350,
+          "like_count": 230223,
+          "listed_count": 106,
+          "media_count": 8798,
+          "tweet_count": 57200
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7407,
+          "following_count": 713,
+          "like_count": 10258,
+          "listed_count": 28,
+          "media_count": 1330,
+          "tweet_count": 3491
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

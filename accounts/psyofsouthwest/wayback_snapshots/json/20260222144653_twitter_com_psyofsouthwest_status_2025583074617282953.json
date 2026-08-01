@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2025583074617282953",
+    "created_at": "2026-02-22T14:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025583074617282953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1000994344914972672",
+          "start": 3,
+          "username": "mirrorzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025583074617282953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025471317399703965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirrorzk: 名为 \"aming\" 的暗网用户声称正在出售一份来自广东医科大学附属医院的 MySQL 数据库备份. \n\n数据库文件名  mysql_full_20251223_012617.sql\n大小                    1.4GB\nMySQL…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2025471269429444608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvrY10aAAA4TFy.jpg",
+        "width": 2285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2025583074617282953",
+        "created_at": "2026-02-22T14:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025583074617282953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1000994344914972672",
+              "start": 3,
+              "username": "mirrorzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025583074617282953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025471317399703965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirrorzk: 名为 \"aming\" 的暗网用户声称正在出售一份来自广东医科大学附属医院的 MySQL 数据库备份. \n\n数据库文件名  mysql_full_20251223_012617.sql\n大小                    1.4GB\nMySQL…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025471269429444608"
+          ]
+        },
+        "author_id": "1000994344914972672",
+        "conversation_id": "2025471317399703965",
+        "created_at": "2026-02-22T07:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025471317399703965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8w5VYswokW",
+              "end": 234,
+              "expanded_url": "https://x.com/mirrorzk/status/2025471317399703965/photo/1",
+              "media_key": "3_2025471269429444608",
+              "start": 211,
+              "url": "https://t.co/8w5VYswokW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025471317399703965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "名为 \"aming\" 的暗网用户声称正在出售一份来自广东医科大学附属医院的 MySQL 数据库备份. \n\n数据库文件名  mysql_full_20251223_012617.sql\n大小                    1.4GB\nMySQL 版本    5.7.36\n创建方式           mysqldump 10.13\n时间跨度           21/5/2025-21/12/2025\n备份日期           23/12/2025\n\n该数据库支持血液透析临床管理系统，功能包括透析过程中的实时患者监测、医嘱管理、临床沟通和警报以及病历记录."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 117492,
+          "like_count": 306,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "名为 \"aming\" 的暗网用户声称正在出售一份来自广东医科大学附属医院的 MySQL 数据库备份. \n\n数据库文件名  mysql_full_20251223_012617.sql\n大小                    1.4GB\nMySQL 版本    5.7.36\n创建方式           mysqldump 10.13\n时间跨度           21/5/2025-21/12/2025\n备份日期 https://t.co/8w5VYswokW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 4570,
+          "like_count": 81790,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 13147
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T06:57:04.000Z",
+        "description": "CEO @ZEROBASEzk @SALUS_sec｜Crypto资管｜网络安全｜数论研究｜WhatsApp +1 7792777777｜ZBT中文群见下方⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "ZEROBASEzk"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "SALUS_sec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ZEROBASEcn",
+                "end": 23,
+                "expanded_url": "http://t.me/ZEROBASEcn",
+                "start": 0,
+                "url": "https://t.co/absSw9Wbnr"
+              }
+            ]
+          }
+        },
+        "id": "1000994344914972672",
+        "location": "Boston, MA",
+        "name": "Mirror Tang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900601735170723840/Kj2GofIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41473,
+          "following_count": 1087,
+          "like_count": 7011,
+          "listed_count": 265,
+          "media_count": 621,
+          "tweet_count": 5841
+        },
+        "url": "https://t.co/absSw9Wbnr",
+        "username": "mirrorzk",
+        "verified": true
+      }
+    ]
+  }
+}

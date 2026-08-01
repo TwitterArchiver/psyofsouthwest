@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993888568260116480"
+      ],
+      "media_source_tweet_id": [
+        "1993888889220857919"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      }
+    ],
+    "conversation_id": "1994123622747910496",
+    "created_at": "2025-11-27T19:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T20:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994123622747910496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567847595162091522",
+          "start": 3,
+          "username": "Jiankui_He"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2T4QHUvUu",
+          "end": 122,
+          "expanded_url": "https://x.com/Jiankui_He/status/1993888889220857919/photo/1",
+          "media_key": "3_1993888568260116480",
+          "start": 99,
+          "url": "https://t.co/s2T4QHUvUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994123622747910496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993888889220857919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiankui_He: Bring glory to my country is the driving force behind my gene technology research. https://t.co/s2T4QHUvUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2476,
+        "media_key": "3_1993888568260116480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6u3FrjbQAAKbo-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993888568260116480"
+          ],
+          "media_source_tweet_id": [
+            "1993888889220857919"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "1994123622747910496",
+        "created_at": "2025-11-27T19:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994123622747910496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567847595162091522",
+              "start": 3,
+              "username": "Jiankui_He"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2T4QHUvUu",
+              "end": 122,
+              "expanded_url": "https://x.com/Jiankui_He/status/1993888889220857919/photo/1",
+              "media_key": "3_1993888568260116480",
+              "start": 99,
+              "url": "https://t.co/s2T4QHUvUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994123622747910496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993888889220857919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiankui_He: Bring glory to my country is the driving force behind my gene technology research. https://t.co/s2T4QHUvUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993888568260116480"
+          ]
+        },
+        "author_id": "1567847595162091522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "1993888889220857919",
+        "created_at": "2025-11-27T03:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993888889220857919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2T4QHUvUu",
+              "end": 106,
+              "expanded_url": "https://x.com/Jiankui_He/status/1993888889220857919/photo/1",
+              "media_key": "3_1993888568260116480",
+              "start": 83,
+              "url": "https://t.co/s2T4QHUvUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993888889220857919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11282,
+          "like_count": 203,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Bring glory to my country is the driving force behind my gene technology research. https://t.co/s2T4QHUvUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 4043,
+          "like_count": 55866,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12162
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "China's Frankenstein, 3 years in jail,  Affordable gene therapy.\nhttps://t.co/9KeMCjujX5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jhelab.org",
+                "end": 88,
+                "expanded_url": "https://jhelab.org/",
+                "start": 65,
+                "url": "https://t.co/9KeMCjujX5"
+              }
+            ]
+          }
+        },
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146419,
+          "following_count": 1,
+          "like_count": 125,
+          "listed_count": 328,
+          "media_count": 351,
+          "tweet_count": 583
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      }
+    ]
+  }
+}

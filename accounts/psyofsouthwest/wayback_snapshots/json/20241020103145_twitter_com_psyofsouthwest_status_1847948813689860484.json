@@ -1,0 +1,154 @@
+{
+  "data": {
+    "author_id": "385760660",
+    "conversation_id": "1847948813689860484",
+    "created_at": "2024-10-20T10:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T11:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847948813689860484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1558730611556175873",
+          "start": 3,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "id": "1847948813689860484",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847938547921441006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChisakaKanako: 从立项至今已经一年时间了，第一次在这里公开跟大家分享这个网站，想通过这条推跟大家介绍一下我在几位伙伴的协助下制作的这个网站——aboutTrans，一个致力于科普跨性别相关知识的网站🏳️‍⚧️\n\n这里我先叠个甲：… https://t.co…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "385760660",
+        "conversation_id": "1847948813689860484",
+        "created_at": "2024-10-20T10:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T11:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847948813689860484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1558730611556175873",
+              "start": 3,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "id": "1847948813689860484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847938547921441006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChisakaKanako: 从立项至今已经一年时间了，第一次在这里公开跟大家分享这个网站，想通过这条推跟大家介绍一下我在几位伙伴的协助下制作的这个网站——aboutTrans，一个致力于科普跨性别相关知识的网站🏳️‍⚧️\n\n这里我先叠个甲：… https://t.co…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 2823,
+          "like_count": 20429,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 8702
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "❤️‍🩹 @Tszcoco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "Tszcoco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.site",
+                "end": 23,
+                "expanded_url": "http://chisakakanako.site",
+                "start": 0,
+                "url": "https://t.co/YwgYajE4uX"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "🏳️‍⚧️",
+        "name": "千坂神奈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860075146897424385/-xOhcyAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 1484,
+          "like_count": 39053,
+          "listed_count": 6,
+          "media_count": 13,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/YwgYajE4uX",
+        "username": "ChisakaKanako",
+        "verified": false
+      }
+    ]
+  }
+}

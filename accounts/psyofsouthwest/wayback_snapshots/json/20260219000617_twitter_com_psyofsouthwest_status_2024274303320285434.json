@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2024100134938656774",
+    "created_at": "2026-02-19T00:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024274303320285434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "107913609",
+          "start": 0,
+          "username": "tanggulashanzei"
+        },
+        {
+          "end": 33,
+          "id": "733016836552437761",
+          "start": 17,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024274303320285434",
+    "in_reply_to_user_id": "107913609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024126936126201991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanggulashanzei @starlightcaesar 巫医不是比心理学更玄乎……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2024100134938656774",
+        "created_at": "2026-02-19T00:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024274303320285434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "107913609",
+              "start": 0,
+              "username": "tanggulashanzei"
+            },
+            {
+              "end": 33,
+              "id": "733016836552437761",
+              "start": 17,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024274303320285434",
+        "in_reply_to_user_id": "107913609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024126936126201991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanggulashanzei @starlightcaesar 巫医不是比心理学更玄乎……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "107913609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024100134938656774",
+        "created_at": "2026-02-18T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024126936126201991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733016836552437761",
+              "start": 0,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024126936126201991",
+        "in_reply_to_user_id": "733016836552437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024100134938656774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starlightcaesar 别说那玄乎奇玄的心理学，你的偏头痛就一个原因，身体太弱，中医解释就是气血太虚，现代医学解释就是血液循环轻微堵塞，身体代谢处于亚健康。解决方法就是强身健体，多进行一些有强度的运动锻炼，保证充足的睡眠和营养，这样的习惯坚持一两个月，自然就都好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4553,
+          "like_count": 80789,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 13104
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-24T05:13:04.000Z",
+        "description": "G+难民营出来的\n                上帝的做题家",
+        "id": "107913609",
+        "name": "唐古拉山贼",
+        "pinned_tweet_id": "1432999055647412226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909821957220319236/_I074f3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 411,
+          "like_count": 18015,
+          "listed_count": 17,
+          "media_count": 892,
+          "tweet_count": 22946
+        },
+        "username": "tanggulashanzei",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless. YouTube:安争鸣/小鸣说 【人在老中。每天至少发一条推文报平安。】",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013625389138980865/wALd7rUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27247,
+          "following_count": 285,
+          "like_count": 28247,
+          "listed_count": 86,
+          "media_count": 935,
+          "tweet_count": 2717
+        },
+        "username": "starlightcaesar",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020794022751776768"
+      ],
+      "media_source_tweet_id": [
+        "2020794197305872805"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2020820913042923743",
+    "created_at": "2026-02-09T11:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020820913042923743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "description": "If you have Telegram, you can contact @abskoop right",
+          "display_url": "t.me/abskoop/12665",
+          "end": 55,
+          "expanded_url": "https://t.me/abskoop/12665",
+          "start": 32,
+          "status": 200,
+          "title": "Telegram: Contact @abskoop",
+          "unwound_url": "https://t.me/abskoop/12665",
+          "url": "https://t.co/efZbeLNJAa"
+        },
+        {
+          "display_url": "pic.x.com/nqGAPG0hkY",
+          "end": 79,
+          "expanded_url": "https://x.com/abskoop/status/2020794197305872805/photo/1",
+          "media_key": "3_2020794022751776768",
+          "start": 56,
+          "url": "https://t.co/nqGAPG0hkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020820913042923743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020794197305872805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: 夸克&amp;百度 网盘搜引擎 \n\n👉https://t.co/efZbeLNJAa https://t.co/nqGAPG0hkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2020794022751776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtNdQJaMAAIucA.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020794022751776768"
+          ],
+          "media_source_tweet_id": [
+            "2020794197305872805"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2020820913042923743",
+        "created_at": "2026-02-09T11:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020820913042923743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @abskoop right",
+              "display_url": "t.me/abskoop/12665",
+              "end": 55,
+              "expanded_url": "https://t.me/abskoop/12665",
+              "start": 32,
+              "status": 200,
+              "title": "Telegram: Contact @abskoop",
+              "unwound_url": "https://t.me/abskoop/12665",
+              "url": "https://t.co/efZbeLNJAa"
+            },
+            {
+              "display_url": "pic.x.com/nqGAPG0hkY",
+              "end": 79,
+              "expanded_url": "https://x.com/abskoop/status/2020794197305872805/photo/1",
+              "media_key": "3_2020794022751776768",
+              "start": 56,
+              "url": "https://t.co/nqGAPG0hkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020820913042923743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020794197305872805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: 夸克&amp;百度 网盘搜引擎 \n\n👉https://t.co/efZbeLNJAa https://t.co/nqGAPG0hkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020794022751776768"
+          ]
+        },
+        "author_id": "2262723812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2020794197305872805",
+        "created_at": "2026-02-09T09:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020794197305872805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "If you have Telegram, you can contact @abskoop right",
+              "display_url": "t.me/abskoop/12665",
+              "end": 42,
+              "expanded_url": "https://t.me/abskoop/12665",
+              "start": 19,
+              "status": 200,
+              "title": "Telegram: Contact @abskoop",
+              "unwound_url": "https://t.me/abskoop/12665",
+              "url": "https://t.co/efZbeLNJAa"
+            },
+            {
+              "display_url": "pic.x.com/nqGAPG0hkY",
+              "end": 66,
+              "expanded_url": "https://x.com/abskoop/status/2020794197305872805/photo/1",
+              "media_key": "3_2020794022751776768",
+              "start": 43,
+              "url": "https://t.co/nqGAPG0hkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020794197305872805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5378,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "夸克&amp;百度 网盘搜引擎 \n\n👉https://t.co/efZbeLNJAa https://t.co/nqGAPG0hkY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 4506,
+          "like_count": 77003,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 12944
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743253,
+          "following_count": 1228,
+          "like_count": 26079,
+          "listed_count": 2680,
+          "media_count": 23662,
+          "tweet_count": 60652
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

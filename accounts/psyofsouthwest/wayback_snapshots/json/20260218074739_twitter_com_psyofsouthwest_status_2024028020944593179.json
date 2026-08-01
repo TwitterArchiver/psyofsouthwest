@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2023951369044988299",
+    "created_at": "2026-02-18T07:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024028020944593179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "282522910",
+          "start": 0,
+          "username": "passluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024028020944593179",
+    "in_reply_to_user_id": "282522910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023966357373505834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@passluo 二十年前拔私服网线，二十年后敲诈机场……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2023951369044988299",
+        "created_at": "2026-02-18T07:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024028020944593179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "282522910",
+              "start": 0,
+              "username": "passluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024028020944593179",
+        "in_reply_to_user_id": "282522910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023966357373505834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passluo 二十年前拔私服网线，二十年后敲诈机场……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "282522910",
+        "conversation_id": "2023951369044988299",
+        "created_at": "2026-02-18T03:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023966357373505834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023966357373505834",
+        "in_reply_to_user_id": "282522910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8659,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023951369044988299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚在群里看到的\n\n找了一下，又是专门 ddos 机场敲诈的 VTS 团队传出来的🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 4549,
+          "like_count": 80504,
+          "listed_count": 5,
+          "media_count": 403,
+          "tweet_count": 13087
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-15T11:10:43.000Z",
+        "description": "在所有文化中，对地狱的描述都是重复。",
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597030973161422848/JrgJ5kiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55137,
+          "following_count": 1351,
+          "like_count": 42910,
+          "listed_count": 302,
+          "media_count": 2374,
+          "tweet_count": 29651
+        },
+        "username": "passluo",
+        "verified": true
+      }
+    ]
+  }
+}

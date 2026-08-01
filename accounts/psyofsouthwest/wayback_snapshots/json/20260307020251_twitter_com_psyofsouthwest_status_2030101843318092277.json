@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2030015419206225980",
+    "created_at": "2026-03-07T02:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030101843318092277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030101843318092277",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030015419206225980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 为了完成gdp指标，省市官员自然而然就会成为大型企业的幕后玩家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2030015363921104898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwQN88aUAIjyaZ.jpg",
+        "width": 738
+      },
+      {
+        "height": 1718,
+        "media_key": "3_2030015387954466817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwQPWeaUAEirS1.jpg",
+        "width": 800
+      },
+      {
+        "height": 1256,
+        "media_key": "3_2030015414319869952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwQQ4sacAAGHDr.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2030015419206225980",
+        "created_at": "2026-03-07T02:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030101843318092277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030101843318092277",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030015419206225980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 为了完成gdp指标，省市官员自然而然就会成为大型企业的幕后玩家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030015363921104898",
+            "3_2030015387954466817",
+            "3_2030015414319869952"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2030015419206225980",
+        "created_at": "2026-03-06T20:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030015419206225980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLY3stF6G3",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2030015419206225980/photo/1",
+              "media_key": "3_2030015363921104898",
+              "start": 47,
+              "url": "https://t.co/HLY3stF6G3"
+            },
+            {
+              "display_url": "pic.x.com/HLY3stF6G3",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2030015419206225980/photo/1",
+              "media_key": "3_2030015387954466817",
+              "start": 47,
+              "url": "https://t.co/HLY3stF6G3"
+            },
+            {
+              "display_url": "pic.x.com/HLY3stF6G3",
+              "end": 70,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2030015419206225980/photo/1",
+              "media_key": "3_2030015414319869952",
+              "start": 47,
+              "url": "https://t.co/HLY3stF6G3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030015419206225980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3885,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "辽宁，住建厅驻政务大厅的一个低级别工作人员就可以收1614万元好处费。\n\n你说当官能收多少？ https://t.co/HLY3stF6G3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 4733,
+          "like_count": 90674,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13749
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236879,
+          "following_count": 1847,
+          "like_count": 189,
+          "listed_count": 1267,
+          "media_count": 28172,
+          "tweet_count": 35976
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

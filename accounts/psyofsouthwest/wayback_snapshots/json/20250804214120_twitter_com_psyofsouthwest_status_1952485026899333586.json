@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1952485026899333586",
+    "created_at": "2025-08-04T21:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T22:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952485026899333586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2786701",
+          "start": 3,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952485026899333586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952386584038547682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @williamlong: 提醒一下，请勿安装最新的微信Windows版4.0以及以后的版本，继续使用3.9.12版本，新的版本不仅仅将全部数据新建了一个文件夹，还禁止将聊天信息复制出来，用户连自己的聊天记录都无法控制，微信对用户这种变态的控制欲实在太强了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1952485026899333586",
+        "created_at": "2025-08-04T21:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T22:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952485026899333586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2786701",
+              "start": 3,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952485026899333586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952386584038547682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @williamlong: 提醒一下，请勿安装最新的微信Windows版4.0以及以后的版本，继续使用3.9.12版本，新的版本不仅仅将全部数据新建了一个文件夹，还禁止将聊天信息复制出来，用户连自己的聊天记录都无法控制，微信对用户这种变态的控制欲实在太强了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "1952386584038547682",
+        "created_at": "2025-08-04T15:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952386584038547682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952386584038547682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 49017,
+          "like_count": 294,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "提醒一下，请勿安装最新的微信Windows版4.0以及以后的版本，继续使用3.9.12版本，新的版本不仅仅将全部数据新建了一个文件夹，还禁止将聊天信息复制出来，用户连自己的聊天记录都无法控制，微信对用户这种变态的控制欲实在太强了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 3904,
+          "like_count": 43473,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 11468
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386063,
+          "following_count": 332,
+          "like_count": 0,
+          "listed_count": 2710,
+          "media_count": 3198,
+          "tweet_count": 29812
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

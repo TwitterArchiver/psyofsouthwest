@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1871209625703551428",
+    "created_at": "2024-12-25T07:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T08:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871818880500564388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "148353253",
+          "start": 0,
+          "username": "nobodyew"
+        },
+        {
+          "end": 20,
+          "id": "4753843513",
+          "start": 10,
+          "username": "jobs_carl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871818880500564388",
+    "in_reply_to_user_id": "148353253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871453425587958066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nobodyew @jobs_carl 不论是科研还是生产，越高越难越慢，靠加班把未来的增长提前吃掉，科研进度又无法形成新的增长点，不光是不给外国人活路，还是不给下一代活路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1871209625703551428",
+        "created_at": "2024-12-25T07:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T08:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871818880500564388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "148353253",
+              "start": 0,
+              "username": "nobodyew"
+            },
+            {
+              "end": 20,
+              "id": "4753843513",
+              "start": 10,
+              "username": "jobs_carl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871818880500564388",
+        "in_reply_to_user_id": "148353253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871453425587958066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nobodyew @jobs_carl 不论是科研还是生产，越高越难越慢，靠加班把未来的增长提前吃掉，科研进度又无法形成新的增长点，不光是不给外国人活路，还是不给下一代活路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "148353253",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1871209625703551428",
+        "created_at": "2024-12-24T07:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T08:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871453425587958066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4753843513",
+              "start": 0,
+              "username": "jobs_carl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871453425587958066",
+        "in_reply_to_user_id": "4753843513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6281,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871209625703551428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jobs_carl 咳咳，因为你戳到肺管子了。我曾经一个华为的老员工（大家应该明白华为老员工的含义）聊天，他本人也已经是一个中层管理者了，他就说华为成功的秘诀就是加班。这话听起来糙，不高大上，但挺能说明问题的，华为也罢，厉国也罢，这几十年的所谓“几位”，就是建立在无止境的人力压榨的基础上的，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 2914,
+          "like_count": 22116,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 9235
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-26T13:51:14.000Z",
+        "description": "",
+        "id": "148353253",
+        "location": "Montague, Ontario",
+        "name": "nobody 🇨🇦🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1074154185149407233/YOn573k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 626,
+          "like_count": 13064,
+          "listed_count": 8,
+          "media_count": 112,
+          "tweet_count": 21667
+        },
+        "username": "nobodyew",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T15:48:59.000Z",
+        "description": "",
+        "id": "4753843513",
+        "name": "Carl Jobs Pro Max Ultra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871478447366656000/z5NdiFTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 854,
+          "like_count": 22483,
+          "listed_count": 4,
+          "media_count": 2272,
+          "tweet_count": 6179
+        },
+        "username": "jobs_carl",
+        "verified": false
+      }
+    ]
+  }
+}

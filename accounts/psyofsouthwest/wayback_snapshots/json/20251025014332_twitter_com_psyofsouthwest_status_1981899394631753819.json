@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1981693681158807668",
+    "created_at": "2025-10-25T01:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T02:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981899394631753819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643290790842757120",
+          "start": 0,
+          "username": "8888999_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981899394631753819",
+    "in_reply_to_user_id": "1643290790842757120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981693681158807668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8888999_8 你试试看标准波比跳一个小时就知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1981693681158807668",
+        "created_at": "2025-10-25T01:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981899394631753819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643290790842757120",
+              "start": 0,
+              "username": "8888999_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981899394631753819",
+        "in_reply_to_user_id": "1643290790842757120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981693681158807668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8888999_8 你试试看标准波比跳一个小时就知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643290790842757120",
+        "conversation_id": "1981693681158807668",
+        "created_at": "2025-10-24T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981693681158807668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981693681158807668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 65472,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对于当兵的男生来说\n每天超负荷的训练后\n性欲暴增 没办法释放\n一忍就是忍了两年\n是不是最难的…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 3998,
+          "like_count": 51655,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11956
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T16:34:09.000Z",
+        "description": "悲伤穿透脑雾",
+        "id": "1643290790842757120",
+        "name": "le",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838981026896580608/dTB3l9Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24694,
+          "following_count": 40,
+          "like_count": 2276,
+          "listed_count": 24,
+          "media_count": 257,
+          "tweet_count": 1696
+        },
+        "username": "8888999_8",
+        "verified": false
+      }
+    ]
+  }
+}

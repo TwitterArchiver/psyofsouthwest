@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070209926492803072"
+      ],
+      "media_source_tweet_id": [
+        "2070209929894322318"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "2070470076583547115",
+    "created_at": "2026-06-26T11:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070470076583547115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247260723480231939",
+          "start": 3,
+          "username": "Propeertys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KSe60urwi",
+          "end": 96,
+          "expanded_url": "https://x.com/Propeertys/status/2070209929894322318/photo/1",
+          "media_key": "3_2070209926492803072",
+          "start": 73,
+          "url": "https://t.co/3KSe60urwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070470076583547115",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070209929894322318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Propeertys: Następne 40 dni stanie się piekłem dla Rosji - Zełenski. https://t.co/3KSe60urwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2070209926492803072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrc9a8XUAAOiJE.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070209926492803072"
+          ],
+          "media_source_tweet_id": [
+            "2070209929894322318"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2070470076583547115",
+        "created_at": "2026-06-26T11:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070470076583547115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247260723480231939",
+              "start": 3,
+              "username": "Propeertys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KSe60urwi",
+              "end": 96,
+              "expanded_url": "https://x.com/Propeertys/status/2070209929894322318/photo/1",
+              "media_key": "3_2070209926492803072",
+              "start": 73,
+              "url": "https://t.co/3KSe60urwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070470076583547115",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070209929894322318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Propeertys: Następne 40 dni stanie się piekłem dla Rosji - Zełenski. https://t.co/3KSe60urwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070209926492803072"
+          ]
+        },
+        "author_id": "1247260723480231939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2070209929894322318",
+        "created_at": "2026-06-25T18:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070209929894322318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KSe60urwi",
+              "end": 80,
+              "expanded_url": "https://x.com/Propeertys/status/2070209929894322318/photo/1",
+              "media_key": "3_2070209926492803072",
+              "start": 57,
+              "url": "https://t.co/3KSe60urwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070209929894322318",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30236,
+          "like_count": 3917,
+          "quote_count": 6,
+          "reply_count": 74,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "Następne 40 dni stanie się piekłem dla Rosji - Zełenski. https://t.co/3KSe60urwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 4763,
+          "like_count": 127213,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15534
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T20:32:14.000Z",
+        "description": "Live updates on global conflicts War in Ukraine 🇺🇦 Poland 🇵🇱 UK 🇬🇧 Israel 🇮🇱 World 🌍 news 📰",
+        "id": "1247260723480231939",
+        "name": "Poland news War in Ukraine",
+        "pinned_tweet_id": "2044143600741822552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878091072934383616/ozJ0xGuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46019,
+          "following_count": 22373,
+          "like_count": 285610,
+          "listed_count": 386,
+          "media_count": 69232,
+          "tweet_count": 133134
+        },
+        "url": "",
+        "username": "Propeertys",
+        "verified": true
+      }
+    ]
+  }
+}

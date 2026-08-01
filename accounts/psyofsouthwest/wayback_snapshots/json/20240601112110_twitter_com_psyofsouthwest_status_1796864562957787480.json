@@ -1,0 +1,350 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1796864175039463803",
+    "created_at": "2024-06-01T11:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T12:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796864562957787480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585145286598483968",
+          "start": 0,
+          "username": "lianyiganyu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "心理学报, 2018, 50(11): 1314-1322 doi: 中国心理学会, 2018年2月. 中国心理学会临床与咨询心理学工作伦理守则(第二版). 心理学报 [J], 2018, 50(11): 1314-1322 doi: 《中国心理学会临床与咨询心理学工作伦理守则(第二版)》(以下简称本《守则》)和《中国心理学会临床与咨询心理学专业机构和专业人员注册标准》(第二版)由中国心理学会授权临床心理学注册工作委员会在《中国心理学会临床与咨询心理学工作伦理守则》(第一版, 2007)和《中国心理学会临床与咨询心理学专业机构和专业人员注册标准》(第一版, 2007)基础上修订。 制定本《守则》旨在揭示临床与咨询心理学服务工作具有教育性、科学性与专业性, 促使心理师、寻求专业服务者以及广大民众了解本领域专业伦理的核心理念和专业责任, 以保证和提升专业服务的水准, 保障寻求专业服务者和心理师的权益, 提升民众心理健康水平, 促进和谐社会发展。本《守则》亦为本学会临床与咨询心理学注册心理师的专业伦理规范以及处理有关临床与咨询心理学专业伦理投诉的工作基础和主要依据。 善行：心理师的工作是使寻求专业服务者从其专业服",
+          "display_url": "journal.psych.ac.cn/xlxb/article/2…",
+          "end": 63,
+          "expanded_url": "https://journal.psych.ac.cn/xlxb/article/2018/0439-755X/0439-755X-50-11-1314.shtml",
+          "start": 40,
+          "status": 200,
+          "title": "中国心理学会临床与咨询心理学工作伦理守则(第二版)",
+          "unwound_url": "https://journal.psych.ac.cn/xlxb/article/2018/0439-755X/0439-755X-50-11-1314.shtml",
+          "url": "https://t.co/cVLMfhpQSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796864562957787480",
+    "in_reply_to_user_id": "1585145286598483968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796864175039463803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyiganyu 补充中国心理学会临床与咨询心理学工作伦理守则（第二版）https://t.co/cVLMfhpQSf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1796864175039463803",
+        "created_at": "2024-06-01T11:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T12:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796864562957787480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "心理学报, 2018, 50(11): 1314-1322 doi: 中国心理学会, 2018年2月. 中国心理学会临床与咨询心理学工作伦理守则(第二版). 心理学报 [J], 2018, 50(11): 1314-1322 doi: 《中国心理学会临床与咨询心理学工作伦理守则(第二版)》(以下简称本《守则》)和《中国心理学会临床与咨询心理学专业机构和专业人员注册标准》(第二版)由中国心理学会授权临床心理学注册工作委员会在《中国心理学会临床与咨询心理学工作伦理守则》(第一版, 2007)和《中国心理学会临床与咨询心理学专业机构和专业人员注册标准》(第一版, 2007)基础上修订。 制定本《守则》旨在揭示临床与咨询心理学服务工作具有教育性、科学性与专业性, 促使心理师、寻求专业服务者以及广大民众了解本领域专业伦理的核心理念和专业责任, 以保证和提升专业服务的水准, 保障寻求专业服务者和心理师的权益, 提升民众心理健康水平, 促进和谐社会发展。本《守则》亦为本学会临床与咨询心理学注册心理师的专业伦理规范以及处理有关临床与咨询心理学专业伦理投诉的工作基础和主要依据。 善行：心理师的工作是使寻求专业服务者从其专业服",
+              "display_url": "journal.psych.ac.cn/xlxb/article/2…",
+              "end": 63,
+              "expanded_url": "https://journal.psych.ac.cn/xlxb/article/2018/0439-755X/0439-755X-50-11-1314.shtml",
+              "start": 40,
+              "status": 200,
+              "title": "中国心理学会临床与咨询心理学工作伦理守则(第二版)",
+              "unwound_url": "https://journal.psych.ac.cn/xlxb/article/2018/0439-755X/0439-755X-50-11-1314.shtml",
+              "url": "https://t.co/cVLMfhpQSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796864562957787480",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796864175039463803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu 补充中国心理学会临床与咨询心理学工作伦理守则（第二版）https://t.co/cVLMfhpQSf"
+      },
+      {
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1796864175039463803",
+        "created_at": "2024-06-01T11:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T12:14:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796862943646425469",
+          "1796864175039463803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI520/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/HANLIANYI520/status/1750775313481838648",
+              "start": 113,
+              "url": "https://t.co/2bT0tH6gzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796864175039463803",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1750775313481838648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于帮助我们的方式，主要分为经济和人力两种，其中人力方面我们主要需要相关专业方面的科班人员。\n\n近期有较多热心的助人者希望能够成为我们的志愿者，但是大多数人没有精神医学/社会工作/心理学相关的学历教育专业背景或相关的培训。… https://t.co/2bT0tH6gzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 2155,
+          "like_count": 11371,
+          "listed_count": 4,
+          "tweet_count": 5953
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "庇佑所入住请联系 @hanlianyi520｜需要陪聊请加 QQ群 728984801｜ 紧急自杀干预报警求助 请联系 telegram账号 @lianyiganyu（请附带所有已知信息）｜公益telegram频道 https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "hanlianyi520"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 131,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 108,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/422051124?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/422051124?utm_psn=1748443254557704192",
+                "start": 0,
+                "url": "https://t.co/wjZhV3u5zt"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1764226432522445252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 4,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/wjZhV3u5zt",
+        "username": "lianyiganyu",
+        "verified": true
+      }
+    ]
+  }
+}

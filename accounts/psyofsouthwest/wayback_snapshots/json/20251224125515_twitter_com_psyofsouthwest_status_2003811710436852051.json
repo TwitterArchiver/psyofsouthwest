@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2003811710436852051",
+    "created_at": "2025-12-24T12:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T13:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003811710436852051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Chronas.org is a history map application with over 50 million interconnected data points",
+          "display_url": "chronas.org",
+          "end": 59,
+          "expanded_url": "https://chronas.org/",
+          "start": 36,
+          "status": 200,
+          "title": "Chronas: Enter History",
+          "unwound_url": "https://chronas.org/",
+          "url": "https://t.co/HPjs5ZtsiA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003811710436852051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 485
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003699848265256993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 刚刚挖到一个非常牛批的网站！！\n\nhttps://t.co/HPjs5ZtsiA 这个网站，让你用上帝视角看人类历史：它把整个人类历史，做成了一张可以随手拖拽的【Google 地图版时间线】。​​把 5000 年左右的全球历史，压缩成一张可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132700,
+        "height": 2160,
+        "media_key": "13_2003696624716201984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003696624716201984/img/un-85wdnfMBCgk_4.jpg",
+        "public_metrics": {
+          "view_count": 45776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/pl/EB6_9X40rLpFWmiv.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/vid/avc1/1252x720/0Js6sjbzWoQ7t9kH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/vid/avc1/626x360/rxXYFHz6hner3o_y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/vid/avc1/1878x1080/wv4kLTR96Zu73Mjn.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/vid/avc1/3756x2160/Z3DEGT37eP_-djYm.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003696624716201984/vid/avc1/468x270/IgduPpOcY25DCNSL.mp4"
+          }
+        ],
+        "width": 3756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2003811710436852051",
+        "created_at": "2025-12-24T12:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003811710436852051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Chronas.org is a history map application with over 50 million interconnected data points",
+              "display_url": "chronas.org",
+              "end": 59,
+              "expanded_url": "https://chronas.org/",
+              "start": 36,
+              "status": 200,
+              "title": "Chronas: Enter History",
+              "unwound_url": "https://chronas.org/",
+              "url": "https://t.co/HPjs5ZtsiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003811710436852051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 485
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003699848265256993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 刚刚挖到一个非常牛批的网站！！\n\nhttps://t.co/HPjs5ZtsiA 这个网站，让你用上帝视角看人类历史：它把整个人类历史，做成了一张可以随手拖拽的【Google 地图版时间线】。​​把 5000 年左右的全球历史，压缩成一张可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003696624716201984"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2003699848265256993",
+        "created_at": "2025-12-24T05:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003699848265256993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Chronas.org is a history map application with over 50 million interconnected data points",
+              "display_url": "chronas.org",
+              "end": 40,
+              "expanded_url": "https://chronas.org/",
+              "start": 17,
+              "status": 200,
+              "title": "Chronas: Enter History",
+              "unwound_url": "https://chronas.org/",
+              "url": "https://t.co/HPjs5ZtsiA"
+            },
+            {
+              "display_url": "pic.x.com/dNwOeKT9Qa",
+              "end": 177,
+              "expanded_url": "https://x.com/immersivetran/status/2003699848265256993/video/1",
+              "media_key": "13_2003696624716201984",
+              "start": 154,
+              "url": "https://t.co/dNwOeKT9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003699848265256993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chronas.org",
+                "end": 40,
+                "expanded_url": "https://chronas.org/",
+                "start": 17,
+                "url": "https://t.co/h8X0GyNYxb"
+              }
+            ]
+          },
+          "text": "刚刚挖到一个非常牛批的网站！！\n\nhttps://t.co/h8X0GyNYxb 这个网站，让你用上帝视角看人类历史：它把整个人类历史，做成了一张可以随手拖拽的【Google 地图版时间线】。​​把 5000 年左右的全球历史，压缩成一张可拖拽的世界地图，加一根时间轴，从公元前到 20 世纪都能随时切换。​​\n\n它把国家疆界、人口、宗教、文化、迁徙、重要事件、统治者信息都铺在一张图上，目前累计数据点超过 5000 万个。​​\n\n时间滑块一拉，地图会立刻变成对应年份的世界格局，再点任意一个区域，就能在侧边栏展开对应的维基百科条目，等于「地图 + 知识库」一体化。​\n\n无论你是学生、内容创作者，还是单纯对世界怎么走到今天这一步感到好奇，它都提供了一种此前很少见的视角——让你在同一块屏幕上，同时看到时间、空间和事件的关系。 也许某一天你只是随手拖动了一下时间轴，在一块不起眼的小区域停了几秒，就会突然意识到：原来那些看起来完全无关的历史片段，一直都静静叠在同一张地图上。\n\n如果是学生或者自学者，这个网站可以直接拿来当「可视化笔记本」。比如把时间停在 1912，放大中国，看清末民初的边界，再拖到巴尔干半岛，看奥斯曼帝国瓦解后留下多少新国家，最后拉到非洲，看那时殖民版图怎么铺开，一条时间轴上，三块区域的故事会拼成一个你从来没在课本里见过的世界格局。 这种「同一年，不同地方同时发生什么」的视角，是传统时间线和单一区域地图都很难给到的。​​\n\n对做内容的人来说，Chronas 几乎是一个天然的选题雷达。你可以挑一个年份，比如 1848，先看欧洲革命浪潮，再顺手拖到亚洲，看那一年这边在发生什么，再点进一个小地方的条目，看它在几十年里换了几次统治者，这当中随便拆出几条线，都能写成系列故事或者做成一整套选题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1519,
+          "impression_count": 101656,
+          "like_count": 1541,
+          "quote_count": 20,
+          "reply_count": 17,
+          "retweet_count": 485
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚挖到一个非常牛批的网站！！\n\nhttps://t.co/HPjs5ZtsiA 这个网站，让你用上帝视角看人类历史：它把整个人类历史，做成了一张可以随手拖拽的【Google 地图版时间线】。​​把 5000 年左右的全球历史，压缩成一张可拖拽的世界地图，加一根时间轴，从公元前到 20 世纪都能随时切换。 https://t.co/dNwOeKT9Qa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 4125,
+          "like_count": 60694,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 12316
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "2002996269619580933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25742,
+          "following_count": 102,
+          "like_count": 408,
+          "listed_count": 133,
+          "media_count": 449,
+          "tweet_count": 961
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

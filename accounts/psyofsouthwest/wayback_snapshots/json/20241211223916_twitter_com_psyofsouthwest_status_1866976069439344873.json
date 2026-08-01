@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1866250620161683815",
+    "created_at": "2024-12-11T22:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T23:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866976069439344873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1289198331307216898",
+          "start": 0,
+          "username": "JKEJ114514"
+        },
+        {
+          "end": 24,
+          "id": "111942564",
+          "start": 12,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866976069439344873",
+    "in_reply_to_user_id": "1289198331307216898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866516304200696280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JKEJ114514 @boiledwater 不去疗愈受过创伤的人，而是任其自生自灭，连做样子的干预体系都是各自为政、支离破碎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1866250620161683815",
+        "created_at": "2024-12-11T22:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T23:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866976069439344873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1289198331307216898",
+              "start": 0,
+              "username": "JKEJ114514"
+            },
+            {
+              "end": 24,
+              "id": "111942564",
+              "start": 12,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866976069439344873",
+        "in_reply_to_user_id": "1289198331307216898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866516304200696280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JKEJ114514 @boiledwater 不去疗愈受过创伤的人，而是任其自生自灭，连做样子的干预体系都是各自为政、支离破碎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289198331307216898",
+        "conversation_id": "1866250620161683815",
+        "created_at": "2024-12-10T16:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T17:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866516304200696280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866516304200696280",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5580,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866250620161683815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 我每次问我父母 那些跳楼的学生为什么跳 是想不开吗 他们总是回答说 你看 1000个学生里面1~2个跳楼的 不是他们个人问题？ 为什么大多数人不跳？就他们跳？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 2860,
+          "like_count": 21156,
+          "listed_count": 6,
+          "media_count": 257,
+          "tweet_count": 8924
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-31T13:57:00.000Z",
+        "description": "啊嘞啊嘞",
+        "id": "1289198331307216898",
+        "name": "JKEJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596493127677714433/crY0RI90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "JKEJ114514",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sweden",
+        "name": "Jess",
+        "pinned_tweet_id": "1857872249853972818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40792,
+          "following_count": 1776,
+          "like_count": 28502,
+          "listed_count": 158,
+          "media_count": 4111,
+          "tweet_count": 33351
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

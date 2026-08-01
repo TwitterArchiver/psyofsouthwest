@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1992585982051590646",
+    "created_at": "2025-11-23T14:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992602999248789652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709369832947564544",
+          "start": 0,
+          "username": "YeahShunGuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992602999248789652",
+    "in_reply_to_user_id": "1709369832947564544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992585982051590646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeahShunGuang 大佐是堂堂正正的中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1992585982051590646",
+        "created_at": "2025-11-23T14:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992602999248789652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709369832947564544",
+              "start": 0,
+              "username": "YeahShunGuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992602999248789652",
+        "in_reply_to_user_id": "1709369832947564544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992585982051590646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeahShunGuang 大佐是堂堂正正的中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709369832947564544",
+        "conversation_id": "1992585982051590646",
+        "created_at": "2025-11-23T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992585982051590646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/democracythe2n…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/democracythe2nd/status/1992444235883348449",
+              "start": 7,
+              "url": "https://t.co/k8wI5hIRQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992585982051590646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992444235883348449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "里根一思考😁 https://t.co/k8wI5hIRQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 4035,
+          "like_count": 55611,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12146
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T00:48:45.000Z",
+        "description": "锻刀大赛中国赛区优胜者，咱妈文学爱好者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "TwoGeDahTso.com",
+                "end": 23,
+                "expanded_url": "http://TwoGeDahTso.com",
+                "start": 0,
+                "url": "https://t.co/lvtetJ0GAK"
+              }
+            ]
+          }
+        },
+        "id": "1709369832947564544",
+        "location": "Vienna in 1453y",
+        "name": "网友叶顺光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984903823572500481/XRMp0wlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 639,
+          "like_count": 28278,
+          "listed_count": 23,
+          "media_count": 1178,
+          "tweet_count": 9306
+        },
+        "url": "https://t.co/lvtetJ0GAK",
+        "username": "YeahShunGuang",
+        "verified": false
+      }
+    ]
+  }
+}

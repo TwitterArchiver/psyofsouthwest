@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028677978264395776"
+      ],
+      "media_source_tweet_id": [
+        "2028682761582854398"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2028775516086616139",
+    "created_at": "2026-03-03T10:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028775516086616139"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Doro",
+          "probability": 0.6755,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": "doro",
+          "probability": 0.7297,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2418678272",
+          "start": 3,
+          "username": "doro_doro_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VPI4EN7Ngi",
+          "end": 68,
+          "expanded_url": "https://x.com/doro_doro_2/status/2028682761582854398/photo/1",
+          "media_key": "3_2028677978264395776",
+          "start": 45,
+          "url": "https://t.co/VPI4EN7Ngi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028775516086616139",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028682761582854398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doro_doro_2: Doro is on the train.\n#doro https://t.co/VPI4EN7Ngi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2028677978264395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdP33IbYAAhI59.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028677978264395776"
+          ],
+          "media_source_tweet_id": [
+            "2028682761582854398"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2028775516086616139",
+        "created_at": "2026-03-03T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028775516086616139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Doro",
+              "probability": 0.6755,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "doro",
+              "probability": 0.7297,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2418678272",
+              "start": 3,
+              "username": "doro_doro_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPI4EN7Ngi",
+              "end": 68,
+              "expanded_url": "https://x.com/doro_doro_2/status/2028682761582854398/photo/1",
+              "media_key": "3_2028677978264395776",
+              "start": 45,
+              "url": "https://t.co/VPI4EN7Ngi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028775516086616139",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028682761582854398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doro_doro_2: Doro is on the train.\n#doro https://t.co/VPI4EN7Ngi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028677978264395776"
+          ]
+        },
+        "author_id": "2418678272",
+        "conversation_id": "2028682761582854398",
+        "created_at": "2026-03-03T04:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028682761582854398"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Doro",
+              "probability": 0.7117,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "doro",
+              "probability": 0.7362,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPI4EN7Ngi",
+              "end": 51,
+              "expanded_url": "https://x.com/doro_doro_2/status/2028682761582854398/photo/1",
+              "media_key": "3_2028677978264395776",
+              "start": 28,
+              "url": "https://t.co/VPI4EN7Ngi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028682761582854398",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 7807,
+          "like_count": 949,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "Doro is on the train.\n#doro https://t.co/VPI4EN7Ngi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 4715,
+          "like_count": 88465,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 13517
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-30T08:08:48.000Z",
+        "description": "I'm a gamer, not an illustrator.\nI'm a Dorothy & Doro fan.\nI hope the appeal of Doro will spread.\n\nI sincerely thank the Goddess squad.",
+        "id": "2418678272",
+        "location": "DoroCord",
+        "name": "O🍊DORO",
+        "pinned_tweet_id": "2015873861326397616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018059511408574464/LHhjnUV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 43,
+          "like_count": 1408,
+          "listed_count": 19,
+          "media_count": 407,
+          "tweet_count": 558
+        },
+        "username": "doro_doro_2",
+        "verified": false
+      }
+    ]
+  }
+}

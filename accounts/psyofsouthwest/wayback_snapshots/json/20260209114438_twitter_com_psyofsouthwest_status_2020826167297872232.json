@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2020826167297872232",
+    "created_at": "2026-02-09T11:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020826167297872232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1926144412079280128",
+          "start": 3,
+          "username": "yaohui12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020826167297872232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020707993915154781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaohui12138: open claw太烧token怎么办？英伟达把 Kimi K2.5 开放免费调用了\n\n而且这个模型已经冲到 OpenClaw 调用量榜首，超过 Gemini 3 Flash 和 Claude Sonnet 4.5\n\n如果你正在折腾 OpenC…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2020826167297872232",
+        "created_at": "2026-02-09T11:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020826167297872232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1926144412079280128",
+              "start": 3,
+              "username": "yaohui12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020826167297872232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020707993915154781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaohui12138: open claw太烧token怎么办？英伟达把 Kimi K2.5 开放免费调用了\n\n而且这个模型已经冲到 OpenClaw 调用量榜首，超过 Gemini 3 Flash 和 Claude Sonnet 4.5\n\n如果你正在折腾 OpenC…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926144412079280128",
+        "conversation_id": "2020707993915154781",
+        "created_at": "2026-02-09T03:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020707993915154781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020707993915154781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "build.nvidia.com/explore/discov…",
+                "end": 474,
+                "expanded_url": "https://build.nvidia.com/explore/discover",
+                "start": 451,
+                "url": "https://t.co/ML4MSRWDkS"
+              },
+              {
+                "display_url": "build.nvidia.com/settings/api-k…",
+                "end": 548,
+                "expanded_url": "https://build.nvidia.com/settings/api-keys",
+                "start": 525,
+                "url": "https://t.co/XPPglpdOzJ"
+              },
+              {
+                "display_url": "integrate.api.nvidia.com/v1",
+                "end": 830,
+                "expanded_url": "https://integrate.api.nvidia.com/v1",
+                "start": 807,
+                "url": "https://t.co/tKlnkT6X6S"
+              }
+            ]
+          },
+          "text": "open claw太烧token怎么办？英伟达把 Kimi K2.5 开放免费调用了\n\n而且这个模型已经冲到 OpenClaw 调用量榜首，超过 Gemini 3 Flash 和 Claude Sonnet 4.5\n\n如果你正在折腾 OpenClaw，这篇教程能帮你 10 分钟内把免费的 Kimi K2.5 跑起来\n\n为什么是 Kimi K2.5 + OpenClaw\n\n先说数据：2月4日至今，Kimi K2.5 一直位居 OpenClaw 模型调用量第一\n\n这不是偶然，因为：\n\n- Kimi K2.5 是万亿参数的多模态 MoE 模型，支持图片+视频+文本\n- 原生支持 Agent Swarm（能并行跑100个子智能体，OpenClaw 正好需要这个）\n- 256K 上下文窗口，处理长对话和复杂任务不掉链子\n\n- 最关键：英伟达现在免费开放，没有明确的速率限制\n\n对独立开发者来说，这个组合是目前成本最低、能力最强的 AI 智能体方案\n\n第一步：获取 NVIDIA API Key\n\n访问 https://t.co/ML4MSRWDkS\n\n右上角点击头像 → Login → 用邮箱注册（会收到验证邮件，去邮箱点确认）\n\n注册完后，进入 https://t.co/XPPglpdOzJ\n\n点击 Generate API Key，复制保存（只显示一次，丢了就得重新生成）\n\n第二步：配置 OpenClaw\n\n方法一：直接编辑配置文件\n\n如果你已经装好 OpenClaw，想手动添加 NVIDIA 作为新的 provider：\n\n打开配置文件：`~/.openclaw/openclaw.json`（Windows 在用户目录下）\n\n找到 `providers` 部分，添加这段：\n\n```json\n{\n  \"providers\": {\n    \"nvidia\": {\n      \"baseUrl\": \"https://t.co/tKlnkT6X6S\",\n      \"apiKey\": \"你的_NVIDIA_API_KEY\",\n      \"api\": \"openai-completions\",\n      \"models\": [\n        {\n          \"id\": \"moonshotai/kimi-k2.5\",\n          \"name\": \"kimi-k2.5\",\n          \"reasoning\": true,\n          \"input\": [\"text\", \"image\", \"video\"],\n          \"cost\": {\n            \"input\": 0,\n            \"output\": 0\n          },\n          \"contextWindow\": 256000,\n          \"maxTokens\": 8192\n        }\n      ]\n    }\n  }\n}\n```\n\n保存后重启 OpenClaw\n\n第三步：验证是否配置成功\n\n启动 OpenClaw：\n\npnpm openclaw gateway --verbose\n\n看到类似输出说明成功：\n\n✓ Gateway connected | idle\n✓ Agent main | session main\n✓ Model: nvidia/moonshotai/kimi-k2.5 | tokens 0/256k\n\n随便发个消息测试：\n\n帮我分析一下这段代码的性能问题\n\n如果有正常回复，说明接入成功了\n\n避坑指南\n\n坑 1：提示 \"Unknown model\" 或 404 错误\n\n原因：OpenClaw 2026.2.1 之前的版本对 NVIDIA 的模型名称识别有 bug\n\n解决：\n- 确保 OpenClaw 版本 ≥ 2026.2.1\n- 模型名称必须写成 `moonshotai/kimi-k2.5`（不是 `nvidia/moonshotai-kimi-k2.5`）\n- 如果还是不行，让ai来给你搞\n\n坑 2：请求一直排队，响应很慢\n\n原因：NVIDIA 免费 tier 虽然没明确限制，但高峰期会有排队（有人测试遇到 150+ 请求在排队）\n\n解决：\n\n-把deepseek 模型也加上用，解决高峰期拥堵的问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 679,
+          "impression_count": 29399,
+          "like_count": 440,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "open claw太烧token怎么办？英伟达把 Kimi K2.5 开放免费调用了\n\n而且这个模型已经冲到 OpenClaw 调用量榜首，超过 Gemini 3 Flash 和 Claude Sonnet 4.5\n\n如果你正在折腾 OpenClaw，这篇教程能帮你 10 分钟内把免费的 Kimi K2.5 跑起来\n\n为什么是 Kimi K2.5 + OpenClaw\n\n先说数据：2月4日至今，Kimi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 4510,
+          "like_count": 77063,
+          "listed_count": 5,
+          "media_count": 396,
+          "tweet_count": 12947
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T05:13:20.000Z",
+        "description": "超级个体践行者｜AI产品经理，日常分享 AI搞钱实战，AI编程系列教程，AI工作流实操， 只分享干货，利他即利己. 公众号：AI超级个体柿子",
+        "id": "1926144412079280128",
+        "name": "超级个体｜柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964576447827496961/7rPS82Jd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11597,
+          "following_count": 232,
+          "like_count": 6232,
+          "listed_count": 111,
+          "media_count": 161,
+          "tweet_count": 3810
+        },
+        "username": "yaohui12138",
+        "verified": true
+      }
+    ]
+  }
+}

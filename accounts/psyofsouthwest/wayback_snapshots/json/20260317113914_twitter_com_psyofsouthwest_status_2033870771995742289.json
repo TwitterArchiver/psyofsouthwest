@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033760290714841088"
+      ],
+      "media_source_tweet_id": [
+        "2033760346138415132"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2033870771995742289",
+    "created_at": "2026-03-17T11:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033870771995742289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927549973979099136",
+          "start": 3,
+          "username": "HYCZorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWtVZOQWq8",
+          "end": 57,
+          "expanded_url": "https://x.com/HYCZorange/status/2033760346138415132/video/1",
+          "media_key": "13_2033760290714841088",
+          "start": 34,
+          "url": "https://t.co/MWtVZOQWq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033870771995742289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033760346138415132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYCZorange: hi Doro 给我一个好运橙子🍊 https://t.co/MWtVZOQWq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1280,
+        "media_key": "13_2033760290714841088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033760290714841088/img/AKFFn2f5jetCarMq.jpg",
+        "public_metrics": {
+          "view_count": 8708
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033760290714841088/vid/avc1/320x568/7yOxFSAkkBsvZnsc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033760290714841088/vid/avc1/480x852/QkPKxPqiG9vca10G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033760290714841088/vid/avc1/720x1280/SBrGgi1MK2qc6Qbv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033760290714841088/pl/ikNeLGLPMLCo2YI5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033760290714841088"
+          ],
+          "media_source_tweet_id": [
+            "2033760346138415132"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033870771995742289",
+        "created_at": "2026-03-17T11:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033870771995742289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927549973979099136",
+              "start": 3,
+              "username": "HYCZorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWtVZOQWq8",
+              "end": 57,
+              "expanded_url": "https://x.com/HYCZorange/status/2033760346138415132/video/1",
+              "media_key": "13_2033760290714841088",
+              "start": 34,
+              "url": "https://t.co/MWtVZOQWq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033870771995742289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033760346138415132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYCZorange: hi Doro 给我一个好运橙子🍊 https://t.co/MWtVZOQWq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033760290714841088"
+          ]
+        },
+        "author_id": "1927549973979099136",
+        "conversation_id": "2033760346138415132",
+        "created_at": "2026-03-17T04:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033760346138415132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWtVZOQWq8",
+              "end": 41,
+              "expanded_url": "https://x.com/HYCZorange/status/2033760346138415132/video/1",
+              "media_key": "13_2033760290714841088",
+              "start": 18,
+              "url": "https://t.co/MWtVZOQWq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033760346138415132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 18886,
+          "like_count": 556,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "hi Doro 给我一个好运橙子🍊 https://t.co/MWtVZOQWq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 4730,
+          "like_count": 95388,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 13953
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T02:18:34.000Z",
+        "description": "Give me lucky orange",
+        "id": "1927549973979099136",
+        "name": "好运橙子🍊",
+        "pinned_tweet_id": "2020197723832742331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010784499291078656/zHB49VtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 221,
+          "like_count": 974,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 448
+        },
+        "username": "HYCZorange",
+        "verified": false
+      }
+    ]
+  }
+}

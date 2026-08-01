@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1917041568978006048",
+    "created_at": "2025-04-30T00:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T01:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917371051912135056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1154174763918606339",
+          "start": 0,
+          "username": "maoshen04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917371051912135056",
+    "in_reply_to_user_id": "1154174763918606339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917041568978006048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoshen04 习近平新思想一个课题六十万，狗屎是香的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1917041568978006048",
+        "created_at": "2025-04-30T00:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T01:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917371051912135056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917371051912135056",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917041568978006048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen04 习近平新思想一个课题六十万，狗屎是香的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1154174763918606339",
+        "conversation_id": "1917041568978006048",
+        "created_at": "2025-04-29T02:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917041568978006048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/billeozs/statu…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/billeozs/status/1917038010065162520",
+              "start": 63,
+              "url": "https://t.co/RbZUk6gqb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917041568978006048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6648,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917038010065162520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超不过，中国社科院和各省市县的党校政策理论研究室，都是拿着你的钱，专业给你洗脑的\n\n猫神想用一篇文章让你清醒，无异于白日做梦 https://t.co/RbZUk6gqb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 3699,
+          "like_count": 33090,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 10576
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "美籍，未來🇺🇸國會參議員，本尊唯一推特賬號，YouTube【貓神看天下】博主｜獨立評論員，不站隊、不結盟，拒絕加入任何組織｜鐵肩擔道義，辣筆寫文章｜知行合一，本性本真本心；我心💕光明，何懼蒼蠅蟲蚊 😤 ｜電報群：https://t.co/tBMbXQEknm，Bluesky：maoshen，敬請關注🙏",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/maoshen950404",
+                "end": 129,
+                "expanded_url": "https://t.me/maoshen950404",
+                "start": 106,
+                "url": "https://t.co/tBMbXQEknm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/maoshen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/maoshen",
+                "start": 0,
+                "url": "https://t.co/WbubXJ2HyM"
+              }
+            ]
+          }
+        },
+        "id": "1154174763918606339",
+        "location": "Tampa, FL",
+        "name": "猫神",
+        "pinned_tweet_id": "1916585853855375655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916703750686695424/CfdqVYyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170516,
+          "following_count": 79,
+          "like_count": 3598,
+          "listed_count": 474,
+          "media_count": 1496,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/WbubXJ2HyM",
+        "username": "maoshen04",
+        "verified": true
+      }
+    ]
+  }
+}

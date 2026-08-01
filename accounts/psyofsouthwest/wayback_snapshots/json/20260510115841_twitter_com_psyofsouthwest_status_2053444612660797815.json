@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053444609783603200"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2052682422047920233",
+    "created_at": "2026-05-10T11:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053444612660797815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "87775422",
+          "start": 0,
+          "username": "ChinaDaily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kl2texTctf",
+          "end": 35,
+          "expanded_url": "https://x.com/psyofsouthwest/status/2053444612660797815/photo/1",
+          "media_key": "3_2053444609783603200",
+          "start": 12,
+          "url": "https://t.co/Kl2texTctf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053444612660797815",
+    "in_reply_to_user_id": "87775422",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052682422047920233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaDaily https://t.co/Kl2texTctf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2053444609783603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9M_jQXoAAs_tS.jpg",
+        "width": 924
+      },
+      {
+        "height": 643,
+        "media_key": "3_2052679876155686912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyVeMfaQAA1DeW.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053444609783603200"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2052682422047920233",
+        "created_at": "2026-05-10T11:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053444612660797815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "87775422",
+              "start": 0,
+              "username": "ChinaDaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kl2texTctf",
+              "end": 35,
+              "expanded_url": "https://x.com/psyofsouthwest/status/2053444612660797815/photo/1",
+              "media_key": "3_2053444609783603200",
+              "start": 12,
+              "url": "https://t.co/Kl2texTctf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053444612660797815",
+        "in_reply_to_user_id": "87775422",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052682422047920233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaDaily https://t.co/Kl2texTctf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052679876155686912"
+          ]
+        },
+        "author_id": "87775422",
+        "conversation_id": "2052682422047920233",
+        "created_at": "2026-05-08T09:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052682422047920233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "ChinaDailyCartoon"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "Japan"
+            },
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "Philippines"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pyhT2fef3A",
+              "end": 72,
+              "expanded_url": "https://x.com/ChinaDaily/status/2052682422047920233/photo/1",
+              "media_key": "3_2052679876155686912",
+              "start": 49,
+              "url": "https://t.co/pyhT2fef3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052682422047920233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 2246018,
+          "like_count": 576,
+          "quote_count": 207,
+          "reply_count": 178,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "#ChinaDailyCartoon Not again #Japan #Philippines https://t.co/pyhT2fef3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 4809,
+          "like_count": 116689,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 15194
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-05T20:30:10.000Z",
+        "description": "Start a conversation as we share news and analysis from #China and beyond. \nFB: China Daily \nIns: chinadailynews\nYoutube: ChinaDailyOfficialChannel",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "China"
+              }
+            ]
+          }
+        },
+        "id": "87775422",
+        "location": "Beijing, China",
+        "name": "China Daily",
+        "pinned_tweet_id": "2052566782276477320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598185470353022976/-KlKi0WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105943,
+          "following_count": 165,
+          "like_count": 1171,
+          "listed_count": 7558,
+          "media_count": 159318,
+          "tweet_count": 262852
+        },
+        "username": "ChinaDaily",
+        "verified": true
+      }
+    ]
+  }
+}

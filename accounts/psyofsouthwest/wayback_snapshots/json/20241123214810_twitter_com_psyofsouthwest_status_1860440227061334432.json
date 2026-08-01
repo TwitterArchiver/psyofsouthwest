@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860440224020508672"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "1860251441300152332",
+    "created_at": "2024-11-23T21:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T22:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860440227061334432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "RokuNanami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybtvbm8BTf",
+          "end": 46,
+          "expanded_url": "https://x.com/psyofsouthwest/status/1860440227061334432/photo/1",
+          "media_key": "3_1860440224020508672",
+          "start": 23,
+          "url": "https://t.co/ybtvbm8BTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860440227061334432",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860251441300152332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuNanami 毕竟依附着大爹的恩情 https://t.co/ybtvbm8BTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1860440224020508672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdGchtaXMAABoz4.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860440224020508672"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "1860251441300152332",
+        "created_at": "2024-11-23T21:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T22:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860440227061334432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "RokuNanami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybtvbm8BTf",
+              "end": 46,
+              "expanded_url": "https://x.com/psyofsouthwest/status/1860440227061334432/photo/1",
+              "media_key": "3_1860440224020508672",
+              "start": 23,
+              "url": "https://t.co/ybtvbm8BTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860440227061334432",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860251441300152332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuNanami 毕竟依附着大爹的恩情 https://t.co/ybtvbm8BTf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860251438322229248"
+          ]
+        },
+        "author_id": "1247123754158702593",
+        "conversation_id": "1860251441300152332",
+        "created_at": "2024-11-23T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860251441300152332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTN1KZT54h",
+              "end": 35,
+              "expanded_url": "https://x.com/RokuNanami/status/1860251441300152332/photo/1",
+              "media_key": "3_1860251438322229248",
+              "start": 12,
+              "url": "https://t.co/uTN1KZT54h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860251441300152332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 52697,
+          "like_count": 607,
+          "quote_count": 10,
+          "reply_count": 87,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之十三岁已觉醒 https://t.co/uTN1KZT54h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858110427403628544/K1u6mZn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 2790,
+          "like_count": 19938,
+          "listed_count": 4,
+          "tweet_count": 8601
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "",
+        "id": "1247123754158702593",
+        "name": "海うみ",
+        "pinned_tweet_id": "1842079821071056996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841852624389472265/91rzbwaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 815,
+          "like_count": 43648,
+          "listed_count": 7,
+          "tweet_count": 4941
+        },
+        "username": "RokuNanami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2031938448219951223",
+    "created_at": "2026-03-12T04:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031951077625774519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2706106326",
+          "start": 0,
+          "username": "FreeforHKpeople"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031951077625774519",
+    "in_reply_to_user_id": "2706106326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031938448219951223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeforHKpeople 一次幽默的亲民秀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2031938444440846338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLlP-JbQAIMPWU.jpg",
+        "width": 522
+      },
+      {
+        "height": 451,
+        "media_key": "3_2031938444432457730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLlP-HbQAI_dIq.jpg",
+        "width": 637
+      },
+      {
+        "height": 378,
+        "media_key": "3_2031938444432457733",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLlP-HbQAUT1FW.jpg",
+        "width": 500
+      },
+      {
+        "height": 372,
+        "media_key": "3_2031938444440846339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDLlP-JbQAMP_rU.jpg",
+        "width": 537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2031938448219951223",
+        "created_at": "2026-03-12T04:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031951077625774519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2706106326",
+              "start": 0,
+              "username": "FreeforHKpeople"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031951077625774519",
+        "in_reply_to_user_id": "2706106326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031938448219951223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeforHKpeople 一次幽默的亲民秀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031938444440846338",
+            "3_2031938444432457730",
+            "3_2031938444432457733",
+            "3_2031938444440846339"
+          ]
+        },
+        "author_id": "2706106326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2031938448219951223",
+        "created_at": "2026-03-12T03:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031938448219951223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIiijYFPtZ",
+              "end": 160,
+              "expanded_url": "https://x.com/FreeforHKpeople/status/2031938448219951223/photo/1",
+              "media_key": "3_2031938444440846338",
+              "start": 137,
+              "url": "https://t.co/UIiijYFPtZ"
+            },
+            {
+              "display_url": "pic.x.com/UIiijYFPtZ",
+              "end": 160,
+              "expanded_url": "https://x.com/FreeforHKpeople/status/2031938448219951223/photo/1",
+              "media_key": "3_2031938444432457730",
+              "start": 137,
+              "url": "https://t.co/UIiijYFPtZ"
+            },
+            {
+              "display_url": "pic.x.com/UIiijYFPtZ",
+              "end": 160,
+              "expanded_url": "https://x.com/FreeforHKpeople/status/2031938448219951223/photo/1",
+              "media_key": "3_2031938444432457733",
+              "start": 137,
+              "url": "https://t.co/UIiijYFPtZ"
+            },
+            {
+              "display_url": "pic.x.com/UIiijYFPtZ",
+              "end": 160,
+              "expanded_url": "https://x.com/FreeforHKpeople/status/2031938448219951223/photo/1",
+              "media_key": "3_2031938444440846339",
+              "start": 137,
+              "url": "https://t.co/UIiijYFPtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031938448219951223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾：\n\n习近平微服私访庆丰包子铺。\n\n2013年12月28日中午，习近平在北京调研途中来到庆丰包子铺用餐。他排队点餐，买了6个猪肉大葱包子、一碗炒肝和一份芥菜，共花21元。用餐期间他自己端盘找座位，与周围顾客和店员交谈、握手并合影。\n\n此后习近平得到“包子”的外号。 https://t.co/UIiijYFPtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 4745,
+          "like_count": 93065,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 13881
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-04T09:22:38.000Z",
+        "description": "王涵，Han. 反共活动家 Anti-CCP activist from China. 毕业于USC，Graduated from USC.  Santa Clara Law Student.",
+        "id": "2706106326",
+        "location": "California, USA",
+        "name": "王涵（Han）🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596665738797817856/Xn0zbgk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11343,
+          "following_count": 1564,
+          "like_count": 4682,
+          "listed_count": 44,
+          "media_count": 407,
+          "tweet_count": 4051
+        },
+        "username": "FreeforHKpeople",
+        "verified": false
+      }
+    ]
+  }
+}

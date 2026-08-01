@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1799803739169345994",
+    "created_at": "2024-06-10T11:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T12:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800128492723712452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652666783990689796",
+          "start": 0,
+          "username": "tranquil_frost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800128492723712452",
+    "in_reply_to_user_id": "1652666783990689796",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800120661626810483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tranquil_frost 我有点想不起来你的专业了，只记得与印刷有关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1799803739169345994",
+        "created_at": "2024-06-10T11:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T12:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800128492723712452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652666783990689796",
+              "start": 0,
+              "username": "tranquil_frost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800128492723712452",
+        "in_reply_to_user_id": "1652666783990689796",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800120661626810483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tranquil_frost 我有点想不起来你的专业了，只记得与印刷有关"
+      },
+      {
+        "attachments": {},
+        "author_id": "1652666783990689796",
+        "conversation_id": "1799803739169345994",
+        "created_at": "2024-06-10T10:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T11:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800120661626810483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800120661626810483",
+        "in_reply_to_user_id": "385760660",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800068765192692087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 差不多就这些了。补充，因为能力不足又无法转专业，导致毕业后生存困难，也无法出国逃离家长；神经多样性和社交障碍所以平常生活交流很不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 2202,
+          "like_count": 11912,
+          "listed_count": 4,
+          "tweet_count": 6307
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T13:30:54.000Z",
+        "description": "This train has now stopped service.",
+        "id": "1652666783990689796",
+        "location": "四惠车辆段临停线",
+        "name": "TheAbandonedTrainS422",
+        "pinned_tweet_id": "1787800139706597662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800123348418224128/kZH2gYyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 635,
+          "like_count": 18154,
+          "listed_count": 3,
+          "tweet_count": 4752
+        },
+        "username": "tranquil_frost",
+        "verified": false
+      }
+    ]
+  }
+}

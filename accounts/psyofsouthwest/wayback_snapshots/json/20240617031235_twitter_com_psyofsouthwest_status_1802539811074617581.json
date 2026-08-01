@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1802262338302550495",
+    "created_at": "2024-06-17T03:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T04:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802539811074617581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1005380328",
+          "start": 0,
+          "username": "waddie1986"
+        },
+        {
+          "end": 21,
+          "id": "39941478",
+          "start": 12,
+          "username": "zaobaosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802539811074617581",
+    "in_reply_to_user_id": "1005380328",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802279499897446652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waddie1986 @zaobaosg 佛教被伊斯兰教揍得包容😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1802262338302550495",
+        "created_at": "2024-06-17T03:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T04:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802539811074617581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1005380328",
+              "start": 0,
+              "username": "waddie1986"
+            },
+            {
+              "end": 21,
+              "id": "39941478",
+              "start": 12,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802539811074617581",
+        "in_reply_to_user_id": "1005380328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802279499897446652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waddie1986 @zaobaosg 佛教被伊斯兰教揍得包容😆"
+      },
+      {
+        "attachments": {},
+        "author_id": "1005380328",
+        "conversation_id": "1802262338302550495",
+        "created_at": "2024-06-16T09:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T10:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802279499897446652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39941478",
+              "start": 0,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802279499897446652",
+        "in_reply_to_user_id": "39941478",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802262338302550495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaobaosg 佛教国家比一神教特别是伊斯兰教包容的多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 2236,
+          "like_count": 12293,
+          "listed_count": 4,
+          "tweet_count": 6481
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-12T02:36:45.000Z",
+        "description": "",
+        "id": "1005380328",
+        "name": "waddie",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 82,
+          "listed_count": 0,
+          "tweet_count": 493
+        },
+        "username": "waddie1986",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "1801926926623182996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397633,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 5446,
+          "tweet_count": 128519
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

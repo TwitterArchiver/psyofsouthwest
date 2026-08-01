@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1953310986041000359",
+    "created_at": "2025-08-07T20:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T21:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953561422383980627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1059638356609396736",
+          "start": 0,
+          "username": "myfxtrader"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953561422383980627",
+    "in_reply_to_user_id": "1059638356609396736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953310986041000359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myfxtrader 连地铁安保都全是退休人员了，你注意看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1953310986041000359",
+        "created_at": "2025-08-07T20:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T21:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953561422383980627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1059638356609396736",
+              "start": 0,
+              "username": "myfxtrader"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953561422383980627",
+        "in_reply_to_user_id": "1059638356609396736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953310986041000359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myfxtrader 连地铁安保都全是退休人员了，你注意看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1059638356609396736",
+        "conversation_id": "1953310986041000359",
+        "created_at": "2025-08-07T04:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953310986041000359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "讨论"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953310986041000359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 190679,
+          "like_count": 244,
+          "quote_count": 4,
+          "reply_count": 75,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#讨论 9月1日起全面禁止“自愿放弃社保”，可能会推动利润微薄的个体商户转向聘请不用交社保的退休人员？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 3906,
+          "like_count": 44515,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 11549
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-06T02:47:26.000Z",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "id": "1059638356609396736",
+        "location": "Hong Kong",
+        "name": "外汇交易员",
+        "pinned_tweet_id": "1953310986041000359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358558,
+          "following_count": 476,
+          "like_count": 7300,
+          "listed_count": 3242,
+          "media_count": 12113,
+          "tweet_count": 40299
+        },
+        "username": "myfxtrader",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1789671846436106251",
+    "created_at": "2024-05-12T15:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T16:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789672423454921161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1488093192184479744",
+          "start": 0,
+          "username": "ceg1632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789672423454921161",
+    "in_reply_to_user_id": "1488093192184479744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789671846436106251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceg1632 家长的情绪觉察调整能力有很大的提升空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1789671846436106251",
+        "created_at": "2024-05-12T15:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T16:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789672423454921161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1488093192184479744",
+              "start": 0,
+              "username": "ceg1632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789672423454921161",
+        "in_reply_to_user_id": "1488093192184479744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789671846436106251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceg1632 家长的情绪觉察调整能力有很大的提升空间"
+      },
+      {
+        "attachments": {},
+        "author_id": "1488093192184479744",
+        "conversation_id": "1789671846436106251",
+        "created_at": "2024-05-12T14:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T15:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789671846436106251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789671846436106251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看家里教小孩读书，教的自己先发疯，重复说小孩好蠢，\n还在上幼儿园的小孩，\n我看不下去说你这也就教出个鸡娃，\n家里说那有什么办法，现在大环境又不好，不会读书以后什么也不会，就是个社会底层，跟你一样，\n然后我闭嘴了，看家里发疯，看小孩被骂，\n\n每次都这样发着疯教着学\n而这也是我曾经历过的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 2106,
+          "like_count": 10547,
+          "listed_count": 4,
+          "tweet_count": 5468
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T10:14:08.000Z",
+        "description": "真实的活在自己的世界里，",
+        "id": "1488093192184479744",
+        "name": "川",
+        "pinned_tweet_id": "1654220454780112896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776504483616268288/SBgGOi44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 2393,
+          "like_count": 3695,
+          "listed_count": 1,
+          "tweet_count": 439
+        },
+        "username": "ceg1632",
+        "verified": false
+      }
+    ]
+  }
+}

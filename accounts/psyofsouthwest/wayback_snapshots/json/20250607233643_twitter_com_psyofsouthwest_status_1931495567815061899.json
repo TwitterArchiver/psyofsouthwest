@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1931476646344982722",
+    "created_at": "2025-06-07T23:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T00:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931495567815061899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "19536434",
+          "start": 0,
+          "username": "igorsushko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931495567815061899",
+    "in_reply_to_user_id": "19536434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931476646344982722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igorsushko 经典的斯拉夫人倒打一耙出现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1931476646344982722",
+        "created_at": "2025-06-07T23:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T00:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931495567815061899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "19536434",
+              "start": 0,
+              "username": "igorsushko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931495567815061899",
+        "in_reply_to_user_id": "19536434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931476646344982722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igorsushko 经典的斯拉夫人倒打一耙出现了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "19536434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "1931476646344982722",
+        "created_at": "2025-06-07T22:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931476646344982722"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Biden",
+              "probability": 0.948,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "Putin",
+              "probability": 0.9532,
+              "start": 85,
+              "type": "Person"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Kremlin",
+              "probability": 0.953,
+              "start": 147,
+              "type": "Place"
+            },
+            {
+              "end": 181,
+              "normalized_text": "NATO",
+              "probability": 0.9313,
+              "start": 178,
+              "type": "Organization"
+            },
+            {
+              "end": 249,
+              "normalized_text": "Zelensky",
+              "probability": 0.9468,
+              "start": 242,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/igorsushko/sta…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/igorsushko/status/1897565632964730980",
+              "start": 280,
+              "url": "https://t.co/J0r8QI6FEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931476646344982722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 13817,
+          "like_count": 143,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897565632964730980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Shortly before the February 2022 invasion, the Biden admin struck a secret deal with Putin to sacrifice millions of Ukrainians in exchange for the Kremlin agreeing not to invade NATO countries.\nThe plan failed because Ukrainians resisted and Zelensky refused to flee his country. https://t.co/J0r8QI6FEY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 3873,
+          "like_count": 40019,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 11220
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-26T14:31:26.000Z",
+        "description": "Born in Ukraine. American. @WindofChangeRG\nRacecar Driver (Ret.) Japanese SUPER GT #FSBletters➡️https://t.co/tICWfox8tE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 83,
+                "tag": "FSBletters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "WindofChangeRG"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "igorsushko.com/articles",
+                "end": 119,
+                "expanded_url": "https://igorsushko.com/articles",
+                "start": 96,
+                "url": "https://t.co/tICWfox8tE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/igorsushko",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/igorsushko",
+                "start": 0,
+                "url": "https://t.co/M2PuTr2YDZ"
+              }
+            ]
+          }
+        },
+        "id": "19536434",
+        "location": "#WindofChange",
+        "name": "Igor Sushko",
+        "pinned_tweet_id": "1931110909164052496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649496580964388864/m5EmNLMC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351538,
+          "following_count": 2099,
+          "like_count": 51195,
+          "listed_count": 4340,
+          "media_count": 10579,
+          "tweet_count": 25036
+        },
+        "url": "https://t.co/M2PuTr2YDZ",
+        "username": "igorsushko",
+        "verified": true
+      }
+    ]
+  }
+}

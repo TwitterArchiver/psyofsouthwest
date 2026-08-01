@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2002310660084891958",
+    "created_at": "2025-12-20T09:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002310660084891958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002310660084891958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001893054765285493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 这条 Reddit 讨论把我戳得很狠，原来那么多人都和我一样，大脑每天像被信息轰炸。​\n\n发帖的人四十多岁、有孩子、有工作，脑子里全是账单、灵感、项目、梦想，想记的东西多到一天能写一百页笔记。\n​\n更窒息的是，他已经在用待办、笔记、收集工具…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2616,
+        "media_key": "3_2001892382065967104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gmg9eaQAAe8Nn.jpg",
+        "width": 2042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2002310660084891958",
+        "created_at": "2025-12-20T09:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002310660084891958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002310660084891958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001893054765285493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 这条 Reddit 讨论把我戳得很狠，原来那么多人都和我一样，大脑每天像被信息轰炸。​\n\n发帖的人四十多岁、有孩子、有工作，脑子里全是账单、灵感、项目、梦想，想记的东西多到一天能写一百页笔记。\n​\n更窒息的是，他已经在用待办、笔记、收集工具…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001892382065967104"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2001893054765285493",
+        "created_at": "2025-12-19T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001893054765285493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5w81RrWPVM",
+              "end": 170,
+              "expanded_url": "https://x.com/immersivetran/status/2001893054765285493/photo/1",
+              "media_key": "3_2001892382065967104",
+              "start": 147,
+              "url": "https://t.co/5w81RrWPVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001893054765285493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/productivity…",
+                "end": 905,
+                "expanded_url": "https://www.reddit.com/r/productivity/comments/1ax1wr7/how_do_you_handle_brain_information_overload/",
+                "start": 882,
+                "url": "https://t.co/0b8qiJW3bI"
+              }
+            ]
+          },
+          "text": "这条 Reddit 讨论把我戳得很狠，原来那么多人都和我一样，大脑每天像被信息轰炸。​\n\n发帖的人四十多岁、有孩子、有工作，脑子里全是账单、灵感、项目、梦想，想记的东西多到一天能写一百页笔记。\n​\n更窒息的是，他已经在用待办、笔记、收集工具，但还是觉得「所有事情都压在脑子里」，完全休息不了。​\n\n最打动我的一句话，是评论区有人说「你永远不会完成」。​\n这句话不是在劝烂尾，而是在提醒：人生本来就不可能把所有想做的事全部做完。​\n\n真正让我们累的，不是信息本身，而是那种「每一条我都不想错过」的执念。​\n\n在这条讨论下面，你会看到好几个流派的人，拿出了自己亲测有效的方法。​\n\n有人坚持每天做「脑力清空」，就是早晚花十分钟把脑子里的想法全倒进纸上或 App 里，让大脑不再死死抓着这些事情。​\n\n有人把所有事情都丢进日历，不再用无底洞式的待办清单，而是用时间块逼自己面对：这周到底能做几件事。​\n\n有人用 GTD 的思路，只保留每周 2–4 个「今天只做完这个也值了」的任务，其他统统放到一边，主动放弃那种虚假的忙碌感。​\n\n这条帖还有一个隐藏价值，是帮你重新划清「信息过载」和「信息选择」的界限。​\n\n很多人以为解决信息过载要「断网」「戒手机」，但评论里反复提到的是「学会筛选和说不」。​\n\n有人说：别再把每一个闪过的点子都记下来，大部分都是一时冲动，真重要的想法自己会回来。​\n\n看完这一大串对话，我才发现之前自己错在哪。​\n\n以前总是想用一个完美系统，把所有信息、灵感、任务都收进去，结果清单越积越厚，焦虑也越堆越高。​\n\n现在反而会反着来：先定好这一阶段最重要的 3 件事，再决定哪些信息值得留下，哪些可以直接略过。​\n\n如果你也正处在「不记下来不放心，记多了更崩溃」的阶段，这条 Reddit 讨论真的值得通读一遍。​\n\n你会看到很多和你一样的人，如何从信息洪水里爬出来：有人靠冥想，有人靠系统，有人靠接受「不可能全都做完」这个事实。​\n\n最关键的是，它会让你意识到：你不是大脑有问题，只是活在一个信息太多的时代，需要换一套对自己更温柔的用脑方式。​\n\nhttps://t.co/0b8qiJW3bI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 36019,
+          "like_count": 326,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "这条 Reddit 讨论把我戳得很狠，原来那么多人都和我一样，大脑每天像被信息轰炸。​\n\n发帖的人四十多岁、有孩子、有工作，脑子里全是账单、灵感、项目、梦想，想记的东西多到一天能写一百页笔记。\n​\n更窒息的是，他已经在用待办、笔记、收集工具，但还是觉得「所有事情都压在脑子里」，完全休息不了。 https://t.co/5w81RrWPVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 4094,
+          "like_count": 59490,
+          "listed_count": 5,
+          "media_count": 374,
+          "tweet_count": 12282
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "2000820463946383370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25177,
+          "following_count": 102,
+          "like_count": 392,
+          "listed_count": 129,
+          "media_count": 441,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

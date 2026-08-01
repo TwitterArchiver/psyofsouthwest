@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2028354659832991744"
+      ],
+      "media_source_tweet_id": [
+        "2028354671719694771"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2028491220734132315",
+    "created_at": "2026-03-02T15:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028491220734132315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1927549973979099136",
+          "start": 3,
+          "username": "HYCZorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GQsBbTxljx",
+          "end": 61,
+          "expanded_url": "https://x.com/HYCZorange/status/2028354671719694771/photo/1",
+          "media_key": "16_2028354659832991744",
+          "start": 38,
+          "url": "https://t.co/GQsBbTxljx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028491220734132315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028354671719694771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYCZorange: hi Doro 给我一个电脑，我要工作。🍊 https://t.co/GQsBbTxljx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 222,
+        "media_key": "16_2028354659832991744",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCYp0QHakAAJSMC.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCYp0QHakAAJSMC.mp4"
+          }
+        ],
+        "width": 224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028354659832991744"
+          ],
+          "media_source_tweet_id": [
+            "2028354671719694771"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2028491220734132315",
+        "created_at": "2026-03-02T15:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028491220734132315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1927549973979099136",
+              "start": 3,
+              "username": "HYCZorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQsBbTxljx",
+              "end": 61,
+              "expanded_url": "https://x.com/HYCZorange/status/2028354671719694771/photo/1",
+              "media_key": "16_2028354659832991744",
+              "start": 38,
+              "url": "https://t.co/GQsBbTxljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028491220734132315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028354671719694771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYCZorange: hi Doro 给我一个电脑，我要工作。🍊 https://t.co/GQsBbTxljx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028354659832991744"
+          ]
+        },
+        "author_id": "1927549973979099136",
+        "conversation_id": "2028354671719694771",
+        "created_at": "2026-03-02T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028354671719694771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQsBbTxljx",
+              "end": 45,
+              "expanded_url": "https://x.com/HYCZorange/status/2028354671719694771/photo/1",
+              "media_key": "16_2028354659832991744",
+              "start": 22,
+              "url": "https://t.co/GQsBbTxljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028354671719694771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2951,
+          "like_count": 233,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "hi Doro 给我一个电脑，我要工作。🍊 https://t.co/GQsBbTxljx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4691,
+          "like_count": 88101,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 13485
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T02:18:34.000Z",
+        "description": "Give me lucky orange",
+        "id": "1927549973979099136",
+        "name": "好运橙子🍊",
+        "pinned_tweet_id": "2020197723832742331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010784499291078656/zHB49VtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 219,
+          "like_count": 943,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 441
+        },
+        "username": "HYCZorange",
+        "verified": false
+      }
+    ]
+  }
+}

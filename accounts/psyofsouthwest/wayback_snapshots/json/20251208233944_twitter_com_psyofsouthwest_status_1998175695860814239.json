@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1998175695860814239",
+    "created_at": "2025-12-08T23:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T00:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998175695860814239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998175695860814239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998166591465513330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 同时，我本人包括但不限于接以下单子（实在是太缺钱了，残念）：\n\n陪聊/采访/咨询/陪玩/唱歌/配音等单子，基础价格为1分钟3元，若有进阶/复杂需求视情况加价\n\n线下则接面谈咨询/女友扮演/定制cosplay（包括但不限于场照，舞蹈，展演等，具…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998175695860814239].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998175695860814239",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998175695860814239"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1998166579520196609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rp6tZb0AEtMoN.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1998166582250655745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rp63kbUAEBE4-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998166583223660544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rp67MaMAAi1nF.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 9032,
+        "height": 320,
+        "media_key": "7_1998166580241555456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998166580241555456/pu/img/N1jHlC5QAcEhKWxx.jpg",
+        "public_metrics": {
+          "view_count": 107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998166580241555456/pu/vid/avc1/478x270/wFxiZGYZGKA42ACM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998166580241555456/pu/vid/avc1/568x320/INm045_oMf7Y_kwN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998166580241555456/pu/pl/WiFmBEK7YS2G8Qfo.m3u8"
+          }
+        ],
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998166579520196609",
+            "3_1998166582250655745",
+            "3_1998166583223660544",
+            "7_1998166580241555456"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1998166591465513330",
+        "created_at": "2025-12-08T23:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998166591465513330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCTMlxUDNI",
+              "end": 169,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998166591465513330/video/1",
+              "media_key": "3_1998166579520196609",
+              "start": 146,
+              "url": "https://t.co/pCTMlxUDNI"
+            },
+            {
+              "display_url": "pic.x.com/pCTMlxUDNI",
+              "end": 169,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998166591465513330/video/1",
+              "media_key": "3_1998166582250655745",
+              "start": 146,
+              "url": "https://t.co/pCTMlxUDNI"
+            },
+            {
+              "display_url": "pic.x.com/pCTMlxUDNI",
+              "end": 169,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998166591465513330/video/1",
+              "media_key": "3_1998166583223660544",
+              "start": 146,
+              "url": "https://t.co/pCTMlxUDNI"
+            },
+            {
+              "display_url": "pic.x.com/pCTMlxUDNI",
+              "end": 169,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998166591465513330/video/1",
+              "media_key": "7_1998166580241555456",
+              "start": 146,
+              "url": "https://t.co/pCTMlxUDNI"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1998138329334980664",
+              "start": 170,
+              "url": "https://t.co/ngMu4GvNin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998166591465513330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 567,
+                "id": "1300828282061877249",
+                "start": 554,
+                "username": "hanlianyi331"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/39684…",
+                "end": 634,
+                "expanded_url": "https://www.zhihu.com/question/396842139/answer/1655347210?share_code=8meFR6o6D9mZ&utm_psn=1981618981665281488",
+                "start": 611,
+                "url": "https://t.co/IlhC132lpe"
+              },
+              {
+                "display_url": "zhihu.com/question/48945…",
+                "end": 684,
+                "expanded_url": "https://www.zhihu.com/question/489459808/answer/2608366711?share_code=15pnOeLgIhhlP&utm_psn=1981619537658007775",
+                "start": 661,
+                "url": "https://t.co/USWstW5AGD"
+              }
+            ]
+          },
+          "text": "同时，我本人包括但不限于接以下单子（实在是太缺钱了，残念）：\n\n陪聊/采访/咨询/陪玩/唱歌/配音等单子，基础价格为1分钟3元，若有进阶/复杂需求视情况加价\n\n线下则接面谈咨询/女友扮演/定制cosplay（包括但不限于场照，舞蹈，展演等，具体价格视需求而定）等，异地出勤等情况需视情况加价\n\n如果是想要咨询事迹，或是想要邀请我参与某个会议或者接受某个采访，您可以包括但不限于获知我：\n1.丰富的人生经历（因为阿斯伯格，性格原因和各种机缘巧合，我的经历异于常人）\n2.长达十年的危机干预和助人经历，除了跨性别者群体，还包括偏远地区的人口拐卖，非法监禁和非法机构等案件\n3.2012年至今中国大陆地区跨性别女性社群的大部分事迹（但不会透露他人个人信息和隐私）\n\n如果是陪聊或陪玩，我具有：\n1.有基础的心理咨询技能培训经历\n2.我是早期VOCALOID音乐作者之一，可以在某一部分的音乐领域进行陪聊\n3.炉石传说2015年全民实力赛深圳赛区预赛亚军\n4.王者荣耀s3赛季及以后部分赛季最强王者\n\n线下可以在时间/服装/地点形式上自由定制，包括会议/展演/场照，也可是纯娱乐的形式，包括陪吃，陪喝，陪玩，女友扮演。若有特殊需求可提出。\n\n所有单子会在我的能力和意愿范围之内接单。\n\n联系方式：\ntelegram：@hanlianyi331\nQQ：3560864074 用户名：寒涟漪（账号四）\n\n附注：\n我个人的一些早期经历：https://t.co/IlhC132lpe\n\n更早期的一个非跨性别者群体的非法案件的受助者：\n\nhttps://t.co/USWstW5AGD"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 423,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998138329334980664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同时，我本人包括但不限于接以下单子（实在是太缺钱了，残念）：\n\n陪聊/采访/咨询/陪玩/唱歌/配音等单子，基础价格为1分钟3元，若有进阶/复杂需求视情况加价\n\n线下则接面谈咨询/女友扮演/定制cosplay（包括但不限于场照，舞蹈，展演等，具体价格视需求而定）等，异地出勤等情况需视情况加价 https://t.co/pCTMlxUDNI https://t.co/ngMu4GvNin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 4045,
+          "like_count": 57156,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 12205
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40376,
+          "following_count": 3668,
+          "like_count": 1313,
+          "listed_count": 69,
+          "media_count": 368,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

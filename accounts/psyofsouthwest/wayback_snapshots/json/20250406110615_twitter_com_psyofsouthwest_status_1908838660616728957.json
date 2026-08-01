@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1908833598033043726",
+    "created_at": "2025-04-06T11:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T12:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908838660616728957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908838660616728957",
+    "in_reply_to_user_id": "708700717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908833598033043726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908833584045240320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2KCABaMAA_XU3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1908833598033043726",
+        "created_at": "2025-04-06T11:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T12:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908838660616728957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908838660616728957",
+        "in_reply_to_user_id": "708700717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908833598033043726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908833584045240320"
+          ]
+        },
+        "author_id": "708700717",
+        "conversation_id": "1908833598033043726",
+        "created_at": "2025-04-06T10:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908833598033043726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqQzqhnwj5",
+              "end": 35,
+              "expanded_url": "https://x.com/GuajavaDuo/status/1908833598033043726/photo/1",
+              "media_key": "3_1908833584045240320",
+              "start": 12,
+              "url": "https://t.co/cqQzqhnwj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908833598033043726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家门不幸啊家门不幸啊（ https://t.co/cqQzqhnwj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 3373,
+          "like_count": 28921,
+          "listed_count": 6,
+          "media_count": 320,
+          "tweet_count": 10199
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "永失我爱😭",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "盒盒又猫猫",
+        "pinned_tweet_id": "1899832476828385650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905571223456940034/TmepkzXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5443,
+          "following_count": 1412,
+          "like_count": 7290,
+          "listed_count": 51,
+          "media_count": 21623,
+          "tweet_count": 342302
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

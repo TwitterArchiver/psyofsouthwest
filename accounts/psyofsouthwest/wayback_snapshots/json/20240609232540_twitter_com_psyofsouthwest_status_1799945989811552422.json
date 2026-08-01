@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1799803739169345994",
+    "created_at": "2024-06-09T23:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T00:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799945989811552422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652666783990689796",
+          "start": 0,
+          "username": "tranquil_frost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799945989811552422",
+    "in_reply_to_user_id": "1652666783990689796",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799803739169345994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tranquil_frost 我认识的人里面，上一个不吃药的叫初雪……也天天觉得家长害他，天天容貌焦虑，天天喊死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1799803739169345994",
+        "created_at": "2024-06-09T23:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T00:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799945989811552422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652666783990689796",
+              "start": 0,
+              "username": "tranquil_frost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799945989811552422",
+        "in_reply_to_user_id": "1652666783990689796",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799803739169345994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tranquil_frost 我认识的人里面，上一个不吃药的叫初雪……也天天觉得家长害他，天天容貌焦虑，天天喊死"
+      },
+      {
+        "attachments": {},
+        "author_id": "1652666783990689796",
+        "conversation_id": "1799803739169345994",
+        "created_at": "2024-06-09T14:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799803739169345994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799803739169345994",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是你中跨圈唯一一个不听医嘱从来不吃药的，几乎只在紫砂的时候会过量的吃\n既然痛苦是建立在客观事实的基础上的，那么你们家长难道还想在不改善我的客观条件的前提下继续逼我然后妄图让我吃了药做了MECT失忆变麻木就好了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 2198,
+          "like_count": 11866,
+          "listed_count": 4,
+          "tweet_count": 6290
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T13:30:54.000Z",
+        "description": ".",
+        "id": "1652666783990689796",
+        "location": ".",
+        "name": ".",
+        "pinned_tweet_id": "1787800139706597662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798529236955021313/UyCLFy9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 635,
+          "like_count": 18131,
+          "listed_count": 3,
+          "tweet_count": 4738
+        },
+        "username": "tranquil_frost",
+        "verified": false
+      }
+    ]
+  }
+}

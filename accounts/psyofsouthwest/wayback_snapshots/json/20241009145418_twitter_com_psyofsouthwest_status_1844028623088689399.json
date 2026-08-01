@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1844015220173459781",
+    "created_at": "2024-10-09T14:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T15:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844028623088689399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585244555775205376",
+          "start": 0,
+          "username": "zhreeesy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844028623088689399",
+    "in_reply_to_user_id": "1585244555775205376",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844015220173459781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhreeesy 省了xx霉素了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1844015220173459781",
+        "created_at": "2024-10-09T14:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T15:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844028623088689399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585244555775205376",
+              "start": 0,
+              "username": "zhreeesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844028623088689399",
+        "in_reply_to_user_id": "1585244555775205376",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844015220173459781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhreeesy 省了xx霉素了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585244555775205376",
+        "conversation_id": "1844015220173459781",
+        "created_at": "2024-10-09T14:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T15:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844015220173459781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844015220173459781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我晚餐吃麵包\n吃了一片之後突然發現下面那片是發霉的\n然後看看日期\n保質期已經差不多過了9天😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 2535,
+          "like_count": 15501,
+          "listed_count": 4,
+          "tweet_count": 7435
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T12:20:17.000Z",
+        "description": "好餓",
+        "id": "1585244555775205376",
+        "location": "Malaysia",
+        "name": "澤西",
+        "pinned_tweet_id": "1797987225621418377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695985371962904576/CRcRqttV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 404,
+          "like_count": 28473,
+          "listed_count": 2,
+          "tweet_count": 13394
+        },
+        "username": "zhreeesy",
+        "verified": false
+      }
+    ]
+  }
+}

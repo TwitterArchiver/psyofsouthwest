@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1946760526412894300",
+    "created_at": "2025-07-21T03:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947138480829604210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "57618417",
+          "start": 0,
+          "username": "90kPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947138480829604210",
+    "in_reply_to_user_id": "57618417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946760526412894300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@90kPa 面向对象的都在电脑里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1946760526412894300",
+        "created_at": "2025-07-21T03:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947138480829604210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "57618417",
+              "start": 0,
+              "username": "90kPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947138480829604210",
+        "in_reply_to_user_id": "57618417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946760526412894300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@90kPa 面向对象的都在电脑里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "57618417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1946760526412894300",
+        "created_at": "2025-07-20T02:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946760526412894300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946760526412894300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 28218,
+          "like_count": 207,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "观察了下附近，写字楼入住的商户主要有三类：\n1、面向小学生——跆拳道、少儿武术、美术、下棋、芭蕾、练字\n2、面向老头老太——针灸养生，保健食疗，健康管理\n3、面向女性——瑜伽，美容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 3877,
+          "like_count": 41920,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 11378
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T11:25:42.000Z",
+        "description": "Non omnis moriar. \n\n#Philharmonic #camping #bikepacking #prepper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "Philharmonic"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "camping"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "tag": "bikepacking"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "prepper"
+              }
+            ]
+          }
+        },
+        "id": "57618417",
+        "location": "Changsha",
+        "name": "90千帕",
+        "pinned_tweet_id": "1863398031950778766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234865639845552134/KNL5SRqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40438,
+          "following_count": 165,
+          "like_count": 6791,
+          "listed_count": 306,
+          "media_count": 1547,
+          "tweet_count": 40282
+        },
+        "username": "90kPa",
+        "verified": false
+      }
+    ]
+  }
+}

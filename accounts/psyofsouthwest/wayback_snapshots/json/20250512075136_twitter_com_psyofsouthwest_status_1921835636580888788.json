@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1921593286973595970",
+    "created_at": "2025-05-12T07:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T08:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921835636580888788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948634347",
+          "start": 0,
+          "username": "HumanSabre"
+        },
+        {
+          "end": 25,
+          "id": "1647474433672757248",
+          "start": 12,
+          "username": "Defence_PK99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921835636580888788",
+    "in_reply_to_user_id": "1948634347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921736718144995468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HumanSabre @Defence_PK99 They may have to be scared all day long"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1921593286973595970",
+        "created_at": "2025-05-12T07:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T08:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921835636580888788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948634347",
+              "start": 0,
+              "username": "HumanSabre"
+            },
+            {
+              "end": 25,
+              "id": "1647474433672757248",
+              "start": 12,
+              "username": "Defence_PK99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921835636580888788",
+        "in_reply_to_user_id": "1948634347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921736718144995468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HumanSabre @Defence_PK99 They may have to be scared all day long"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948634347",
+        "conversation_id": "1921593286973595970",
+        "created_at": "2025-05-12T01:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921736718144995468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "J10s",
+              "probability": 0.6031,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "J-35",
+              "probability": 0.5382,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647474433672757248",
+              "start": 0,
+              "username": "Defence_PK99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921736718144995468",
+        "in_reply_to_user_id": "1647474433672757248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5299,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921593286973595970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Defence_PK99 Indians couldn't even handle J10s...J-35 will be a nightmare for them."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 3827,
+          "like_count": 36851,
+          "listed_count": 6,
+          "media_count": 344,
+          "tweet_count": 10932
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-09T04:43:00.000Z",
+        "description": "Dad. Patriotic. MAGA & America First. Military and Aviation Enthusiast. Chicago Bears for life. NO DMs PLEASE.",
+        "id": "1948634347",
+        "location": "San Diego, CA",
+        "name": "HS",
+        "pinned_tweet_id": "1681100404485132290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045775469365190657/6H3mpuR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 5072,
+          "like_count": 756993,
+          "listed_count": 44,
+          "media_count": 1173,
+          "tweet_count": 180255
+        },
+        "username": "HumanSabre",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-16T05:38:30.000Z",
+        "description": "Defence Enthusiast | Journalist | Reports on Defence Geopolitics and Global conflicts & Afghanistan's Affairs | Ultra Nationalist | Believe in Freedom of speech",
+        "id": "1647474433672757248",
+        "location": "Islamabad, Pakistan",
+        "name": "Defence Pakistan",
+        "pinned_tweet_id": "1833535661401624732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897562959406104576/r3v8JXaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92947,
+          "following_count": 3569,
+          "like_count": 31655,
+          "listed_count": 159,
+          "media_count": 6777,
+          "tweet_count": 10522
+        },
+        "username": "Defence_PK99",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

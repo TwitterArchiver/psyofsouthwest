@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1992001216809930759",
+    "created_at": "2025-11-21T22:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T23:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992001216809930759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535166019978768384",
+          "start": 3,
+          "username": "aigclink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992001216809930759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991440226737353191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aigclink: YouTube视频到B站，AI一条龙自动化处理工具：ytb2bili，TikTok、Instagram也可以\n\n从YouTube载视频，自动生成字幕、翻译、生成元数据，定时上传到Bilibili\n\n自动下载质量最佳视频，Whisper生成字幕\n百度/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1991438468942295041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6MCvIVacAESgNN.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1992001216809930759",
+        "created_at": "2025-11-21T22:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T23:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992001216809930759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535166019978768384",
+              "start": 3,
+              "username": "aigclink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992001216809930759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991440226737353191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aigclink: YouTube视频到B站，AI一条龙自动化处理工具：ytb2bili，TikTok、Instagram也可以\n\n从YouTube载视频，自动生成字幕、翻译、生成元数据，定时上传到Bilibili\n\n自动下载质量最佳视频，Whisper生成字幕\n百度/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991438468942295041"
+          ]
+        },
+        "author_id": "1535166019978768384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1991440226737353191",
+        "created_at": "2025-11-20T09:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T10:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991440226737353191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5bkG3Agzw",
+              "end": 175,
+              "expanded_url": "https://x.com/aigclink/status/1991440226737353191/photo/1",
+              "media_key": "3_1991438468942295041",
+              "start": 152,
+              "url": "https://t.co/B5bkG3Agzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991440226737353191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 219,
+                "start": 210,
+                "tag": "ytb2bili"
+              }
+            ]
+          },
+          "text": "YouTube视频到B站，AI一条龙自动化处理工具：ytb2bili，TikTok、Instagram也可以\n\n从YouTube载视频，自动生成字幕、翻译、生成元数据，定时上传到Bilibili\n\n自动下载质量最佳视频，Whisper生成字幕\n百度/DeepSeek把字幕翻译成中文，写标题、简介、标签\n每小时上传1个视频，视频上传成功后1小时自动上传字幕\n\n有Web界面实时看进度、单步重试、查看下载所有生成的文件\n\n#ytb2bili"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 740,
+          "impression_count": 62061,
+          "like_count": 674,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "YouTube视频到B站，AI一条龙自动化处理工具：ytb2bili，TikTok、Instagram也可以\n\n从YouTube载视频，自动生成字幕、翻译、生成元数据，定时上传到Bilibili\n\n自动下载质量最佳视频，Whisper生成字幕\n百度/DeepSeek把字幕翻译成中文，写标题、简介、标签 https://t.co/B5bkG3Agzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 4037,
+          "like_count": 55393,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12129
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T07:44:54.000Z",
+        "description": "致力于让每个想拥抱AI的人都能找到适合自己的AI产品，助力企业定制AIGC应用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "d.aigclink.ai",
+                "end": 23,
+                "expanded_url": "http://d.aigclink.ai",
+                "start": 0,
+                "url": "https://t.co/m6mpMpreVF"
+              }
+            ]
+          }
+        },
+        "id": "1535166019978768384",
+        "name": "AIGCLINK",
+        "pinned_tweet_id": "1991644889285865945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729450995850027008/gllXr6bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31138,
+          "following_count": 1141,
+          "like_count": 664,
+          "listed_count": 537,
+          "media_count": 3376,
+          "tweet_count": 4602
+        },
+        "url": "https://t.co/m6mpMpreVF",
+        "username": "aigclink",
+        "verified": true
+      }
+    ]
+  }
+}

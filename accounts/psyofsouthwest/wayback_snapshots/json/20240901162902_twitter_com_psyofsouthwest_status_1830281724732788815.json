@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1830236058518515970",
+    "created_at": "2024-09-01T16:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T17:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830281724732788815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515290827454439426",
+          "start": 0,
+          "username": "FuncSir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830281724732788815",
+    "in_reply_to_user_id": "1515290827454439426",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830236058518515970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuncSir 按我说，能被动收到那里的也是些被洗脑洗得很蠢的孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1830236058518515970",
+        "created_at": "2024-09-01T16:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T17:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830281724732788815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515290827454439426",
+              "start": 0,
+              "username": "FuncSir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830281724732788815",
+        "in_reply_to_user_id": "1515290827454439426",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830236058518515970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuncSir 按我说，能被动收到那里的也是些被洗脑洗得很蠢的孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515290827454439426",
+        "conversation_id": "1830236058518515970",
+        "created_at": "2024-09-01T13:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830236058518515970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830236058518515970",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唉... 其实讲真, 那些所谓的\"叛逆孩子学校\", 收的都是比较善良的孩子... 要真来个硬茬, 所谓的教官刚要抓, 估计就被捅或者是砍个透心凉心飞扬了... 要是遇上更硬一点儿的, 叫土枪给爆头也说不定... 不过更可能的是人家混社会不在家, 你也找不到人家.\n也就是欺负那些相对善良的多的孩子... 欺软怕硬..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 2418,
+          "like_count": 14247,
+          "listed_count": 4,
+          "tweet_count": 7149
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T11:28:13.000Z",
+        "description": "println!(\"Hello!\");",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vioxt.eu.org",
+                "end": 23,
+                "expanded_url": "http://vioxt.eu.org",
+                "start": 0,
+                "url": "https://t.co/DGPCc9sVCE"
+              }
+            ]
+          }
+        },
+        "id": "1515290827454439426",
+        "location": "Earth",
+        "name": "FunctionSir",
+        "pinned_tweet_id": "1756343396824658173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515291015145398273/Ip8NFdrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 2065,
+          "like_count": 2439,
+          "listed_count": 3,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/DGPCc9sVCE",
+        "username": "FuncSir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008166110924038144"
+      ],
+      "media_source_tweet_id": [
+        "2008172169982042379"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008234449528602929",
+    "created_at": "2026-01-05T17:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T18:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008234449528602929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1453792596816498689",
+          "start": 3,
+          "username": "stoyanovStoya"
+        },
+        {
+          "end": 27,
+          "id": "1433678976564662273",
+          "start": 19,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JWpkAK4mfn",
+          "end": 63,
+          "expanded_url": "https://x.com/stoyanovStoya/status/2008172169982042379/video/1",
+          "media_key": "13_2008166110924038144",
+          "start": 40,
+          "url": "https://t.co/JWpkAK4mfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008234449528602929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008172169982042379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stoyanovStoya: @hsn8086 大爺誤闖男女混合監獄🤭 https://t.co/JWpkAK4mfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 862300,
+        "height": 1920,
+        "media_key": "13_2008166110924038144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008166110924038144/img/RpZWVB4Stnzq--kk.jpg",
+        "public_metrics": {
+          "view_count": 3050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166110924038144/vid/avc1/720x1416/Hmek8d7OcN818ybv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166110924038144/vid/avc1/480x944/DnXvA8dq-6Ad2fRE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166110924038144/vid/avc1/976x1920/g1uogdV6LNrGsSmv.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166110924038144/vid/avc1/320x628/v92_eDHkZihlUMUX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008166110924038144/pl/3MoIdwRrnFjwy4YO.m3u8?v=d9c"
+          }
+        ],
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008166110924038144"
+          ],
+          "media_source_tweet_id": [
+            "2008172169982042379"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008234449528602929",
+        "created_at": "2026-01-05T17:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008234449528602929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1453792596816498689",
+              "start": 3,
+              "username": "stoyanovStoya"
+            },
+            {
+              "end": 27,
+              "id": "1433678976564662273",
+              "start": 19,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWpkAK4mfn",
+              "end": 63,
+              "expanded_url": "https://x.com/stoyanovStoya/status/2008172169982042379/video/1",
+              "media_key": "13_2008166110924038144",
+              "start": 40,
+              "url": "https://t.co/JWpkAK4mfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008234449528602929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008172169982042379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stoyanovStoya: @hsn8086 大爺誤闖男女混合監獄🤭 https://t.co/JWpkAK4mfn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008166110924038144"
+          ]
+        },
+        "author_id": "1453792596816498689",
+        "conversation_id": "2008155873957511289",
+        "created_at": "2026-01-05T13:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008172169982042379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWpkAK4mfn",
+              "end": 44,
+              "expanded_url": "https://x.com/stoyanovStoya/status/2008172169982042379/video/1",
+              "media_key": "13_2008166110924038144",
+              "start": 21,
+              "url": "https://t.co/JWpkAK4mfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008172169982042379",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 4704,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008155873957511289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 大爺誤闖男女混合監獄🤭 https://t.co/JWpkAK4mfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 4302,
+          "like_count": 65096,
+          "listed_count": 5,
+          "media_count": 378,
+          "tweet_count": 12455
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T18:35:54.000Z",
+        "description": "信猫皇得冻干、得罐罐、得猫条、得水牛/\n分享一切美好、有趣的事物／\n早猫晚猫/猫睡时看人类/严格遵守陛下作息时间/大内总管李公公谨遵陛下圣旨发布推特/需要回关的请留言/找陛下请 問大厨小三花🐱“陛下在寢宮還是在禦膳房？”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqJ90…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqJ90PqCdy8Zskoq4JJErCA?si=soAVv5WR9ftQE1zr",
+                "start": 0,
+                "url": "https://t.co/5WCsrn8tJ1"
+              }
+            ]
+          }
+        },
+        "id": "1453792596816498689",
+        "location": "Taoyuan County, Taiwan",
+        "name": "🙇‍♀️貓皇陛下🙇‍♀️",
+        "pinned_tweet_id": "2007723565530124328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003713227243266048/bQm4-lwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14253,
+          "following_count": 1261,
+          "like_count": 78720,
+          "listed_count": 56,
+          "media_count": 5281,
+          "tweet_count": 10141
+        },
+        "url": "https://t.co/5WCsrn8tJ1",
+        "username": "stoyanovStoya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114818,
+          "following_count": 1014,
+          "like_count": 49714,
+          "listed_count": 258,
+          "media_count": 18378,
+          "tweet_count": 27670
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

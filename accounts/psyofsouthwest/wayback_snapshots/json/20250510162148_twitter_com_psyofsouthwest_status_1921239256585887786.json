@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1921107387827503303",
+    "created_at": "2025-05-10T16:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T17:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921239256585887786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "791184900544090112",
+          "start": 0,
+          "username": "havsomgoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921239256585887786",
+    "in_reply_to_user_id": "791184900544090112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921107387827503303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@havsomgoo 你的饭碗不能丢：给定一个只包含 '(' 和 ')' 的字符串 s，找出其中最长的有效括号子串的长度。有效括号子串是指括号能够正确匹配的子串（即每个 '(' 都有对应的 ')'，且括号嵌套合法）要求：字符串长度 n 满足 0 &lt;= n &lt;= 10^5。字符串只包含 '(' 和 ')'。时间复杂度尽量优化，空间复杂度也要考虑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1921107361273462785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqkk93QXwAEuK0k.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1921107361126903813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqkk92tbcAUcPQe.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1921107387827503303",
+        "created_at": "2025-05-10T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921239256585887786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "791184900544090112",
+              "start": 0,
+              "username": "havsomgoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921239256585887786",
+        "in_reply_to_user_id": "791184900544090112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921107387827503303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@havsomgoo 你的饭碗不能丢：给定一个只包含 '(' 和 ')' 的字符串 s，找出其中最长的有效括号子串的长度。有效括号子串是指括号能够正确匹配的子串（即每个 '(' 都有对应的 ')'，且括号嵌套合法）要求：字符串长度 n 满足 0 &lt;= n &lt;= 10^5。字符串只包含 '(' 和 ')'。时间复杂度尽量优化，空间复杂度也要考虑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921107361273462785",
+            "3_1921107361126903813"
+          ]
+        },
+        "author_id": "791184900544090112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921107387827503303",
+        "created_at": "2025-05-10T07:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921107387827503303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBPHk57dSs",
+              "end": 155,
+              "expanded_url": "https://x.com/havsomgoo/status/1921107387827503303/photo/1",
+              "media_key": "3_1921107361273462785",
+              "start": 132,
+              "url": "https://t.co/CBPHk57dSs"
+            },
+            {
+              "display_url": "pic.x.com/CBPHk57dSs",
+              "end": 155,
+              "expanded_url": "https://x.com/havsomgoo/status/1921107387827503303/photo/1",
+              "media_key": "3_1921107361126903813",
+              "start": 132,
+              "url": "https://t.co/CBPHk57dSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921107387827503303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 30427,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我奶奶，有轻微精神分裂，听力障碍。住在破屋子里。有被害妄想，偏执，很难相处。爸爸在世的时候，每天来给她送饭。现在只能暂时让我二婶每天来看看。我二叔长年在外开会货车，三叔定居外地，大姑也在外地。\n她现在只知道我爸好久不来送饭了。一桌子菜馊了也不扔。\n我该怎么办啊。 https://t.co/CBPHk57dSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 3824,
+          "like_count": 36128,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 10876
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-26T07:49:14.000Z",
+        "description": "面临失业的程序员",
+        "id": "791184900544090112",
+        "location": "中国 China",
+        "name": "倔强的羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897115947124842496/tvqRjQ3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1290,
+          "like_count": 6521,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 2124
+        },
+        "username": "havsomgoo",
+        "verified": false
+      }
+    ]
+  }
+}

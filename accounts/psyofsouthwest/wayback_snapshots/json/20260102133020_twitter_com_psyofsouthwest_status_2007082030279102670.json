@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2007082030279102670",
+    "created_at": "2026-01-02T13:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007082030279102670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007082030279102670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006563026980491661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 最近刷 GitHub 的时候，顺手点进一个 Star 10 万的仓库，结果一看直接沉迷。\n\n它是一个专门围绕「读计算机科学论文」搭起来的全球社区，仓库只是入口，后面是线下读书会、线上分享、视频回放一整套生态。\n\n先说最戳我的点：它不是简单丢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_2006562937012629505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9i-XCgaMAEvr6x.jpg",
+        "width": 2042
+      },
+      {
+        "height": 2600,
+        "media_key": "3_2006562937021067264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9i-XCia8AA2h80.jpg",
+        "width": 2040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2007082030279102670",
+        "created_at": "2026-01-02T13:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007082030279102670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007082030279102670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006563026980491661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 最近刷 GitHub 的时候，顺手点进一个 Star 10 万的仓库，结果一看直接沉迷。\n\n它是一个专门围绕「读计算机科学论文」搭起来的全球社区，仓库只是入口，后面是线下读书会、线上分享、视频回放一整套生态。\n\n先说最戳我的点：它不是简单丢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006562937012629505",
+            "3_2006562937021067264"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2006563026980491661",
+        "created_at": "2026-01-01T03:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006563026980491661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYiwpHHUb1",
+              "end": 146,
+              "expanded_url": "https://x.com/immersivetran/status/2006563026980491661/photo/1",
+              "media_key": "3_2006562937012629505",
+              "start": 123,
+              "url": "https://t.co/HYiwpHHUb1"
+            },
+            {
+              "display_url": "pic.x.com/HYiwpHHUb1",
+              "end": 146,
+              "expanded_url": "https://x.com/immersivetran/status/2006563026980491661/photo/1",
+              "media_key": "3_2006562937021067264",
+              "start": 123,
+              "url": "https://t.co/HYiwpHHUb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006563026980491661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/papers-we-love…",
+                "end": 622,
+                "expanded_url": "https://github.com/papers-we-love/papers-we-love",
+                "start": 599,
+                "url": "https://t.co/V04294qRIO"
+              },
+              {
+                "display_url": "paperswelove.org",
+                "end": 650,
+                "expanded_url": "https://paperswelove.org/",
+                "start": 627,
+                "url": "https://t.co/4bb1v1rXRp"
+              }
+            ]
+          },
+          "text": "最近刷 GitHub 的时候，顺手点进一个 Star 10 万的仓库，结果一看直接沉迷。\n\n它是一个专门围绕「读计算机科学论文」搭起来的全球社区，仓库只是入口，后面是线下读书会、线上分享、视频回放一整套生态。\n\n先说最戳我的点：它不是简单丢一堆 PDF，而是「帮你选好了一批值得读的论文」，再按主题整理好目录。\n操作系统、分布式系统、网络、数据库、语言理论……基本每条主干方向，都能在它的目录里找到对应的经典论文清单。\n\n主仓库把各种「找论文的好地方」也整理好了，等于顺手给你做了一份 CS 论文导航。从 arXiv、Google Scholar，到一些冷门但宝藏的技术期刊、博客清单，都被归在一块儿，想继续深挖非常方便。\n\n而且仓库自带脚本，可以一键把目录里的 PDF 扫描下来下载到本地，配合自己的知识库工具，学习闭环一下就打通了。\n\nPapers We Love 这个仓库，本质上是一个「计算机论文读书会+精选论文导航」，帮你把分散在全网、质量参差的论文资源，整理成一个可以直接开读、还能参与社区讨论的入口，被不少开发者视为「CS 论文入门必收藏清单」，非常适合想系统提升计算机科学功底的人。\n\n对大多数开发者而言，Google Scholar、arXiv 上论文太多，论文哪篇重要、哪篇只是增量工作，很难判断；PWL 的目标就是构建一套「计算机科学论文 Canon」（经典谱系）。\n\n仓库：https://t.co/V04294qRIO\n\n官网：https://t.co/4bb1v1rXRp"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 56401,
+          "like_count": 643,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "最近刷 GitHub 的时候，顺手点进一个 Star 10 万的仓库，结果一看直接沉迷。\n\n它是一个专门围绕「读计算机科学论文」搭起来的全球社区，仓库只是入口，后面是线下读书会、线上分享、视频回放一整套生态。\n\n先说最戳我的点：它不是简单丢一堆 https://t.co/HYiwpHHUb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 4204,
+          "like_count": 62966,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 12384
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654440272770781185/b1WGmhS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27669,
+          "following_count": 102,
+          "like_count": 409,
+          "listed_count": 150,
+          "media_count": 464,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

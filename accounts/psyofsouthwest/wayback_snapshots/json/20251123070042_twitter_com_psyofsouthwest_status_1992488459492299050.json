@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1992450751688536445",
+    "created_at": "2025-11-23T07:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992488459492299050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "981435845235310593",
+          "start": 0,
+          "username": "lieyuren"
+        },
+        {
+          "end": 21,
+          "id": "384850586",
+          "start": 10,
+          "username": "ssslumdunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992488459492299050",
+    "in_reply_to_user_id": "981435845235310593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992473261926711727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lieyuren @ssslumdunk 还记得上海出租车多收钱吗，九百都能把人逼死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1992450751688536445",
+        "created_at": "2025-11-23T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992488459492299050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "981435845235310593",
+              "start": 0,
+              "username": "lieyuren"
+            },
+            {
+              "end": 21,
+              "id": "384850586",
+              "start": 10,
+              "username": "ssslumdunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992488459492299050",
+        "in_reply_to_user_id": "981435845235310593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992473261926711727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lieyuren @ssslumdunk 还记得上海出租车多收钱吗，九百都能把人逼死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981435845235310593",
+        "conversation_id": "1992450751688536445",
+        "created_at": "2025-11-23T06:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992473261926711727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "384850586",
+              "start": 0,
+              "username": "ssslumdunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992473261926711727",
+        "in_reply_to_user_id": "384850586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5386,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992450751688536445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssslumdunk 我有个亲戚得了癌症，了解了一下医保报销政策，他癌症晚期，已经转移，无法手术，如果是每年400多元的医保内，用国产化疗药+国产PD-1，一年花费不会超过5万，他那个癌到晚期很难活过2年。\n\n即使活到2年以上也不会增加多少额外费用，因为化疗最多6次，PD-1也最多2年。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 4036,
+          "like_count": 55505,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 12138
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T07:38:34.000Z",
+        "description": "",
+        "id": "981435845235310593",
+        "name": "lieyuren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045523424758714368/56qXB6KA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 104,
+          "like_count": 30760,
+          "listed_count": 8,
+          "media_count": 645,
+          "tweet_count": 5069
+        },
+        "username": "lieyuren",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-04T12:55:28.000Z",
+        "description": "微博百万粉丝，电竞解说，创业纳斯达克IPO已躺期权牛散\n\n币圈期权最强工具Signalplus注册 \nhttps://t.co/DVeF6V1KUo\n\nokx手续费减免20%\nhttps://t.co/E8IrXnBmwI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.signalplus.com/user/register?…",
+                "end": 74,
+                "expanded_url": "http://t.signalplus.com/user/register?ref=22f3b",
+                "start": 51,
+                "url": "https://t.co/DVeF6V1KUo"
+              },
+              {
+                "display_url": "okx.com/join/ABC868",
+                "end": 111,
+                "expanded_url": "https://www.okx.com/join/ABC868",
+                "start": 88,
+                "url": "https://t.co/E8IrXnBmwI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/longxinyan",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/longxinyan",
+                "start": 0,
+                "url": "https://t.co/9ZrJ8r4CVm"
+              }
+            ]
+          }
+        },
+        "id": "384850586",
+        "location": "CHINA",
+        "name": "龙心盐",
+        "pinned_tweet_id": "1992053381859520984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463758640595480576/vw0gtzya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10521,
+          "following_count": 1214,
+          "like_count": 3581,
+          "listed_count": 217,
+          "media_count": 4883,
+          "tweet_count": 10018
+        },
+        "url": "https://t.co/9ZrJ8r4CVm",
+        "username": "ssslumdunk",
+        "verified": true
+      }
+    ]
+  }
+}

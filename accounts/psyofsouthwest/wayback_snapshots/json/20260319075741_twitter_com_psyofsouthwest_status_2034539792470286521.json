@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034447108896649216"
+      ],
+      "media_source_tweet_id": [
+        "2034447111056703606"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2034539792470286521",
+    "created_at": "2026-03-19T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034539792470286521"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Doro Band",
+          "probability": 0.881,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 86,
+          "normalized_text": "doro",
+          "probability": 0.3509,
+          "start": 83,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "doro"
+        },
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "aiart"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "ドロ"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "도로롱"
+        },
+        {
+          "end": 110,
+          "start": 104,
+          "tag": "NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019285153517105152",
+          "start": 3,
+          "username": "my_doro_s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSsxeNLzxM",
+          "end": 134,
+          "expanded_url": "https://x.com/my_doro_s2/status/2034447111056703606/photo/1",
+          "media_key": "3_2034447108896649216",
+          "start": 111,
+          "url": "https://t.co/cSsxeNLzxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034539792470286521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034447111056703606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my_doro_s2: Doro Band\n\nI went to a concert on Sunday, and it was really fun.\n\n#doro #aiart #ドロ #도로롱 #NIKKE https://t.co/cSsxeNLzxM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034447108896649216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvO3dga8AA2bT8.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034447108896649216"
+          ],
+          "media_source_tweet_id": [
+            "2034447111056703606"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2034539792470286521",
+        "created_at": "2026-03-19T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034539792470286521"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Doro Band",
+              "probability": 0.881,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "doro",
+              "probability": 0.3509,
+              "start": 83,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "doro"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "aiart"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "ドロ"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "도로롱"
+            },
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "NIKKE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2019285153517105152",
+              "start": 3,
+              "username": "my_doro_s2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSsxeNLzxM",
+              "end": 134,
+              "expanded_url": "https://x.com/my_doro_s2/status/2034447111056703606/photo/1",
+              "media_key": "3_2034447108896649216",
+              "start": 111,
+              "url": "https://t.co/cSsxeNLzxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034539792470286521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034447111056703606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @my_doro_s2: Doro Band\n\nI went to a concert on Sunday, and it was really fun.\n\n#doro #aiart #ドロ #도로롱 #NIKKE https://t.co/cSsxeNLzxM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034447108896649216"
+          ]
+        },
+        "author_id": "2019285153517105152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2034447111056703606",
+        "created_at": "2026-03-19T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034447111056703606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Doro Band",
+              "probability": 0.8293,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "doro",
+              "probability": 0.329,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "doro"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "aiart"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "ドロ"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "도로롱"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSsxeNLzxM",
+              "end": 118,
+              "expanded_url": "https://x.com/my_doro_s2/status/2034447111056703606/photo/1",
+              "media_key": "3_2034447108896649216",
+              "start": 95,
+              "url": "https://t.co/cSsxeNLzxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034447111056703606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 883,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Doro Band\n\nI went to a concert on Sunday, and it was really fun.\n\n#doro #aiart #ドロ #도로롱 #NIKKE https://t.co/cSsxeNLzxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 4742,
+          "like_count": 96176,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 14019
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T05:41:28.000Z",
+        "description": "Creating AI-assisted drawings of Doro.\n\n🩵🩵LOVE DORO🩵🩵\nmisc. account(@Tis_Yu_S2)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "Tis_Yu_S2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/my_doro_s2?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/my_doro_s2?igsh=MWllbGIyYXNpcm96bg==",
+                "start": 0,
+                "url": "https://t.co/JlQVibrnBv"
+              }
+            ]
+          }
+        },
+        "id": "2019285153517105152",
+        "location": "msga",
+        "name": "TisYu",
+        "pinned_tweet_id": "2030750149912457375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020345206261051397/vSIJ4SuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 77,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/JlQVibrnBv",
+        "username": "my_doro_s2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1951975601990168680",
+    "created_at": "2025-08-03T12:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T13:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951988907223978412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1168676814136459264",
+          "start": 0,
+          "username": "MiaBleem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951988907223978412",
+    "in_reply_to_user_id": "1168676814136459264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951975601990168680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaBleem 心理学技术被这种人学了也是够够的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1951975601990168680",
+        "created_at": "2025-08-03T12:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951988907223978412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1168676814136459264",
+              "start": 0,
+              "username": "MiaBleem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951988907223978412",
+        "in_reply_to_user_id": "1168676814136459264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951975601990168680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaBleem 心理学技术被这种人学了也是够够的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1168676814136459264",
+        "conversation_id": "1951975601990168680",
+        "created_at": "2025-08-03T11:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951975601990168680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951975601990168680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《奉劝大家远离好歹不识的傻逼》\n\n❶\n\n事情的起因是一个认识多年的好友梯子坏了，我不会修，我说之前拽了个推友群200人，应该很多程序员大佬，你来问问群友啥情况\n\n我就把人拽进群里了，并且给了群管理员\n\n后来妹子梯子修好了，大家就在群里聊天\n\n有天她突然在群聊里发了自己的对镜穿搭全身照+自拍视频\n我怕她以为这个群的人都是我很熟的朋友，就私信提醒了一下，这是推上发二维码随便拽的，谨防遇到不知道啥人的猥琐男\n\n这个群刚拽的时候一群人开黄色玩笑、聊约炮、发过“精液”这种恶心字眼，都被我骂了/踢了，我还发过推特动态吐槽过这事\n后来我也不想看大家在群里评论我别的朋友，就阻止了对话，直接改公告说【我是互联网皇帝，这个群听我的】\n\n进群这个妹子，她不知道先前的故事，我只是想私信想提醒一下而已\n我私聊的时候意思，自己主页发自己的动态，分享生活是公开场合，没有指向性，群聊是封闭场合，有点不一样，我一直都不开“通过群聊添加”的选项，推特也无法私信我\n\n结果姐妹儿说她根本不理解，然后说话语气很怪，之后冷暴力不回信息，又把群退了\n\n我超级无敌费解，想不明白，问我两的一个同学，我的女性好朋友，这人为啥这样，啥意思，在生什么气我不懂\n朋友说她不想沟通就算了别处了呗，你好像个舔狗好卑微啊，她都不回你信息，友情是相互的啊\n\n结果两天之后，姐妹儿给我发了一封2300字的word，和自己【学过心理学的闺蜜】狂扒我的推特动态，用各种截图，各种论述我厌女、慕男、雌竞\n拿我写在群公告的“我是互联网皇帝”说我控制欲强\n说我和好朋友沟通了她这个事，就是在一起霸凌她\n最后总结“你原生家庭不好所以会这样，我懂你，没怪你”，并表示“这些只是标签而已，我没有任何恶意”“我发这些是为了和你继续做朋友的”\n\n❓现在的人是失心疯了吗，对名词的褒贬好坏没有判断力了是吗❓\n对好赖话心理没数是吗❓\n\n❓我雌竞你大爷呢❓\n\n没人这么给人当好朋友的，怎么好意思在作出这些回应之后说“我说这些是为了我们的友谊，你对自己没有一点点反思吗”\n\n今天我终于给这人拉黑了\n我反思了，我就是太舍不得说重话了\n\n————————\n\n❷\n说起认为我雌竞这事，那我就要说另一个心理没数的搞笑事了，一并吐槽了\n\n另一个人，失恋之后狂发“A跟我告白了，A今年xx岁在xx上学，家里xxxz，但我不喜欢”\n\nB今天也跟我告白了我不喜欢，各种情况写一顿证明B的优秀B的好\n\n持续写了四五个人，直到写到第五位，我终于忍不住了，因为ta，不截掉别人的真人自拍头像，就发别人跟ta告白、ta婉拒别人的微信聊天记录\n\n我终于忍不住了，就评论了\n我说你发这个当事人女生知道吗❓你至少把人的头像截掉吧❓\n然后这位，失心疯一样连发N条动态骂我，我立刻全平台拉黑了\n\n请问这种举动合适吗❓到底是我的提醒和无语错了，还是自己也知道做事不是很不地道，被我说了之后，愤怒于我指出来了❓\n\n请问了，如果我是一个雌竞厌女的人，我看到有女生的真心，被人这么截图发出来的时候，我会无语不适吗❓❓我会上去提醒❓❓\n\n—————————\n\n真的受够这些莫名其妙让大家关系戛然而止的傻逼事了\n\n恕在下看人不准了\n一个六年闺蜜，一个十年死党，是在下瞎了\n\n江湖路远，未来还是不要遇到面对事情不沟通纯臆想纯发疯的人了\n\n我无需自证自己做的对或不对，对或不对我就是这样的人了，爱咋咋吧\n\n我发出来也不是要让谁当判官，认可或否认我，或指责我们中的哪一个\n完全就是无能狂怒之后怒了一下，吐个槽\n\n这种冲突一旦发生，没有人是赢家，是大家都输吧❓\n\n正常来讲，大家都觉得，不好的事不要发，发了让别人笑话blabla\n\n那就当我话唠吧，笑不笑话也无所谓，就当我无能bb两句呗，我掀桌了行了吧\n\n【不用在我下面猜测当事人是谁，大家都已没有任何关系，这是本人无能愤怒情绪下发出的一条动态】"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7422,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《奉劝大家远离好歹不识的傻逼》\n\n❶\n\n事情的起因是一个认识多年的好友梯子坏了，我不会修，我说之前拽了个推友群200人，应该很多程序员大佬，你来问问群友啥情况\n\n我就把人拽进群里了，并且给了群管理员\n\n后来妹子梯子修好了，大家就在群里聊天\n\n有天她突然在群聊里发了自己的对镜穿搭全身照+自拍视频"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 3895,
+          "like_count": 43041,
+          "listed_count": 5,
+          "media_count": 360,
+          "tweet_count": 11447
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-03T00:07:31.000Z",
+        "description": "还没想好新bio，凑合写上嘻嘻嘻嘻嘻",
+        "id": "1168676814136459264",
+        "location": "🌙",
+        "name": "Miableem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917914978063147008/kS0a2RmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95150,
+          "following_count": 1515,
+          "like_count": 31992,
+          "listed_count": 272,
+          "media_count": 2114,
+          "tweet_count": 31014
+        },
+        "username": "MiaBleem",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011431405688111104"
+      ],
+      "media_source_tweet_id": [
+        "2011431767358742666"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2011788439696421277",
+    "created_at": "2026-01-15T13:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011788439696421277"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Jupiter",
+          "probability": 0.6271,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2327098700",
+          "start": 3,
+          "username": "forallcurious"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SVnDMKTcfx",
+          "end": 61,
+          "expanded_url": "https://x.com/forallcurious/status/2011431767358742666/photo/1",
+          "media_key": "3_2011431405688111104",
+          "start": 38,
+          "url": "https://t.co/SVnDMKTcfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011788439696421277",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7706
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011431767358742666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @forallcurious: Thank you Jupiter! https://t.co/SVnDMKTcfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011431405688111104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-oKNNoawAAmazA.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011431405688111104"
+          ],
+          "media_source_tweet_id": [
+            "2011431767358742666"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2011788439696421277",
+        "created_at": "2026-01-15T13:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011788439696421277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Jupiter",
+              "probability": 0.6271,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2327098700",
+              "start": 3,
+              "username": "forallcurious"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVnDMKTcfx",
+              "end": 61,
+              "expanded_url": "https://x.com/forallcurious/status/2011431767358742666/photo/1",
+              "media_key": "3_2011431405688111104",
+              "start": 38,
+              "url": "https://t.co/SVnDMKTcfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011788439696421277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7706
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011431767358742666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @forallcurious: Thank you Jupiter! https://t.co/SVnDMKTcfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011431405688111104"
+          ]
+        },
+        "author_id": "2327098700",
+        "conversation_id": "2011431767358742666",
+        "created_at": "2026-01-14T13:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T14:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011431767358742666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Jupiter",
+              "probability": 0.4785,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVnDMKTcfx",
+              "end": 42,
+              "expanded_url": "https://x.com/forallcurious/status/2011431767358742666/photo/1",
+              "media_key": "3_2011431405688111104",
+              "start": 19,
+              "url": "https://t.co/SVnDMKTcfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011431767358742666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3622,
+          "impression_count": 955434,
+          "like_count": 100293,
+          "quote_count": 205,
+          "reply_count": 229,
+          "retweet_count": 7706
+        },
+        "reply_settings": "everyone",
+        "text": "Thank you Jupiter! https://t.co/SVnDMKTcfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是最终极的回避，也可以是看清自己天然属性的试炼。喜欢Doro。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 4411,
+          "like_count": 68768,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 12621
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-04T13:13:34.000Z",
+        "description": "Astronomy Vibes 🌌",
+        "id": "2327098700",
+        "location": "Mars",
+        "name": "All day Astronomy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890108715056910337/AmpRFtXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303182,
+          "following_count": 1,
+          "like_count": 7477,
+          "listed_count": 1073,
+          "media_count": 5513,
+          "tweet_count": 10672
+        },
+        "username": "forallcurious",
+        "verified": true
+      }
+    ]
+  }
+}

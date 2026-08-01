@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2047884371755962387",
+    "created_at": "2026-04-25T03:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047884371755962387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "241895990",
+          "start": 3,
+          "username": "MrLarus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047884371755962387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047634434497622270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrLarus: 模型党狂喜！🤩\n知名地标浓缩成档案级实体模型，这质感吹爆！\n\n🤯我用 ChatGPT-Image-2.0 生成的地景档案模型：\n1、中国长城  \n2、珠穆朗玛峰  \n3、上海外滩  \n4、广州珠江\n\n像真实物理世界被拍下来一样，纸质感、细节满满！\n\n提…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2047633989922422784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoQ9dXgAAnIFY.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2047633996104728577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoRUfWAAEMkfn.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2047634038278512640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoTxmW4AAuZ0J.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2047634053260517376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoUpaWIAA_NK7.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047884371755962387",
+        "created_at": "2026-04-25T03:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047884371755962387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "241895990",
+              "start": 3,
+              "username": "MrLarus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884371755962387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047634434497622270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrLarus: 模型党狂喜！🤩\n知名地标浓缩成档案级实体模型，这质感吹爆！\n\n🤯我用 ChatGPT-Image-2.0 生成的地景档案模型：\n1、中国长城  \n2、珠穆朗玛峰  \n3、上海外滩  \n4、广州珠江\n\n像真实物理世界被拍下来一样，纸质感、细节满满！\n\n提…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047633989922422784",
+            "3_2047633996104728577",
+            "3_2047634038278512640",
+            "3_2047634053260517376"
+          ]
+        },
+        "author_id": "241895990",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047634434497622270",
+        "created_at": "2026-04-24T11:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:10:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047634304566485098",
+          "2047634434497622270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjG6z5wuWz",
+              "end": 160,
+              "expanded_url": "https://x.com/MrLarus/status/2047634434497622270/photo/1",
+              "media_key": "3_2047633989922422784",
+              "start": 137,
+              "url": "https://t.co/sjG6z5wuWz"
+            },
+            {
+              "display_url": "pic.x.com/sjG6z5wuWz",
+              "end": 160,
+              "expanded_url": "https://x.com/MrLarus/status/2047634434497622270/photo/1",
+              "media_key": "3_2047633996104728577",
+              "start": 137,
+              "url": "https://t.co/sjG6z5wuWz"
+            },
+            {
+              "display_url": "pic.x.com/sjG6z5wuWz",
+              "end": 160,
+              "expanded_url": "https://x.com/MrLarus/status/2047634434497622270/photo/1",
+              "media_key": "3_2047634038278512640",
+              "start": 137,
+              "url": "https://t.co/sjG6z5wuWz"
+            },
+            {
+              "display_url": "pic.x.com/sjG6z5wuWz",
+              "end": 160,
+              "expanded_url": "https://x.com/MrLarus/status/2047634434497622270/photo/1",
+              "media_key": "3_2047634053260517376",
+              "start": 137,
+              "url": "https://t.co/sjG6z5wuWz"
+            },
+            {
+              "display_url": "x.com/MrLarus/status…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/MrLarus/status/2046627021674168640",
+              "start": 161,
+              "url": "https://t.co/PuejJeSpJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047634434497622270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "模型党狂喜！🤩\n知名地标浓缩成档案级实体模型，这质感吹爆！\n\n🤯我用 ChatGPT-Image-2.0 生成的地景档案模型：\n1、中国长城  \n2、珠穆朗玛峰  \n3、上海外滩  \n4、广州珠江\n\n像真实物理世界被拍下来一样，纸质感、细节满满！\n\n提示词/Prompt：\n请根据【主题】创作一张高完成度、高质感、适合系列化发布的「地景档案模型 / Landscape Archive Model」视觉图。\n\n这不是普通地图，也不是普通风景插画或城市效果图，而是一张结合“二维地图图纸 + 三维立体区域模型 + 专业说明系统 + 博物馆展陈感”的高端档案式视觉图。画面需要像一件被真实制作出来的地理研究模型、城市规划沙盘、建筑提案模型或世界观设定展品，具有专业、克制、精密、可触摸的高级质感。\n\n【基础设定】\n主题：【主题，例如火山口湖 / 广州 / 重庆山城 / 海岛城市 / 古城遗址 / 末日废墟 / 幻想大陆 / 游戏主城】\n主题类型：【自然地貌 / 城市空间 / 混合景观】\n核心主体：【核心主体，例如火山口、峡谷、山脉、湖泊、CBD、老城区、地标群、岛屿城市、遗址群、主城区域】\n内容重点：【内容重点，例如地形高差 / 城市地标 / 路网结构 / 水系关系 / 自然与城市关系 / 设定集展示】\n风格方向：【风格方向，例如地理测绘风、纸雕模型风、建筑提案风、博物馆档案风、城市规划风、游戏设定集风】\n主色调：【主色调，例如米白、浅灰、羊皮纸白、沙色、雪白】\n辅助色：【辅助色，例如土褐、岩灰、冷灰、淡蓝、苔绿】\n点缀色：【点缀色，例如黑色细线、红色路线、蓝色水文线、黄色编号标记】\n画幅比例：【画幅比例，例如16:9横版 / 3:4竖版 / 4:5竖版 / 1:1方图】\n\n【画面结构】\n画面主体是一块放置在干净桌面或白色布面上的矩形地图模型板。底板具有真实厚度，边缘可见剖面结构，像一块精致的地图切片或模型底座。地图表面覆盖清晰但克制的信息层，包括等高线、道路网络、水文线、分区边界、地理纹理、坐标感、轻微标注和图纸边框。\n\n在地图中央或偏中心区域，从二维地图中立体“生长”出一个三维主体模型，成为整张图的视觉核心。\n\n如果【主题类型】为自然地貌：\n主体可由山体、峡谷、火山口、湖泊、盆地、岛屿、冰川、断层、海岸线等构成，强调地形高差、层叠等高线结构、岩壁纹理和自然地貌起伏。\n\n如果【主题类型】为城市空间：\n主体可由核心城区、CBD、老城街区、地标建筑群、滨水区、路网节点、桥梁、水系、公园绿地等构成，强调建筑体块、城市识别度、空间层次与规划结构。\n\n如果【主题类型】为混合景观：\n需同时整合自然地形与人工建成环境，例如山城、海岛城市、古城遗址、末日废墟、幻想主城、科幻基地等，让自然地貌与城市结构共同构成核心视觉。\n\n【细节要求】\n- 模型表面保留地图图纸感与专业信息感\n- 地形区域应有等高线、坡面层次、凹陷与起伏关系\n- 建筑区域应有体块感、街区关系和清晰层次\n- 水域使用低饱和淡蓝色表现\n- 绿地、森林、公园、山体可用苔绿色或低饱和绿色表现\n- 路网、路径、交通轴线或探索线路可用细线表现，但不要喧宾夺主\n- 若有地标建筑或重点结构，应具备明确识别度\n- 若有幻想、科幻或游戏设定元素，应保留档案模型和图纸展示感，而不是做成纯场景插画\n\n【说明系统】\n地图板边缘需要设计完整而克制的说明模块，包括：\n- 外框线和内框线\n- 比例尺\n- 图例区\n- 标题区\n- 档案编号\n- 索引标记\n- 注释标签\n- 简洁的符号说明\n文字不必全部可读，但整体必须呈现真实、清晰、精密、有秩序的档案式排版结构。\n\n【构图与镜头】\n采用斜俯视等轴测或沙盘式构图，镜头从上方约30到45度观察整块模型板，让观众同时看到地图平面、立体主体高度、边缘厚度和说明区。视觉重心集中在中央主体模型，阅读路径为：先看核心主体，再看周边地形/路网/水系/街区信息，最后看图例、比例尺和说明区。\n\n【材质与光影】\n整体需要具有真实模型摄影质感：\n- 纸张纹理\n- 地图印刷质感\n- 纸雕或沙盘模型感\n- 建筑模型或地形切片质感\n- 柔和自然光\n- 细腻真实阴影\n- 干净背景\n- 低饱和、高级、克制\n避免卡通化、廉价游戏UI感、过度杂乱、过度炫技，重点突出“地图底板 + 立体主体 + 专业说明系统”的统一视觉。\n\n最终效果应像一张可以用于地理科普、城市研究、建筑提案、文旅视觉专题、世界观设定集或高端系列封面的地景档案模型图。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 34097,
+          "like_count": 377,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046627021674168640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模型党狂喜！🤩\n知名地标浓缩成档案级实体模型，这质感吹爆！\n\n🤯我用 ChatGPT-Image-2.0 生成的地景档案模型：\n1、中国长城  \n2、珠穆朗玛峰  \n3、上海外滩  \n4、广州珠江\n\n像真实物理世界被拍下来一样，纸质感、细节满满！\n\n提示词/Prompt： https://t.co/sjG6z5wuWz https://t.co/PuejJeSpJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 4776,
+          "like_count": 109972,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 14784
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-23T12:06:09.000Z",
+        "description": "🚀 移动互联网深耕13年｜AI+自动化实战，年省7位数人力成本\n🤖 拆解AI应用落地、流程提效与创业复盘\n📚 Build in public｜business, systems & fatherhood\n🤯 正在分享：GPT-Image-2.0 和 Seedance2.0 案例和提示词，欢迎关注",
+        "id": "241895990",
+        "name": "Larus Canus",
+        "pinned_tweet_id": "2046627021674168640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863595862196363264/-JQahom9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 637,
+          "like_count": 3098,
+          "listed_count": 32,
+          "media_count": 397,
+          "tweet_count": 3710
+        },
+        "username": "MrLarus",
+        "verified": true
+      }
+    ]
+  }
+}

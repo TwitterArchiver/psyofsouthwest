@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1840916848420012163",
+    "created_at": "2024-10-01T07:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T08:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841018597285437605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639408497992278018",
+          "start": 0,
+          "username": "A_SebastianShi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841018597285437605",
+    "in_reply_to_user_id": "1639408497992278018",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840916848420012163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_SebastianShi 骨传导耳机是通讯神器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1840916848420012163",
+        "created_at": "2024-10-01T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841018597285437605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639408497992278018",
+              "start": 0,
+              "username": "A_SebastianShi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841018597285437605",
+        "in_reply_to_user_id": "1639408497992278018",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840916848420012163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_SebastianShi 骨传导耳机是通讯神器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639408497992278018",
+        "conversation_id": "1840916848420012163",
+        "created_at": "2024-10-01T00:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T01:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840916848420012163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840916848420012163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18920,
+          "like_count": 144,
+          "quote_count": 3,
+          "reply_count": 154,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "给我一个除了装逼以外买蓝牙耳机的理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "星空合眾国应急管理部服务号\n\n不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "西南偏南",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736910176631033856/f8tLJ3cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 2474,
+          "like_count": 14908,
+          "listed_count": 4,
+          "tweet_count": 7341
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T23:27:06.000Z",
+        "description": "男性恋 🇨🇦 Chinese/English 喜欢满嘴跑火车",
+        "id": "1639408497992278018",
+        "location": "想单取就取吧，让你失望了",
+        "name": "Sebastian",
+        "pinned_tweet_id": "1754892452262252788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735650359308402689/5paMNSZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 656,
+          "like_count": 17091,
+          "listed_count": 5,
+          "tweet_count": 8496
+        },
+        "username": "A_SebastianShi",
+        "verified": false
+      }
+    ]
+  }
+}

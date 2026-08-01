@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1869566527156244553",
+    "created_at": "2024-12-19T02:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T03:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869578367009480831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "Cynun75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869578367009480831",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869566527156244553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cynun75 抑郁吗？两年起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1869566527156244553",
+        "created_at": "2024-12-19T02:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T03:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869578367009480831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "Cynun75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869578367009480831",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869566527156244553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cynun75 抑郁吗？两年起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "1869566527156244553",
+        "created_at": "2024-12-19T02:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T03:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869566527156244553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869566527156244553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候能停药呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158911763009536/sYBDr6nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 2898,
+          "like_count": 21776,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 9140
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "Cynun | 碎碎念 | 计算机用户 | 再次祷告 | 🏳️‍⚧️",
+        "id": "1751235517860196352",
+        "location": "世界之外",
+        "name": "Cynun",
+        "pinned_tweet_id": "1867020588075921669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762544794117742592/ibUegizA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 586,
+          "like_count": 12719,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 2706
+        },
+        "username": "Cynun75",
+        "verified": false
+      }
+    ]
+  }
+}

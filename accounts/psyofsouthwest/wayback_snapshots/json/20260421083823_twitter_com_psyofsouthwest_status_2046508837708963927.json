@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2046432902515437876",
+    "created_at": "2026-04-21T08:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046508837708963927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135120566287921153",
+          "start": 0,
+          "username": "Alex_perception"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046508837708963927",
+    "in_reply_to_user_id": "1135120566287921153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046432902515437876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_perception 不组织 不鼓动 没事的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2046432115466903552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZjKqNbIAAk8sL.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2046432902515437876",
+        "created_at": "2026-04-21T08:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046508837708963927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135120566287921153",
+              "start": 0,
+              "username": "Alex_perception"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046508837708963927",
+        "in_reply_to_user_id": "1135120566287921153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046432902515437876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_perception 不组织 不鼓动 没事的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046432115466903552"
+          ]
+        },
+        "author_id": "1135120566287921153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2046432902515437876",
+        "created_at": "2026-04-21T03:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046432902515437876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTUdgE8T7e",
+              "end": 158,
+              "expanded_url": "https://x.com/Alex_perception/status/2046432902515437876/photo/1",
+              "media_key": "3_2046432115466903552",
+              "start": 135,
+              "url": "https://t.co/wTUdgE8T7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046432902515437876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前两天我看推特里出现了这张图（原谅我没有打码），开始还觉得国内真能查到吗？\n\n我托人去找了找网警的朋友，询问之下确定了，国家确实有这么一套系统，但界面好像不是这样的（因为我没有看到），也确实可以查到推特号。\n\n那么以此类推Youtube号也是可以查到的。\n\n既然如此= =我只能是劝各位谨言慎行，尤其是比较大的账号。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 17292,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "前两天我看推特里出现了这张图（原谅我没有打码），开始还觉得国内真能查到吗？\n\n我托人去找了找网警的朋友，询问之下确定了，国家确实有这么一套系统，但界面好像不是这样的（因为我没有看到），也确实可以查到推特号。\n\n那么以此类推Youtube号也是可以查到的。\n\n既然如此= https://t.co/wTUdgE8T7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 4767,
+          "like_count": 108163,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 14648
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T09:46:47.000Z",
+        "description": "YouTuber\n用逻辑和独立思考发掘事物的本质\n经济爱好者\n认清客观事实 友善交流 拒绝情绪宣泄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ganzhi0906",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ganzhi0906",
+                "start": 0,
+                "url": "https://t.co/K9Eg80Ihnp"
+              }
+            ]
+          }
+        },
+        "id": "1135120566287921153",
+        "name": "Alex_感知",
+        "pinned_tweet_id": "2045526851578393049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692350922599596032/Hz0cOlcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40600,
+          "following_count": 961,
+          "like_count": 3838,
+          "listed_count": 344,
+          "media_count": 842,
+          "tweet_count": 19643
+        },
+        "url": "https://t.co/K9Eg80Ihnp",
+        "username": "Alex_perception",
+        "verified": true
+      }
+    ]
+  }
+}

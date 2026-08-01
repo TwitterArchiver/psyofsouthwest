@@ -1,0 +1,145 @@
+{
+  "data": {
+    "author_id": "385760660",
+    "conversation_id": "1848730854454866215",
+    "created_at": "2024-10-22T14:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T15:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848730854454866215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14961549",
+          "start": 3,
+          "username": "pearlher"
+        }
+      ]
+    },
+    "id": "1848730854454866215",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848729066616328557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearlher: 这是我做的第二期音频节目。😂，盯着电诈园区薅羊毛了…… https://t.co/kKVUQnaiKA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "385760660",
+        "conversation_id": "1848730854454866215",
+        "created_at": "2024-10-22T14:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T15:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848730854454866215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14961549",
+              "start": 3,
+              "username": "pearlher"
+            }
+          ]
+        },
+        "id": "1848730854454866215",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848729066616328557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearlher: 这是我做的第二期音频节目。😂，盯着电诈园区薅羊毛了…… https://t.co/kKVUQnaiKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "東北靠北",
+        "pinned_tweet_id": "1752219810216222766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863219812459024384/Dc1E_dwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 2835,
+          "like_count": 20715,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 8775
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-31T07:42:56.000Z",
+        "description": "Bio: Freelance investigative journalist，. Human Rights defender. Founder&dirctor of Xinye org 我的郵箱：pearlher@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herpeirong7305",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@herpeirong7305",
+                "start": 0,
+                "url": "https://t.co/TxCcvNdKzk"
+              }
+            ]
+          }
+        },
+        "id": "14961549",
+        "location": "Thailand",
+        "name": "Ho Peirong is on bluesky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578649268000157697/4sYnt-Ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61056,
+          "following_count": 1457,
+          "like_count": 20784,
+          "listed_count": 515,
+          "media_count": 4353,
+          "tweet_count": 54474
+        },
+        "url": "https://t.co/TxCcvNdKzk",
+        "username": "pearlher",
+        "verified": false
+      }
+    ]
+  }
+}

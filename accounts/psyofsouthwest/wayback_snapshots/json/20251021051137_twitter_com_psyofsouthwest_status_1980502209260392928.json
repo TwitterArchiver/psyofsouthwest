@@ -1,0 +1,698 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "JavaScript",
+          "id": "898659750950207489",
+          "name": "JavaScript"
+        }
+      }
+    ],
+    "conversation_id": "1980502209260392928",
+    "created_at": "2025-10-21T05:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980502209260392928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "830429456",
+          "start": 3,
+          "username": "sitinme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980502209260392928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979825596805882332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sitinme: 分享几个觉得又实用、又有意思的开源项目，GitHub 上都能找到。\n\n1、爬虫开源工具——Crawlee\n这个项目在 GitHub 上快 2 万 Star 了，是个用 Node.js（还有 Python 版本）写的网络爬虫框架。  它最大的特点就是：爬…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_1979010306710945792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bbY4JXwAABSpj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 770,
+        "media_key": "3_1979010321902706688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bbZwvXoAAsZzr.jpg",
+        "width": 1662
+      },
+      {
+        "height": 754,
+        "media_key": "3_1979010339057401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bbawpXgAAoLtT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1980502209260392928",
+        "created_at": "2025-10-21T05:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980502209260392928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "830429456",
+              "start": 3,
+              "username": "sitinme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980502209260392928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979825596805882332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sitinme: 分享几个觉得又实用、又有意思的开源项目，GitHub 上都能找到。\n\n1、爬虫开源工具——Crawlee\n这个项目在 GitHub 上快 2 万 Star 了，是个用 Node.js（还有 Python 版本）写的网络爬虫框架。  它最大的特点就是：爬…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979010306710945792",
+            "3_1979010321902706688",
+            "3_1979010339057401856"
+          ]
+        },
+        "author_id": "830429456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1979825596805882332",
+        "created_at": "2025-10-19T08:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979825596805882332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZa1LOQgd1",
+              "end": 193,
+              "expanded_url": "https://x.com/sitinme/status/1979825596805882332/photo/1",
+              "media_key": "3_1979010306710945792",
+              "start": 170,
+              "url": "https://t.co/NZa1LOQgd1"
+            },
+            {
+              "display_url": "pic.x.com/NZa1LOQgd1",
+              "end": 193,
+              "expanded_url": "https://x.com/sitinme/status/1979825596805882332/photo/1",
+              "media_key": "3_1979010321902706688",
+              "start": 170,
+              "url": "https://t.co/NZa1LOQgd1"
+            },
+            {
+              "display_url": "pic.x.com/NZa1LOQgd1",
+              "end": 193,
+              "expanded_url": "https://x.com/sitinme/status/1979825596805882332/photo/1",
+              "media_key": "3_1979010339057401856",
+              "start": 170,
+              "url": "https://t.co/NZa1LOQgd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979825596805882332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "分享几个觉得又实用、又有意思的开源项目，GitHub 上都能找到。\n\n1、爬虫开源工具——Crawlee\n这个项目在 GitHub 上快 2 万 Star 了，是个用 Node.js（还有 Python 版本）写的网络爬虫框架。  它最大的特点就是：爬虫行为更像真人，不容易被网站的反爬机制拦住。\n比如你想抓 TikTok、YouTube 这类动态内容，它都能搞定。\n而且自带 CLI 工具，一键生成项目结构，给你现成的模板。\n支持 HTTP 请求，也能配合 Playwright 这种浏览器自动化工具去抓复杂网页，  内置了代理切换、请求队列、错误重试、数据存储……  用一句话总结：非常适合想写爬虫但又不想造轮子的同学。\n\n2、屏幕录制工具——Cap\nCap 是一个开源版的 Loom（就是那个录屏 + 视频分享工具）。\n它能同时录屏幕和摄像头，还支持跟随鼠标放大，录完能直接剪辑、导出 MP4 或生成链接分享。\n最关键的是：它有 Web 和桌面两个版本。Web 版可以自己部署，桌面版还能连接到你自己的 Cap 服务。\n\n3、开源压缩工具——PeaZip\nPeaZip 是一款跨平台压缩解压工具，支持 Windows、macOS、Linux，能处理超过 200 种格式，包括 zip、rar、7z 这些常见的，还有分卷压缩文件。\n它除了基本功能，还特别注重隐私和安全，支持加密、两步验证、安全删除，还有哈希校验、脚本导出等高级功能。\n说白了，就是一个开源、无广告、比 WinRAR 更干净的压缩工具。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1824,
+          "impression_count": 119743,
+          "like_count": 1370,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "分享几个觉得又实用、又有意思的开源项目，GitHub 上都能找到。\n\n1、爬虫开源工具——Crawlee\n这个项目在 GitHub 上快 2 万 Star 了，是个用 Node.js（还有 Python 版本）写的网络爬虫框架。  它最大的特点就是：爬虫行为更像真人，不容易被网站的反爬机制拦住。\n比如你想抓 TikTok、YouTube https://t.co/NZa1LOQgd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3992,
+          "like_count": 51206,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 11915
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-18T05:39:32.000Z",
+        "description": "增长黑客/ 社群运营/AI 出海赚美刀\n对爬虫和RPA机器人有一点研究\n擅长用AI搞点副业 /  vx： 257735",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipengtao.com",
+                "end": 23,
+                "expanded_url": "http://ipengtao.com/",
+                "start": 0,
+                "url": "https://t.co/lriUzGTZMG"
+              }
+            ]
+          }
+        },
+        "id": "830429456",
+        "name": "sitin",
+        "pinned_tweet_id": "1848199537220812923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3569591888/2aad771c0c1919fb7577a7b625a93d0a_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18670,
+          "following_count": 307,
+          "like_count": 43,
+          "listed_count": 139,
+          "media_count": 983,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/lriUzGTZMG",
+        "username": "sitinme",
+        "verified": true
+      }
+    ]
+  }
+}

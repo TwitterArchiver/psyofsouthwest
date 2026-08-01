@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030921549990244352"
+      ],
+      "media_source_tweet_id": [
+        "2030921726679519370"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2030968519685476857",
+    "created_at": "2026-03-09T11:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030968519685476857"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.3217,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6CVu9yKRT6",
+          "end": 68,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030921726679519370/video/1",
+          "media_key": "13_2030921549990244352",
+          "start": 45,
+          "url": "https://t.co/6CVu9yKRT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030968519685476857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030921726679519370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: こちらはブランコをこぐDoroちゃん。　#doro https://t.co/6CVu9yKRT6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 560,
+        "media_key": "13_2030921549990244352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030921549990244352/img/m_r8cu1edmC_SRzw.jpg",
+        "public_metrics": {
+          "view_count": 96
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030921549990244352/vid/avc1/320x320/mgE1O7PqmqRs8rNs.mp4?tag=24"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030921549990244352/vid/avc1/560x560/UbP6pQRcuabnFZ5w.mp4?tag=24"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030921549990244352/pl/pahXJSgCUtfjERG7.m3u8?tag=24"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030921549990244352"
+          ],
+          "media_source_tweet_id": [
+            "2030921726679519370"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2030968519685476857",
+        "created_at": "2026-03-09T11:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030968519685476857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.3217,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CVu9yKRT6",
+              "end": 68,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030921726679519370/video/1",
+              "media_key": "13_2030921549990244352",
+              "start": 45,
+              "url": "https://t.co/6CVu9yKRT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030968519685476857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030921726679519370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: こちらはブランコをこぐDoroちゃん。　#doro https://t.co/6CVu9yKRT6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030921549990244352"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "conversation_id": "2030921726679519370",
+        "created_at": "2026-03-09T08:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030921726679519370"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.2993,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CVu9yKRT6",
+              "end": 49,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030921726679519370/video/1",
+              "media_key": "13_2030921549990244352",
+              "start": 26,
+              "url": "https://t.co/6CVu9yKRT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030921726679519370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 303,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "こちらはブランコをこぐDoroちゃん。　#doro https://t.co/6CVu9yKRT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 4743,
+          "like_count": 91367,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13790
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 40,
+          "like_count": 505,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 77
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}

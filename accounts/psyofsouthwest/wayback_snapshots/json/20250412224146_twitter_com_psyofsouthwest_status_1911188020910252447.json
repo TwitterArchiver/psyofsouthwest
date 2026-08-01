@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1910954627975303523",
+    "created_at": "2025-04-12T22:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T23:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911188020910252447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "262668865",
+          "start": 0,
+          "username": "JellyBomb0"
+        },
+        {
+          "end": 24,
+          "id": "1090988661733113856",
+          "start": 12,
+          "username": "DoraDaemon1"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911188020910252447",
+    "in_reply_to_user_id": "262668865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911021499630362817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JellyBomb0 @DoraDaemon1 @grok 用这张图片生成吉卜力风格的图像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_1911021479350652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVP6RLWUAA6Yyk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1910954627975303523",
+        "created_at": "2025-04-12T22:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T23:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911188020910252447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "262668865",
+              "start": 0,
+              "username": "JellyBomb0"
+            },
+            {
+              "end": 24,
+              "id": "1090988661733113856",
+              "start": 12,
+              "username": "DoraDaemon1"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911188020910252447",
+        "in_reply_to_user_id": "262668865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911021499630362817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JellyBomb0 @DoraDaemon1 @grok 用这张图片生成吉卜力风格的图像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911021479350652928"
+          ]
+        },
+        "author_id": "262668865",
+        "conversation_id": "1910954627975303523",
+        "created_at": "2025-04-12T11:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T12:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911021499630362817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090988661733113856",
+              "start": 0,
+              "username": "DoraDaemon1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GPs6o4831",
+              "end": 41,
+              "expanded_url": "https://x.com/JellyBomb0/status/1911021499630362817/photo/1",
+              "media_key": "3_1911021479350652928",
+              "start": 18,
+              "url": "https://t.co/2GPs6o4831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911021499630362817",
+        "in_reply_to_user_id": "1090988661733113856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16820,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910954627975303523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoraDaemon1 对比看看 https://t.co/2GPs6o4831"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 3450,
+          "like_count": 29638,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 10271
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-08T14:25:49.000Z",
+        "description": "",
+        "id": "262668865",
+        "name": "Jelly Bomb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726691645062889472/AccFEzEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 10,
+          "like_count": 1862,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 1448
+        },
+        "username": "JellyBomb0",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T15:02:21.000Z",
+        "description": "G+难民/花草植物/游记/IT技术；",
+        "id": "1090988661733113856",
+        "location": "Earth",
+        "name": "𝐃ora𝐃aemon",
+        "pinned_tweet_id": "1118869795829501952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090990788001951745/G6bCRlQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11211,
+          "following_count": 2333,
+          "like_count": 114307,
+          "listed_count": 69,
+          "media_count": 20066,
+          "tweet_count": 72542
+        },
+        "username": "DoraDaemon1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261862,
+          "following_count": 2,
+          "like_count": 51,
+          "listed_count": 3266,
+          "media_count": 1241538,
+          "tweet_count": 5454239
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

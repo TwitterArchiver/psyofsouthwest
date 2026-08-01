@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2026332220080976020",
+    "created_at": "2026-02-24T16:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026332863172362507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1876343315412742144",
+          "start": 0,
+          "username": "xaa386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026332863172362507",
+    "in_reply_to_user_id": "1876343315412742144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026332220080976020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaa386 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026332209347796992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB76aI8boAAMNhR.jpg",
+        "width": 931
+      },
+      {
+        "height": 931,
+        "media_key": "3_2026332209456832512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB76aJWbYAAIHUk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2026332220080976020",
+        "created_at": "2026-02-24T16:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026332863172362507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1876343315412742144",
+              "start": 0,
+              "username": "xaa386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026332863172362507",
+        "in_reply_to_user_id": "1876343315412742144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026332220080976020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaa386 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026332209347796992",
+            "3_2026332209456832512"
+          ]
+        },
+        "author_id": "1876343315412742144",
+        "conversation_id": "2026332220080976020",
+        "created_at": "2026-02-24T16:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026332220080976020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NHHs5MVie",
+              "end": 32,
+              "expanded_url": "https://x.com/xaa386/status/2026332220080976020/photo/1",
+              "media_key": "3_2026332209347796992",
+              "start": 9,
+              "url": "https://t.co/1NHHs5MVie"
+            },
+            {
+              "display_url": "pic.x.com/1NHHs5MVie",
+              "end": 32,
+              "expanded_url": "https://x.com/xaa386/status/2026332220080976020/photo/1",
+              "media_key": "3_2026332209456832512",
+              "start": 9,
+              "url": "https://t.co/1NHHs5MVie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026332220080976020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是傻逼，好想死 https://t.co/1NHHs5MVie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\n喜欢Doro。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 4599,
+          "like_count": 83829,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 13269
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T19:01:28.000Z",
+        "description": "我是沙币",
+        "id": "1876343315412742144",
+        "name": "雨夏不是夏雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975457879365910528/UL_xvM03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 153,
+          "like_count": 1451,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "xaa386",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041112069496573952"
+      ],
+      "media_source_tweet_id": [
+        "2041112072218681638"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "2041401096850026837",
+    "created_at": "2026-04-07T06:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041401096850026837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "doro"
+        },
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "Gongcha"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872528180667711488",
+          "start": 3,
+          "username": "Sartoria01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsJVBHkglE",
+          "end": 100,
+          "expanded_url": "https://x.com/Sartoria01/status/2041112072218681638/photo/1",
+          "media_key": "3_2041112069496573952",
+          "start": 77,
+          "url": "https://t.co/GsJVBHkglE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041401096850026837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041112072218681638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sartoria01: 帰りはdoro達とゴンチャでマンゴーティーエイド😊最近ちょっと飲み過ぎかも🙄\n#NIKKE #doro #Gongcha https://t.co/GsJVBHkglE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2041112069496573952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN8nOkbEAAp4OH.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041112069496573952"
+          ],
+          "media_source_tweet_id": [
+            "2041112072218681638"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2041401096850026837",
+        "created_at": "2026-04-07T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041401096850026837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "doro"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "Gongcha"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872528180667711488",
+              "start": 3,
+              "username": "Sartoria01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsJVBHkglE",
+              "end": 100,
+              "expanded_url": "https://x.com/Sartoria01/status/2041112072218681638/photo/1",
+              "media_key": "3_2041112069496573952",
+              "start": 77,
+              "url": "https://t.co/GsJVBHkglE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041401096850026837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041112072218681638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sartoria01: 帰りはdoro達とゴンチャでマンゴーティーエイド😊最近ちょっと飲み過ぎかも🙄\n#NIKKE #doro #Gongcha https://t.co/GsJVBHkglE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041112069496573952"
+          ]
+        },
+        "author_id": "1872528180667711488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2041112072218681638",
+        "created_at": "2026-04-06T11:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041112072218681638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "doro"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "Gongcha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsJVBHkglE",
+              "end": 84,
+              "expanded_url": "https://x.com/Sartoria01/status/2041112072218681638/photo/1",
+              "media_key": "3_2041112069496573952",
+              "start": 61,
+              "url": "https://t.co/GsJVBHkglE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041112072218681638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 523,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "帰りはdoro達とゴンチャでマンゴーティーエイド😊最近ちょっと飲み過ぎかも🙄\n#NIKKE #doro #Gongcha https://t.co/GsJVBHkglE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 4752,
+          "like_count": 102177,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 14275
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T06:21:31.000Z",
+        "description": "FF14 Ultima NIKKE bespoke好き 雑記\n最近doro活中",
+        "id": "1872528180667711488",
+        "name": "sartoria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874832797413855232/NoyUl0V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 38,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 376
+        },
+        "username": "Sartoria01",
+        "verified": false
+      }
+    ]
+  }
+}

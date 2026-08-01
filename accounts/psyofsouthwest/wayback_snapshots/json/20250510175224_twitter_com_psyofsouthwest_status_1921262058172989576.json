@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "1921209939017498854",
+    "created_at": "2025-05-10T17:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T18:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921262058172989576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895530748435890176",
+          "start": 0,
+          "username": "Hayya_0825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921262058172989576",
+    "in_reply_to_user_id": "1895530748435890176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921209939017498854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayya_0825 不填师范是对的，好多学校忽悠年轻老师当班主任，搞得他们苦逼哈哈的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1921209935486218241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmCQd-bcAEuCcQ.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "1921209939017498854",
+        "created_at": "2025-05-10T17:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T18:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921262058172989576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895530748435890176",
+              "start": 0,
+              "username": "Hayya_0825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921262058172989576",
+        "in_reply_to_user_id": "1895530748435890176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921209939017498854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayya_0825 不填师范是对的，好多学校忽悠年轻老师当班主任，搞得他们苦逼哈哈的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921209935486218241"
+          ]
+        },
+        "author_id": "1895530748435890176",
+        "conversation_id": "1921209939017498854",
+        "created_at": "2025-05-10T14:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921209939017498854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32dkC4agJw",
+              "end": 40,
+              "expanded_url": "https://x.com/Hayya_0825/status/1921209939017498854/photo/1",
+              "media_key": "3_1921209935486218241",
+              "start": 17,
+              "url": "https://t.co/32dkC4agJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921209939017498854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈本来想让我填师范 我否决了。 https://t.co/32dkC4agJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 3825,
+          "like_count": 36226,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 10888
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T17:46:11.000Z",
+        "description": "喵喵喵喵 偶尔涩涩（不代表你能来打扰我） 日常发癫 喵喵喵 私信会回（如果我觉得暖心or好玩）喵喵喵 本人掌机党 酷爱3ds 游戏的话 锈湖 抓大鹅 料理妈妈 动森 马里奥 节奏天国  嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hayya08251",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hayya08251",
+                "start": 0,
+                "url": "https://t.co/DTQ59QtXqK"
+              }
+            ]
+          }
+        },
+        "id": "1895530748435890176",
+        "location": "在山的那边海的那边",
+        "name": "有人要喝永生狗的尿尿吗？",
+        "pinned_tweet_id": "1920423800597848462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915386005651415042/X0XwOtGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 87,
+          "like_count": 13778,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/DTQ59QtXqK",
+        "username": "Hayya_0825",
+        "verified": false
+      }
+    ]
+  }
+}

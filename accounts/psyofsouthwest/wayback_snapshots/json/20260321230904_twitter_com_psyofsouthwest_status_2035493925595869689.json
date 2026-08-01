@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035134832347615232"
+      ],
+      "media_source_tweet_id": [
+        "2035134834713178333"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2035493925595869689",
+    "created_at": "2026-03-21T23:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T00:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035493925595869689"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Doro",
+          "probability": 0.799,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "Doro",
+          "probability": 0.7726,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "doro",
+          "probability": 0.4933,
+          "start": 87,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "doro"
+        },
+        {
+          "end": 98,
+          "start": 92,
+          "tag": "aiart"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "ドロ"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "도로롱"
+        },
+        {
+          "end": 114,
+          "start": 108,
+          "tag": "NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2019285153517105152",
+          "start": 3,
+          "username": "my_doro_s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iJ5eJnmKW2",
+          "end": 138,
+          "expanded_url": "https://x.com/my_doro_s2/status/2035134834713178333/photo/1",
+          "media_key": "3_2035134832347615232",
+          "start": 115,
+          "url": "https://t.co/iJ5eJnmKW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035493925595869689",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035134834713178333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @my_doro_s2: Doro, too high!\n\nDoro’s housemate found her and got her down safely.\n\n#doro #aiart #ドロ #도로롱 #NIKKE https://t.co/iJ5eJnmKW2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035493925595869689].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035493925595869689",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035493925595869689"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_2035134832347615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5AWPAakAAuaPB.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035134832347615232"
+          ]
+        },
+        "author_id": "2019285153517105152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2035134834713178333",
+        "created_at": "2026-03-20T23:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T00:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035134834713178333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Doro",
+              "probability": 0.8203,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Doro",
+              "probability": 0.7815,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "doro",
+              "probability": 0.5578,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "doro"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "aiart"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "ドロ"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "도로롱"
+            },
+            {
+              "end": 98,
+              "start": 92,
+              "tag": "NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJ5eJnmKW2",
+              "end": 122,
+              "expanded_url": "https://x.com/my_doro_s2/status/2035134834713178333/photo/1",
+              "media_key": "3_2035134832347615232",
+              "start": 99,
+              "url": "https://t.co/iJ5eJnmKW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035134834713178333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1859,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "Doro, too high!\n\nDoro’s housemate found her and got her down safely.\n\n#doro #aiart #ドロ #도로롱 #NIKKE https://t.co/iJ5eJnmKW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 4745,
+          "like_count": 97792,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 14091
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T05:41:28.000Z",
+        "description": "Creating AI-assisted drawings of Doro.\n\n🩵🩵LOVE DORO🩵🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/my_doro_s2?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/my_doro_s2?igsh=MWllbGIyYXNpcm96bg==",
+                "start": 0,
+                "url": "https://t.co/JlQVibrnBv"
+              }
+            ]
+          }
+        },
+        "id": "2019285153517105152",
+        "location": "msga",
+        "name": "TisYu",
+        "pinned_tweet_id": "2030750149912457375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020345206261051397/vSIJ4SuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 80,
+          "like_count": 1252,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/JlQVibrnBv",
+        "username": "my_doro_s2",
+        "verified": false
+      }
+    ]
+  }
+}

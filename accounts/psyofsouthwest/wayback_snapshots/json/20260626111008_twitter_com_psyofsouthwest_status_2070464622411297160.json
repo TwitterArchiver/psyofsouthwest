@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "2070464622411297160",
+    "created_at": "2026-06-26T11:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070464622411297160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1517815891274121216",
+          "start": 3,
+          "username": "Heroiam_Slava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070464622411297160",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 961
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070197699266146746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heroiam_Slava: ZELENSKYY: The next 40 days will become hell for Russia."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2070464622411297160",
+        "created_at": "2026-06-26T11:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070464622411297160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1517815891274121216",
+              "start": 3,
+              "username": "Heroiam_Slava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070464622411297160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 961
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070197699266146746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heroiam_Slava: ZELENSKYY: The next 40 days will become hell for Russia."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517815891274121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2070197699266146746",
+        "created_at": "2026-06-25T17:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070197699266146746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070197699266146746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 298478,
+          "like_count": 11875,
+          "quote_count": 67,
+          "reply_count": 218,
+          "retweet_count": 961
+        },
+        "reply_settings": "everyone",
+        "text": "ZELENSKYY: The next 40 days will become hell for Russia."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 4763,
+          "like_count": 127207,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15532
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T10:41:48.000Z",
+        "description": "News • Drones • Military tech • Ukraine updates • Common sense • Humor • #SpacesHost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 73,
+                "tag": "SpacesHost"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "coff.ee/heroiamslava",
+                "end": 23,
+                "expanded_url": "http://coff.ee/heroiamslava",
+                "start": 0,
+                "url": "https://t.co/H5eYvhFgMz"
+              }
+            ]
+          }
+        },
+        "id": "1517815891274121216",
+        "name": "Slava 🇺🇦",
+        "pinned_tweet_id": "2070197699266146746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735767064449572864/s8CdJ5MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110036,
+          "following_count": 44,
+          "like_count": 14887,
+          "listed_count": 764,
+          "media_count": 15809,
+          "tweet_count": 30169
+        },
+        "url": "https://t.co/H5eYvhFgMz",
+        "username": "Heroiam_Slava",
+        "verified": true
+      }
+    ]
+  }
+}

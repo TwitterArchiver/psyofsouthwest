@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2076315880200220876",
+    "created_at": "2026-07-12T14:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076315880200220876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901633000259092481",
+          "start": 3,
+          "username": "goshenggo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076315880200220876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076252352441675886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goshenggo: 中国网络安全公司“任子行”（Surfilter）最近泄露了固件代码。这家公司主要为政府开发硬件防火墙。最新更新显示，他们的防火墙系统据称已经能够 识别（通过指纹特征检测）以下 VPN 软件。：\nAnyViewer\n黑豹VPN (Black Pant…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2076315880200220876",
+        "created_at": "2026-07-12T14:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076315880200220876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901633000259092481",
+              "start": 3,
+              "username": "goshenggo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076315880200220876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252352441675886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goshenggo: 中国网络安全公司“任子行”（Surfilter）最近泄露了固件代码。这家公司主要为政府开发硬件防火墙。最新更新显示，他们的防火墙系统据称已经能够 识别（通过指纹特征检测）以下 VPN 软件。：\nAnyViewer\n黑豹VPN (Black Pant…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901633000259092481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Black Panther",
+              "id": "873208160261099520",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Action and adventure",
+              "id": "856976360337661952",
+              "name": "Action & adventure films"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1572244246240776192",
+              "name": "Black Panther"
+            }
+          }
+        ],
+        "conversation_id": "2076252352441675886",
+        "created_at": "2026-07-12T10:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076252352441675886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/netaskari/stat…",
+              "end": 219,
+              "expanded_url": "https://twitter.com/netaskari/status/2075619552646316474",
+              "start": 196,
+              "url": "https://t.co/YEEHbvzNWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252352441675886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国网络安全公司“任子行”（Surfilter）最近泄露了固件代码。这家公司主要为政府开发硬件防火墙。最新更新显示，他们的防火墙系统据称已经能够 识别（通过指纹特征检测）以下 VPN 软件。：\nAnyViewer\n黑豹VPN (Black Panther VPN)\nClash\nDiamondVPN\n快连VPN (Fast Connect VPN)\n闪连VPN (Flash Connect VPN)\n绿茶VPN (Green Tea VPN)\nHide_ME\nHotspot Shield\nikuuuVPN\n蓝灯 (Lantern)\n芒果VPN (Mango VPN)\n迷雾通 (Mist Tunnel / geph)\nProtonVPN\nQClaw\n红海pro (Red Sea Pro)\n冲鸭加速器 (Rush Duck Accelerator)\nSetupVPN\n天喵VPN (Sky Cat VPN)\n天空树加速器 (Sky Tree Accelerator)\nSkyVPN\n速豹加速器 (Speed Leopard Accelerator)\nTouchVPN\nTunnelbear\nTurboVPN\nV2Ray (及 V2RayN)\nVPN Max\nWindscribe\nX_VPN\nZoogVPN\nWindscribe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 36436,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075619552646316474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国网络安全公司“任子行”（Surfilter）最近泄露了固件代码。这家公司主要为政府开发硬件防火墙。最新更新显示，他们的防火墙系统据称已经能够 识别（通过指纹特征检测）以下 VPN 软件。：\nAnyViewer\n黑豹VPN (Black Panther VPN)\nClash\nDiamondVPN\n快连VPN (Fast Connect VPN)\n闪连VPN (Flash Connect https://t.co/YEEHbvzNWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 4816,
+          "like_count": 131548,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 15572
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T13:54:34.000Z",
+        "description": "youtuber，职业冲塔海外UP主 🎄联系可直接私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/playlist?list=PL3bAfMXyZjrPwHs-h-kBEkABuB9xsySGa",
+                "start": 0,
+                "url": "https://t.co/r9Y89Avcfv"
+              }
+            ]
+          }
+        },
+        "id": "1901633000259092481",
+        "location": "United States",
+        "name": "Archer/张狗剩🎄",
+        "pinned_tweet_id": "2073018305305358536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025197417512202240/lLpU1_OO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38836,
+          "following_count": 176,
+          "like_count": 100,
+          "listed_count": 93,
+          "media_count": 142,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/r9Y89Avcfv",
+        "username": "goshenggo",
+        "verified": true
+      }
+    ]
+  }
+}

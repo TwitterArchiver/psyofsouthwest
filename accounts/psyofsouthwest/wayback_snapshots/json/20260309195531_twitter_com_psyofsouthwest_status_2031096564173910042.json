@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030997592080097280",
+        "3_2030997605233385474",
+        "3_2030997617573027841"
+      ],
+      "media_source_tweet_id": [
+        "2030997819012858287",
+        "2030997819012858287",
+        "2030997819012858287"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2031096564173910042",
+    "created_at": "2026-03-09T19:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T20:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031096564173910042"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.8196,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "Doroちゃん",
+          "probability": 0.8573,
+          "start": 64,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2028310341114036225",
+          "start": 3,
+          "username": "panicbluedoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dALYQHSz11",
+          "end": 107,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+          "media_key": "3_2030997592080097280",
+          "start": 84,
+          "url": "https://t.co/dALYQHSz11"
+        },
+        {
+          "display_url": "pic.x.com/dALYQHSz11",
+          "end": 107,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+          "media_key": "3_2030997605233385474",
+          "start": 84,
+          "url": "https://t.co/dALYQHSz11"
+        },
+        {
+          "display_url": "pic.x.com/dALYQHSz11",
+          "end": 107,
+          "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+          "media_key": "3_2030997617573027841",
+          "start": 84,
+          "url": "https://t.co/dALYQHSz11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031096564173910042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030997819012858287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @panicbluedoro: GIFでよく見るビックリするDoroちゃんを生成したかったけど\n思ったよりビックリしているDoroちゃんが出てきたw\n#doro https://t.co/dALYQHSz11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2030997592080097280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-NjJ-boAALlEv.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2030997605233385474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-Nj6-a4AIC2Ng.jpg",
+        "width": 1372
+      },
+      {
+        "height": 784,
+        "media_key": "3_2030997617573027841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-Nko8a4AEbXMh.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030997592080097280",
+            "3_2030997605233385474",
+            "3_2030997617573027841"
+          ],
+          "media_source_tweet_id": [
+            "2030997819012858287",
+            "2030997819012858287",
+            "2030997819012858287"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2031096564173910042",
+        "created_at": "2026-03-09T19:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031096564173910042"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8196,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8573,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2028310341114036225",
+              "start": 3,
+              "username": "panicbluedoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 107,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997592080097280",
+              "start": 84,
+              "url": "https://t.co/dALYQHSz11"
+            },
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 107,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997605233385474",
+              "start": 84,
+              "url": "https://t.co/dALYQHSz11"
+            },
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 107,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997617573027841",
+              "start": 84,
+              "url": "https://t.co/dALYQHSz11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031096564173910042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030997819012858287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @panicbluedoro: GIFでよく見るビックリするDoroちゃんを生成したかったけど\n思ったよりビックリしているDoroちゃんが出てきたw\n#doro https://t.co/dALYQHSz11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030997592080097280",
+            "3_2030997605233385474",
+            "3_2030997617573027841"
+          ]
+        },
+        "author_id": "2028310341114036225",
+        "conversation_id": "2030997819012858287",
+        "created_at": "2026-03-09T13:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030997819012858287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8189,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Doroちゃん",
+              "probability": 0.8593,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 88,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997592080097280",
+              "start": 65,
+              "url": "https://t.co/dALYQHSz11"
+            },
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 88,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997605233385474",
+              "start": 65,
+              "url": "https://t.co/dALYQHSz11"
+            },
+            {
+              "display_url": "pic.x.com/dALYQHSz11",
+              "end": 88,
+              "expanded_url": "https://x.com/panicbluedoro/status/2030997819012858287/photo/1",
+              "media_key": "3_2030997617573027841",
+              "start": 65,
+              "url": "https://t.co/dALYQHSz11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030997819012858287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 763,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "GIFでよく見るビックリするDoroちゃんを生成したかったけど\n思ったよりビックリしているDoroちゃんが出てきたw\n#doro https://t.co/dALYQHSz11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 4745,
+          "like_count": 91454,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 13795
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:24:21.000Z",
+        "description": "doroちゃんの可愛さに沼ってしまい別垢を作っちゃいましたｗ\nここではnanobananaで生成したイラストを上げる予定です。",
+        "id": "2028310341114036225",
+        "name": "パニックブルー（doroアカ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028311747443163136/7CiuXETy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 47,
+          "like_count": 527,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 81
+        },
+        "username": "panicbluedoro",
+        "verified": false
+      }
+    ]
+  }
+}
