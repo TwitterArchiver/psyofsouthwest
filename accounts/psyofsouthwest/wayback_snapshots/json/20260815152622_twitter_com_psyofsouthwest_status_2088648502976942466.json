@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088621644558569472"
+      ],
+      "media_source_tweet_id": [
+        "2088622639313191396"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088648502976942466",
+    "created_at": "2026-08-15T15:26:22.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088648502976942466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1558317849508122629",
+          "start": 3,
+          "username": "CuiMao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bH9mTnO0wg",
+          "end": 72,
+          "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+          "media_key": "13_2088621644558569472",
+          "start": 49,
+          "url": "https://t.co/bH9mTnO0wg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088648502976942466",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "description": "",
+        "media_key": "13_2088621644558569472",
+        "title": "紧急更新 《牛来》"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088622639313191396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuiMao: 大家好，紧急更新CuIMao版的《牛来》，由Seedance2.5制作。 https://t.co/bH9mTnO0wg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 215063,
+        "height": 941,
+        "media_key": "13_2088621644558569472",
+        "preview_image_url": "https://pbs.twimg.com/media/HPxGrM1aUAAZqrR.jpg",
+        "public_metrics": {
+          "view_count": 18566
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/1280x720/BD3tYwZ3-BEq6aBd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/640x360/1pkoudKo9YmOxUFi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/pl/knkH2nUSx6ngEs35.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/480x270/mYRrBzE0j5snwY4R.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088621644558569472/vid/avc1/1920x1080/uNgpriBlosWAbAKk.mp4"
+          }
+        ],
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088621644558569472"
+          ],
+          "media_source_tweet_id": [
+            "2088622639313191396"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088648502976942466",
+        "created_at": "2026-08-15T15:26:22.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088648502976942466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1558317849508122629",
+              "start": 3,
+              "username": "CuiMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bH9mTnO0wg",
+              "end": 72,
+              "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+              "media_key": "13_2088621644558569472",
+              "start": 49,
+              "url": "https://t.co/bH9mTnO0wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088648502976942466",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088621644558569472",
+            "title": "紧急更新 《牛来》"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088622639313191396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuiMao: 大家好，紧急更新CuIMao版的《牛来》，由Seedance2.5制作。 https://t.co/bH9mTnO0wg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088621644558569472"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088622639313191396",
+        "created_at": "2026-08-15T13:43:36.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088622639313191396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bH9mTnO0wg",
+              "end": 60,
+              "expanded_url": "https://x.com/CuiMao/status/2088622639313191396/video/1",
+              "media_key": "13_2088621644558569472",
+              "start": 37,
+              "url": "https://t.co/bH9mTnO0wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088622639313191396",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088621644558569472",
+            "title": "紧急更新 《牛来》"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 36604,
+          "like_count": 494,
+          "quote_count": 18,
+          "reply_count": 105,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，紧急更新CuIMao版的《牛来》，由Seedance2.5制作。 https://t.co/bH9mTnO0wg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088648502976942466",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4861,
+          "like_count": 139585,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15607
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer ｜ Qwen｜ \nGithub: https://t.co/CRpiUABbzd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Cuimao777",
+                "end": 53,
+                "expanded_url": "https://github.com/Cuimao777",
+                "start": 30,
+                "url": "https://t.co/CRpiUABbzd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/36323081773414…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3632308177341412?spm_id_from=333.337.search-card.all.click",
+                "start": 0,
+                "url": "https://t.co/XXugfMuVQK"
+              }
+            ]
+          }
+        },
+        "id": "1558317849508122629",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2088636175124947406",
+        "name": "CuiMao",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558317849508122629/1782532389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061048714337345536/9ZcoPvbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70144,
+          "following_count": 1529,
+          "like_count": 13750,
+          "listed_count": 401,
+          "media_count": 1873,
+          "tweet_count": 18085
+        },
+        "url": "https://t.co/XXugfMuVQK",
+        "username": "CuiMao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

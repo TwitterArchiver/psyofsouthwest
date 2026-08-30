@@ -1,0 +1,662 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2088812410341634232",
+    "created_at": "2026-08-16T02:17:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088812410341634232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "218434058",
+          "start": 3,
+          "username": "takaichi_sanae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088812410341634232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088799810518442031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takaichi_sanae: 近年、サイバー空間を巡る脅威は一層深刻化しており、サイバー攻撃に関するニュースが、頻繁に報じられています。\n皆様の身近にも、被害にあわれた方がいらっしゃるかもしれません。\nサイバー攻撃は決して他人事ではなく、誰もが被害者となる可能性があり…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2088812410341634232",
+        "created_at": "2026-08-16T02:17:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088812410341634232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "218434058",
+              "start": 3,
+              "username": "takaichi_sanae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088812410341634232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088799810518442031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takaichi_sanae: 近年、サイバー空間を巡る脅威は一層深刻化しており、サイバー攻撃に関するニュースが、頻繁に報じられています。\n皆様の身近にも、被害にあわれた方がいらっしゃるかもしれません。\nサイバー攻撃は決して他人事ではなく、誰もが被害者となる可能性があり…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2088799810518442031",
+        "created_at": "2026-08-16T01:27:37.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088799810518442031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088799810518442031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "security-portal.cyber.go.jp/guidance/cyber…",
+                "end": 791,
+                "expanded_url": "https://security-portal.cyber.go.jp/guidance/cybersecurity9principles.html",
+                "start": 768,
+                "url": "https://t.co/nMtEj4PoBC"
+              },
+              {
+                "display_url": "security-portal.cyber.go.jp/guidance/handb…",
+                "end": 872,
+                "expanded_url": "https://security-portal.cyber.go.jp/guidance/handbook.html",
+                "start": 849,
+                "url": "https://t.co/0tmqvLfvZS"
+              }
+            ]
+          },
+          "text": "近年、サイバー空間を巡る脅威は一層深刻化しており、サイバー攻撃に関するニュースが、頻繁に報じられています。\n皆様の身近にも、被害にあわれた方がいらっしゃるかもしれません。\nサイバー攻撃は決して他人事ではなく、誰もが被害者となる可能性があります。\n\nまた、被害者になるだけでなく、不正アクセスされた皆様ご自身のアカウントや機器、情報が悪用され、皆様ご自身が、サイバー犯罪の関係者になってしまう可能性もあります。\n\n長期休暇の時期は、企業内でシステム管理者が不在となるなど、サイバー攻撃への備えが不十分な状況が生じることも懸念されます。\n\n社会全体の安全・安心の向上のためにも、皆様お一人お一人がセキュリティ意識を高く持ち、ご協力いただくことが不可欠です。\n\nサイバー攻撃による被害を防ぐため、まず取り組んでいただきたいことをご紹介します。\n\n① 不正ログイン対策\nパスワードは推測されにくいものにして、使い回しを避けてください。また、パスワードだけに頼らず、指紋認証、顔認証といった、多要素認証を活用してください。\n\n② フィッシング対策\n不審なメールやSMSのリンク、添付ファイルは決して開かないでください。\n\n③サポート詐欺対策\n突然の警告表示には慌てないでください。警告に表示された連絡先への電話やソフトのインストールが本当に必要なのか冷静に確認してください。\n\n④脆弱性対策\n利用しているOS、アプリ、機器などを常に最新の状態に保つため、必要なアップデートを行ってください。\n\nまた、組織内の緊急連絡体制を確認した上で、長期休暇明けには、休暇中に持ち出していた機器等のウイルスチェックを行うようにしましょう。\n\n国家サイバー統括室のウェブサイトでは、皆様に実践していただきたい基本的な対策をまとめた「サイバーセキュリティ9か条」(https://t.co/nMtEj4PoBC)、安全・安心にインターネットを利活用してもらうためのポイントを紹介する「インターネットの安全・安心ハンドブック」(https://t.co/0tmqvLfvZS)などを公表しています。\nぜひご活用いただき、対策にお役立てください。\n\n国民の皆様お一人お一人の対策が、個人のサイバー被害を防ぐだけでなく、社会全体の安全にもつながります。\n\nお盆休みの期間、ご親戚やご友人とお会いする機会などに、スマホやPCなど身の回りのセキュリティ対策について、話題にして、確認をしていただければ幸いです。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 94057,
+          "like_count": 3741,
+          "quote_count": 48,
+          "reply_count": 165,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "近年、サイバー空間を巡る脅威は一層深刻化しており、サイバー攻撃に関するニュースが、頻繁に報じられています。\n皆様の身近にも、被害にあわれた方がいらっしゃるかもしれません。\nサイバー攻撃は決して他人事ではなく、誰もが被害者となる可能性があります。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088812410341634232",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4874,
+          "like_count": 139874,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15617
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088799810518442031",
+        "name": "高市早苗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218434058/1778462883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965429,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6545,
+          "media_count": 508,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

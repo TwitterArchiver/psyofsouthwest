@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      }
+    ],
+    "conversation_id": "2089492392973939067",
+    "created_at": "2026-08-17T23:19:42.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T00:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089492392973939067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VietLook8rq/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/VietLook8rq/status/2088851426428735699",
+          "start": 13,
+          "url": "https://t.co/damhkB8IsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089492392973939067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088851426428735699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈了个巴子的，我在吃早餐 https://t.co/damhkB8IsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2088851419663380480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0XTImbMAANOW0.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2089492392973939067",
+        "created_at": "2026-08-17T23:19:42.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089492392973939067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VietLook8rq/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/VietLook8rq/status/2088851426428735699",
+              "start": 13,
+              "url": "https://t.co/damhkB8IsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089492392973939067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088851426428735699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈了个巴子的，我在吃早餐 https://t.co/damhkB8IsA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088851419663380480"
+          ]
+        },
+        "author_id": "1948547514975879170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2088851426428735699",
+        "created_at": "2026-08-16T04:52:43.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088851426428735699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vUVQifAUC",
+              "end": 36,
+              "expanded_url": "https://x.com/VietLook8rq/status/2088851426428735699/photo/1",
+              "media_key": "3_2088851419663380480",
+              "start": 13,
+              "url": "https://t.co/4vUVQifAUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088851426428735699",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088851419663380480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1552,
+          "impression_count": 3709990,
+          "like_count": 8469,
+          "quote_count": 82,
+          "reply_count": 547,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "中国娱乐圈综艺露阴第一人 https://t.co/4vUVQifAUC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2089492392973939067",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 4875,
+          "like_count": 140507,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15623
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T00:55:17.000Z",
+        "description": "互联网流浪者 & VietLook\n河内慢生活｜分享有趣的人和事 |  定投思考\nAI + Crypto + 家庭小确幸\n有时刷X，有时陪家人治愈\n互动多的都回关🤝\nSometimes here, sometimes with family 🌴",
+        "id": "1948547514975879170",
+        "is_identity_verified": false,
+        "location": "Vietnam",
+        "most_recent_tweet_id": "2089417407974822010",
+        "name": "长风",
+        "pinned_tweet_id": "2072547918998094122",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948547514975879170/1781058213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064535245375078400/3TLZQsdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 2021,
+          "like_count": 20095,
+          "listed_count": 8,
+          "media_count": 914,
+          "tweet_count": 14750
+        },
+        "url": "",
+        "username": "VietLook8rq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

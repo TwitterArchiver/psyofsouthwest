@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2085225226120392878",
+    "created_at": "2026-08-06T04:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085225226120392878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bui_tu46916/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bui_tu46916/status/2085100613394989059",
+          "start": 12,
+          "url": "https://t.co/aZFQZLvV4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085225226120392878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085100613394989059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最值得注意的是不要od https://t.co/aZFQZLvV4E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2085225226120392878",
+        "created_at": "2026-08-06T04:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085225226120392878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2085100613394989059",
+              "start": 12,
+              "url": "https://t.co/aZFQZLvV4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085225226120392878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085100613394989059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最值得注意的是不要od https://t.co/aZFQZLvV4E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2085100613394989059",
+        "created_at": "2026-08-05T20:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085100613394989059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085100613394989059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是新入坑OD的人请问有什么要注意的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 4833,
+          "like_count": 137628,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 15590
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 315,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2087324516351439128",
+    "created_at": "2026-08-11T23:45:19.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087324516351439128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buhuo886/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/buhuo886/status/2087190573627363838",
+          "start": 9,
+          "url": "https://t.co/P2d8bBY18E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087324516351439128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087190573627363838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人中黄可以多吃点 https://t.co/P2d8bBY18E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2087324516351439128",
+        "created_at": "2026-08-11T23:45:19.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087324516351439128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buhuo886/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/buhuo886/status/2087190573627363838",
+              "start": 9,
+              "url": "https://t.co/P2d8bBY18E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087324516351439128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087190573627363838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人中黄可以多吃点 https://t.co/P2d8bBY18E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841466162164580352",
+        "conversation_id": "2087162119355838499",
+        "created_at": "2026-08-11T14:53:05.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087190573627363838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087190573627363838",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087162119355838499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 为了迎合别人的目光，阉割自家的传统。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2087324516351439128",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 4829,
+          "like_count": 138220,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 15598
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-14T01:49:01.000Z",
+        "description": "",
+        "id": "841466162164580352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087190870810644870",
+        "name": "buhuo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/841466162164580352/1712044778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069745501172387840/kCtYQM5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 22,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "buhuo886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

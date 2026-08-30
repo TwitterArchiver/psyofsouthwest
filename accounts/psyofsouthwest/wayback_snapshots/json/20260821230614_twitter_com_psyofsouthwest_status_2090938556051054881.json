@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2090938556051054881",
+    "created_at": "2026-08-21T23:06:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090938556051054881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679053868930580480",
+          "start": 3,
+          "username": "mnmn94253156337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090938556051054881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089160215589699608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnmn94253156337: AI 短剧最难的，可能真不是生成视频。\n\n一本小说里几十个人物，谁是主角、别名怎么统一；爽点应该落在哪一集；同一个房间生成二十次，怎么保证每次都长一样——这些前期脏活更折磨人。\n\n最近 GitHub 有套 AI 短剧 Skills，上线…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72192,
+        "height": 1080,
+        "media_key": "13_2089159850844663808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089159850844663808/img/6pCuP6XazrdOvOng.jpg",
+        "public_metrics": {
+          "view_count": 10846
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089159850844663808/vid/avc1/640x360/JLuZn9ot7hzbu17x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089159850844663808/vid/avc1/1280x720/Y5kkjGO4N9W2PLdU.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089159850844663808/vid/avc1/480x270/1wy81woP-0IlKwRy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089159850844663808/pl/FFcdHqcOVwf4vQe5.m3u8?v=0c7"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089159850844663808/vid/avc1/1920x1080/INGu91KUIkD2JjbQ.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2090938556051054881",
+        "created_at": "2026-08-21T23:06:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090938556051054881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1679053868930580480",
+              "start": 3,
+              "username": "mnmn94253156337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090938556051054881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089160215589699608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnmn94253156337: AI 短剧最难的，可能真不是生成视频。\n\n一本小说里几十个人物，谁是主角、别名怎么统一；爽点应该落在哪一集；同一个房间生成二十次，怎么保证每次都长一样——这些前期脏活更折磨人。\n\n最近 GitHub 有套 AI 短剧 Skills，上线…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089159850844663808"
+          ]
+        },
+        "author_id": "1679053868930580480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2089160215589699608",
+        "created_at": "2026-08-17T01:19:44.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T02:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089160215589699608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiqUstnnh2",
+              "end": 172,
+              "expanded_url": "https://x.com/mnmn94253156337/status/2089160215589699608/video/1",
+              "media_key": "13_2089159850844663808",
+              "start": 149,
+              "url": "https://t.co/NiqUstnnh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089160215589699608",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089159850844663808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/eternityspring…",
+                "end": 407,
+                "expanded_url": "https://github.com/eternityspring/shuohao-skills",
+                "start": 384,
+                "url": "https://t.co/Mb2kox1Kwc"
+              }
+            ]
+          },
+          "text": "AI 短剧最难的，可能真不是生成视频。\n\n一本小说里几十个人物，谁是主角、别名怎么统一；爽点应该落在哪一集；同一个房间生成二十次，怎么保证每次都长一样——这些前期脏活更折磨人。\n\n最近 GitHub 有套 AI 短剧 Skills，上线不到一周冲破 1000 星，把这套流程拆成了三个环节：\n\n• novel-characters：扫描人物、合并别名，生成人设、服装、声音和三视图\n• novel-outline：改成分集大纲，安排爽点，并用 13 道规则检查节奏\n• novel-art：固定场景与关键道具，减少连续镜头里的画面漂移\n\n三个 Skill 连起来，就是：\n\n小说 → 角色设定 → 短剧大纲 → 场景与道具资产\n\n它还不能直接替你拍完一部短剧，完整对白、分镜、配音和剪辑仍要自己做。\n\n但开机前最容易失控的角色、节奏和资产，它先替你锁住了。\n\n仓库：\nhttps://t.co/Mb2kox1Kwc"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 22434,
+          "like_count": 293,
+          "quote_count": 3,
+          "reply_count": 89,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "AI 短剧最难的，可能真不是生成视频。\n\n一本小说里几十个人物，谁是主角、别名怎么统一；爽点应该落在哪一集；同一个房间生成二十次，怎么保证每次都长一样——这些前期脏活更折磨人。\n\n最近 GitHub 有套 AI 短剧 Skills，上线不到一周冲破 1000 星，把这套流程拆成了三个环节：\n\n• https://t.co/NiqUstnnh2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2090938556051054881",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 4873,
+          "like_count": 141774,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15632
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-12T09:03:43.000Z",
+        "description": "用 AI 看世界｜关注 AI、美股、预测市场｜实用教程工具分享｜拿到过OKX黑客松第二期冠军｜BitgetWallet黑客松第三名｜蓝鸟会｜全真会员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iMvwxx8DSz5iM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iMvwxx8DSz5iM2M1",
+                "start": 0,
+                "url": "https://t.co/X4zVbWbvYt"
+              }
+            ]
+          }
+        },
+        "id": "1679053868930580480",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090823879937921164",
+        "name": "撸毛吃猪脚饭| 美股合约首选Gate",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679053868930580480/1775872680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042784201985134593/YKTwnAuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13341,
+          "following_count": 3894,
+          "like_count": 65059,
+          "listed_count": 76,
+          "media_count": 521,
+          "tweet_count": 64947
+        },
+        "url": "https://t.co/X4zVbWbvYt",
+        "username": "mnmn94253156337",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

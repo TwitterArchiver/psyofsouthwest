@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087972250205192193"
+      ],
+      "media_source_tweet_id": [
+        "2087972258547675368"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2088129279083057407",
+    "created_at": "2026-08-14T05:03:10.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088129279083057407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939338058199191553",
+          "start": 3,
+          "username": "konakonalo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EOhwMh6d84",
+          "end": 71,
+          "expanded_url": "https://x.com/konakonalo/status/2087972258547675368/photo/1",
+          "media_key": "3_2087972250205192193",
+          "start": 48,
+          "url": "https://t.co/EOhwMh6d84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088129279083057407",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087972250205192193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087972258547675368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @konakonalo: 看到的关心的帮我转一下。我受不了看到推特上这些人继续人云亦云。 https://t.co/EOhwMh6d84"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_2087972250205192193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn3svJagAEETzL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087972250205192193"
+          ]
+        },
+        "author_id": "1939338058199191553",
+        "conversation_id": "2087972258547675368",
+        "created_at": "2026-08-13T18:39:13.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087972258547675368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOhwMh6d84",
+              "end": 55,
+              "expanded_url": "https://x.com/konakonalo/status/2087972258547675368/photo/1",
+              "media_key": "3_2087972250205192193",
+              "start": 32,
+              "url": "https://t.co/EOhwMh6d84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087972258547675368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087972250205192193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 14026,
+          "like_count": 133,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 39
+        },
+        "reply_settings": "following",
+        "text": "看到的关心的帮我转一下。我受不了看到推特上这些人继续人云亦云。 https://t.co/EOhwMh6d84"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087972250205192193"
+          ],
+          "media_source_tweet_id": [
+            "2087972258547675368"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2088129279083057407",
+        "created_at": "2026-08-14T05:03:10.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088129279083057407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939338058199191553",
+              "start": 3,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOhwMh6d84",
+              "end": 71,
+              "expanded_url": "https://x.com/konakonalo/status/2087972258547675368/photo/1",
+              "media_key": "3_2087972250205192193",
+              "start": 48,
+              "url": "https://t.co/EOhwMh6d84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088129279083057407",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087972250205192193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087972258547675368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @konakonalo: 看到的关心的帮我转一下。我受不了看到推特上这些人继续人云亦云。 https://t.co/EOhwMh6d84"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088129279083057407",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 4838,
+          "like_count": 138741,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 15603
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@maipianaini0930\n可以叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2088110945616994621",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 347,
+          "like_count": 10226,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

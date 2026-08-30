@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088433428568195072"
+      ],
+      "media_source_tweet_id": [
+        "2088433495131725995"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088713188397523435",
+    "created_at": "2026-08-15T19:43:25.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088713188397523435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800880928417525760",
+          "start": 3,
+          "username": "Snow_flake43"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ThwkoD8lE",
+          "end": 56,
+          "expanded_url": "https://x.com/Snow_flake43/status/2088433495131725995/video/1",
+          "media_key": "13_2088433428568195072",
+          "start": 33,
+          "url": "https://t.co/3ThwkoD8lE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088713188397523435",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2088433428568195072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088433495131725995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_flake43: ドロ・オランジー・スロー！！ https://t.co/3ThwkoD8lE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10217,
+        "height": 1080,
+        "media_key": "13_2088433428568195072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088433428568195072/img/x1ZTkMKPlI0jyjIP.jpg",
+        "public_metrics": {
+          "view_count": 4540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088433428568195072/vid/avc1/640x360/-bVXdARM8_5OV-iq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088433428568195072/vid/avc1/1280x720/eJqk_MBwRtc1fpZy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088433428568195072/vid/avc1/480x270/7iNVWm7cCsiRfP0A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088433428568195072/pl/i-8jg582ROxNKxhK.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088433428568195072/vid/avc1/1920x1080/mgwdB71yqxmZlrl2.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088433428568195072"
+          ],
+          "media_source_tweet_id": [
+            "2088433495131725995"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088713188397523435",
+        "created_at": "2026-08-15T19:43:25.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088713188397523435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800880928417525760",
+              "start": 3,
+              "username": "Snow_flake43"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ThwkoD8lE",
+              "end": 56,
+              "expanded_url": "https://x.com/Snow_flake43/status/2088433495131725995/video/1",
+              "media_key": "13_2088433428568195072",
+              "start": 33,
+              "url": "https://t.co/3ThwkoD8lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088713188397523435",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088433428568195072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088433495131725995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_flake43: ドロ・オランジー・スロー！！ https://t.co/3ThwkoD8lE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088433428568195072"
+          ]
+        },
+        "author_id": "1800880928417525760",
+        "conversation_id": "2088433495131725995",
+        "created_at": "2026-08-15T01:12:01.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088433495131725995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ThwkoD8lE",
+              "end": 38,
+              "expanded_url": "https://x.com/Snow_flake43/status/2088433495131725995/video/1",
+              "media_key": "13_2088433428568195072",
+              "start": 15,
+              "url": "https://t.co/3ThwkoD8lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088433495131725995",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088433428568195072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9810,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "ドロ・オランジー・スロー！！ https://t.co/3ThwkoD8lE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088713188397523435",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4864,
+          "like_count": 139738,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15610
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T13:21:17.000Z",
+        "description": "",
+        "id": "1800880928417525760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088684344164651151",
+        "name": "雪の結晶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800880928417525760/1786409614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086979299555647488/71qE8qw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9706,
+          "following_count": 2082,
+          "like_count": 3729,
+          "listed_count": 30,
+          "media_count": 1912,
+          "tweet_count": 6130
+        },
+        "url": "",
+        "username": "Snow_flake43",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

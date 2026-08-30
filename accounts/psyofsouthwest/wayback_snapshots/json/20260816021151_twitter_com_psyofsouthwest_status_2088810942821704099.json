@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "385760660",
+    "conversation_id": "2088810942821704099",
+    "created_at": "2026-08-16T02:11:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088810942821704099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165754788681793542",
+          "start": 3,
+          "username": "XpressTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088810942821704099",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088665723933544535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XpressTR: Polis tarafından durdurulan adamın iki köpeği de sahibini taklit ederek patilerini duvara koydu. Polisler, köpeklerin bu hare…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 720,
+        "media_key": "13_2088665689766735872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088665689766735872/img/bpu1cDoMa16BBB_a.jpg",
+        "public_metrics": {
+          "view_count": 287955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088665689766735872/vid/avc1/278x270/lXKCh2KWn3CsE4-D.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088665689766735872/vid/avc1/372x360/-Eb1mSSNjdQlzR7V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088665689766735872/vid/avc1/744x720/BqWh1FKaF_QLNWDU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088665689766735872/pl/KXlAqL45oyu7PIPD.m3u8"
+          }
+        ],
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2088810942821704099",
+        "created_at": "2026-08-16T02:11:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088810942821704099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165754788681793542",
+              "start": 3,
+              "username": "XpressTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088810942821704099",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088665723933544535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XpressTR: Polis tarafından durdurulan adamın iki köpeği de sahibini taklit ederek patilerini duvara koydu. Polisler, köpeklerin bu hare…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088665689766735872"
+          ]
+        },
+        "author_id": "1165754788681793542",
+        "conversation_id": "2088665723933544535",
+        "created_at": "2026-08-15T16:34:48.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088665723933544535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3O36F12e8B",
+              "end": 188,
+              "expanded_url": "https://x.com/XpressTR/status/2088665723933544535/video/1",
+              "media_key": "13_2088665689766735872",
+              "start": 165,
+              "url": "https://t.co/3O36F12e8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088665723933544535",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2088665689766735872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1052,
+          "impression_count": 515631,
+          "like_count": 14120,
+          "quote_count": 26,
+          "reply_count": 53,
+          "retweet_count": 1240
+        },
+        "reply_settings": "everyone",
+        "text": "Polis tarafından durdurulan adamın iki köpeği de sahibini taklit ederek patilerini duvara koydu. Polisler, köpeklerin bu hareketi karşısında kahkahalarını tutamadı. https://t.co/3O36F12e8B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088810942821704099",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4874,
+          "like_count": 139864,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15616
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-25T22:36:25.000Z",
+        "description": "Hızlı. Net. Viral.\n\nTürkiye'nin yeni nesil haber & içerik platformu. Bildirimleri Açınız 🔔 İşbirliği ve İhbar için DM 📩",
+        "id": "1165754788681793542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088767111229227456",
+        "name": "XpressTR",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165754788681793542/1773179931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031489978887192576/LbjFNJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610253,
+          "following_count": 9,
+          "like_count": 98425,
+          "listed_count": 730,
+          "media_count": 15842,
+          "tweet_count": 17695
+        },
+        "url": "",
+        "username": "XpressTR",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

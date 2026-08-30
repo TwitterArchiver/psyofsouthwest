@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088786058763001856"
+      ],
+      "media_source_tweet_id": [
+        "2088786088223801636"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088808063641833662",
+    "created_at": "2026-08-16T02:00:25.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088808063641833662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986679159561854982",
+          "start": 3,
+          "username": "Do_Road_Corp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJNNlkCQqD",
+          "end": 47,
+          "expanded_url": "https://x.com/Do_Road_Corp/status/2088786088223801636/video/1",
+          "media_key": "13_2088786058763001856",
+          "start": 24,
+          "url": "https://t.co/zJNNlkCQqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088808063641833662",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2088786058763001856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088786088223801636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Do_Road_Corp: #doro https://t.co/zJNNlkCQqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9135,
+        "height": 720,
+        "media_key": "13_2088786058763001856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088786058763001856/img/3cU8qmPwQOlggVIF.jpg",
+        "public_metrics": {
+          "view_count": 1507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088786058763001856/vid/avc1/480x270/9CjIvBJ9_MLR8rv9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088786058763001856/vid/avc1/640x360/_rV58KL7r6QFMHD1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088786058763001856/vid/avc1/1280x720/jJHadsXmcVnamO8r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088786058763001856/pl/vMRDMejYuCRG-kZR.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088786058763001856"
+          ],
+          "media_source_tweet_id": [
+            "2088786088223801636"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088808063641833662",
+        "created_at": "2026-08-16T02:00:25.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088808063641833662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986679159561854982",
+              "start": 3,
+              "username": "Do_Road_Corp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJNNlkCQqD",
+              "end": 47,
+              "expanded_url": "https://x.com/Do_Road_Corp/status/2088786088223801636/video/1",
+              "media_key": "13_2088786058763001856",
+              "start": 24,
+              "url": "https://t.co/zJNNlkCQqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088808063641833662",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2088786058763001856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088786088223801636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Do_Road_Corp: #doro https://t.co/zJNNlkCQqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088786058763001856"
+          ]
+        },
+        "author_id": "1986679159561854982",
+        "conversation_id": "2088786088223801636",
+        "created_at": "2026-08-16T00:33:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T01:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088786088223801636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJNNlkCQqD",
+              "end": 29,
+              "expanded_url": "https://x.com/Do_Road_Corp/status/2088786088223801636/video/1",
+              "media_key": "13_2088786058763001856",
+              "start": 6,
+              "url": "https://t.co/zJNNlkCQqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088786088223801636",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2088786058763001856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 3989,
+          "like_count": 390,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "#doro https://t.co/zJNNlkCQqD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2088808063641833662",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 4871,
+          "like_count": 139820,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 15614
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T06:17:10.000Z",
+        "description": "Working doro is uploaded",
+        "id": "1986679159561854982",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088788365114282281",
+        "name": "도로교통공사",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986679159561854982/1762496708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986681217677422592/7j3mz2lA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 10,
+          "like_count": 359,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Do_Road_Corp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
