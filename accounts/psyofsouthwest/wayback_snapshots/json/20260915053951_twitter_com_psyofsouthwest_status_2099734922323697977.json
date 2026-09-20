@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099608856401686528"
+      ],
+      "media_source_tweet_id": [
+        "2099609180621467877"
+      ]
+    },
+    "author_id": "385760660",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099734922323697977",
+    "created_at": "2026-09-15T05:39:51.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099734922323697977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "969933528",
+          "start": 3,
+          "username": "Le_Crapaud47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8RcPV89KY1",
+          "end": 68,
+          "expanded_url": "https://x.com/Le_Crapaud47/status/2099609180621467877/video/1",
+          "media_key": "13_2099608856401686528",
+          "start": 45,
+          "url": "https://t.co/8RcPV89KY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099734922323697977",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "13_2099608856401686528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099609180621467877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Le_Crapaud47: Friends: Communist Edition https://t.co/8RcPV89KY1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 133817,
+        "height": 1080,
+        "media_key": "13_2099608856401686528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099608856401686528/img/Pwiil32758wdf6Up.jpg",
+        "public_metrics": {
+          "view_count": 405576
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099608856401686528/vid/avc1/362x270/gsv3lrBWaCcj8eKw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099608856401686528/vid/avc1/482x360/okkoStSzbkom_Kgb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099608856401686528/pl/TofPHTE4R7jmD_Oj.m3u8?v=37b"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099608856401686528/vid/avc1/966x720/lYKk8RUnl68jlyQv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099608856401686528/vid/avc1/1450x1080/3kZJBjXXR32tvoSR.mp4"
+          }
+        ],
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099608856401686528"
+          ],
+          "media_source_tweet_id": [
+            "2099609180621467877"
+          ]
+        },
+        "author_id": "385760660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099734922323697977",
+        "created_at": "2026-09-15T05:39:51.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099734922323697977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "969933528",
+              "start": 3,
+              "username": "Le_Crapaud47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RcPV89KY1",
+              "end": 68,
+              "expanded_url": "https://x.com/Le_Crapaud47/status/2099609180621467877/video/1",
+              "media_key": "13_2099608856401686528",
+              "start": 45,
+              "url": "https://t.co/8RcPV89KY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099734922323697977",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2099608856401686528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099609180621467877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Le_Crapaud47: Friends: Communist Edition https://t.co/8RcPV89KY1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099608856401686528"
+          ]
+        },
+        "author_id": "969933528",
+        "conversation_id": "2099609180621467877",
+        "created_at": "2026-09-14T21:20:12.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099609180621467877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RcPV89KY1",
+              "end": 50,
+              "expanded_url": "https://x.com/Le_Crapaud47/status/2099609180621467877/video/1",
+              "media_key": "13_2099608856401686528",
+              "start": 27,
+              "url": "https://t.co/8RcPV89KY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099609180621467877",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2099608856401686528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5225,
+          "impression_count": 672928,
+          "like_count": 15309,
+          "quote_count": 417,
+          "reply_count": 428,
+          "retweet_count": 3428
+        },
+        "reply_settings": "everyone",
+        "text": "Friends: Communist Edition https://t.co/8RcPV89KY1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2099734922327916785",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 4998,
+          "like_count": 149915,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 15704
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-11-25T12:20:55.000Z",
+        "description": "🐸 Créateur satirique autodidacte",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.com/ncp/payment/KS…",
+                "end": 23,
+                "expanded_url": "https://www.paypal.com/ncp/payment/KSK5VA79DVL2S",
+                "start": 0,
+                "url": "https://t.co/9kz5qplXJY"
+              }
+            ]
+          }
+        },
+        "id": "969933528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099719798632354242",
+        "name": "Le Crapaud",
+        "pinned_tweet_id": "2098423280914821543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969933528/1776798526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993827436807565312/kukfoge__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158542,
+          "following_count": 10465,
+          "like_count": 161482,
+          "listed_count": 258,
+          "media_count": 8115,
+          "tweet_count": 52627
+        },
+        "url": "https://t.co/9kz5qplXJY",
+        "username": "Le_Crapaud47",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

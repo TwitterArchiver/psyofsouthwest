@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100382718685331456"
+      ],
+      "media_source_tweet_id": [
+        "2100382739543503246"
+      ]
+    },
+    "author_id": "385760660",
+    "conversation_id": "2100792377325547883",
+    "created_at": "2026-09-18T03:41:48.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100792377325547883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1744267618947899393",
+          "start": 3,
+          "username": "MentorWong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmvffKjPtC",
+          "end": 57,
+          "expanded_url": "https://x.com/MentorWong/status/2100382739543503246/photo/1",
+          "media_key": "3_2100382718685331456",
+          "start": 34,
+          "url": "https://t.co/mmvffKjPtC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100792377325547883",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100382718685331456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100382739543503246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MentorWong: 劝别人不要建政，本身不就是在建政？ https://t.co/mmvffKjPtC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2100382718685331456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYO9E-bwAAAjad.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100382718685331456"
+          ],
+          "media_source_tweet_id": [
+            "2100382739543503246"
+          ]
+        },
+        "author_id": "385760660",
+        "conversation_id": "2100792377325547883",
+        "created_at": "2026-09-18T03:41:48.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100792377325547883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1744267618947899393",
+              "start": 3,
+              "username": "MentorWong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmvffKjPtC",
+              "end": 57,
+              "expanded_url": "https://x.com/MentorWong/status/2100382739543503246/photo/1",
+              "media_key": "3_2100382718685331456",
+              "start": 34,
+              "url": "https://t.co/mmvffKjPtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100792377325547883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100382718685331456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100382739543503246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MentorWong: 劝别人不要建政，本身不就是在建政？ https://t.co/mmvffKjPtC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100382718685331456"
+          ]
+        },
+        "author_id": "1744267618947899393",
+        "conversation_id": "2100382739543503246",
+        "created_at": "2026-09-17T00:34:02.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100382739543503246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmvffKjPtC",
+              "end": 41,
+              "expanded_url": "https://x.com/MentorWong/status/2100382739543503246/photo/1",
+              "media_key": "3_2100382718685331456",
+              "start": 18,
+              "url": "https://t.co/mmvffKjPtC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100382739543503246",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100382718685331456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 28878,
+          "like_count": 500,
+          "quote_count": 2,
+          "reply_count": 109,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "劝别人不要建政，本身不就是在建政？ https://t.co/mmvffKjPtC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "自杀可以是终极的回避，\n也可以是看清自己的试炼。\nDoro轰炸机。喜欢心理。",
+        "id": "385760660",
+        "is_identity_verified": false,
+        "location": "赫歇城中区圣武巷33号",
+        "most_recent_tweet_id": "2100792377325547883",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385760660/1685929728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567576704352256/8C1vgjZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 5030,
+          "like_count": 151410,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 15730
+        },
+        "url": "",
+        "username": "psyofsouthwest",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Reddit : u/MentorWong Thread: @mentorwong\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "mentorwong"
+              }
+            ]
+          }
+        },
+        "id": "1744267618947899393",
+        "is_identity_verified": false,
+        "location": "San Francisco, California",
+        "most_recent_tweet_id": "2100752687386243355",
+        "name": "SifuWong",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11132,
+          "following_count": 9952,
+          "like_count": 22171,
+          "listed_count": 30,
+          "media_count": 381,
+          "tweet_count": 56545
+        },
+        "url": "",
+        "username": "MentorWong",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
